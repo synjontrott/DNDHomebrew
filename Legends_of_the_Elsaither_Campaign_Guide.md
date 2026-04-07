@@ -175,7 +175,7 @@ At 18th level, your **Charisma** and **Constitution** scores increase by **2**. 
 At 20th level, as a Bonus Action, you manifest a **Divine Elemental Weapon** for 1 minute (Once per Long Rest).
 *   It counts as a Simple Melee Weapon (Charisma to hit/damage).
 *   **Damage:** 4d10 + CHA elemental damage.
-*   **Properties:** Ignores Resistance/Immunity. You can make **two attacks** with it per action. While active, you have Resistance to all damage.
+*   **Properties:** Ignores Resistance/Immunity. You can make **two attacks** with it per Action. While active, you have Resistance to all damage.
 
 ---
 
@@ -183,7 +183,7 @@ At 20th level, as a Bonus Action, you manifest a **Divine Elemental Weapon** for
 
 #### **Ninjonian (The Custom Martial)**
 *   **Level 3: Combat Superiority:** Gain proficiency in **Martial Weapons**, **Shields**, and **Acrobatics**. You gain **one Fighting Style Feat** of your choice.
-*   **Level 6: Extra Attack:** You can attack twice, instead of once, whenever you take the Attack action on your turn.
+*   **Level 6: Extra Attack:** You can attack twice, instead of once, whenever you take the Attack Action on your turn.
 *   **Level 10: Evasion:** When you succeed on a Dexterity saving throw to take half damage, you instead take no damage.
 *   **Level 14: Whirlwind Strike:** You can use your Action to make a melee attack against any number of creatures within 5 feet of you.
 
@@ -200,7 +200,7 @@ At 20th level, as a Bonus Action, you manifest a **Divine Elemental Weapon** for
     *   Resistance to Bludgeoning, Piercing, Slashing damage.
     *   Add PB to melee damage rolls.
     *   *Restriction:* You can only concentrate on spells dealing your primary elemental damage.
-*   **Level 6: Extra Attack:** Attack twice per action.
+*   **Level 6: Extra Attack:** Attack twice per Action.
 *   **Level 10: Furious Focus:** Advantage on Constitution saves to maintain concentration while in Trance.
 *   **Level 14: Retaliatory Burst:** When hit in melee while in Trance, Reaction to deal **CHA + Level** elemental damage to the attacker.
 
@@ -208,7 +208,7 @@ At 20th level, as a Bonus Action, you manifest a **Divine Elemental Weapon** for
 *   **Level 3: Exo-Suit Integration:** Gain proficiency in **Heavy Armor** and **Martial Weapons**.
     *   **Power Fists:** Unarmed Strikes deal **1d8 + STR** Force damage.
     *   **HUD:** Gain Darkvision (60ft) and cast *Detect Magic* at will.
-*   **Level 6: Extra Attack:** Attack twice per action.
+*   **Level 6: Extra Attack:** Attack twice per Action.
 *   **Level 10: Overclocked Servos:** +10ft Speed. Count as one size larger for carrying/pushing.
 *   **Level 14: Protocol: Eradicate:** Bonus Action (1/Long Rest). For 1 minute, weapon attacks deal +1d6 Force damage and Crit on 19-20.
 
@@ -325,14 +325,14 @@ At 3rd level, you gain eldritch alterations to your form. You choose one manifes
 7.  **Shadow-Stitch:** When you hit a creature with your Natural Weapons, its speed is reduced by 10 feet until the start of your next turn.
 
 **Extra Attack**
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
-*   **Dual Player Note:** Both the Host and the Symbiote gain this feature, meaning the body can potentially make 4 attacks per round if both players take the Attack action on their respective turns.
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack Action on your turn.
+*   **Dual Player Note:** Both the Host and the Symbiote gain this feature, meaning the body can potentially make 4 attacks per round if both players take the Attack Action on their respective turns.
 
 **Improved Symbiosis**
 At 11th level, your symbiotic power permeates your strikes. Whenever you hit a creature with a melee weapon, the creature takes an extra **1d8 necrotic damage**.
 
 **Apex Predator**
-At 20th level, you can assume the form of an avatar of death. As a bonus action, you transform for 1 minute. You gain the following benefits:
+At 20th level, you can assume the form of an avatar of death. As a Bonus Action, you transform for 1 minute. You gain the following benefits:
 *   You are immune to Necrotic and Psychic damage.
 *   Your Natural Weapons deal an extra **1d10** necrotic damage on a hit.
 *   Enemies within 30 feet of you have disadvantage on saving throws against your spells and abilities.
@@ -412,7 +412,7 @@ You were taken from your home when you were young and brought to a training faci
 *   **Feat:** *Violent Soldier*
 *   **Skill Proficiencies:** Athletics, Intimidation
 *   **Tool Proficiency:** Gaming Set
-*   **Equipment:** Greatsword, Longbow, 20 Arrows, Gaming Set, Healer’s Kit, Quiver, Standard Underclothes, 12gp.
+*   **Equipment:** Greatsword, Longbow, 20 Arrows, Gaming Set, Healer’s Kit, Quiver, Standard Underclothes, 12cc.
 
 **Elemental Noble**
 You grew up in a large, elegant, castle of a home, and your parents had you trained for combat. You are well acquainted with most areas of combat expertise.
@@ -420,7 +420,7 @@ You grew up in a large, elegant, castle of a home, and your parents had you trai
 *   **Feat:** *Skilled*
 *   **Skill Proficiencies:** History, Persuasion
 *   **Tool Proficiency:** Musical Instrument
-*   **Equipment:** Musical Instrument, Regal Underclothes, Power Crystal (matching your element), 25gp.
+*   **Equipment:** Musical Instrument, Regal Underclothes, Power Crystal (matching your element), 25cc.
 
 **Elemental Wanderer**
 You have wandered the lands and connected deeply with your element for as long as you can remember.
@@ -428,7 +428,7 @@ You have wandered the lands and connected deeply with your element for as long a
 *   **Feat:** *Wilderness Brawler*
 *   **Skill Proficiencies:** Religion, Survival
 *   **Tool Proficiency:** Gatherer’s Tools
-*   **Equipment:** Glaive, Mace, Gatherer’s Tools, Tent, Standard Underclothes, 2gp.
+*   **Equipment:** Glaive, Mace, Gatherer’s Tools, Tent, Standard Underclothes, 2cc.
 
 **Elemental Smith**
 You grew up as an apprentice in a smith’s shop, hearing constant stories of war and epic battles.
@@ -436,7 +436,7 @@ You grew up as an apprentice in a smith’s shop, hearing constant stories of wa
 *   **Feat:** *Smithy*
 *   **Skill Proficiencies:** Persuasion, Investigation
 *   **Tool Proficiency:** Fusion Smith’s Tools
-*   **Equipment:** Warhammer, Fusion Smith’s Tools, 2 Pouches, Standard Underclothes, 27gp.
+*   **Equipment:** Warhammer, Fusion Smith’s Tools, 2 Pouches, Standard Underclothes, 27cc.
 
 **Elemental Traitor**
 You found out early that you fought for the wrong side, but not early enough. You’ve done things you can’t undo.
@@ -444,7 +444,7 @@ You found out early that you fought for the wrong side, but not early enough. Yo
 *   **Feat:** *Alert*
 *   **Skill Proficiencies:** Sleight of Hand, Stealth
 *   **Tool Proficiency:** Forgery Kit
-*   **Equipment:** 2 Daggers, Forgery Kit, 2 Pouches, Standard Underclothes, 14gp.
+*   **Equipment:** 2 Daggers, Forgery Kit, 2 Pouches, Standard Underclothes, 14cc.
 
 **Elemental Farmer**
 You grew up close to the land. Years tending animals and cultivating the ground rewarded you with patience and good health.
@@ -452,7 +452,7 @@ You grew up close to the land. Years tending animals and cultivating the ground 
 *   **Feat:** *Tough*
 *   **Skill Proficiencies:** Animal Handling, Nature
 *   **Tool Proficiency:** Carpenter’s Tools
-*   **Equipment:** Sickle, Carpenter’s Tools, Healer’s Kit, Iron Pot, Shovel, Standard Underclothes, 28gp.
+*   **Equipment:** Sickle, Carpenter’s Tools, Healer’s Kit, Iron Pot, Shovel, Standard Underclothes, 28cc.
 
 **Elemental Guard**
 Your feet ache when you remember the countless hours you spent at your post on the walls, watchtowers, and the master’s quarters.
@@ -460,7 +460,7 @@ Your feet ache when you remember the countless hours you spent at your post on t
 *   **Feat:** *Alert*
 *   **Skill Proficiencies:** Athletics, Perception
 *   **Tool Proficiency:** Gaming Set
-*   **Equipment:** Spear, Longbow, 20 Arrows, Gaming Set, Duchina Restraints, Standard Underclothes, Quiver, 10gp.
+*   **Equipment:** Spear, Longbow, 20 Arrows, Gaming Set, Duchina Restraints, Standard Underclothes, Quiver, 10cc.
 
 **Elemental Hermit**
 You spent your early years away from the rest of society, living in a nicely renovated cave or hut located in the middle of nowhere.
@@ -468,7 +468,7 @@ You spent your early years away from the rest of society, living in a nicely ren
 *   **Feat:** *Healing*
 *   **Skill Proficiencies:** Religion, Insight
 *   **Tool Proficiency:** Herbalism Kit
-*   **Equipment:** Quarterstaff, Dagger, Herbalism Kit, Book (Hokosha), Standard Underclothes, 16gp.
+*   **Equipment:** Quarterstaff, Dagger, Herbalism Kit, Book (Hokosha), Standard Underclothes, 16cc.
 
 **Elemental Tinkerer**
 You spent your young years playing with technology, taking things apart, putting them together in new and exciting ways.
@@ -476,7 +476,7 @@ You spent your young years playing with technology, taking things apart, putting
 *   **Feat:** *Smithy*
 *   **Skill Proficiencies:** Arcana, Insight
 *   **Tool Proficiency:** Tinker’s Tools
-*   **Equipment:** Dagger, Duchina Restraints, Tinker’s Tools, Standard Underclothes, 18gp.
+*   **Equipment:** Dagger, Duchina Restraints, Tinker’s Tools, Standard Underclothes, 18cc.
 
 ## **Origin Feats**
 
@@ -501,7 +501,7 @@ You gain the following benefits.
 You gain the following benefits.
 *   **Tool Proficiency:** You gain proficiency with **Fusion Smith's Tools** or **Tinker's Tools**.
 *   **Discount:** Whenever you buy a nonmagical item, you receive a 20 percent discount on it.
-*   **Crafting:** When you finish a long rest, you can craft one consumable item (like a grenade or potion) worth 50gp or less, provided you have the materials.
+*   **Crafting:** When you finish a long rest, you can craft one consumable item (like a grenade or potion) worth 50cc or less, provided you have the materials.
 
 **Healing**
 *Origin Feat*
@@ -523,7 +523,7 @@ You gain the following benefits.
 *   **Techno Railgun:** *Legendary.* Range 200/400 ft. **Damage:** 4d12 Elemental. **Properties:** Ammunition, Range, Reload (1 shot), Heavy, Two-Handed.
 
 ## **Armor**
-*   **Standard Ninjonian Armor:** *Medium Armor.* AC 15 + Dex modifier (Max 2). Weight: 30 lbs. Cost: 10gp equivalent.
+*   **Standard Ninjonian Armor:** *Medium Armor.* AC 15 + Dex modifier (Max 2). Weight: 30 lbs. Cost: 10cc equivalent.
 *   **Ninjonian Assassin Armor:** *Light Armor.* AC 11 + Dex modifier. Grants +2 bonus to Stealth checks.
 *   **Heavy Techno Armor:** *Heavy Armor.* AC 18. Weight: 50 lbs. Disadvantage on Stealth.
 
@@ -644,7 +644,7 @@ You touch a willing creature. Until the spell ends, the target's AC increases by
 **Range:** Touch  
 **Duration:** Concentration, up to 1 minute  
 **Components:** V, S  
-Choose a willing creature within range. Until the spell ends, the target's speed is doubled, it gains a **+2 bonus to AC**, it has advantage on Dexterity saving throws, and it gains an additional action on each of its turns. That action can be used only to take the **Dash, Disengage, Hide, or Use an Object** action. When the spell ends, the target can't move or take actions until after its next turn.
+Choose a willing creature within range. Until the spell ends, the target's speed is doubled, it gains a **+2 bonus to AC**, it has advantage on Dexterity saving throws, and it gains an additional Action on each of its turns. That Action can be used only to take the **Dash, Disengage, Hide, or Use an Object** Action. When the spell ends, the target can't move or take Actions until after its next turn.
 
 **Circular Pulse**  
 *Evocation*  
@@ -689,7 +689,7 @@ You create a massive sphere of destructive energy. Each creature in a 60-foot-ra
 **Range:** Self  
 **Duration:** Up to 8 hours  
 **Components:** V, S  
-You step into the border regions of the Ethereal Plane. You remain in the Border Ethereal for the duration or until you use your action to dismiss the spell. You can move in any direction. You can see and hear the plane you originated from, but everything looks gray, and you can't see anything more than 60 feet away.
+You step into the border regions of the Ethereal Plane. You remain in the Border Ethereal for the duration or until you use your Action to dismiss the spell. You can move in any direction. You can see and hear the plane you originated from, but everything looks gray, and you can't see anything more than 60 feet away.
 
 ---
 
@@ -837,7 +837,7 @@ Water bursts forth, eroding the land in a 20-foot cube. Each creature in the are
 You conjure a splash of healing water. You can use it in the following ways:
 *   **Soothe:** You can clean a wound or object.
 *   **Hydrate:** You create enough fresh water to fill a cup.
-*   **Mend:** A creature of your choice that you can see within range regains **1d4 hit points**.
+*   **Mend:** A creature of your choice that you can see within range gains **1d4 temporary hit points**.
 
 **Unique Spell: Riviera's Embrace**  
 *5th Level Evocation*  
@@ -977,7 +977,7 @@ A cone of thunderous sound. Creatures must make a Constitution saving throw or b
 You channel ordered electricity. Choose one effect:
 *   **Magnetize:** You can pick up a metal object weighing up to 5 lbs.
 *   **Signal:** You can send a spark to a point within 60 feet.
-*   **Stun:** Make a melee spell attack against the target. On a hit, the target takes **1d8 lightning damage**, and it can't take reactions until the start of its next turn.
+*   **Stun:** Make a melee spell attack against the target. On a hit, the target takes **1d8 lightning damage**, and it can't take Reactions until the start of its next turn.
 
 **Unique Spell: Static Ward**  
 *2nd Level Abjuration*  
@@ -1047,7 +1047,7 @@ You summon an Earth Elemental spirit. It manifests in an unoccupied space that y
 You command the earth to protect. Choose one:
 *   **Wall:** Create a 5-foot wall of earth that provides half-cover.
 *   **Harden:** Grant an object +2 AC.
-*   **Shield:** You choose a creature you can see within range. A protective shell of earth surrounds them. The target has **Resistance** to bludgeoning, piercing, and slashing damage from nonmagical attacks until the start of your next turn.
+*   **Shield:** You choose a creature you can see within range. A protective shell of earth surrounds them. The target gains a **1d4 bonus to its AC** against the next attack made against it before the start of your next turn.
 
 **Unique Spell: Guardian's Embrace**  
 *2nd Level Abjuration*  
@@ -1115,7 +1115,7 @@ A field of light surrounds you. You gain Resistance to Radiant and Necrotic dama
 **Range:** 60 feet  
 **Duration:** Instantaneous  
 You create a burst of light. Choose one:
-*   **Blind:** A creature you can see within range must succeed on a Constitution saving throw or take **1d6 radiant damage** and be **Blinded** until the start of your next turn.
+*   **Blind:** A creature you can see within range must succeed on a Constitution saving throw or take **1d6 radiant damage** and have **Disadvantage on its next attack roll** made before the end of its next turn.
 *   **Distract:** Cause a flare that gives Advantage on the next attack against a target.
 *   **Burn:** Make a ranged spell attack. Deal **1d8 radiant damage**.
 
@@ -1203,7 +1203,7 @@ Ground becomes icy (difficult terrain). Creatures inside have Advantage on saves
 **Range:** Touch  
 **Duration:** Concentration, up to 1 minute  
 **Components:** V, S  
-Target gains Resistance to non-magical B/P/S damage. Regenerates **CHA mod** HP per turn.
+Target gains Resistance to non-magical B/P/S damage. Regenerates **Charisma modifier** HP per turn.
 
 **Unique Spell: Glacial Guardian**  
 *3rd Level Conjuration*  
@@ -1560,7 +1560,7 @@ Revive creature (dead <24h). Full HP, cured diseases.
 **Casting Time:** 1 Hour  
 **Range:** Touch  
 **Duration:** Instantaneous  
-**Components:** V, S, M (rare oils worth 500gp)  
+**Components:** V, S, M (rare oils worth 500cc)  
 Revives a creature dead for up to 24 hours with half HP.
 
 ## **Lucilus (Evil)**
@@ -1580,7 +1580,7 @@ You manipulate shadows. Choose one:
 **Range:** Self  
 **Duration:** Concentration, up to 1 minute  
 **Components:** V, S  
-20ft radius aura. Creatures must Cha save or be Charmed. Start of turn in aura takes **CHA mod** necrotic damage.
+20ft radius aura. Creatures must Cha save or be Charmed. Start of turn in aura takes **Charisma modifier** necrotic damage.
 
 **Unique Spell: Umbral Manipulation**  
 *4th Level Illusion*  
@@ -1588,7 +1588,7 @@ You manipulate shadows. Choose one:
 **Range:** 120 feet  
 **Duration:** Concentration, up to 1 minute  
 **Components:** V, S  
-Summon 3 shadow constructs (AC 15, HP 30, Hit: 2d8 necrotic). Bonus action to command.
+Summon 3 shadow constructs (AC 15, HP 30, Hit: 2d8 necrotic). Bonus Action to command.
 
 **Unique Spell: Shadowbound Enthrallment**  
 *4th Level Enchantment*  
