@@ -21,12 +21,13 @@ The primary goal of this project is to create a perfectly balanced D&D Homebrew 
 
 ---
 
-## **Recent Audit & Project Progress (April 2026)**
+## **Recent Audit & Project Progress (May 2026)**
 
-The `Legends_of_the_Elsaither_Campaign_Guide.md` has undergone a comprehensive technical and balance audit:
+The project has transitioned from core class auditing to the expansion of rare elemental variations:
 
-1.  **Action Economy:** The 'Dual Player' mode for the Shadow Warrior has been preserved as a "Hero Character" mechanic, providing a unique challenge for two players sharing one body.
-2.  **Cantrip Rebalancing:** Infinite healing and excessive debuffs (unconditional Blinded/Resistance) have been replaced with Temporary Hit Points, AC bonuses, and Disadvantage-based effects to align with the D&D 2024 core resource loop.
-3.  **Terminology Standardization:** All documents now use "cc" for currency and consistently capitalize "Action," "Bonus Action," and "Reaction."
-4.  **Reference Documents:** Individual volumes (1-7) and the original Nyxid class files have been moved to the `ReferenceDocuments/` directory for cleaner workspace management.
+1.  **Mutations Expansion:** The `Mutations_Expansion_Guide.md` has been established, formalizing 21 rare elemental variations (e.g., Blood, Red Death, Witherbone).
+2.  **High-Risk / High-Reward Balancing:** Each mutation follows a strict "Power vs. Danger" framework. Dangers are designed using D&D 2024 conditions (Exhaustion, Restrained, Deafened) or resource costs (Hit Dice) to ensure they are narratively impactful without removing player agency.
+3.  **Standardized Elemental Profiles:** Every mutation must follow a 1-primary/3-secondary damage type profile to maintain system consistency.
+4.  **Action Economy:** The 'Dual Player' mode for the Shadow Warrior remains a "Hero Character" mechanic for two players sharing one body.
+5.  **Terminology & Workspace:** Currency is standardized as "cc," and all legacy volumes are archived in `ReferenceDocuments/`.
 
