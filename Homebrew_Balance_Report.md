@@ -105,3 +105,33 @@ Your homebrew classes have been rebalanced to fit within the "High Power" tier o
 1.  **Party Composition:** A party of 4 Savaroens covers every role (Warrion=Tank, Ninji=Blaster, Techno=Rogue/Utility, Ninjarikan=Striker). They are self-sufficient.
 2.  **DM Warning:** The **Mind-Eater Nyxid** and **Warrion Savaroen** are the "Power Gamer" picks. Watch out for them in social encounters (Mind Control) and Boss Fights (Unkillable Tank).
 3.  **Campaign Pacing:** Ensure you enforce the "6 Encounters per Day" rule. If you let the Savaroen Long Rest after every fight, their spell versatility will overshadow everyone else.
+
+---
+
+## **7. Mutations Expansion Audit**
+
+The newly reviewed **Mutations Expansion** introduces high-risk, high-reward mechanics. While many of the most glaring balance problems have been fixed, there are still a few scaling and mechanical ambiguities remaining:
+
+### **Resolved Issues (Fixed in Recent Updates)**
+*   **Overpowered Elements (Action Economy / No Saves):** White Shadow (now uses Bonus Action), Solar (now has a Con save), and Acid (now damages the caster) have all been properly brought into line.
+*   **Underpowered Elements:** Red Death no longer applies exhaustion and instead triggers a risky rage state, which is much more thematic and balanced. Black Poison now correctly scales its Danger DC and damage.
+
+### **Remaining Scaling Problems**
+*   **Static DCs and Flat Damage:** While some mutations were updated, **Dream (Shadow)**, **Red Lightning (Lightning)**, **Vortex (Air)**, and **Black Bone (Bone)** still rely on fixed static DCs (e.g., DC 12, 13, 14) and flat unscaling damage. In D&D 2024, these will be devastating at Level 1 and completely irrelevant by Level 10. **Fix:** Scale DCs using `8 + PB + Constitution/Spellcasting Modifier`.
+
+### **Mechanical Ambiguities**
+*   **White Fire (Fire):** The danger was changed from reducing Max HP to expending a Hit Die every time a 1st-level or higher fire spell is cast. However, it is ambiguous what happens when a player runs out of Hit Dice. **Fix:** Clarify whether the player can still cast the spell and takes no damage, or if they are entirely locked out of casting leveled fire spells until they take a Long Rest.
+
+---
+
+## **8. Outstanding Core Guide Issues**
+
+The core guide has received significant updates and most of the previous critical flaws have been resolved.
+
+### **Resolved Issues (Fixed in Recent Updates)**
+*   **Shadow Warrior (Mind-Eater):** The Level 14 *Mind Break* feature now properly includes a **Once per Long Rest** limit, preventing it from neutralizing every boss trivially.
+*   **Savaroen Capstone (Level 20):** *The Power Within* has been effectively tuned down to a 2d10 weapon and grants Resistance only to Bludgeoning, Piercing, and Slashing damage, bringing it closer to standard capstones.
+*   **Dual Player Symbiote:** Acknowledged as an intentional design choice for specific campaigns. While it breaks standard bounded action economy (granting 2 Actions and 2 Bonus Actions on one body), it functions as an intended S+ Tier/Boss-level option and needs no mechanical fix.
+
+### **New Outstanding Issue**
+*   **Savaroen Spell Slot Progression:** The Savaroen Class Table grants an excessive number of high-level spell slots compared to standard D&D 2024 full casters. At level 20, a Savaroen receives three 6th-level, two 7th-level, and two 8th-level slots. Standard casters (Wizard, Cleric, etc.) only ever receive a maximum of two 6th, two 7th, one 8th, and one 9th-level slot. Providing extra 6th and 8th-level slots makes the Savaroen overwhelmingly dominant in Tier 4 play. **Fix:** Adjust the Savaroen class table spell slots from levels 11-20 to match standard D&D 2024 full caster progression.

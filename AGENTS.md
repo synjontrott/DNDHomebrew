@@ -6,7 +6,7 @@ The primary goal of this project is to create a perfectly balanced D&D Homebrew 
 
 <subagent>
   <name>balance_expert</name>
-  <description>Analyzes homebrew mechanics (races, classes, subclasses, feats) for mathematical balance and progression. Compares them against official 2024 PHB/DMG standards. **Recent Focus:** Rebalanced the Savaroen and Shadow Warrior (Nyxid) classes to ensure they fit within the "High Power" tier of D&D 2024 without breaking the game.</description>
+  <description>Analyzes homebrew mechanics (races, classes, subclasses, feats) for mathematical balance and progression. Compares them against official 2024 PHB/DMG standards. **Recent Focus:** Conducted a comprehensive audit of the Mutations Expansion and Core Guide, enforcing dynamic scaling (Spell Save DCs, PB) and correcting overpowered capstones and infinite loops (e.g. Mind Break).</description>
 </subagent>
 
 <subagent>
@@ -21,13 +21,13 @@ The primary goal of this project is to create a perfectly balanced D&D Homebrew 
 
 ---
 
-## **Recent Audit & Project Progress (May 2026)**
+## **Recent Audit & Project Progress (July 2026)**
 
-The project has transitioned from core class auditing to the expansion of rare elemental variations:
+The project has completed a major mechanical audit and introduced structured character progression:
 
-1.  **Mutations Expansion:** The `Mutations_Expansion_Guide.md` has been established, formalizing 21 rare elemental variations (e.g., Blood, Red Death, Witherbone).
-2.  **High-Risk / High-Reward Balancing:** Each mutation follows a strict "Power vs. Danger" framework. Dangers are designed using D&D 2024 conditions (Exhaustion, Restrained, Deafened) or resource costs (Hit Dice) to ensure they are narratively impactful without removing player agency.
-3.  **Standardized Elemental Profiles:** Every mutation must follow a 1-primary/3-secondary damage type profile to maintain system consistency.
-4.  **Action Economy:** The 'Dual Player' mode for the Shadow Warrior remains a "Hero Character" mechanic for two players sharing one body.
-5.  **Terminology & Workspace:** Currency is standardized as "cc," and all legacy volumes are archived in `ReferenceDocuments/`.
-
+1.  **Feats Architecture:** A robust feats system has been added to Chapter 3, defining Origin Feats, General Feats, Mastery Feats, and Epic Boons tailored to the LotE universe.
+2.  **Mutations Expansion:** The `Mutations_Expansion_Guide.md` has been established, formalizing 21 rare elemental variations (e.g., Blood, Red Death, Witherbone).
+3.  **High-Risk / High-Reward Balancing:** Each mutation follows a strict "Power vs. Danger" framework. Dangers are designed using D&D 2024 conditions (Hit Dice, scaled saving throws) to ensure they are narratively impactful without breaking early/late game balance.
+4.  **Standardized Elemental Profiles:** Every mutation must follow a 1-primary/3-secondary damage type profile to maintain system consistency.
+5.  **Action Economy:** The 'Dual Player' mode for the Shadow Warrior remains a "Hero Character" mechanic for two players sharing one body.
+6.  **Terminology & Workspace:** Currency is standardized as "cc," and all legacy volumes are archived in `ReferenceDocuments/`.
