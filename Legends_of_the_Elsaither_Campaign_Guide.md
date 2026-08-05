@@ -99,10 +99,10 @@ In the Elsaither universe, elemental affinity dictates resistance and power.
 
 **Equipment**  
 You start with the following equipment, in addition to the equipment granted by your background:
-*   (a) 2 Daggers
-*   (a) Light Crossbow and 20 bolts
-*   (a) Scholar's Pack
-*   (a) Standard Ninjonian Armor (Medium) and 20 cc (or 50 cc starting gold)
+*   (a) a Simple Melee Weapon (such as a Quarterstaff or Spear) or (b) two Daggers
+*   (a) a Ninjonian Pistol and 1 Power Crystal or (b) a Light Crossbow and 20 bolts
+*   (a) an Explorer's Pack or (b) a Scholar's Pack
+*   Standard Ninjonian Armor (Medium) and 20cc (or 50cc starting gold)
 
 ### **The Savaroen Class Table**
 
@@ -256,9 +256,10 @@ At 20th level, as a Bonus Action, you manifest a **Divine Elemental Weapon** for
 
 **Equipment**
 You start with the following equipment, in addition to the equipment granted by your background:
-*   (a) a martial weapon and a shield or (b) two martial weapons
-*   (a) scale mail or (b) leather armor
-*   (a) a dungeoneer's pack or (b) an explorer's pack
+*   (a) a Martial Weapon or (b) a Shield and a Simple Melee Weapon (or rely on your Natural Weapons)
+*   (a) Ninjonian Assassin Armor (Light) or (b) Standard Ninjonian Armor (Medium)
+*   (a) a Dungeoneer's Pack or (b) an Explorer's Pack
+*   A pouch with 15cc (or 40cc starting gold)
 
 ### **The Shadow Warrior Class Table**
 
