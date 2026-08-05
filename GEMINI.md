@@ -28,6 +28,7 @@ Create a perfectly balanced D&D Homebrew guidebook based on LotE Lore. The resul
 - **Per-Region Magic Item Compendiums (August 2026):** Chapter 4 expanded with 150 total balanced magic items across 5 regional compendiums (Ninjonia, Techno, Warrion, Nidosis, Shadow/Ancient Elsaither) with 2 items per rarity (Common–Legendary) per category.
 - **High-Fantasy Subclass Titles & Disconnect Fixes (August 2026):** Replaced informal parenthetical subclass subtitles with thematic LotE titles (e.g., *The Blademaster Discipline*, *The Arcane Technomancer*) and resolved mechanics disconnects (e.g. *Martial Counter* on Ninjonian).
 - **Glass Cannon Mutation Audit (August 2026):** Audited all 21 elemental mutations in `Mutations_Expansion_Guide.md` for glass cannon balance, combining powerful benefits with active D&D 2024 mechanical penalties.
-- **Full 19-Deity Spell Compendium (August 2026):** Standardized Chapter 6 across all 19 Deities to 100% compliance. Each deity includes a 3-option cantrip `(Utility), (Utility), (Damage)` and 5 unique spells mapped to 2nd, 3rd, 4th, 5th, and 7th/8th Level Capstone spells.
+- **Full 28-Deity Spell Compendium (August 2026):** Standardized Chapter 6 across all 28 Deities (starting with Pireous down to Zarta) to 100% compliance. Each deity includes a 3-option cantrip `(Utility), (Utility), (Damage)` and 5 unique spells mapped to 2nd, 3rd, 4th, 5th, and 7th/8th Level Capstone spells (168 total spells).
+
 - **Reference Management:** Legacy homebrew volumes and individual class files are archived in the `ReferenceDocuments/` directory.
 

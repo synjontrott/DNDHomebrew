@@ -29,7 +29,8 @@ Create a perfectly balanced D&D Homebrew guidebook based on LotE Lore. The resul
 - **Per-Region Magic Item Compendiums (August 2026):** 150 total magic items added to Chapter 4 across 5 regional compendiums (Ninjonia, Techno, Warrion, Nidosis, Shadow/Ancient Elsaither).
 - **High-Fantasy Subclass Titles & Disconnect Fixes (August 2026):** High-fantasy titles applied to all subclasses and feature disconnects resolved.
 - **Glass Cannon Mutation Audit (August 2026):** All 21 mutations tuned to strict high risk / high reward glass cannon paradigms.
-- **Full 19-Deity Spell Compendium (August 2026):** Chapter 6 standardized to 100% compliance across all 19 Deities (114 spells), providing a 3-option cantrip `(Utility), (Utility), (Damage)` + 5 unique spells mapped to 2nd, 3rd, 4th, 5th, and Capstone tiers.
+- **Full 28-Deity Spell Compendium (August 2026):** Chapter 6 standardized to 100% compliance across all 28 Deities starting with Pireous down to Zarta (168 total spells), providing a 3-option cantrip `(Utility), (Utility), (Damage)` + 5 unique spells mapped to 2nd, 3rd, 4th, 5th, and Capstone tiers.
+
 - **Cantrip Standardization:** All cantrips provide utility or temporary benefits rather than permanent healing or overpowered debuffs.
 - **Currency:** Standardized as "cc" (Crystalarium Currency) across all primary documents.
 - **Reference Management:** Legacy homebrew volumes and individual class files are archived in the `ReferenceDocuments/` directory.
