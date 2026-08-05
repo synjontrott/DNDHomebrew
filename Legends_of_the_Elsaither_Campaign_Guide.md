@@ -187,7 +187,7 @@ At 20th level, as a Bonus Action, you manifest a **Divine Elemental Weapon** for
 #### **Ninjonian (The Custom Martial)**
 *   **Level 3: Combat Superiority:** Gain proficiency in **Martial Weapons**, **Shields**, and **Acrobatics**. You gain **one Fighting Style Feat** of your choice.
 *   **Level 6: Extra Attack:** You can attack twice, instead of once, whenever you take the Attack Action on your turn.
-*   **Level 10: Evasion:** When you succeed on a Dexterity saving throw to take half damage, you instead take no damage.
+*   **Level 10: Martial Counter:** When a creature within 5 feet of you misses you with a melee attack, you can use your **Reaction** to make one melee weapon attack against that creature, or add your **Proficiency Bonus** to your Armor Class against one incoming melee attack.
 *   **Level 14: Whirlwind Strike:** You can use your Action to make a melee attack against any number of creatures within 5 feet of you.
 
 #### **Ninjarikan (The Hybrid)**
@@ -210,7 +210,7 @@ At 20th level, as a Bonus Action, you manifest a **Divine Elemental Weapon** for
 #### **Technika (The Iron-Man)**
 *   **Level 3: Exo-Suit Integration:** Gain proficiency in **Heavy Armor** and **Martial Weapons**.
     *   **Power Fists:** Unarmed Strikes deal **1d8 + STR** Force damage.
-    *   **HUD:** Gain Darkvision (60ft) and cast *Detect Magic* at will.
+    *   **Tactical HUD:** Gain Darkvision (60ft) and Advantage on Wisdom (Perception) and Intelligence (Investigation) checks to analyze targets or hazards.
 *   **Level 6: Extra Attack:** Attack twice per Action.
 *   **Level 10: Overclocked Servos:** +10ft Speed. Count as one size larger for carrying/pushing.
 *   **Level 14: Protocol: Eradicate:** Bonus Action (1/Long Rest). For 1 minute, weapon attacks deal +1d6 Force damage and Crit on 19-20.
@@ -369,8 +369,8 @@ Once you use this feature, you can’t use it again until you finish a long rest
     As a Bonus Action, you can grant temporary hit points to a creature within 30 feet equal to **1d8 + your Charisma modifier**. You can use this feature a number of times equal to your Proficiency Bonus per Long Rest.
 *   **Level 6: Divert Pain**
     When an ally within 30 feet of you takes damage, you can use your Reaction to magically take that damage, instead of the ally. This damage cannot be reduced by any means.
-*   **Level 10: Master Stringer**
-    You can cast *Web* without expending a spell slot. You can do so a number of times equal to your Proficiency Bonus per Long Rest. Your webs are made of shadowstuff and are immune to fire damage.
+*   **Level 10: Lifeline**
+    When an ally within 30 feet of you takes damage or is targeted by an attack, you can use your **Reaction** to shoot a shadow tether and pull them up to 15 feet toward you into an unoccupied space, granting them **Temporary Hit Points** equal to **1d10 + your Charisma modifier**. You can use this feature a number of times equal to your **Proficiency Bonus** per Long Rest.
 *   **Level 14: Symbiotic Aegis**
     You and friendly creatures within 10 feet of you have resistance to Necrotic and Psychic damage.
 
@@ -381,8 +381,8 @@ Once you use this feature, you can’t use it again until you finish a long rest
     You can cast the *Web* spell without expending a spell slot a number of times equal to your **Proficiency Bonus**, regaining all uses on a Long Rest. When you cast it, creatures that fail their save against the web take **1d4 necrotic damage** at the start of their turn while restrained.
 *   **Level 6: Cocoon**
     As an Action, you can wrap a Medium or smaller creature within 10 feet of you in shadow-webbing. The target must succeed on a Strength saving throw or be **Restrained** for 1 minute. It can repeat the save at the end of each of its turns. You can use this feature once per Short or Long Rest.
-*   **Level 10: Spider-Legs**
-    You can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free. You gain a climbing speed equal to your walking speed.
+*   **Level 10: Shadow Web Matrix**
+    When a creature moves into a space within 15 feet of you or starts its turn there, you can use your **Reaction** to force it to make a **Strength saving throw against your Spell Save DC**. On a failure, shadow threads snap around its limbs, reducing its speed to **0** until the start of its next turn.
 *   **Level 14: Neurotoxin**
     Your Tendril Whip attacks can carry a paralytic venom. When you hit with your Tendril Whip, you can force the target to make a **Constitution saving throw against your Spell Save DC**. On a failure, the target is **Paralyzed** until the end of your next turn. You can use this feature a number of times equal to your **Proficiency Bonus** per Long Rest.
 
