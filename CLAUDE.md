@@ -23,6 +23,9 @@ Create a perfectly balanced D&D Homebrew guidebook based on LotE Lore. The resul
 - **Damage Profiles:** All mutations follow a 1-primary/3-secondary damage type profile.
 - **White Shadow Fix (August 2026):** The White Shadow mutation's power was revised. The redundant "no penalties in bright light" clause was replaced with a meaningful stealth/distraction utility — a Dexterity (Sleight of Hand) advantage and a short-rest blinding flash. The Danger was unchanged.
 - **Deity Spell Integration (August 2026):** A "Deity Blessing" system was added to the Savaroen and Shadow Warrior classes, formalizing how characters with a chosen Deity gain access to their Deity Cantrip and Unique Spells. The deity spell descriptions in Chapter 6 were expanded to full D&D 2024 formatting.
+- **Technical Rules & RAW Audit (August 2026):** Fixed missing durations (Warrion `Elemental Trance` 1-min duration), missing action costs (Animal Spirit, Bonded Weapon, Automaton Assistant), and RAW loopholes (Violent Soldier, Smithy discount reselling).
+- **6-Agent 2024 OP Balance Sweep (August 2026):** Multi-agent sweep adjusted Techno Railgun (2d10 Loading), capped spell damage multipliers (Fusion Blast, Potent Spellcasting), re-leveled tier-inappropriate features (Mind Break, Rift Maker), and set Epic Boon prerequisites to Level 19+.
+- **Species Traits & Benchmarks (August 2026):** Genempriea updated to 35ft base speed + *Overclocked Actuators* (Bonus Action Dash PB/LR, matching 2024 Wood Elf/Orc benchmarks). Plunesako expanded to grant dual skills + 1 Origin Feat of choice (matching 2024 Human benchmarks).
 - **Cantrip Standardization:** All cantrips provide utility or temporary benefits rather than permanent healing or overpowered debuffs.
 - **Currency:** Standardized as "cc" (Crystalarium Currency) across all primary documents.
 - **Reference Management:** Legacy homebrew volumes and individual class files are archived in the `ReferenceDocuments/` directory.
