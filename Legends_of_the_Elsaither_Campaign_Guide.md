@@ -99,10 +99,10 @@ In the Elsaither universe, elemental affinity dictates resistance and power.
 
 **Equipment**  
 You start with the following equipment, in addition to the equipment granted by your background:
-*   (a) a Simple Melee Weapon (such as a Quarterstaff or Spear) or (b) two Daggers
-*   (a) a Ninjonian Pistol and 1 Power Crystal or (b) a Light Crossbow and 20 bolts
+*   (a) a regional Simple or Martial Melee Weapon matching your species/origin (such as a Ninjonian Saber, Techno Arc Blade, Warrion Cleaver, or Nidosis Spear-Staff) or (b) two Daggers
+*   (a) a regional ranged weapon (such as a Ninjonian Pistol + 1 Power Crystal or Techno Pulse Blaster) or (b) a Light Crossbow and 20 bolts
 *   (a) an Explorer's Pack or (b) a Scholar's Pack
-*   Standard Ninjonian Armor (Medium) and 20cc (or 50cc starting gold)
+*   Regional Light or Medium Armor matching your species origin (e.g. Techno Weave for Genempriea, Standard Ninjonian for Krenpowen, Warrion Carapace for Garanko, or Nidosis Chitin for Plunesako) and 20cc (or 50cc starting gold)
 
 ### **The Savaroen Class Table**
 
@@ -256,8 +256,8 @@ At 20th level, as a Bonus Action, you manifest a **Divine Elemental Weapon** for
 
 **Equipment**
 You start with the following equipment, in addition to the equipment granted by your background:
-*   (a) a Martial Weapon or (b) a Shield and a Simple Melee Weapon (or rely on your Natural Weapons)
-*   (a) Ninjonian Assassin Armor (Light) or (b) Standard Ninjonian Armor (Medium)
+*   (a) a regional Martial Weapon (such as a Ninjonian Saber, Techno Arc Blade, or Warrion Great-Axe) or (b) a Shield and a Simple Melee Weapon (or rely on your Natural Weapons)
+*   (a) regional Light Armor (such as Ninjonian Assassin, Techno Weave, Warrion Harness, or Nidosis Leathers) or (b) regional Medium Armor (Ninjonian Standard, Techno Reinforced, Warrion Carapace, or Nidosis Chitin)
 *   (a) a Dungeoneer's Pack or (b) an Explorer's Pack
 *   A pouch with 15cc (or 40cc starting gold)
 
@@ -637,15 +637,49 @@ The symbiote acts as a perfect failsafe, ripping you away from death's door.
 *   **Power Crystals:** Crystals infused with elemental energy. Can be attached to a weapon as an Action. For 1 minute, the weapon deals +1d4 elemental damage on a hit (Once per Short Rest per crystal).
 *   **Gruhunsh:** A rare medicinal herb. Consuming it grants the benefits of the *Haste* spell for 1 minute (requires Concentration). When the effect ends, the user gains 1 level of Exhaustion.
 
-## **Weapons**
-*   **Ninjonian Rifle:** *Uncommon.* Range 100/500 ft. **Damage:** 1d8 Elemental. **Properties:** Ammunition, Range, Reload (10 shots), Two-Handed.
-*   **Ninjonian Pistol:** *Uncommon.* Range 40/120 ft. **Damage:** 1d6 Elemental. **Properties:** Ammunition, Range, Reload (15 shots), Light.
-*   **Techno Railgun:** *Legendary.* Range 200/400 ft. **Damage:** 2d10 Elemental. **Properties:** Ammunition, Range, Reload (1 shot), Heavy, Two-Handed.
+## **Standardized Regional Weapons**
 
-## **Armor**
-*   **Standard Ninjonian Armor:** *Medium Armor.* AC 14 + Dex modifier (Max 2). Weight: 30 lbs. Cost: 10cc equivalent.
-*   **Ninjonian Assassin Armor:** *Light Armor.* AC 11 + Dex modifier. Grants +2 bonus to Stealth checks.
-*   **Heavy Techno Armor:** *Heavy Armor.* AC 18. Weight: 50 lbs. Disadvantage on Stealth.
+### **Ninjonian Cluster (Krenpowen/Tenebrie)**
+*   **Ninjonian Pistol:** *Uncommon.* Range 40/120 ft. **Damage:** 1d6 Elemental. **Properties:** Ammunition, Range, Reload (15 shots), Light. Cost: 25cc.
+*   **Ninjonian Rifle:** *Uncommon.* Range 100/500 ft. **Damage:** 1d8 Elemental. **Properties:** Ammunition, Range, Reload (10 shots), Two-Handed. Cost: 50cc.
+*   **Ninjonian Saber:** *Martial Melee.* **Damage:** 1d8 Slashing. **Properties:** Finesse. Cost: 15cc.
+
+### **Techno Cluster (Genempriea)**
+*   **Techno Pulse Blaster:** *Uncommon.* Range 60/180 ft. **Damage:** 1d8 Force or Elemental. **Properties:** Ammunition, Range, Reload (10 shots), Light. Cost: 30cc.
+*   **Techno Arc Blade:** *Martial Melee.* **Damage:** 1d8 Lightning or Force. **Properties:** Versatile (1d10). Cost: 20cc.
+*   **Techno Railgun:** *Legendary.* Range 200/400 ft. **Damage:** 2d10 Elemental. **Properties:** Ammunition, Range, Reload (1 shot), Heavy, Two-Handed. Cost: 150cc.
+
+### **Warrion Cluster (Garanko)**
+*   **Warrion Heavy Cleaver:** *Martial Melee.* **Damage:** 2d6 Slashing. **Properties:** Heavy, Two-Handed. Cost: 20cc.
+*   **Warrion Great-Axe:** *Martial Melee.* **Damage:** 1d12 Slashing. **Properties:** Heavy, Two-Handed. Cost: 20cc.
+*   **Warrion War-Hammer:** *Martial Melee.* **Damage:** 1d10 Bludgeoning. **Properties:** Heavy, Two-Handed, Versatile. Cost: 15cc.
+
+### **Nidosis Cluster (Plunesako)**
+*   **Nidosis Spear-Staff:** *Simple Melee.* **Damage:** 1d6 Piercing or Bludgeoning. **Properties:** Versatile (1d8), Thrown (20/60). Cost: 5cc.
+*   **Nidosis Curved Dagger:** *Simple Melee.* **Damage:** 1d4 Piercing or Slashing. **Properties:** Finesse, Light, Thrown (20/60). Cost: 2cc.
+*   **Nidosis Composite Bow:** *Martial Ranged.* Range 150/600 ft. **Damage:** 1d8 Piercing. **Properties:** Ammunition, Range, Two-Handed. Cost: 30cc.
+
+## **Regional Armor Suites**
+
+### **Ninjonian Armor**
+*   **Ninjonian Assassin Armor:** *Light Armor.* AC 11 + Dex modifier. Grants +2 bonus to Dexterity (Stealth) checks. Weight: 10 lbs. Cost: 15cc.
+*   **Standard Ninjonian Armor:** *Medium Armor.* AC 14 + Dex modifier (Max 2). Weight: 30 lbs. Cost: 10cc.
+*   **Ninjonian Vanguard Plate:** *Heavy Armor.* AC 17. Disadvantage on Stealth. Weight: 45 lbs. Cost: 60cc.
+
+### **Techno Armor**
+*   **Techno Weave Suit:** *Light Armor.* AC 12 + Dex modifier. Integrated environmental seals (+1 bonus to Constitution saving throws against toxins and gases). Weight: 10 lbs. Cost: 25cc.
+*   **Reinforced Techno Suit:** *Medium Armor.* AC 15 + Dex modifier (Max 2). Weight: 35 lbs. Cost: 40cc.
+*   **Heavy Techno Armor:** *Heavy Armor.* AC 18. Disadvantage on Stealth. Requires Strength 15. Weight: 50 lbs. Cost: 100cc.
+
+### **Warrion Armor**
+*   **Warrion Beast Harness:** *Light Armor.* AC 12 + Dex modifier. Weight: 12 lbs. Cost: 10cc.
+*   **Warrion Carapace Armor:** *Medium Armor.* AC 15 + Dex modifier (Max 2). Disadvantage on Stealth. Weight: 40 lbs. Cost: 25cc.
+*   **Warrion Ironclad Mail:** *Heavy Armor.* AC 17. Disadvantage on Stealth. Requires Strength 13. Weight: 55 lbs. Cost: 50cc.
+
+### **Nidosis Armor**
+*   **Nidosis Traveler Leathers:** *Light Armor.* AC 12 + Dex modifier. Flexible and light. Weight: 8 lbs. Cost: 10cc.
+*   **Nidosis Chitin Guard:** *Medium Armor.* AC 14 + Dex modifier (Max 2). Weight: 25 lbs. Cost: 20cc.
+*   **Nidosis Hardened Shell:** *Heavy Armor.* AC 16. No Strength requirement. Weight: 35 lbs. Cost: 45cc.
 
 ## **Magic Items**
 **Furione’n Erolye (Guardian’s Edge)**
