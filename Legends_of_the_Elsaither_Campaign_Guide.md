@@ -184,20 +184,20 @@ At 20th level, as a Bonus Action, you manifest a **Divine Elemental Weapon** for
 
 ### **Savaroen Subclasses**
 
-#### **Ninjonian (The Custom Martial)**
+#### **Ninjonian (The Blademaster Discipline)**
 *   **Level 3: Combat Superiority:** Gain proficiency in **Martial Weapons**, **Shields**, and **Acrobatics**. You gain **one Fighting Style Feat** of your choice.
 *   **Level 6: Extra Attack:** You can attack twice, instead of once, whenever you take the Attack Action on your turn.
 *   **Level 10: Martial Counter:** When a creature within 5 feet of you misses you with a melee attack, you can use your **Reaction** to make one melee weapon attack against that creature, or add your **Proficiency Bonus** to your Armor Class against one incoming melee attack.
 *   **Level 14: Whirlwind Strike:** You can use your Action to make a melee attack against any number of creatures within 5 feet of you.
 
-#### **Ninjarikan (The Hybrid)**
+#### **Ninjarikan (The Arcane Spellblade)**
 *   **Level 3: Spellblade Training:** Gain proficiency in **Martial Weapons**. You gain proficiency in Arcana, History, or Investigation.
 *   **Bonded Weapon:** At the end of a Short or Long Rest, you can touch one weapon to bond with it. You can use your **Charisma** modifier instead of Strength or Dexterity for its attack and damage rolls.
 *   **Level 6: War Magic:** Extra Attack. You can cast one of your **Cantrips** in place of one of those attacks.
 *   **Level 10: Eldritch Strike:** Creatures hit by your weapon attack have Disadvantage on the next saving throw they make against one of your spells before the end of your next turn.
 *   **Level 14: Arcane Charge:** When you cast a spell of 1st level or higher using a spell slot, you can teleport up to 30 feet to an unoccupied space you can see as part of the same action.
 
-#### **Warrion (The Rage Mage)**
+#### **Warrion (The Primordial Berserker)**
 *   **Level 3: Combat Training:** Gain proficiency in **Martial Weapons**, **Shields**, and **Athletics**.
 *   **Elemental Trance:** As a Bonus Action, you can enter an elemental trance that lasts for 1 minute (or until you fall Unconscious, or end it as a Bonus Action). You can enter this trance a number of times equal to your **Proficiency Bonus**, regaining all expended uses when you finish a Long Rest. While tranced:
     *   You have Resistance to Bludgeoning, Piercing, and Slashing damage.
@@ -207,7 +207,7 @@ At 20th level, as a Bonus Action, you manifest a **Divine Elemental Weapon** for
 *   **Level 10: Furious Focus:** Advantage on Constitution saves to maintain concentration while in Trance.
 *   **Level 14: Retaliatory Burst:** When a creature hits you with a melee attack while you are in Trance, you can use your Reaction to force the attacker to make a **Dexterity saving throw against your Spell Save DC**. On a failure, the attacker takes **2d10 + your Charisma modifier** elemental damage, or half as much on a successful save.
 
-#### **Technika (The Iron-Man)**
+#### **Technika (The Exo-Vanguard)**
 *   **Level 3: Exo-Suit Integration:** Gain proficiency in **Heavy Armor** and **Martial Weapons**.
     *   **Power Fists:** Unarmed Strikes deal **1d8 + STR** Force damage.
     *   **Tactical HUD:** Gain Darkvision (60ft) and Advantage on Wisdom (Perception) and Intelligence (Investigation) checks to analyze targets or hazards.
@@ -215,21 +215,21 @@ At 20th level, as a Bonus Action, you manifest a **Divine Elemental Weapon** for
 *   **Level 10: Overclocked Servos:** +10ft Speed. Count as one size larger for carrying/pushing.
 *   **Level 14: Protocol: Eradicate:** Bonus Action (1/Long Rest). For 1 minute, weapon attacks deal +1d6 Force damage and Crit on 19-20.
 
-#### **Tek (The Tech Caster)**
+#### **Tek (The Arcane Technomancer)**
 *   **Level 3: Gadgeteer:** Gain proficiency in **Shields** and **Tinker’s Tools**.
     *   **Arcane Battery:** Action to recover one expended spell slot (with a level equal to or less than half your Proficiency Bonus, rounded up). Once per Long Rest.
 *   **Level 6: Alchemical Casting:** When you cast a spell that heals or damages, add **1d8** to one damage or healing roll of that spell.
 *   **Level 10: Shield Generator:** As a Reaction when you or an ally within 30 feet of you takes damage, you can reduce that damage by **2d8 + your Charisma modifier**.
 *   **Level 14: Noise Canceling:** Advantage on Constitution saves. Immune to Thunder damage and the Deafened condition.
 
-#### **Techno (The Item Master)**
+#### **Techno (The Forge Sovereign)**
 *   **Level 3: Master Maker:** Gain proficiency in **Heavy Armor**, **Shields**, and **Smith’s Tools**.
     *   **Automaton Assistant:** Over a Long Rest using Smith's Tools, you can construct a mechanical companion (use Steel Defender stats, no Reaction). Bonus Action to command.
 *   **Level 6: Magic Item Savant:** You can attune to **4 Magic Items**.
 *   **Level 10: Rapid Fabricator:** Cast *Fabricate* and *Creation* 1/Long Rest (free). Automaton attacks are magical.
 *   **Level 14: Soul of the Machine:** Attune to **5 Magic Items**. +1 to all Saves for every 2 attuned items.
 
-#### **Ninji (The Blaster)**
+#### **Ninji (The Elemental Evoker)**
 *   **Level 3: Elemental Bypass:** Your spells ignore Resistance to your elemental damage type. Immunity counts as Resistance. You can use this feature a number of times equal to your **Proficiency Bonus** per Long Rest; after that, immunity is no longer downgraded until you finish a Long Rest.
 *   **Level 6: Potent Spellcasting:** Add your **Charisma modifier** to one damage roll of any elemental spell you cast of 1st level or higher.
 *   **Level 10: Echoes of Power:** A number of times per Long Rest equal to your **Proficiency Bonus**, when you cast a single-target spell, you can have it also affect one additional creature within 10 feet of the original target, dealing half damage (or half the effect) to the secondary target.
@@ -350,8 +350,8 @@ Once you use this feature, you can’t use it again until you finish a long rest
 
 ### **Shadow Archetypes**
 
-#### **The Ravager (Aggressive)**
-*Focus: Relentless melee combat and draining life.*
+#### **The Ravager (Path of Blood & Ruin)**
+*Focus: Relentless melee combat, blood-frenzy, and draining life.*
 
 *   **Level 3: Blood-Siphon**
     When you reduce a hostile creature to 0 hit points, you gain temporary hit points equal to your **Charisma modifier + your Shadow Warrior level**.
@@ -362,8 +362,8 @@ Once you use this feature, you can’t use it again until you finish a long rest
 *   **Level 14: Ravage Soul**
     Once per turn when you score a critical hit with a melee weapon attack, you regain Hit Points equal to **2d10 + your Charisma modifier**. You can benefit from this feature a number of times equal to your **Proficiency Bonus** per Long Rest.
 
-#### **The Weaver (Support)**
-*Focus: Protecting allies and mitigating damage.*
+#### **The Weaver (Path of the Umbral Tether)**
+*Focus: Protecting allies, absorbing pain, and mitigating damage.*
 
 *   **Level 3: Bolster Spirit**
     As a Bonus Action, you can grant temporary hit points to a creature within 30 feet equal to **1d8 + your Charisma modifier**. You can use this feature a number of times equal to your Proficiency Bonus per Long Rest.
@@ -374,8 +374,8 @@ Once you use this feature, you can’t use it again until you finish a long rest
 *   **Level 14: Symbiotic Aegis**
     You and friendly creatures within 10 feet of you have resistance to Necrotic and Psychic damage.
 
-#### **The Void-Arachnid (Control)**
-*Focus: Traps, webs, and immobilizing foes.*
+#### **The Void-Arachnid (Path of the Web Matrix)**
+*Focus: Traps, shadow webbing, and immobilizing foes.*
 
 *   **Level 3: Ink-Web**
     You can cast the *Web* spell without expending a spell slot a number of times equal to your **Proficiency Bonus**, regaining all uses on a Long Rest. When you cast it, creatures that fail their save against the web take **1d4 necrotic damage** at the start of their turn while restrained.
@@ -386,8 +386,8 @@ Once you use this feature, you can’t use it again until you finish a long rest
 *   **Level 14: Neurotoxin**
     Your Tendril Whip attacks can carry a paralytic venom. When you hit with your Tendril Whip, you can force the target to make a **Constitution saving throw against your Spell Save DC**. On a failure, the target is **Paralyzed** until the end of your next turn. You can use this feature a number of times equal to your **Proficiency Bonus** per Long Rest.
 
-#### **The Mind-Eater (Psionic)**
-*Focus: Mental attacks and disruption.*
+#### **The Mind-Eater (Path of the Psionic Void)**
+*Focus: Mental attacks, psionic assault, and psychic disruption.*
 
 *   **Level 3: Synaptic Shock**
     A number of times per Long Rest equal to your **Proficiency Bonus**, when you hit a creature with a weapon attack, you can deal an extra **1d6 Psychic damage**. The target cannot take Reactions until the start of its next turn.
@@ -398,8 +398,8 @@ Once you use this feature, you can’t use it again until you finish a long rest
 *   **Level 14: Mind Break**
     As an Action, you target one creature you can see within 60 feet. The target must make an Intelligence saving throw against your Spell Save DC. On a failed save, the target is **Stunned** for 1 minute as its mind fractures. The creature can repeat the saving throw at the end of each of its turns, ending the effect on a success. Once you use this feature, you cannot use it again until you finish a Long Rest.
 
-#### **The Harbinger (Magic)**
-*Focus: Ranged blasting and magical dominance.*
+#### **The Harbinger (Path of the Void Conduit)**
+*Focus: Ranged eldritch blasting and realm breach magic.*
 
 *   **Level 3: Void Bolt**
     You learn the *Eldritch Blast* cantrip. It counts as a Shadow Warrior spell for you.
