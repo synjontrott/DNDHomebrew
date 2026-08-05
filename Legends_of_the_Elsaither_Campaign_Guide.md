@@ -1446,704 +1446,1027 @@ At a point you can see within range, Mundus coaxes swift and ancient plant growt
 **Components:** V, S, M (a stone)  
 You summon an Earth Elemental spirit. It manifests in an unoccupied space that you can see. It uses the statistics of a **Stone Defender** (or Earth Elemental). It obeys your verbal commands.
 
-## **Terra (Protection)**
+## **Terra (Protection / Earth)**
+
 **Deity Cantrip: Terra's Shell (Earth)**  
 *Abjuration Cantrip*  
 **Casting Time:** 1 Action  
 **Range:** 30 feet  
 **Duration:** 1 Minute  
-You command the earth to protect. Choose one:
-*   **Wall:** Create a 5-foot wall of earth that provides half-cover.
-*   **Harden:** Grant an object +2 AC.
-*   **Shield:** A protective shell of earth surrounds a target within range. The target gains a **1d4 bonus to its AC** against the next attack made against it before the start of your next turn.
+You command the earth to protect and strike. Choose one:
+*   **Wall (Utility):** Create a 5-foot wall of earth that provides half-cover (+2 AC/Dex saves).
+*   **Harden (Utility):** Touch a nonmagical object or structure, granting it a +2 bonus to its AC and damage threshold for 1 minute.
+*   **Rock Strike (Damage):** You hurl a stone projectile at a target within range. Make a ranged spell attack. On a hit, deal **1d8 bludgeoning damage**.
 
-**Unique Spell: Guardian's Embrace**  
+**Unique Spell 1: Guardian's Embrace**  
 *2nd Level Abjuration*  
 **Casting Time:** 1 Action  
 **Range:** Self (30-foot radius)  
 **Duration:** Concentration, up to 1 minute  
 **Components:** V, S  
-A warm brown aura radiates from you. Creatures of your choice within 30 feet have **Advantage** on saving throws against being Frightened or Charmed, and gain a **+1 bonus to AC**.
+A warm amber aura radiates from you. Creatures of your choice within 30 feet gain a **+1 bonus to AC** and have **Advantage on saving throws against being Frightened or Charmed**.
 
-**Unique Spell: Fauna's Shield**
-*3rd Level Abjuration*
-**Casting Time:** 1 Reaction (which you take when you are hit by an attack)
-**Range:** Self
-**Duration:** Until the start of your next turn
-**Components:** S
-Terra's earth answers your call, wrapping your body in a shell of compacted stone and roots. Until the start of your next turn, you gain **Resistance to Bludgeoning, Piercing, and Slashing damage**.
+**Unique Spell 2: Fauna's Shield**  
+*3rd Level Abjuration*  
+**Casting Time:** 1 Reaction (when hit by an attack)  
+**Range:** Self  
+**Duration:** Until the start of your next turn  
+**Components:** S  
+Terra's earth wraps your body in compacted stone. Until the start of your next turn, you gain **Resistance to Bludgeoning, Piercing, and Slashing damage**.
 
-**Unique Spell: Nature's Rejuvenation**
-*4th Level Evocation*
-**Casting Time:** 1 Action
-**Range:** Touch
-**Duration:** Instantaneous
-**Components:** V, S
-Terra's restorative power flows through your touch, knitting wounds and purging corruption. You touch a creature, and it regains **4d8 + your Spellcasting modifier** Hit Points. This spell also ends one disease or one poison effect currently afflicting the target.
+**Unique Spell 3: Nature's Rejuvenation**  
+*4th Level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** Touch  
+**Duration:** Instantaneous  
+**Components:** V, S  
+Terra's restorative power flows through your touch. You touch a creature, restoring **4d8 + your Spellcasting modifier Hit Points** and curing one disease or poison.
+
+**Unique Spell 4: Terran Aegis**  
+*5th Level Abjuration*  
+**Casting Time:** 1 Action  
+**Range:** 60 feet  
+**Duration:** Concentration, up to 10 minutes  
+**Components:** V, S  
+You encase up to 4 willing creatures within range in dense elemental stone armor. Each target gains **30 Temporary Hit Points** and **Resistance to Bludgeoning, Piercing, and Slashing damage** for the duration.
+
+**Capstone Spell: Wrath of the Earth Mother**  
+*7th Level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** 120 feet  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+Terra strikes the ground, rupturing the battlefield in a 60-foot-radius area centered on a point you choose. Each creature of your choice in the area must make a **Dexterity saving throw** against your Spell Save DC, taking **8d10 bludgeoning damage** and being knocked **Prone** on a failed save, or half as much on a success. Additionally, an impenetrable 20-foot-tall wall of stone rises along the perimeter of the area, shielding your allies inside from outside attacks.
 
 ---
 
 ## **Lux (Healing / Light)**
+
 **Deity Cantrip: Lux's Beacon (Laser)**  
 *Evocation Cantrip*  
 **Casting Time:** 1 Action  
 **Range:** 30 feet  
 **Duration:** 1 Minute  
-You summon a beam of light. Choose one:
-*   **Illuminate:** An object sheds bright light in a 20-foot radius.
-*   **Signal:** Create a flash of light visible for 1 mile.
-*   **Laser:** Target a creature within range. It must succeed on a Constitution saving throw or take **1d8 radiant damage**.
+You summon a beam of pure light. Choose one:
+*   **Illuminate (Utility):** An object sheds bright light in a 20-foot radius and dim light for another 20 feet.
+*   **Signal (Utility):** Flash a beam into the sky visible up to 5 miles away, signaling allies.
+*   **Solar Ray (Damage):** Target a creature within range. It must succeed on a Constitution saving throw or take **1d8 radiant damage**.
 
-**Unique Spell: Luminous Flare**
-*2nd Level Evocation*
-**Casting Time:** 1 Action
-**Range:** Self (60-foot line)
-**Duration:** Instantaneous
-**Components:** V, S
-A stroke of brilliant light blasts out in a 60-foot line 5 feet wide. Each creature in the line must make a **Dexterity saving throw** against your Spell Save DC, taking **3d6 radiant damage** and becoming **Blinded** until the start of your next turn on a failed save, or half as much damage on a success.
+**Unique Spell 1: Luminous Flare**  
+*2nd Level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** Self (60-foot line)  
+**Duration:** Instantaneous  
+**Components:** V, S  
+A stroke of brilliant light blasts out in a 60-foot line 5 feet wide. Each creature in the line must make a **Dexterity saving throw**, taking **3d6 radiant damage** and becoming **Blinded** until the start of your next turn on a failed save, or half as much on a success.
 
-**Unique Spell: Healing Radiance**  
+**Unique Spell 2: Healing Radiance**  
 *3rd Level Evocation*  
 **Casting Time:** 1 Action  
 **Range:** Touch  
 **Duration:** Instantaneous  
 **Components:** V, S  
-Lux's healing radiance flows through your touch. You touch a creature, and it regains **5d8 + your Spellcasting modifier** Hit Points. This spell also ends one disease and one poison effect currently afflicting the target.
+Lux's soothing light flows through your touch, restoring **5d8 + your Spellcasting modifier Hit Points** to a touched creature and curing one disease and one poison.
 
-**Unique Spell: Prismatic Aura**  
+**Unique Spell 3: Prismatic Aura**  
 *4th Level Evocation*  
 **Casting Time:** 1 Action  
 **Range:** Self (20-foot radius)  
 **Duration:** Concentration, up to 1 minute  
 **Components:** V, S  
-A dazzling field of light surrounds you. You have **Resistance to Radiant and Necrotic damage**. When a hostile creature enters the area for the first time on a turn or starts its turn there, it must make a **Wisdom saving throw**, taking **4d8 radiant damage** on a failed save, or half as much on a success.
+A dazzling aura surrounds you. You have **Resistance to Radiant and Necrotic damage**. Hostile creatures that enter the area or start their turn there must make a **Wisdom saving throw**, taking **4d8 radiant damage** on a failed save, or half as much on a success.
+
+**Unique Spell 4: Dawn's Salvation**  
+*5th Level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** Self (30-foot radius)  
+**Duration:** Instantaneous  
+**Components:** V, S  
+A blinding burst of dawn energy erupts centered on you. Friendly creatures within 30 feet regain **5d8 + your Spellcasting modifier Hit Points**, while hostile creatures must make a **Constitution saving throw**, taking **5d8 radiant damage** and becoming **Blinded** for 1 minute on a failed save.
+
+**Capstone Spell: Crown of the Sun Sovereign**  
+*7th Level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** Self  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+You transform into a solar entity for 1 minute. For the duration, you gain a **60-foot Fly speed (Hover)**, immunity to Radiant damage and the Blinded condition, and friendly creatures within 30 feet of you regain **2d8 Hit Points** at the start of each of your turns and deal an extra **2d8 radiant damage** on their weapon attacks.
 
 ---
 
 ## **Lucerna (Power / Laser)**
+
 **Deity Cantrip: Lucerna's Flash (Laser)**  
 *Evocation Cantrip*  
 **Casting Time:** 1 Action  
 **Range:** 60 feet  
 **Duration:** Instantaneous  
-You create a burst of light. Choose one:
-*   **Blind:** A creature within range must succeed on a Constitution saving throw or take **1d6 radiant damage** and have **Disadvantage on its next attack roll**.
-*   **Distract:** Cause a flare that gives Advantage on the next attack against a target.
-*   **Burn:** Make a ranged spell attack. Deal **1d8 radiant damage**.
+You create a burst of laser light. Choose one:
+*   **Blind (Control):** A creature within range must succeed on a Constitution saving throw or take **1d6 radiant damage** and have **Disadvantage on its next attack roll**.
+*   **Distract (Utility):** Flash a flare that grants Advantage on the next attack made against a target before your next turn.
+*   **Searing Bolt (Damage):** Make a ranged spell attack against a target. On a hit, deal **1d8 radiant damage**.
 
-**Unique Spell: Searing Beam**
-*2nd Level Evocation*
-**Casting Time:** 1 Action
-**Range:** 60 feet
-**Duration:** Instantaneous
-**Components:** V, S
-You fire a piercing beam of focused laser energy. Make a **ranged spell attack**. On a hit, the target takes **3d8 radiant damage** and is outlined in light until the end of your next turn, preventing it from benefiting from cover or invisibility.
+**Unique Spell 1: Searing Beam**  
+*2nd Level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** 60 feet  
+**Duration:** Instantaneous  
+**Components:** V, S  
+Fire a piercing beam of focused laser energy. Make a **ranged spell attack**. On a hit, the target takes **3d8 radiant damage** and is outlined in light until the end of your next turn, preventing cover or invisibility benefits.
 
-**Unique Spell: Blinding Ray**
-*3rd Level Evocation*
-**Casting Time:** 1 Action
-**Range:** 60 feet
-**Duration:** Instantaneous
-**Components:** V, S
-You fire a concentrated bolt of searing energy at a creature. Make a **ranged spell attack**. On a hit, the target takes **5d10 radiant damage** and must succeed on a **Constitution saving throw** or be **Blinded** until the start of your next turn.
+**Unique Spell 2: Blinding Ray**  
+*3rd Level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** 60 feet  
+**Duration:** Instantaneous  
+**Components:** V, S  
+Fire a concentrated bolt of searing energy at a target. Make a **ranged spell attack**. On a hit, the target takes **5d10 radiant damage** and must succeed on a **Constitution saving throw** or be **Blinded** until the start of your next turn.
 
-**Unique Spell: Nova Surge**  
+**Unique Spell 3: Nova Surge**  
 *4th Level Evocation*  
 **Casting Time:** 1 Action  
 **Range:** Self (20-foot radius)  
 **Duration:** Instantaneous  
 **Components:** V, S  
-You release a sudden, blinding surge of radiant energy in a 20-foot radius around you. Each creature in the area must make a **Constitution saving throw**, taking **6d8 radiant damage** and becoming **Blinded** until the end of your next turn on a failed save, or half as much on a success.
+Release a sudden blinding surge of radiant energy. Each creature in a 20-foot radius must make a **Constitution saving throw**, taking **6d8 radiant damage** and becoming **Blinded** until the end of your next turn on a failed save, or half as much on a success.
+
+**Unique Spell 4: Laser Annihilation Barrage**  
+*5th Level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** 120 feet  
+**Duration:** Instantaneous  
+**Components:** V, S  
+You fire three orbital beams at targets within range. Make a ranged spell attack for each beam. On a hit, a beam deals **4d10 radiant damage**. You can direct the beams at one target or several.
+
+**Capstone Spell: Lucerna's Orbital Singularity**  
+*8th Level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** 150 feet  
+**Duration:** Instantaneous  
+**Components:** V, S  
+You call down a colossal pillar of solar laser fire in a 40-foot-radius, 100-foot-tall cylinder centered on a point within range. Each creature in the cylinder must make a **Dexterity saving throw**, taking **10d10 radiant damage** and **5d10 force damage** on a failed save, or half as much on a success. Nonmagical cover in the area is vaporized.
 
 ---
 
 ## **Gelu (Discipline / Ice)**
+
 **Deity Cantrip: Gelu's Shard (Ice)**  
 *Evocation Cantrip*  
 **Casting Time:** 1 Action  
 **Range:** 60 feet  
 **Duration:** Instantaneous  
-You manifest ice. Choose one:
-*   **Freeze:** Freeze a 5-foot cube of water.
-*   **Sculpt:** Create a small ice object or sculpture.
-*   **Strike:** Make a ranged spell attack against a target. On a hit, deal **1d10 cold damage**.
+You manifest icy cold. Choose one:
+*   **Freeze (Utility):** Freeze a 5-foot cube of water or liquid.
+*   **Sculpt (Utility):** Instantly shape a small ice tool or object.
+*   **Frost Shard (Damage):** Make a ranged spell attack. On a hit, deal **1d10 cold damage**.
 
-**Unique Spell: Cryogenic Lash**
-*2nd Level Evocation*
-**Casting Time:** 1 Action
-**Range:** 15 feet
-**Duration:** Instantaneous
-**Components:** S
-You lash out with a whip of sub-zero energy. Make a **melee spell attack**. On a hit, the target takes **3d8 cold damage** and its movement speed is **halved** until the start of your next turn.
+**Unique Spell 1: Cryogenic Lash**  
+*2nd Level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** 15 feet  
+**Duration:** Instantaneous  
+**Components:** S  
+Lash out with sub-zero energy. Make a **melee spell attack**. On a hit, the target takes **3d8 cold damage** and its movement speed is **halved** until the start of your next turn.
 
-**Unique Spell: Frostbound Aegis**
-*3rd Level Abjuration*
-**Casting Time:** 1 Action
-**Range:** Self
-**Duration:** Concentration, up to 1 minute
-**Components:** V, S
-A shell of crystalline frost encases you. For the duration, you gain a **+2 bonus to your Armor Class** and **Resistance to Cold damage**. When a creature hits you with a melee attack, its speed is reduced by **10 feet** until the start of your next turn.
+**Unique Spell 2: Frostbound Aegis**  
+*3rd Level Abjuration*  
+**Casting Time:** 1 Action  
+**Range:** Self  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+Encase yourself in crystalline frost. You gain a **+2 bonus to AC** and **Resistance to Cold damage**. When a creature hits you in melee, its speed is reduced by **10 feet** until the start of your next turn.
 
-**Unique Spell: Diamond Shroud**
-*4th Level Abjuration*
-**Casting Time:** 1 Reaction (when hit by an attack)
-**Range:** Self
-**Duration:** Until the start of your next turn
-**Components:** S
-Facets of diamond-hard ice erupt across your skin. You gain **Resistance to the damage type of the triggering attack** until the start of your next turn. If the attacker is within 5 feet of you, it takes **4d6 cold damage**.
+**Unique Spell 3: Diamond Shroud**  
+*4th Level Abjuration*  
+**Casting Time:** 1 Reaction (when hit by an attack)  
+**Range:** Self  
+**Duration:** Until the start of your next turn  
+**Components:** S  
+Diamond-hard ice erupts across your skin. Gain **Resistance to the triggering damage type** until your next turn. If the attacker is within 5 feet, it takes **4d6 cold damage**.
+
+**Unique Spell 4: Glacier Tomb**  
+*5th Level Transmutation*  
+**Casting Time:** 1 Action  
+**Range:** 60 feet  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+You flash-freeze a Large or smaller creature in a solid block of ice. The target must make a **Constitution saving throw**. On a failure, it is **Restrained** and **Incapacitated**, taking **5d8 cold damage** at the start of each of its turns. It can repeat the save at the end of each turn.
+
+**Capstone Spell: Absolute Zero Flash Freeze**  
+*7th Level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** Self (60-foot radius)  
+**Duration:** Instantaneous  
+**Components:** V, S  
+You detonate a sub-zero shockwave. Each hostile creature within 60 feet must make a **Constitution saving throw**, taking **8d8 cold damage** and becoming **Stunned** with a speed of 0 for 1 minute on a failed save (repeat save end of turn), or half as much damage and speed halved on a success.
 
 ---
 
 ## **Crystallia (Defense / Crystal)**
+
 **Deity Cantrip: Crystallia's Wind (Ice)**  
 *Evocation Cantrip*  
 **Casting Time:** 1 Action  
 **Range:** 60 feet  
 **Duration:** Instantaneous  
-You summon a freezing wind. Choose one:
-*   **Extinguish:** Put out a torch or campfire.
-*   **Chill:** Lower temperature in a 30-foot radius.
-*   **Slow:** A creature within range must succeed on a Constitution saving throw or take **1d6 cold damage** and have its speed reduced by 10 feet until the start of your next turn.
+You summon freezing wind. Choose one:
+*   **Extinguish (Utility):** Instantly douse a torch, lantern, or campfire.
+*   **Chill (Utility):** Lower the temperature in a 30-foot radius for 1 hour.
+*   **Glacial Breeze (Damage):** A target within range must succeed on a Constitution saving throw or take **1d6 cold damage** and have its speed reduced by 10 feet until your next turn.
 
-**Unique Spell: Permafrost Sanctuary**  
+**Unique Spell 1: Permafrost Sanctuary**  
 *2nd Level Transmutation*  
 **Casting Time:** 1 Action  
 **Range:** Self (20-foot radius)  
 **Duration:** Concentration, up to 1 minute  
 **Components:** V, S  
-The ground within 20 feet of you becomes covered in slippery ice (difficult terrain). Creatures of your choice inside the area have **Advantage on saving throws against Fire damage**.
+Slippery ice covers the ground within 20 feet (difficult terrain). Allies in the area have **Advantage on saving throws against Fire damage**.
 
-**Unique Spell: Frostbound Embrace**
-*3rd Level Abjuration*
-**Casting Time:** 1 Action
-**Range:** Touch
-**Duration:** Concentration, up to 1 minute
-**Components:** V, S
-You infuse a willing creature with defensive ice magic. For the duration, the target gains **Resistance to Bludgeoning, Piercing, and Slashing damage** and regenerates Hit Points equal to your **Spellcasting modifier** at the start of each of its turns (if above 0 HP).
+**Unique Spell 2: Frostbound Embrace**  
+*3rd Level Abjuration*  
+**Casting Time:** 1 Action  
+**Range:** Touch  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+Infuse a willing creature with defensive ice magic. Target gains **Resistance to Bludgeoning, Piercing, and Slashing damage** and regenerates Hit Points equal to your **Spellcasting modifier** at the start of each turn.
 
-**Unique Spell: Glacial Guardian**  
+**Unique Spell 3: Glacial Guardian**  
 *4th Level Conjuration*  
 **Casting Time:** 1 Action  
 **Range:** 60 feet  
 **Duration:** Concentration, up to 1 minute  
 **Components:** V, S  
-You summon a construct of solid ice (uses *Summon Construct* statistics, dealing Cold damage). It obeys your verbal commands.
+Summon a construct of solid ice (uses *Summon Construct* statistics, dealing Cold damage). It obeys your verbal commands.
+
+**Unique Spell 4: Prism Reflector Wall**  
+*5th Level Abjuration*  
+**Casting Time:** 1 Action  
+**Range:** 60 feet  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+Create a 30-foot-long, 10-foot-tall crystal wall. Whenever a ranged spell or weapon attack targets a creature behind the wall, the wall reflects the attack back at the attacker using the original attack roll.
+
+**Capstone Spell: Crystalline Fortress of Eternity**  
+*7th Level Abjuration*  
+**Casting Time:** 1 Action  
+**Range:** Self (30-foot radius)  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+A massive dome of unbreakable crystal encapsulates a 30-foot radius around you. Allies inside the dome are completely immune to outside damage, spells, and environmental hazards. Furthermore, allies inside regain **3d8 Hit Points** at the start of each turn.
 
 ---
 
 ## **Ossis (Focus / Bone)**
+
 **Deity Cantrip: Ossis' Spur (Bone)**  
 *Necromancy Cantrip*  
 **Casting Time:** 1 Action  
 **Range:** 60 feet  
 **Duration:** Instantaneous  
-You manipulate bone. Choose one:
-*   **Shape:** Carve or shape a small bone object.
-*   **Reinforce:** Grant an undead creature +1 AC for 1 minute.
-*   **Attack:** A bone spur erupts from the ground. Target must succeed on a Dexterity saving throw or take **1d8 piercing damage**.
+You manipulate skeletal bone. Choose one:
+*   **Shape (Utility):** Carve or shape a small bone object.
+*   **Reinforce (Utility):** Grant an undead creature +1 AC for 1 minute.
+*   **Bone Spur (Damage):** A bone spur erupts from the ground. Target must succeed on a Dexterity saving throw or take **1d8 piercing damage**.
 
-**Unique Spell: Bone Spike Armor**
-*2nd Level Abjuration*
-**Casting Time:** 1 Reaction (when targeted by a melee attack)
-**Range:** Self
-**Duration:** Instantaneous
-**Components:** S
-Sharp bone spikes erupt from your skin. You gain a **+3 bonus to AC** against the triggering attack. If the attack misses you, the attacker takes **2d6 piercing damage**.
+**Unique Spell 1: Bone Spike Armor**  
+*2nd Level Abjuration*  
+**Casting Time:** 1 Reaction (when targeted by a melee attack)  
+**Range:** Self  
+**Duration:** Instantaneous  
+**Components:** S  
+Bone spikes erupt across your body. Gain a **+3 bonus to AC** against the attack. If the attack misses, the attacker takes **2d6 piercing damage**.
 
-**Unique Spell: Necrotic Infusion**
-*3rd Level Necromancy*
-**Casting Time:** 1 Bonus Action
-**Range:** Touch
-**Duration:** Concentration, up to 1 minute
-**Components:** V, S
-You flood a weapon with void energy. For the duration, attacks made with the weapon deal an additional **2d6 force damage** on a hit.
+**Unique Spell 2: Necrotic Infusion**  
+*3rd Level Necromancy*  
+**Casting Time:** 1 Bonus Action  
+**Range:** Touch  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+Flood a weapon with void energy. Weapon attacks deal an additional **2d6 force damage** on a hit.
 
-**Unique Spell: Marrow Shatter**  
+**Unique Spell 3: Marrow Shatter**  
 *4th Level Necromancy*  
 **Casting Time:** 1 Action  
 **Range:** Self (30-foot cone)  
 **Duration:** Instantaneous  
 **Components:** V, S  
-You unleash a wave of bone-shattering energy in a 30-foot cone. Creatures must make a **Constitution saving throw**, taking **7d8 force damage** on a failed save, or half as much on a success.
+Unleash a wave of bone-shattering energy in a 30-foot cone. Creatures must make a **Constitution saving throw**, taking **7d8 force damage** on a failed save, or half as much on a success.
+
+**Unique Spell 4: Skeletal Harvester**  
+*5th Level Necromancy*  
+**Casting Time:** 1 Action  
+**Range:** 60 feet  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+Summon 4 skeletal phantoms to pin down up to 4 enemies within range. Each target must make a **Strength saving throw** or be **Restrained** and take **4d8 necrotic damage** at the start of its turn.
+
+**Capstone Spell: Ossis' Ossuary Rupture**  
+*8th Level Necromancy*  
+**Casting Time:** 1 Action  
+**Range:** Self (60-foot radius)  
+**Duration:** Instantaneous  
+**Components:** V, S  
+The earth detonates with millions of sharp bone fragments. Hostile creatures within 60 feet must make a **Constitution saving throw**, taking **10d8 force damage** and **5d8 necrotic damage** and becoming **Restrained** for 1 minute on a failed save, or half as much damage on a success.
 
 ---
 
 ## **Spina (Healing / Bone)**
+
 **Deity Cantrip: Spina's Mending (Bone)**  
 *Abjuration Cantrip*  
 **Casting Time:** 1 Action  
 **Range:** Touch  
 **Duration:** 1 Minute  
 You knit flesh and bone. Choose one:
-*   **Stabilize:** Stabilize a dying creature.
-*   **Repair:** Fix a break in a small nonmagical object.
-*   **Ward:** Touch a willing creature. Target gains **1d4 temporary hit points**.
+*   **Stabilize (Utility):** Stabilize a dying creature at 0 HP.
+*   **Repair (Utility):** Fix a break or crack in a small nonmagical object.
+*   **Calcified Ward (Support):** Touch a willing creature. Target gains **1d4 temporary hit points**.
 
-**Unique Spell: Calcified Ward**
-*2nd Level Abjuration*
-**Casting Time:** 1 Action
-**Range:** Touch
-**Duration:** 1 Hour
-**Components:** V, S
-You reinforce a creature's skeleton with dense calcified layers. The target gains **2d8 + your Spellcasting modifier Temporary Hit Points**. While it has these Temporary Hit Points, it gains a **+1 bonus to AC**.
+**Unique Spell 1: Calcified Ward**  
+*2nd Level Abjuration*  
+**Casting Time:** 1 Action  
+**Range:** Touch  
+**Duration:** 1 Hour  
+**Components:** V, S  
+Reinforce a creature's skeleton. Target gains **2d8 + your Spellcasting modifier Temporary Hit Points** and a **+1 bonus to AC** while Temp HP remains.
 
-**Unique Spell: Osseous Rejuvenation**
-*3rd Level Necromancy*
-**Casting Time:** 1 Action
-**Range:** Touch
-**Duration:** Instantaneous
-**Components:** V, S
-Spina's power floods the target with vital skeletal energy. You touch a willing creature. It gains **3d8 + your Spellcasting modifier Temporary Hit Points** and is cured of the Poisoned and Restrained conditions.
+**Unique Spell 2: Osseous Rejuvenation**  
+*3rd Level Necromancy*  
+**Casting Time:** 1 Action  
+**Range:** Touch  
+**Duration:** Instantaneous  
+**Components:** V, S  
+Touch a willing creature to grant **3d8 + your Spellcasting modifier Temporary Hit Points** and cure the Poisoned and Restrained conditions.
 
-**Unique Spell: Restorative Osteogenesis**
-*4th Level Transmutation*
-**Casting Time:** 1 Action
-**Range:** Touch
-**Duration:** Instantaneous
-**Components:** V, S
-You rapidly regenerate a creature's skeletal structure and tissue. You touch a creature; it regains **6d8 + your Spellcasting modifier Hit Points**, and any missing bones are regrown in moments.
+**Unique Spell 3: Restorative Osteogenesis**  
+*4th Level Transmutation*  
+**Casting Time:** 1 Action  
+**Range:** Touch  
+**Duration:** Instantaneous  
+**Components:** V, S  
+Rapidly regenerate a creature's skeleton and tissue. Target regains **6d8 + your Spellcasting modifier Hit Points**, and any missing bones are regrown.
+
+**Unique Spell 4: Osseous Resurgence**  
+*5th Level Necromancy*  
+**Casting Time:** 1 Action  
+**Range:** Touch  
+**Duration:** Instantaneous  
+**Components:** V, S  
+Touch a creature dead within 1 hour. It returns to life with **half its maximum Hit Points** and **40 Temporary Hit Points**.
+
+**Capstone Spell: Spina's Immortal Framework**  
+*7th Level Abjuration*  
+**Casting Time:** 1 Action  
+**Range:** Self (30-foot radius)  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+A sacred bone aura surrounds you. For the duration, allies within 30 feet **cannot be reduced below 1 Hit Point** by damage, gain a **+3 bonus to AC**, and are immune to critical hits.
 
 ---
 
 ## **Fumus (Chaos / Gas)**
+
 **Deity Cantrip: Fumus' Puff (Gas)**  
 *Conjuration Cantrip*  
 **Casting Time:** 1 Action  
 **Range:** 60 feet  
 **Duration:** 1 Minute  
-You control gases. Choose one:
-*   **Fog:** Create a 5-foot cube of dim light or obscurement.
-*   **Mask:** Change the scent of a creature.
-*   **Poison:** Create a puff of noxious gas. A creature within range must succeed on a Constitution saving throw or take **1d12 poison damage**.
+You control volatile gases. Choose one:
+*   **Fog (Utility):** Create a 5-foot cube of dim light or obscurement.
+*   **Mask (Utility):** Alter the scent of a creature or conceal tracks.
+*   **Poison Puff (Damage):** Target a creature within range. It must succeed on a Constitution saving throw or take **1d12 poison damage**.
 
-**Unique Spell: Ephemeral Mirage**
-*2nd Level Illusion*
-**Casting Time:** 1 Action
-**Range:** Self
-**Duration:** Concentration, up to 1 minute
-**Components:** V, S
-Fumus shrouds you in shifting clouds of gas. For the duration, attack rolls made against you have **Disadvantage**, and you have **Advantage on Dexterity saving throws**.
+**Unique Spell 1: Ephemeral Mirage**  
+*2nd Level Illusion*  
+**Casting Time:** 1 Action  
+**Range:** Self  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+Shroud yourself in gas. Attack rolls against you have **Disadvantage**, and you have **Advantage on Dexterity saving throws**.
 
-**Unique Spell: Volatile Upheaval**
-*3rd Level Evocation*
-**Casting Time:** 1 Action
-**Range:** 120 feet
-**Duration:** Instantaneous
-**Components:** V, S
-Detonate a pocket of gas in a 30-foot-radius sphere. Creatures in the area must make a **Dexterity saving throw**, taking **4d10 poison damage** on a failed save, or half as much on a success. The sphere becomes **heavily obscured** until the start of your next turn.
+**Unique Spell 2: Volatile Upheaval**  
+*3rd Level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** 120 feet  
+**Duration:** Instantaneous  
+**Components:** V, S  
+Detonate gas in a 30-foot sphere. Creatures take **4d10 poison damage** on a failed Dexterity save (half on success). Area becomes **heavily obscured** for 1 round.
 
-**Unique Spell: Choking Maelstrom**  
+**Unique Spell 3: Choking Maelstrom**  
 *4th Level Conjuration*  
 **Casting Time:** 1 Action  
 **Range:** 60 feet  
 **Duration:** Concentration, up to 1 minute  
 **Components:** V, S  
-You conjure a 20-foot-radius cloud of acidic gas. Creatures inside when cast or starting their turn there must make a **Constitution saving throw**, taking **5d8 poison damage** and becoming **Poisoned** on a failure, or half damage on a success.
+Conjure a 20-foot-radius cloud of gas. Creatures entering or starting turn inside take **5d8 poison damage** and become **Poisoned** on a failed Constitution save.
+
+**Unique Spell 4: Toxic Cyclone**  
+*5th Level Conjuration*  
+**Casting Time:** 1 Action  
+**Range:** 90 feet  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+Summon a 30-foot-radius gas tornado. Moves 30ft per turn under your command. Enemies inside take **6d8 acid and poison damage** and are Blinded.
+
+**Capstone Spell: Miasmic World-Blight**  
+*7th Level Conjuration*  
+**Casting Time:** 1 Action  
+**Range:** 150 feet  
+**Duration:** Concentration, up to 10 minutes  
+**Components:** V, S  
+Unleash a massive 60-foot-radius cloud of blighting poison gas. Enemies inside take **8d10 poison damage** at the start of their turn (Constitution save for half), and their armor AC is reduced by 2 while inside. The entire area is heavily obscured.
 
 ---
 
 ## **Nebula (Power / Gas)**
+
 **Deity Cantrip: Nebula's Cloud (Gas)**  
 *Conjuration Cantrip*  
 **Casting Time:** 1 Action  
 **Range:** 60 feet  
 **Duration:** 1 Minute  
 You summon cosmic gas. Choose one:
-*   **Light:** The gas sheds dim light in a 10-foot radius.
-*   **Float:** Levitate a small object weighing up to 10 lbs.
-*   **Acid:** Create a cloud of glowing gas. Target must succeed on a Dexterity saving throw or take **1d8 acid damage**.
+*   **Light (Utility):** The gas sheds dim light in a 10-foot radius.
+*   **Float (Utility):** Levitate a small object weighing up to 10 lbs.
+*   **Cosmic Acid (Damage):** Target must succeed on a Dexterity saving throw or take **1d8 acid damage**.
 
-**Unique Spell: Cosmic Surge**  
+**Unique Spell 1: Cosmic Surge**  
 *2nd Level Evocation*  
 **Casting Time:** 1 Action  
 **Range:** Self (30-foot line)  
 **Duration:** Instantaneous  
 **Components:** V, S  
-You channel cosmic gas in a 30-foot line 5 feet wide. Creatures take **3d10 force damage** on a failed Dexterity save and are pushed 15 feet away.
+Channel cosmic gas in a 30-foot line. Creatures take **3d10 force damage** on a failed Dexterity save and are pushed 15 feet.
 
-**Unique Spell: Nebulous Conduit**
-*4th Level Transmutation*
-**Casting Time:** 1 Action
-**Range:** Self
-**Duration:** Concentration, up to 1 minute
-**Components:** V, S
-You diffuse your physical form into cosmic gas. For the duration, you gain **Resistance to Bludgeoning, Piercing, and Slashing damage**, a **fly speed of 40 feet (Hover)**, and you can move through enemy spaces.
+**Unique Spell 2: Nebulous Conduit**  
+*4th Level Transmutation*  
+**Casting Time:** 1 Action  
+**Range:** Self  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+Diffuse your body into cosmic gas. Gain **Resistance to Bludgeoning, Piercing, and Slashing damage**, a **40-foot Fly speed (Hover)**, and move through enemy spaces.
 
-**Unique Spell: Celestial Emanation**
-*4th Level Evocation*
-**Casting Time:** 1 Action
-**Range:** Self (30-foot radius)
-**Duration:** Concentration, up to 1 minute
-**Components:** V, S
-Cosmic energy radiates from you. Friendly creatures within 30 feet gain **4d8 Temporary Hit Points**, +20 feet movement speed, and **Advantage on saving throws against being Charmed or Frightened**.
+**Unique Spell 3: Celestial Emanation**  
+*4th Level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** Self (30-foot radius)  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+Cosmic energy radiates from you. Allies within 30 feet gain **4d8 Temporary Hit Points**, +20 feet speed, and **Advantage on saves against Charm/Fear**.
+
+**Unique Spell 4: Starlight Warp**  
+*5th Level Transmutation*  
+**Casting Time:** 1 Action  
+**Range:** 120 feet  
+**Duration:** Instantaneous  
+**Components:** V, S  
+Teleport yourself and up to 4 willing allies to unoccupied spaces within 120 feet. An explosion of cosmic gas at the origin deals **4d10 force damage** to enemies within 10 feet.
+
+**Capstone Spell: Nebula's Cosmic Singularity**  
+*8th Level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** 150 feet  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+Open a cosmic black hole in a 40-foot radius. All enemies in range are pulled to the center, taking **10d10 force damage** and **5d10 radiant damage** on a failed Strength save, and having their movement speed reduced to 0 while inside.
 
 ---
 
 ## **Aes (Defense / Metal)**
+
 **Deity Cantrip: Aes' Shard (Metal)**  
 *Transmutation Cantrip*  
 **Casting Time:** 1 Action  
 **Range:** 60 feet  
 **Duration:** Instantaneous  
 You control metal. Choose one:
-*   **Magnetize:** Pull a metal object 10 feet toward you.
-*   **Mend:** Repair a small break in metal.
-*   **Strike:** Make a ranged spell attack. On a hit, deal **1d6 bludgeoning damage** and target has Disadvantage on its next attack.
+*   **Magnetize (Utility):** Pull a metal object 10 feet toward you.
+*   **Mend (Utility):** Repair a small break in metal or metallic armor.
+*   **Iron Strike (Damage):** Make a ranged spell attack. On a hit, deal **1d6 bludgeoning damage** and target has Disadvantage on its next attack.
 
-**Unique Spell: Metallic Ward**
-*2nd Level Abjuration*
-**Casting Time:** 1 Reaction (when a target within 60ft is attacked)
-**Range:** 60 feet
-**Duration:** Instantaneous
-**Components:** S
-Aes commands nearby metal to intercept a blow. The attacker has **Disadvantage on the triggering attack roll**, and the target gains **+2 AC** against that attack.
+**Unique Spell 1: Metallic Ward**  
+*2nd Level Abjuration*  
+**Casting Time:** 1 Reaction (when a target within 60ft is attacked)  
+**Range:** 60 feet  
+**Duration:** Instantaneous  
+**Components:** S  
+Command metal to intercept a blow. Attacker has **Disadvantage on the triggering attack**, and target gains **+2 AC**.
 
-**Unique Spell: Magnetic Repulsion**
-*3rd Level Evocation*
-**Casting Time:** 1 Action
-**Range:** Self (30-foot cone)
-**Duration:** Instantaneous
-**Components:** V, S
-Emit a powerful magnetic pulse. Creatures in the cone wearing or made of metal must make a **Strength saving throw**. On a failure, they take **4d10 force damage** and are pushed **30 feet** away.
+**Unique Spell 2: Magnetic Repulsion**  
+*3rd Level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** Self (30-foot cone)  
+**Duration:** Instantaneous  
+**Components:** V, S  
+Emit a magnetic pulse. Creatures wearing metal make a **Strength saving throw**, taking **4d10 force damage** and pushed **30 feet** away on a failure.
 
-**Unique Spell: Adamantine Fortress**  
+**Unique Spell 3: Adamantine Fortress**  
 *4th Level Abjuration*  
 **Casting Time:** 1 Action  
 **Range:** Self  
 **Duration:** Concentration, up to 1 minute  
 **Components:** V, S  
-Your skin transforms into liquid adamantine. You gain **Resistance to Bludgeoning, Piercing, and Slashing damage**, and you are **Immune to Critical Hits** for the duration.
+Transform skin into liquid adamantine. Gain **Resistance to Bludgeoning, Piercing, and Slashing damage** and **Immunity to Critical Hits**.
+
+**Unique Spell 4: Iron Maiden Cage**  
+*5th Level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** 60 feet  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+Encase an enemy in a solid iron cage. Target takes **6d10 piercing damage** and is **Restrained** (Strength save to break out).
+
+**Capstone Spell: Aes' Aegis of Unbreakable Steel**  
+*7th Level Abjuration*  
+**Casting Time:** 1 Action  
+**Range:** Self (30-foot radius)  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+A massive steel aura protects allies within 30 feet. Allies gain **Resistance to all damage except Psychic**, cannot be pushed or knocked Prone, and add your Spellcasting modifier to all saving throws.
 
 ---
 
 ## **Argenti (Power / Metal)**
+
 **Deity Cantrip: Argenti's Skin (Metal)**  
 *Abjuration Cantrip*  
 **Casting Time:** 1 Action  
 **Range:** Self  
 **Duration:** 1 Round  
 You reinforce your form. Choose one:
-*   **Harden:** Gain +1 AC against the next attack.
-*   **Strike:** Your unarmed strike deals 1d6 Slashing damage.
-*   **Coat:** Gain Resistance to Bludgeoning, Piercing, and Slashing damage until the start of your next turn.
+*   **Harden (Utility):** Gain +1 AC against the next attack.
+*   **Spike Strike (Damage):** Unarmed strike deals 1d6 Slashing damage.
+*   **Metal Coat (Utility):** Gain Resistance to Bludgeoning, Piercing, and Slashing damage until start of next turn.
 
-**Unique Spell: Ferrokinetic Surge**
-*2nd Level Transmutation*
-**Casting Time:** 1 Bonus Action
-**Range:** Self
-**Duration:** Concentration, up to 1 minute
-**Components:** V, S
-Living metal suffuses your muscles. For the duration, you gain a **+2 bonus to Strength**, and your weapon attacks deal an additional **1d6 slashing damage**.
+**Unique Spell 1: Ferrokinetic Surge**  
+*2nd Level Transmutation*  
+**Casting Time:** 1 Bonus Action  
+**Range:** Self  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+Living metal suffuses your body. Gain **+2 Strength** and weapon attacks deal an extra **1d6 slashing damage**.
 
-**Unique Spell: Metallic Tempest**
-*3rd Level Evocation*
-**Casting Time:** 1 Action
-**Range:** Self (20-foot radius)
-**Duration:** Concentration, up to 1 minute
-**Components:** V, S
-A storm of spinning metal shards whips around you. Creatures of your choice in the area must make a **Dexterity saving throw**, taking **4d10 slashing damage** on a failed save, or half as much on a success.
+**Unique Spell 2: Metallic Tempest**  
+*3rd Level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** Self (20-foot radius)  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+A storm of metal shards whips around you. Enemies inside take **4d10 slashing damage** at the start of their turn (Dexterity save for half).
 
-**Unique Spell: Molten Iron Barrage**  
+**Unique Spell 3: Molten Iron Barrage**  
 *4th Level Evocation*  
 **Casting Time:** 1 Action  
 **Range:** 120 feet  
 **Duration:** Instantaneous  
 **Components:** V, S  
-A 20-foot radius sphere of molten metal explodes. Creatures in the area take **5d8 force + 3d8 slashing damage** on a failed Dexterity save, or half as much on a success.
+A 20-foot sphere of molten metal explodes. Creatures take **5d8 force + 3d8 slashing damage** on a failed Dexterity save.
+
+**Unique Spell 4: Iron Titan Stance**  
+*5th Level Transmutation*  
+**Casting Time:** 1 Action  
+**Range:** Self  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+Transform into a 12-foot metal titan. Gain +3 AC, weapon attacks deal extra **2d8 slashing damage**, and you gain **20 Temporary Hit Points** at the start of each turn.
+
+**Capstone Spell: Argenti's Cataclysmic Blade-Storm**  
+*8th Level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** Self (100-foot line)  
+**Duration:** Instantaneous  
+**Components:** V, S  
+Unleash a tidal wave of 10,000 liquid blades in a 100-foot line 15 feet wide. Creatures take **12d10 slashing damage** on a failed Dexterity save (half on success), and all nonmagical armor worn by targets is shredded (-2 AC penalty).
 
 ---
 
 ## **Cultro (Discipline / Knife)**
+
 **Deity Cantrip: Cultro's Blade (Knife)**  
 *Conjuration Cantrip*  
 **Casting Time:** 1 Action  
 **Range:** 60 feet  
 **Duration:** Instantaneous  
-You manifest a blade. Choose one:
-*   **Cut:** Sever a rope or small nonmagical object.
-*   **Carve:** Mark a surface with a glowing symbol.
-*   **Throw:** Make a ranged spell attack. On a hit, deal **1d6 force damage**.
+You manifest spectral blades. Choose one:
+*   **Cut (Utility):** Sever a rope or small nonmagical object.
+*   **Carve (Utility):** Mark a surface with a glowing symbol.
+*   **Knife Throw (Damage):** Make a ranged spell attack. On a hit, deal **1d6 force damage**.
 
-**Unique Spell: Disciplined Blade**
-*2nd Level Transmutation*
-**Casting Time:** 1 Bonus Action
-**Range:** Self
-**Duration:** Concentration, up to 1 minute
-**Components:** V, S
-For the duration, you gain a **+1 bonus to weapon attack rolls**, and when you hit with a weapon attack, you deal additional **force damage equal to your Spellcasting modifier**.
+**Unique Spell 1: Disciplined Blade**  
+*2nd Level Transmutation*  
+**Casting Time:** 1 Bonus Action  
+**Range:** Self  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+Gain a **+1 bonus to weapon attack rolls**, and weapon hits deal extra **force damage equal to your Spellcasting modifier**.
 
-**Unique Spell: Ephemeral Stance**
-*3rd Level Abjuration*
-**Casting Time:** 1 Action
-**Range:** Self
-**Duration:** Concentration, up to 1 minute
-**Components:** V, S
-Enter a fluid blade stance. For the duration, you gain a **+2 bonus to AC**, your movement does not provoke **Opportunity Attacks**, and as a **Reaction** when attacked, you can impose **Disadvantage** on the attack roll.
+**Unique Spell 2: Ephemeral Stance**  
+*3rd Level Abjuration*  
+**Casting Time:** 1 Action  
+**Range:** Self  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+Enter a fluid blade stance. Gain **+2 AC**, movement provokes **no Opportunity Attacks**, and Reaction imposes Disadvantage on an incoming attack.
 
-**Unique Spell: Whispering Blades**  
+**Unique Spell 3: Whispering Blades**  
 *4th Level Conjuration*  
 **Casting Time:** 1 Action  
 **Range:** Self (10-foot radius)  
 **Duration:** Concentration, up to 1 minute  
 **Components:** S  
-A vortex of razor blades surrounds you. Hostile creatures that enter the area or start their turn there take **4d8 slashing damage** (Dexterity save for half).
+Razor blades surround you. Hostile creatures entering or starting turn inside take **4d8 slashing damage** (Dexterity save for half).
+
+**Unique Spell 4: Thousand-Cut Dash**  
+*5th Level Transmutation*  
+**Casting Time:** 1 Action  
+**Range:** 60 feet  
+**Duration:** Instantaneous  
+**Components:** V, S  
+Teleport 60 feet in a straight line through up to 5 enemies. Make a melee spell attack against each target passed; on a hit, deal **5d10 force damage**.
+
+**Capstone Spell: Cultro's Executioner Stance**  
+*7th Level Transmutation*  
+**Casting Time:** 1 Bonus Action  
+**Range:** Self  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+You enter a trance of pure martial perfection for 1 minute. For the duration, your weapon attacks **automatically score a Critical Hit on a roll of 18–20**, ignore nonmagical armor AC bonuses, and you can make **one additional weapon attack** whenever you take the Attack Action.
 
 ---
 
 ## **Venena (Chaos / Poison)**
+
 **Deity Cantrip: Venena's Spray (Poison)**  
 *Conjuration Cantrip*  
 **Casting Time:** 1 Action  
 **Range:** 10 feet  
 **Duration:** Instantaneous  
-You expel toxin. Choose one:
-*   **Coat:** Coat a weapon (next hit deals +1d4 poison damage).
-*   **Corrode:** Deal 1d4 damage to a nonmagical object.
-*   **Spray:** Target a creature within range. It must succeed on a Constitution saving throw or take **1d12 poison damage**.
+You expel virulent toxin. Choose one:
+*   **Coat (Utility):** Coat a weapon (next hit deals +1d4 poison damage).
+*   **Corrode (Utility):** Deal 1d4 damage to a nonmagical object.
+*   **Toxic Spray (Damage):** Target a creature within range. It must succeed on a Constitution saving throw or take **1d12 poison damage**.
 
-**Unique Spell: Corrosive Surge**
-*2nd Level Necromancy*
-**Casting Time:** 1 Action
-**Range:** 30 feet
-**Duration:** 1 Minute
-**Components:** V, S
-You project a concentrated jet of acidic poison. Make a **ranged spell attack**. On a hit, the target takes **3d10 poison damage**, and its **Armor Class is reduced by 1** for the duration (Constitution save at end of turn ends effect).
+**Unique Spell 1: Corrosive Surge**  
+*2nd Level Necromancy*  
+**Casting Time:** 1 Action  
+**Range:** 30 feet  
+**Duration:** 1 Minute  
+**Components:** V, S  
+Project a jet of acidic poison. Make a **ranged spell attack**. On a hit, deal **3d10 poison damage** and reduce target AC by 1 for 1 minute.
 
-**Unique Spell: Toxic Surge**  
+**Unique Spell 2: Toxic Surge**  
 *3rd Level Necromancy*  
 **Casting Time:** 1 Action  
 **Range:** Touch  
 **Duration:** Concentration, up to 1 minute  
 **Components:** V, S  
-Make a **melee spell attack**. On a hit, the target takes **5d10 poison damage** and must succeed on a **Constitution saving throw** or become **Poisoned** for the duration. While Poisoned, it takes **2d10 poison damage** at the start of each of its turns.
+Make a **melee spell attack**. On a hit, deal **5d10 poison damage** and target is **Poisoned** (taking 2d10 poison damage at start of turn).
 
-**Unique Spell: Virulent Cloud**  
+**Unique Spell 3: Virulent Cloud**  
 *4th Level Conjuration*  
 **Casting Time:** 1 Action  
 **Range:** 120 feet  
 **Duration:** Concentration, up to 1 minute  
 **Components:** V, S  
-A 20-foot-radius cloud of venomous gas appears. Creatures entering for the first time on a turn or starting their turn there must make a **Constitution saving throw**, taking **6d8 poison damage** on a failed save, or half as much on a success.
+A 20-foot cloud of gas appears. Creatures entering or starting turn inside take **6d8 poison damage** on a failed Constitution save.
+
+**Unique Spell 4: Neurotoxic Paralysis**  
+*5th Level Necromancy*  
+**Casting Time:** 1 Action  
+**Range:** 60 feet  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+Inject neurotoxin into a target. It takes **6d10 poison damage** and is **Paralyzed** on a failed Constitution save (repeat save end of turn).
+
+**Capstone Spell: Miasmic Eruption of Venena**  
+*8th Level Conjuration*  
+**Casting Time:** 1 Action  
+**Range:** 150 feet  
+**Duration:** Instantaneous  
+**Components:** V, S  
+A 60-foot-radius eruption of corrosive venom dissolves the battlefield. Creatures take **10d10 poison and acid damage** on a failed Constitution save (half on success). Targets failing the save suffer a permanent **−3 penalty to AC** until armor is repaired, and the area is heavily obscured.
 
 ---
 
 ## **Nex (Power / Death)**
+
 **Deity Cantrip: Nex's Toll (Death)**  
 *Necromancy Cantrip*  
 **Casting Time:** 1 Action  
 **Range:** 30 feet  
 **Duration:** Instantaneous  
 You channel death energy. Choose one:
-*   **Chill:** Extinguish a candle or small flame instantly.
-*   **Wither:** Cause a small non-magical plant to wither.
-*   **Decay:** Target a creature. It must make a Wisdom saving throw. On a failure, it takes **1d8 necrotic damage**.
+*   **Chill (Utility):** Extinguish a candle or small flame instantly.
+*   **Wither (Utility):** Cause a small non-magical plant to wither.
+*   **Death Toll (Damage):** Target a creature. It must make a Wisdom saving throw. On a failure, it takes **1d8 necrotic damage**.
 
-**Unique Spell: Death's Shroud**
-*2nd Level Abjuration*
-**Casting Time:** 1 Bonus Action
-**Range:** Self
-**Duration:** Concentration, up to 1 minute
-**Components:** V
-Wrap yourself in a shroud of death energy. For the duration, you gain **Resistance to Necrotic and Psychic damage**, and you cannot be Frightened.
+**Unique Spell 1: Death's Shroud**  
+*2nd Level Abjuration*  
+**Casting Time:** 1 Bonus Action  
+**Range:** Self  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V  
+Wrap yourself in death energy. Gain **Resistance to Necrotic and Psychic damage** and immunity to the Frightened condition.
 
-**Unique Spell: Soulrend Strike**
-*3rd Level Necromancy*
-**Casting Time:** 1 Bonus Action
-**Range:** Self
-**Duration:** Concentration, up to 1 minute
-**Components:** V
-The next time you hit a creature with a weapon attack before this spell ends, that attack deals an extra **4d8 necrotic damage**, and the target **cannot regain Hit Points** until the start of your next turn.
+**Unique Spell 2: Soulrend Strike**  
+*3rd Level Necromancy*  
+**Casting Time:** 1 Bonus Action  
+**Range:** Self  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V  
+Next weapon hit deals extra **4d8 necrotic damage**, and target **cannot regain Hit Points** until your next turn.
 
-**Unique Spell: Necrotic Onslaught**
-*4th Level Necromancy*
-**Casting Time:** 1 Action
-**Range:** 120 feet
-**Duration:** Instantaneous
-**Components:** V, S
-A 30-foot-radius sphere of death energy erupts at a point within range. Each creature in the area must make a **Dexterity saving throw**, taking **8d6 necrotic damage** on a failed save, or half as much on a success.
+**Unique Spell 3: Necrotic Onslaught**  
+*4th Level Necromancy*  
+**Casting Time:** 1 Action  
+**Range:** 120 feet  
+**Duration:** Instantaneous  
+**Components:** V, S  
+A 30-foot sphere of death energy erupts. Creatures take **8d6 necrotic damage** on a failed Dexterity save (half on success).
+
+**Unique Spell 4: Reaper's Harvest**  
+*5th Level Necromancy*  
+**Casting Time:** 1 Action  
+**Range:** Self (30-foot cone)  
+**Duration:** Instantaneous  
+**Components:** V, S  
+Unleash a 30-foot cone of reaping death. Creatures take **6d10 necrotic damage** on a failed Constitution save. You regain Hit Points equal to **half the total damage dealt**.
+
+**Capstone Spell: Nex's Avatar of Utter Extinction**  
+*8th Level Necromancy*  
+**Casting Time:** 1 Action  
+**Range:** Self  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+Transform into an avatar of death for 1 minute. Gain immunity to Necrotic and Psychic damage, enemies within 30 feet have **Disadvantage on saving throws**, and your weapon attacks deal an additional **3d10 necrotic damage**.
 
 ---
 
 ## **Anastasia (Resurrection / Life)**
+
 **Deity Cantrip: Anastasia's Touch (Life)**  
 *Abjuration Cantrip*  
 **Casting Time:** 1 Action  
 **Range:** Touch  
 **Duration:** Instantaneous  
-You preserve life. Choose one:
-*   **Spare:** Stabilize a dying creature.
-*   **Bless:** Target gains +1d4 to its next saving throw.
-*   **Guard:** Target gains Advantage on death saving throws until the start of your next turn.
+You preserve life force. Choose one:
+*   **Spare (Utility):** Stabilize a dying creature at 0 HP.
+*   **Bless (Utility):** Target gains +1d4 to its next saving throw.
+*   **Life Guard (Support):** Target gains Advantage on death saving throws until your next turn.
 
-**Unique Spell: Life-Thread Blessing**
-*2nd Level Evocation*
-**Casting Time:** 1 Action
-**Range:** Touch
-**Duration:** Instantaneous
-**Components:** V, S
-You touch a creature and weave golden strands of life force into its body. The target regains **2d8 + your Spellcasting modifier Hit Points** and has **Advantage on its next saving throw**.
+**Unique Spell 1: Life-Thread Blessing**  
+*2nd Level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** Touch  
+**Duration:** Instantaneous  
+**Components:** V, S  
+Touch a creature to restore **2d8 + your Spellcasting modifier Hit Points** and grant **Advantage on its next saving throw**.
 
-**Unique Spell: Revenant's Vigor**
-*3rd Level Necromancy*
-**Casting Time:** 1 Action
-**Range:** Touch
-**Duration:** Concentration, up to 1 minute
-**Components:** V, S
-You touch a willing creature. For the duration, the target has **Advantage on Strength, Dexterity, and Constitution saving throws**, is **Immune to the Frightened condition**, and has **Resistance to Necrotic damage**.
+**Unique Spell 2: Revenant's Vigor**  
+*3rd Level Necromancy*  
+**Casting Time:** 1 Action  
+**Range:** Touch  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+Touch a willing creature. Target gains **Advantage on Str/Dex/Con saves**, immunity to Frightened, and **Resistance to Necrotic damage**.
 
-**Unique Spell: Soulweave**
-*4th Level Necromancy*
-**Casting Time:** 1 Action
-**Range:** Touch
-**Duration:** Instantaneous
-**Components:** V, S, M (oils worth 100 cc, consumed)
-You touch a creature that has died within the last 1 minute. The creature returns to life with **1 Hit Point**, and all diseases and poisons afflicting it at death are cured.
+**Unique Spell 3: Soulweave Pulse**  
+*4th Level Necromancy*  
+**Casting Time:** 1 Action  
+**Range:** Touch  
+**Duration:** Instantaneous  
+**Components:** V, S, M (oils worth 100 cc, consumed)  
+Touch a creature dead within 1 minute. It returns to life with **1 Hit Point** and cured of diseases and poisons.
+
+**Unique Spell 4: Divine Reconstitution**  
+*5th Level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** Touch  
+**Duration:** Instantaneous  
+**Components:** V, S  
+Touch a target dead up to 24 hours. Return it to life with **full Hit Points** and cured of all conditions and poisons.
+
+**Capstone Spell: Anastasia's Miracle of Rebirth**  
+*7th Level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** Self (60-foot radius)  
+**Duration:** Instantaneous  
+**Components:** V, S  
+A blinding shockwave of holy resurrection radiates 60 feet. All dead allies within the area killed within the last 24 hours return to life with **half their maximum Hit Points**, and all living allies in range heal **50 Hit Points**.
 
 ---
 
 ## **Lucilus (Evil / Mind)**
+
 **Deity Cantrip: Lucilus' Shadow (Mind)**  
 *Enchantment Cantrip*  
 **Casting Time:** 1 Action  
 **Range:** 30 feet  
 **Duration:** 1 Minute  
 You manipulate minds. Choose one:
-*   **Obscure:** Create a 5-foot cube of dim light or darkness.
-*   **Whisper:** Create spooky sounds or whispers in an area.
-*   **Drain:** Target a creature. It must make a Charisma saving throw. On a failure, it takes **1d10 psychic damage**.
+*   **Obscure (Utility):** Create a 5-foot cube of dim light or darkness.
+*   **Whisper (Utility):** Create spooky sounds or whispers in an area.
+*   **Mind Drain (Damage):** Target a creature. It must make a Charisma saving throw. On a failure, it takes **1d10 psychic damage**.
 
-**Unique Spell: Malicious Whisper**
-*2nd Level Enchantment*
-**Casting Time:** 1 Action
-**Range:** 60 feet
-**Duration:** Instantaneous
-**Components:** V, S
-You send a crushing psychic whisper to a creature within range. Target must make a **Wisdom saving throw**. On a failed save, it takes **3d6 psychic damage** and is **Frightened** of you until the end of its next turn. On a success, it takes half damage and is not Frightened.
+**Unique Spell 1: Malicious Whisper**  
+*2nd Level Enchantment*  
+**Casting Time:** 1 Action  
+**Range:** 60 feet  
+**Duration:** Instantaneous  
+**Components:** V, S  
+Send a crushing psychic whisper to a target. It must make a **Wisdom saving throw**, taking **3d6 psychic damage** and becoming **Frightened** for 1 round on a failure.
 
-**Unique Spell: Dark Embrace**
-*3rd Level Enchantment*
-**Casting Time:** 1 Action
-**Range:** Self (20-foot radius)
-**Duration:** Concentration, up to 1 minute
-**Components:** V, S
-Lucilus' malevolent aura radiates from you. Hostile creatures in the area must succeed on a **Charisma saving throw** or be **Charmed** for the duration. While Charmed, a creature takes **Spellcasting modifier Necrotic damage** at the start of each turn.
+**Unique Spell 2: Dark Embrace**  
+*3rd Level Enchantment*  
+**Casting Time:** 1 Action  
+**Range:** Self (20-foot radius)  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+Lucilus' malevolent aura radiates from you. Hostile creatures in the area must succeed on a **Charisma saving throw** or be **Charmed**, taking **Spellcasting modifier Necrotic damage** per turn.
 
-**Unique Spell: Shadowbound Enthrallment**
-*4th Level Enchantment*
-**Casting Time:** 1 Action
-**Range:** 60 feet
-**Duration:** Concentration, up to 1 minute
-**Components:** V, S
-Target up to 3 creatures within range. Each target must make a **Wisdom saving throw** or be **Charmed** for the duration. While Charmed, you can use a **Bonus Action** to mentally command affected creatures to move up to their speed.
+**Unique Spell 3: Shadowbound Enthrallment**  
+*4th Level Enchantment*  
+**Casting Time:** 1 Action  
+**Range:** 60 feet  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+Target up to 3 creatures. Each target must make a **Wisdom saving throw** or be **Charmed**. Bonus Action to mentally command Charmed targets to move up to their speed.
+
+**Unique Spell 4: Mind-Shatter Thrall**  
+*5th Level Enchantment*  
+**Casting Time:** 1 Action  
+**Range:** 60 feet  
+**Duration:** Concentration, up to 1 hour  
+**Components:** V, S  
+Target 1 creature within range. It must succeed on a **Wisdom saving throw** or be totally dominated under your telepathic control for 1 hour (as *Dominate Person*).
+
+**Capstone Spell: Lucilus' Existential Nightmare**  
+*8th Level Enchantment*  
+**Casting Time:** 1 Action  
+**Range:** Self (60-foot radius)  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+Unleash a wave of psychic horror. Enemies within 60 feet must make a **Wisdom saving throw**, taking **10d10 psychic damage** and becoming **Stunned** for 1 minute on a failed save (repeat save end of turn), or half as much damage on a success.
 
 ---
 
 ## **Umbra (Darkness / Shadow)**
+
 **Deity Cantrip: Umbra's Tendril (Shadow)**  
 *Evocation Cantrip*  
 **Casting Time:** 1 Action  
 **Range:** 60 feet  
 **Duration:** Instantaneous  
 You wield darkness. Choose one:
-*   **Snuff:** Put out a torch or flame.
-*   **Grab:** Move a small object 10 feet.
-*   **Lash:** Target a creature within range. It must succeed on a Dexterity saving throw or take **1d8 necrotic damage**.
+*   **Snuff (Utility):** Put out a torch or light source instantly.
+*   **Grab (Utility):** Move a small object 10 feet.
+*   **Shadow Lash (Damage):** Target a creature within range. It must succeed on a Dexterity saving throw or take **1d8 necrotic damage**.
 
-**Unique Spell: Veil of Shadows**
-*2nd Level Illusion*
-**Casting Time:** 1 Action
-**Range:** Self
-**Duration:** Concentration, up to 1 minute
-**Components:** V, S
-Shadows swirl around you. For the duration, you gain **Advantage on Dexterity (Stealth) checks**, and attack rolls against you have Disadvantage while you are in dim light or darkness.
+**Unique Spell 1: Veil of Shadows**  
+*2nd Level Illusion*  
+**Casting Time:** 1 Action  
+**Range:** Self  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+Shadows swirl around you. Gain **Advantage on Dexterity (Stealth) checks**, and attack rolls against you have Disadvantage in dim light or darkness.
 
-**Unique Spell: Nocturnal Grasp**
-*3rd Level Necromancy*
-**Casting Time:** 1 Reaction (when a creature within 60ft takes damage)
-**Range:** 60 feet
-**Duration:** Instantaneous
-**Components:** V, S
-Plunge tendrils of darkness into a wounded creature. Target must make a **Constitution saving throw**, taking **4d8 necrotic damage** on a failed save, or half as much on a success. You regain Hit Points equal to **half the necrotic damage dealt**.
+**Unique Spell 2: Nocturnal Grasp**  
+*3rd Level Necromancy*  
+**Casting Time:** 1 Reaction (when a creature within 60ft takes damage)  
+**Range:** 60 feet  
+**Duration:** Instantaneous  
+**Components:** V, S  
+Plunge tendrils of darkness into a wounded target. It must make a **Constitution saving throw**, taking **4d8 necrotic damage** on a failure, and you regain HP equal to **half the damage dealt**.
 
-**Unique Spell: Abyssal Void**
-*4th Level Evocation*
-**Casting Time:** 1 Action
-**Range:** 120 feet
-**Duration:** Concentration, up to 1 minute
-**Components:** V, S
-Open a 20-foot-radius sphere of pure void filled with magical darkness and cold. Creatures inside are **Blinded**. At the start of their turn, creatures take **3d6 cold damage** and **3d6 necrotic damage**.
+**Unique Spell 3: Abyssal Void**  
+*4th Level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** 120 feet  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+Open a 20-foot sphere of pure void filled with magical darkness. Creatures inside are Blinded and take **3d6 cold damage** and **3d6 necrotic damage** at start of turn.
+
+**Unique Spell 4: Shadow Warp Strike**  
+*5th Level Necromancy*  
+**Casting Time:** 1 Action  
+**Range:** 60 feet  
+**Duration:** Instantaneous  
+**Components:** V, S  
+Teleport 60 feet to an unoccupied space adjacent to an enemy, make a melee spell attack for **6d10 necrotic damage**, and teleport back to your original position.
+
+**Capstone Spell: Umbra's Eclipse of the Void**  
+*7th Level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** Self (100-foot radius)  
+**Duration:** Concentration, up to 10 minutes  
+**Components:** V, S  
+Summon a 100-foot-radius realm of total magical darkness. You gain **Truesight 120ft** and a **+3 bonus to AC**, while enemies inside take **4d10 necrotic damage** at the start of each of their turns.
 
 ---
 
 ## **Orion (Energy / Cosmic Shadow)**
+
 **Deity Cantrip: Orion's Star (Shadow)**  
 *Evocation Cantrip*  
 **Casting Time:** 1 Action  
 **Range:** 60 feet  
 **Duration:** Instantaneous  
 You wield shadow light. Choose one:
-*   **Flash:** Distract a creature (Advantage on next attack against it).
-*   **Glow:** Object sheds dim purple light in 10-foot radius.
-*   **Blast:** Make a ranged spell attack. On a hit, deal **1d8 psychic damage**.
+*   **Flash (Utility):** Distract a creature (Advantage on next attack against it).
+*   **Glow (Utility):** Object sheds dim purple light in a 10-foot radius.
+*   **Star Blast (Damage):** Make a ranged spell attack. On a hit, deal **1d8 psychic damage**.
 
-**Unique Spell: Cosmic Pulse**
-*2nd Level Evocation*
-**Casting Time:** 1 Action
-**Range:** Self (30-foot line)
-**Duration:** Instantaneous
-**Components:** V, S
-Fire a pulse of shadow energy in a 30-foot line 5 feet wide. Creatures take **3d8 force damage** on a failed Dexterity save and are pushed 10 feet away.
+**Unique Spell 1: Cosmic Pulse**  
+*2nd Level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** Self (30-foot line)  
+**Duration:** Instantaneous  
+**Components:** V, S  
+Fire a pulse of shadow energy in a 30-foot line. Creatures take **3d8 force damage** on a failed Dexterity save and are pushed 10 feet.
 
-**Unique Spell: Tendril's Rebuke**
-*3rd Level Conjuration*
-**Casting Time:** 1 Action
-**Range:** 60 feet
-**Duration:** Concentration, up to 1 minute
-**Components:** V, S
-Fling tendrils of shadow energy at a creature. Target must make a **Strength saving throw** or be **Restrained** for the duration. While Restrained, target takes **3d8 necrotic damage** at the start of each of its turns.
+**Unique Spell 2: Tendril's Rebuke**  
+*3rd Level Conjuration*  
+**Casting Time:** 1 Action  
+**Range:** 60 feet  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+Fling shadow tendrils at a target. It must make a **Strength saving throw** or be **Restrained** (taking 3d8 necrotic damage at start of turn).
 
-**Unique Spell: Starlit Veil**
-*4th Level Illusion*
-**Casting Time:** 1 Action
-**Range:** Self (30-foot radius)
-**Duration:** Concentration, up to 10 minutes
-**Components:** V, S
-Magical starlit darkness fills a 30-foot-radius sphere centered on you. You and chosen allies can see through this darkness normally. Enemies entering for the first time or starting their turn inside must succeed on a **Wisdom saving throw** or be **Frightened** until leaving the area.
+**Unique Spell 3: Starlit Veil**  
+*4th Level Illusion*  
+**Casting Time:** 1 Action  
+**Range:** Self (30-foot radius)  
+**Duration:** Concentration, up to 10 minutes  
+**Components:** V, S  
+Magical starlit darkness fills a 30-foot radius. Allies see through normally; enemies entering must succeed on a **Wisdom saving throw** or be Frightened.
+
+**Unique Spell 4: Supernova Flash**  
+*5th Level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** Self (30-foot radius)  
+**Duration:** Instantaneous  
+**Components:** V, S  
+Detonate a radiant/shadow burst. Creatures take **6d10 force and radiant damage** and are Blinded and Deafened for 1 minute on a failed Constitution save.
+
+**Capstone Spell: Orion's Cosmic Cataclysm**  
+*8th Level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** 150 feet  
+**Duration:** Instantaneous  
+**Components:** V, S  
+A massive star explodes in a 40-foot radius. Creatures take **12d10 force damage**, are knocked **Prone**, and become **Stunned** for 1 round on a failed Constitution save, or half as much damage on a success.
 
 ---
 
 ## **Zarta (Raw / Void)**
+
 **Deity Cantrip: Zarta's Blast (Void)**  
 *Necromancy Cantrip*  
 **Casting Time:** 1 Action  
 **Range:** 60 feet  
 **Duration:** Instantaneous  
-You channel void. Choose one:
-*   **Destroy:** Deal 1d4 force damage to a nonmagical object.
-*   **Fear:** Cause a spooky sensory noise or flicker of shadow.
-*   **Rend:** Target must succeed on a Constitution saving throw or take **1d6 necrotic damage** and cannot regain hit points until the start of your next turn.
+You channel raw void. Choose one:
+*   **Destroy (Utility):** Deal 1d4 force damage to a nonmagical object.
+*   **Fear (Utility):** Cause a sensory noise or shadow flicker to frighten ambient creatures.
+*   **Void Rend (Damage):** Target must succeed on a Constitution saving throw or take **1d6 necrotic damage** and cannot regain hit points until your next turn.
 
-**Unique Spell: Void Shear**
-*2nd Level Evocation*
-**Casting Time:** 1 Action
-**Range:** 60 feet
-**Duration:** Instantaneous
-**Components:** V, S
-Tear a rift in space targeting one creature. Make a **ranged spell attack**. On a hit, target takes **3d8 force damage** and cannot take Reactions until the start of your next turn.
+**Unique Spell 1: Void Shear**  
+*2nd Level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** 60 feet  
+**Duration:** Instantaneous  
+**Components:** V, S  
+Tear a spatial rift at a target. Make a **ranged spell attack**. On a hit, deal **3d8 force damage** and target cannot take Reactions until your next turn.
 
-**Unique Spell: Entropy Field**
-*3rd Level Necromancy*
-**Casting Time:** 1 Action
-**Range:** Self (20-foot radius)
-**Duration:** Concentration, up to 1 minute
-**Components:** V, S
-A field of decaying energy surrounds you. Enemies in the area take **3d6 necrotic damage** at the start of their turn and have **Disadvantage on Strength and Constitution saving throws**.
+**Unique Spell 2: Entropy Field**  
+*3rd Level Necromancy*  
+**Casting Time:** 1 Action  
+**Range:** Self (20-foot radius)  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+Decaying energy surrounds you. Enemies take **3d6 necrotic damage** at start of turn and have **Disadvantage on Strength and Constitution saving throws**.
 
-**Unique Spell: Void Collapse**  
+**Unique Spell 3: Void Collapse**  
 *4th Level Evocation*  
 **Casting Time:** 1 Action  
 **Range:** 120 feet  
 **Duration:** Instantaneous  
 **Components:** V, S  
-A shadow rift collapses in a 30-foot sphere. Creatures in the area take **7d8 force damage** and are pulled 20 feet toward the center on a failed Constitution save, or take half damage and no pull on a success.
+A shadow rift collapses in a 30-foot sphere. Creatures take **7d8 force damage** and are pulled 20 feet toward the center on a failed Constitution save.
+
+**Unique Spell 4: Disintegration Wave**  
+*5th Level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** Self (60-foot cone)  
+**Duration:** Instantaneous  
+**Components:** V, S  
+A wave of raw void disintegrates matter in a 60-foot cone. Creatures take **8d8 force damage** on a failed Dexterity save. Targets reduced to 0 HP are turned to dust.
+
+**Capstone Spell: Zarta's Void Asunder**  
+*8th Level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** 150 feet  
+**Duration:** Instantaneous  
+**Components:** V, S  
+You tear a permanent tear in reality centered on a point within range. Creatures in a 40-foot-radius sphere take **12d10 force and psychic damage** on a failed Constitution save (half on success), and survivors are **Banished** to the Void until the end of your next turn.
 
