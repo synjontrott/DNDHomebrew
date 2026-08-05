@@ -39,7 +39,7 @@ In the Elsaither universe, elemental affinity dictates resistance and power.
 ## **Genempriea (Techno Cluster)**
 **Creature Type:** Humanoid  
 **Size:** Medium (5–7 feet tall)  
-**Speed:** 40 feet
+**Speed:** 30 feet
 
 *   **Age:** Long-lived (1,000+ years).
 *   **Elementally Charged:** You choose your element at character creation. You gain **Resistance** to your element's primary damage type. You can also use cantrips of your chosen element from the Savaroen spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells (choose when you select this species).
@@ -64,12 +64,7 @@ In the Elsaither universe, elemental affinity dictates resistance and power.
 
 *   **Age:** Similar to Elves.
 *   **Elementally Charged:** You choose your element at character creation. You gain **Resistance** to your element's primary damage type. You can also use cantrips of your chosen element from the Savaroen spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells (choose when you select this species).
-*   **Versatile Training:** You gain proficiency in one skill of your choice. Additionally, you gain a regional benefit based on your origin:
-    *   *Tuvotor:* Proficiency in Intimidation.
-    *   *Raiben:* Proficiency in Athletics.
-    *   *Vailum:* Proficiency in Survival.
-    *   *Middlesvista:* Proficiency in Persuasion.
-    *   *Scarsgough:* Proficiency in Insight.
+*   **Versatile Training:** You gain proficiency in one skill of your choice from your regional origin (*Tuvotor:* Intimidation, *Raiben:* Athletics, *Vailum:* Survival, *Middlesvista:* Persuasion, *Scarsgough:* Insight).
 
 ## **Nyxid (Symbiote)**
 **Creature Type:** Aberration  
@@ -169,8 +164,7 @@ At 5th level, whenever you expend a Spell Slot of 3rd level or higher, you gain 
 
 **Elemental Specialty**
 At 7th level, choose one specialization:
-*   **Animal Spirit:** You gain proficiency in Animal Handling. As an Action, you can expend a use of *Elemental Surge* to summon a **Spirit Companion** (use *Summon Beast* stats, dealing elemental damage). It lasts for 1 hour (Concentration).
-*   **Hiarelobi (Dual Element):** Choose a second element. You gain Resistance to its primary damage type. When you cast a spell that deals elemental damage, you can change its damage type to your second element. Once per Long Rest, when you roll damage for a spell, you can deal maximum damage instead of rolling (Fusion Blast).
+*   **Hiarelobi (Dual Element):** Choose a second element. You gain Resistance to its primary damage type. When you cast a spell that deals elemental damage, you can change its damage type to your second element. Once per Long Rest, when you roll damage for a spell of 1st through 5th level, you can deal maximum damage instead of rolling (Fusion Blast).
 
 **Improved Surge**
 At 11th level, the extra damage from your *Elemental Surge* increases to **1d8**.
@@ -209,7 +203,7 @@ At 20th level, as a Bonus Action, you manifest a **Divine Elemental Weapon** for
     *   *Restriction:* You can only concentrate on spells that deal your primary elemental damage type.
 *   **Level 6: Extra Attack:** Attack twice per Action.
 *   **Level 10: Furious Focus:** Advantage on Constitution saves to maintain concentration while in Trance.
-*   **Level 14: Retaliatory Burst:** When hit in melee while in Trance, Reaction to deal **CHA + Level** elemental damage to the attacker.
+*   **Level 14: Retaliatory Burst:** When a creature hits you with a melee attack while you are in Trance, you can use your Reaction to force the attacker to make a **Dexterity saving throw against your Spell Save DC**. On a failure, the attacker takes **2d10 + your Charisma modifier** elemental damage, or half as much on a successful save.
 
 #### **Technika (The Iron-Man)**
 *   **Level 3: Exo-Suit Integration:** Gain proficiency in **Heavy Armor** and **Martial Weapons**.
@@ -235,7 +229,7 @@ At 20th level, as a Bonus Action, you manifest a **Divine Elemental Weapon** for
 
 #### **Ninji (The Blaster)**
 *   **Level 3: Elemental Bypass:** Your spells ignore Resistance to your elemental damage type. Immunity counts as Resistance. You can use this feature a number of times equal to your **Proficiency Bonus** per Long Rest; after that, immunity is no longer downgraded until you finish a Long Rest.
-*   **Level 6: Potent Spellcasting:** Add **Charisma modifier** to the damage roll of your elemental spells.
+*   **Level 6: Potent Spellcasting:** Add your **Charisma modifier** to one damage roll of any elemental spell you cast of 1st level or higher.
 *   **Level 10: Echoes of Power:** A number of times per Long Rest equal to your **Proficiency Bonus**, when you cast a single-target spell, you can have it also affect one additional creature within 10 feet of the original target, dealing half damage (or half the effect) to the secondary target.
 *   **Level 14: Elemental Cataclysm:**
     *   **Overchannel:** 1/Long Rest, maximize damage of a 1st-5th level spell.
@@ -333,7 +327,7 @@ At 3rd level, you gain eldritch alterations to your form. You choose one manifes
 2.  **Fibrous Haste:** Your walking speed increases by 10 feet.
 3.  **Tendril Lash:** When a creature enters your reach, you can use your Reaction to make an opportunity attack with your Tendril Whip.
 4.  **Armor of Elsaither:** You can cast *Mage Armor* on yourself at will, without expending a spell slot.
-5.  **Neural Overclock:** You gain proficiency in Constitution saving throws.
+5.  **Neural Overclock:** You gain Advantage on Constitution saving throws made to maintain Concentration on spells.
 6.  **Void-Grip:** You gain a climbing speed equal to your walking speed. You can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free.
 7.  **Shadow-Stitch:** When you hit a creature with your Natural Weapons, its speed is reduced by 10 feet until the start of your next turn.
 
@@ -363,7 +357,7 @@ Once you use this feature, you can’t use it again until you finish a long rest
 *   **Level 10: Apex Aggression**
     You have advantage on attack rolls against any creature that hasn't taken a turn in the combat yet. Additionally, you gain a climbing speed equal to your walking speed.
 *   **Level 14: Ravage Soul**
-    When you score a critical hit with a melee weapon attack, you regain hit points equal to your **Proficiency Bonus** multiplied by the highest damage die of the weapon (e.g., PB × 6 for a d6 weapon). You can benefit from this feature a number of times equal to your **Proficiency Bonus** per Long Rest.
+    Once per turn when you score a critical hit with a melee weapon attack, you regain Hit Points equal to **2d10 + your Charisma modifier**. You can benefit from this feature a number of times equal to your **Proficiency Bonus** per Long Rest.
 
 #### **The Weaver (Support)**
 *Focus: Protecting allies and mitigating damage.*
@@ -381,7 +375,7 @@ Once you use this feature, you can’t use it again until you finish a long rest
 *Focus: Traps, webs, and immobilizing foes.*
 
 *   **Level 3: Ink-Web**
-    You can cast the *Web* spell. When you cast it, you can choose for the webs to deal **1d6 necrotic damage** to any creature that starts its turn in the webs.
+    You can cast the *Web* spell without expending a spell slot a number of times equal to your **Proficiency Bonus**, regaining all uses on a Long Rest. When you cast it, creatures that fail their save against the web take **1d4 necrotic damage** at the start of their turn while restrained.
 *   **Level 6: Cocoon**
     As an Action, you can wrap a Medium or smaller creature within 10 feet of you in shadow-webbing. The target must succeed on a Strength saving throw or be **Restrained** for 1 minute. It can repeat the save at the end of each of its turns. You can use this feature once per Short or Long Rest.
 *   **Level 10: Spider-Legs**
@@ -399,19 +393,19 @@ Once you use this feature, you can’t use it again until you finish a long rest
 *   **Level 10: Puppet Master**
     You can cast *Dominate Person* once per Long Rest without expending a spell slot.
 *   **Level 14: Mind Break**
-    As an Action, you target one creature you can see within 60 feet. The target must make an Intelligence saving throw. On a failed save, the target's Intelligence score becomes 1. The creature can't cast spells, activate magic items, understand language, or communicate in any intelligible way. The creature can repeat the saving throw every 30 days. This effect can also be ended by *Greater Restoration* or *Wish*. You can use this feature once per Long Rest.
+    As an Action, you target one creature you can see within 60 feet. The target must make an Intelligence saving throw against your Spell Save DC. On a failed save, the target is **Stunned** for 1 minute as its mind fractures. The creature can repeat the saving throw at the end of each of its turns, ending the effect on a success. Once you use this feature, you cannot use it again until you finish a Long Rest.
 
 #### **The Harbinger (Magic)**
 *Focus: Ranged blasting and magical dominance.*
 
 *   **Level 3: Void Bolt**
-    You learn the *Eldritch Blast* cantrip. When you cast it, you add your Charisma modifier to the damage rolls. It counts as a Shadow Warrior spell for you.
+    You learn the *Eldritch Blast* cantrip. It counts as a Shadow Warrior spell for you.
 *   **Level 6: Breach Realm**
     You can cast *Misty Step* a number of times equal to your Proficiency Bonus per Long Rest without expending a spell slot.
 *   **Level 10: Shadow Apocalypse**
-    As an Action, you unleash a wave of necrotic energy. Each creature in a 30-foot cone must make a Constitution saving throw, taking **8d6 necrotic damage** on a failed save, or half as much on a successful one. You can use this feature once per Long Rest.
+    As an Action, you unleash a wave of necrotic energy. Each creature in a 30-foot cone must make a Constitution saving throw against your Spell Save DC, taking **8d6 necrotic damage** on a failed save, or half as much on a successful one. You can use this feature once per Long Rest.
 *   **Level 14: Rift Maker**
-    You can cast *Plane Shift* (targeting only yourself and willing creatures) once per Long Rest without expending a spell slot. The destination must be the Shadow Realm or the Material Plane.
+    You can cast *Banishment* or *Plane Shift* (targeting only yourself and willing creatures) once per Long Rest without expending a spell slot. The destination for *Plane Shift* must be the Shadow Realm or the Material Plane.
 
 ---
 
@@ -543,10 +537,10 @@ The bond between host and symbiote allows for extraordinary reflexes and shared 
 *   **Shared Reflexes:** Once per Long Rest, when you fail a Dexterity saving throw, you can choose to reroll it and use the new result.
 
 **Weaver's Flow**
-*General Feat (Prerequisite: Level 4+, Proficiency with Martial Weapons and Spellcasting)*
+*General Feat (Prerequisite: Level 8+, Proficiency with Martial Weapons and Spellcasting)*
 You have mastered the gish combat style, seamlessly weaving magic and steel.
 *   **Ability Score Increase:** Increase your Strength, Dexterity, or spellcasting ability score by 1, to a maximum of 20.
-*   **Spellsong Strike:** When you take the Magic action to cast a Cantrip, you can make one melee weapon attack as a Bonus Action.
+*   **Spellsong Strike:** When you take the **Magic action** to cast a spell of 1st level or higher, you can make one melee weapon attack as a Bonus Action.
 
 **Unshackled Resonance**
 *General Feat (Prerequisite: Level 4+, Elementally Charged feature)*
@@ -558,7 +552,7 @@ You have learned to push past your natural limits, weaponizing your own life for
 *General Feat (Prerequisite: Level 4+)*
 You have trained to instinctively project your Elsaither energy outward as a defensive barrier when threatened.
 *   **Ability Score Increase:** Increase your Strength, Dexterity, or Constitution score by 1, to a maximum of 20.
-*   **Reactive Shield:** When you are hit by a melee attack, you can use your Reaction to erupt with elemental energy. You gain a +2 bonus to your AC against that attack, potentially causing it to miss. Whether the attack hits or misses, the attacker takes `1d6` damage of your primary elemental type. You can use this feature a number of times equal to your Proficiency Bonus, regaining all expended uses when you finish a Long Rest.
+*   **Reactive Shield:** When a melee attack hits you, you can use your Reaction to erupt with elemental energy, gaining a +2 bonus to your AC against that attack. If the attack misses as a result of this bonus, the attacker takes `1d6` damage of your primary elemental type. You can use this feature a number of times equal to your Proficiency Bonus, regaining all expended uses when you finish a Long Rest.
 
 ### **High-Level Feats**
 
@@ -623,7 +617,7 @@ The symbiote acts as a perfect failsafe, ripping you away from death's door.
 *Epic Boon (Prerequisite: Level 19+, Spellsong Maestro feat)*
 *   **Ability Score Increase:** Increase your Strength, Dexterity, or spellcasting ability score by 1, to a maximum of 30.
 *   **Eldritch Momentum:** When you cast a spell of 1st-level or higher using your Action, your movement speed increases by 15 feet until the end of your turn, and your movement doesn't provoke Opportunity Attacks.
-*   **Weaver's Strike:** Once per turn, when you hit a creature with a melee weapon attack, you can expend a spell slot of 1st-level or higher to weave magic directly into the wound. The target takes extra damage of your primary elemental type equal to `1d8` per level of the spell slot expended.
+*   **Weaver's Strike:** Once per turn, when you hit a creature with a melee weapon attack, you can use your **Bonus Action** and expend a spell slot of 1st-level or higher to weave magic into the wound. The target takes extra damage of your primary elemental type equal to `1d8` per level of the spell slot expended (maximum 5d8).
 
 **Boon of the Perfect Host**
 *Epic Boon (Prerequisite: Level 19+, Symbiotic Ascendancy feat)*
@@ -637,15 +631,16 @@ The symbiote acts as a perfect failsafe, ripping you away from death's door.
 
 ## **Special Materials**
 *   **Crystalarium:** A valuable crafting material. When used to forge armor, it can remove Vulnerability to a specific element.
-*   **Power Crystals:** Crystals infused with elemental energy. Can be used as ammunition or crafting components. When used in a weapon, it adds +1d4 elemental damage.
+*   **Power Crystals:** Crystals infused with elemental energy. Can be attached to a weapon as an Action. For 1 minute, the weapon deals +1d4 elemental damage on a hit (Once per Short Rest per crystal).
+*   **Gruhunsh:** A rare medicinal herb. Consuming it grants the benefits of the *Haste* spell for 1 minute (requires Concentration). When the effect ends, the user gains 1 level of Exhaustion.
 
 ## **Weapons**
 *   **Ninjonian Rifle:** *Uncommon.* Range 100/500 ft. **Damage:** 1d8 Elemental. **Properties:** Ammunition, Range, Reload (10 shots), Two-Handed.
 *   **Ninjonian Pistol:** *Uncommon.* Range 40/120 ft. **Damage:** 1d6 Elemental. **Properties:** Ammunition, Range, Reload (15 shots), Light.
-*   **Techno Railgun:** *Legendary.* Range 200/400 ft. **Damage:** 4d12 Elemental. **Properties:** Ammunition, Range, Reload (1 shot), Heavy, Two-Handed.
+*   **Techno Railgun:** *Legendary.* Range 200/400 ft. **Damage:** 2d10 Elemental. **Properties:** Ammunition, Range, Reload (1 shot), Heavy, Two-Handed.
 
 ## **Armor**
-*   **Standard Ninjonian Armor:** *Medium Armor.* AC 15 + Dex modifier (Max 2). Weight: 30 lbs. Cost: 10cc equivalent.
+*   **Standard Ninjonian Armor:** *Medium Armor.* AC 14 + Dex modifier (Max 2). Weight: 30 lbs. Cost: 10cc equivalent.
 *   **Ninjonian Assassin Armor:** *Light Armor.* AC 11 + Dex modifier. Grants +2 bonus to Stealth checks.
 *   **Heavy Techno Armor:** *Heavy Armor.* AC 18. Weight: 50 lbs. Disadvantage on Stealth.
 
@@ -1034,10 +1029,10 @@ You control the air around you. You can cause the following effects:
 **Unique Spell: Tempest's Embrace**
 *4th Level Abjuration*
 **Casting Time:** 1 Action
-**Range:** Self (30-foot radius)
+**Range:** 60 feet
 **Duration:** Concentration, up to 1 minute
 **Components:** V, S
-A sphere of balanced wind energy radiates from you. Creatures of your choice within the aura gain **Advantage on saving throws against spells and magical effects** for the duration. The wind shifts subtly with your will, anticipating incoming magic and blunting its force.
+You encircle one willing creature you can see within range with a protective vortex of balanced wind. The target gains **Advantage on saving throws against spells and magical effects** for the duration.
 
 **Unique Spell: Breath of the Beyond**
 *4th Level Abjuration*
