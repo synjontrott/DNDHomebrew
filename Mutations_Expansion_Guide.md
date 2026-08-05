@@ -9,7 +9,7 @@ This expansion provides rules for integrating these **Elemental Mutations** into
 At 1st level, when a character gains the **Elementally Charged** feature from their race, they may choose an Elemental Mutation instead of a standard element, with the DM's permission. 
 
 *   **Savaroen Spell List:** You still use the Savaroen spell list. You prepare and cast spells normally, but your mutation alters how these spells manifest and what damage types they deal.
-*   **High Risk, High Reward:** Every mutation grants a powerful ability (**The Power**) but is balanced by a severe mechanical drawback (**The Danger**). These dangers utilize D&D 2024 mechanics such as Exhaustion, Hit Dice expenditure, or Saving Throws to maintain balance and player agency.
+*   **High Risk, High Reward:** Every mutation grants a powerful glass cannon ability (**The Power**) but is balanced by a severe mechanical drawback (**The Danger**). These dangers utilize D&D 2024 mechanics such as self-damage, Exhaustion, Hit Dice expenditure, or Saving Throws to maintain balance and player agency.
 
 ---
 
@@ -26,7 +26,7 @@ At 1st level, when a character gains the **Elementally Charged** feature from th
 *A piercing, unyielding flame capable of melting bone and flesh alike. Its higher resonance makes it incredibly destructive but exhausting to maintain.*
 *   **Primary Damage:** Fire
 *   **Secondary Damage:** Radiant, Force, Piercing
-*   **The Power (Unyielding Flame):** When you deal Fire damage with a Savaroen spell, you ignore Fire Resistance.
+*   **The Power (Unyielding Flame):** Your Fire damage spells ignore Fire Resistance. Additionally, when you deal Fire damage with a Savaroen spell, you add your **Spellcasting modifier** to one damage roll of that spell.
 *   **The Danger (Resonant Drain):** The heat of the white flame feeds on your own vitality. Whenever you cast a Savaroen spell of 1st level or higher that deals Fire damage, you take Necrotic damage equal to **1d4 + the spell's level**. This damage cannot be reduced in any way.
 
 ### **Black Poison (Poison)**
@@ -86,11 +86,11 @@ At 1st level, when a character gains the **Elementally Charged** feature from th
 *   **The Danger (Cohesion Loss):** Maintaining a solid form requires effort. If you take Fire damage, your gel partially melts; you have **Disadvantage on Strength and Dexterity saving throws** until the end of your next turn.
 
 ### **Silver Water (Water)**
-*A disinfectant liquid that stops blood from clotting, causing severe and continuous bleeding in enemies.*
+*A heavy, volatile liquid that enhances kinetic surges but destabilizes the user's footing on the battlefield.*
 *   **Primary Damage:** Cold
 *   **Secondary Damage:** Slashing, Piercing, Acid
 *   **The Power (Vacuum Pull):** When you cast a Savaroen spell of 1st level or higher that deals Force or Thunder damage, you can add your **Proficiency Bonus** to one damage roll of that spell. Additionally, you can pull all Medium or smaller creatures within 10 feet of the spell's target 5 feet closer to the target.
-*   **The Danger (Viscous Weight):** The silver water is heavy and slick. You have **Disadvantage on Dexterity (Acrobatics) checks**, and your speed is reduced by **10 feet**.
+*   **The Danger (Viscous Surge):** The silver water is heavy and slick. Whenever you cast a Savaroen spell of 1st level or higher, silver liquid surges beneath your feet. You must make a **Dexterity saving throw against your Spell Save DC** or fall **Prone** and have your movement speed reduced by 10 feet until the end of your next turn.
 
 ### **Blood (Water)**
 *A terrifying mutation allowing control over the internal blood of living creatures. Like the legend Oasis, it is a power of precision and accidental devastation.*
@@ -100,10 +100,11 @@ At 1st level, when a character gains the **Elementally Charged** feature from th
 *   **The Danger (Sanguine Resonance):** Your power is highly sensitive to the Elsaither of those around you. If a creature fails their save against your Sanguine Grip, the resonance is so violent that one other creature within 10 feet of the target (chosen randomly, including allies) takes **1d6 + your Spellcasting modifier Necrotic damage**.
 
 ### **Gold (Metal)**
-*A mutation that deforms metals effortlessly and possesses a "Midas Touch."*
+*A mutation that deforms metals effortlessly and possesses a "Midas Touch," though the gold's immense weight burdens the user.*
 *   **Primary Damage:** Slashing
 *   **Secondary Damage:** Piercing, Bludgeoning, Fire
-*   **The Power (Aurelian Touch):** You can shape and soften nonmagical metal. You gain Advantage on Strength (Athletics) checks made to bend or break metal. Once per turn, when you hit a creature wearing metal armor or made of metal with a melee attack, you can force them to make a **Constitution saving throw against your Spell Save DC**. On a failure, they are **Restrained** until the start of your next turn as their armor momentarily fuses. You can use this feature a number of times equal to your **Proficiency Bonus**, regaining all expended uses when you finish a Long Rest. Additionally, your base walking speed is reduced by **5 feet**.
+*   **The Power (Aurelian Touch):** You can shape and soften nonmagical metal. You gain Advantage on Strength (Athletics) checks made to bend or break metal. Once per turn, when you hit a creature wearing metal armor or made of metal with a melee attack, you can force them to make a **Constitution saving throw against your Spell Save DC**. On a failure, they are **Restrained** until the start of your next turn as their armor momentarily fuses. You can use this feature a number of times equal to your **Proficiency Bonus**, regaining all expended uses when you finish a Long Rest.
+*   **The Danger (Molten Weight):** Gold is exceptionally dense. Whenever you use your Aurelian Touch to Restrain a target, your own body encases in molten gold. Your movement speed is reduced to **0** until the start of your next turn.
 
 ### **Crystal (Metal/Earth)**
 *A manifestation of diamond and ruby structures, elevating defensive capabilities far beyond normal earth or metal.*
@@ -130,7 +131,7 @@ At 1st level, when a character gains the **Elementally Charged** feature from th
 *A supportive mutation that excels in flight and speed enhancement.*
 *   **Primary Damage:** Force
 *   **Secondary Damage:** Thunder, Cold, Bludgeoning
-*   **The Power (Zephyr's Lift):** You can ride thermal drafts. When you cast a Savaroen spell of 1st level or higher that targets an ally, you can grant that ally a **15-foot fly speed (Hover)** until the end of their next turn.
+*   **The Power (Zephyr's Lift):** You can ride thermal drafts. When you cast a Savaroen spell of 1st level or higher that targets an ally, you grant that ally a **20-foot Fly speed (Hover)** and their movement does not provoke Opportunity Attacks until the end of their next turn.
 *   **The Danger (Untethered):** You have **Disadvantage on Strength saving throws** made to resist being pushed, pulled, or knocked Prone.
 
 ### **Vortex (Air)**
@@ -155,8 +156,8 @@ At 1st level, when a character gains the **Elementally Charged** feature from th
 *   **The Danger (Uncontained Fumes):** The chemical reactions are highly unstable. Whenever you cast a Savaroen spell that targets an area, volatile fumes erupt around you. At the start of your next turn, you take Acid damage equal to the spell's level + your Proficiency Bonus.
 
 ### **Life (Darki)**
-*The purest reversal of Darki energy. A radiant source of regenerative power that overcharges the life-force of allies.*
+*The purest reversal of Darki energy. A radiant source of regenerative power that overcharges the life-force of allies at a physical cost.*
 *   **Primary Damage:** Radiant
 *   **Secondary Damage:** Force, Psychic, Acid
-*   **The Power (Vibrant Soul):** Your healing spells are more potent. When you cast a Savaroen spell that restores Hit Points, you can choose to grant the target **Advantage on their next Attack roll**. Additionally, you can use your Charisma modifier instead of Wisdom for Wisdom (Medicine) checks.
-*   **The Danger (Aura of Attraction):** You radiate a brilliant, irresistible life energy. You cannot benefit from **Half-Cover or Three-Quarters Cover**, as your radiant aura silhouettes you perfectly to all enemies.
+*   **The Power (Vibrant Soul):** Your healing spells are extraordinarily potent. When you cast a Savaroen spell that restores Hit Points, you can choose to grant the target **Advantage on their next Attack roll**. Additionally, you can use your Charisma modifier instead of Wisdom for Wisdom (Medicine) checks.
+*   **The Danger (Sanguine Strain & Aura):** Channeling reverse-Darki life energy taxes your body while revealing your position. Whenever you cast a spell that restores Hit Points to an ally, you take Radiant damage equal to **1 + the spell's level** (cannot be reduced). Furthermore, you cannot benefit from **Half-Cover or Three-Quarters Cover**, as your radiant aura silhouettes you perfectly to all enemies.
