@@ -19,49 +19,49 @@ At 1st level, when a character gains the **Elementally Charged** feature from th
 *A rare variant of the Death power. It funnels death energy into physical devastation but fractures the user's psyche in the heat of battle.*
 *   **Primary Damage:** Necrotic
 *   **Secondary Damage:** Force, Fire, Slashing
-*   **The Power (Invigorated Arsenal):** When you cast a Savaroen spell that deals damage, you can choose to channel it through a melee weapon. As a Bonus Action, your weapon is wreathed in Red Death energy for 1 minute. Your weapon attacks deal an additional **1d6 + your Proficiency Bonus Necrotic damage**. 
+*   **The Power (Invigorated Arsenal):** When you cast a Savaroen spell that deals damage, you can choose to channel it through a melee weapon. As a Bonus Action (Concentration), your weapon is wreathed in Red Death energy for 1 minute. Your weapon attacks deal an additional **1d6 + your Proficiency Bonus Necrotic damage**. This effect requires Concentration (as if concentrating on a spell); it ends early if you cast another spell requiring Concentration. 
 *   **The Danger (Rage Blackout):** If you take damage while your weapon is invigorated, you must succeed on a **Wisdom saving throw against your Spell Save DC**. On a failure, you enter a blackout state until the end of your next turn. During this state, you cannot cast spells, and you must use your movement and Action to attack the nearest creature to you (friend or foe) with your melee weapon.
 
 ### **White Fire (Fire)**
 *A piercing, unyielding flame capable of melting bone and flesh alike. Its higher resonance makes it incredibly destructive but exhausting to maintain.*
 *   **Primary Damage:** Fire
 *   **Secondary Damage:** Radiant, Force, Piercing
-*   **The Power (Unyielding Flame):** When you deal Fire damage with a Savaroen spell, you ignore Fire Resistance. If a creature has Fire Immunity, you treat it as Fire Resistance. 
-*   **The Danger (Resonant Drain):** The heat of the white flame feeds on your own vitality. Whenever you cast a Savaroen spell of 1st level or higher that deals Fire damage, you must expend **one Hit Die**. Roll the die; you take necrotic damage equal to the roll. This damage cannot be reduced in any way. If you have no Hit Dice remaining, you instead take necrotic damage equal to 1d12 + the spell's level.
+*   **The Power (Unyielding Flame):** When you deal Fire damage with a Savaroen spell, you ignore Fire Resistance. If a creature has Fire Immunity, you treat it as Fire Resistance instead of Immunity (you still deal half damage).
+*   **The Danger (Resonant Drain):** The heat of the white flame feeds on your own vitality. Whenever you cast a Savaroen spell of 1st level or higher that deals Fire damage, you take Necrotic damage equal to **1d4 + the spell's level**. This damage cannot be reduced in any way.
 
 ### **Black Poison (Poison)**
 *A violent, cold toxin that turns the user's eyes into terrifying, pitch-black voids. The fluid is highly corrosive.*
 *   **Primary Damage:** Poison
 *   **Secondary Damage:** Acid, Necrotic, Psychic
-*   **The Power (Corrosive Venom):** You gain Advantage on Charisma (Intimidation) checks. When a creature fails a saving throw against one of your Savaroen spells, they become **Poisoned** until the end of your next turn. While Poisoned in this way, they take an extra **1d4 Acid damage** at the start of their turn.
+*   **The Power (Corrosive Venom):** You gain Advantage on Charisma (Intimidation) checks. When a creature fails a saving throw against one of your Savaroen spells, they become **Poisoned** until the end of your next turn. While Poisoned in this way, they take an extra **1d4 + your Proficiency Bonus Acid damage** at the start of their turn. You can apply this Poisoned rider a number of times equal to your **Proficiency Bonus** per Long Rest.
 *   **The Danger (Volatile Secretion):** Your blood is literal poison. When you take Slashing or Piercing damage from a melee attack, your toxic blood splatters. Any creature within 5 feet of you (including allies) must make a **Dexterity saving throw against your Spell Save DC**, taking **1d6 + your Proficiency Bonus Acid damage** on a failure.
 
 ### **White Shadow (Shadow)**
 *A prismatic shadow that reflects light rather than absorbing it, allowing the user to shift seamlessly in broad daylight.*
 *   **Primary Damage:** Radiant
 *   **Secondary Damage:** Psychic, Force, Thunder
-*   **The Power (Prismatic Shift):** Your shadow blazes with refracted light, creating dazzling distortions that confuse the eye. You gain **Advantage on Dexterity (Sleight of Hand) checks**, as your prismatic aura creates perfect misdirection. Once per turn, as a Bonus Action, you can magically teleport up to 15 feet to an unoccupied space you can see, leaving a trail of white light. Additionally, once per Short or Long Rest, as a Bonus Action, you can detonate a burst of prismatic light from your shadow. Each creature within 10 feet of you must succeed on a **Constitution saving throw against your Spell Save DC** or be **Blinded** until the end of their next turn.
+*   **The Power (Prismatic Shift):** Your shadow blazes with refracted light, creating dazzling distortions that confuse the eye. You gain **Advantage on Dexterity (Sleight of Hand) checks**, as your prismatic aura creates perfect misdirection. You can magically teleport up to 15 feet to an unoccupied space you can see as a Bonus Action. You can do so a number of times equal to your **Proficiency Bonus** per Long Rest. Additionally, once per Short or Long Rest, as a Bonus Action, you can detonate a burst of prismatic light from your shadow. Each creature within 10 feet of you must succeed on a **Constitution saving throw against your Spell Save DC** or be **Blinded** until the end of their next turn.
 *   **The Danger (Luminescent Beacon):** Because your shadow reflects light, you have **Disadvantage on Dexterity (Stealth) checks** made in dim light or darkness. Additionally, you cannot benefit from the *Invisibility* condition.
 
 ### **Dream (Shadow)**
 *A subtle psychic mutation that allows the user to read emotions, amplify anxieties, and walk the dreamscape.*
 *   **Primary Damage:** Psychic
 *   **Secondary Damage:** Necrotic, Force, Thunder
-*   **The Power (Mind Walker):** You gain Advantage on Wisdom (Insight) checks. When you cast a Savaroen spell that deals Psychic damage, you can force the target to make a Wisdom saving throw against your Spell Save DC. On a failure, they are **Frightened** of you until the end of your next turn.
+*   **The Power (Mind Walker):** You gain Advantage on Wisdom (Insight) checks. When you cast a Savaroen spell that deals Psychic damage, you can force the target to make a Wisdom saving throw against your Spell Save DC. On a failure, they are **Frightened** of you until the end of your next turn. You can use this Frightened effect a number of times equal to your **Proficiency Bonus** per Long Rest.
 *   **The Danger (Empathic Overload):** You constantly feel the Elsaither energy of others. If an ally within 30 feet of you is reduced to 0 Hit Points or is Frightened, you must make a **Wisdom saving throw against your Spell Save DC**. On a failure, you take Psychic damage equal to **1d6 + your Spellcasting Modifier** as their terror bleeds into your mind.
 
 ### **Red Lightning (Lightning)**
 *A volcanic, explosive form of lightning that hits like a physical impact, capable of shattering rock and destabilizing molecules.*
 *   **Primary Damage:** Lightning
 *   **Secondary Damage:** Thunder, Force, Fire
-*   **The Power (Concussive Blast):** Your lightning spells carry physical weight. When you deal Thunder or Lightning damage to a creature with a Savaroen spell, you can push them up to **10 feet** away from you. Your spells deal double damage to objects and structures.
-*   **The Danger (Molecular Recoil):** The explosive nature of your power is hard to contain. When you cast a Savaroen spell of 3rd level or higher, the blast radius recoils. You are pushed 10 feet in the opposite direction of the spell's target/area and must succeed on a **Strength saving throw against your Spell Save DC** or fall **Prone**.
+*   **The Power (Concussive Blast):** Your lightning spells carry physical weight. When you deal Thunder or Lightning damage to a creature with a Savaroen spell, you can push them up to **10 feet** away from you (Large or smaller creatures must first fail a **Strength saving throw against your Spell Save DC** to be pushed). Your spells deal double damage to objects and structures.
+*   **The Danger (Molecular Recoil):** The explosive nature of your power is hard to contain. When you cast a Savaroen spell of 1st level or higher, the blast radius recoils. You are pushed 10 feet in the opposite direction of the spell's target/area and must succeed on a **Strength saving throw against your Spell Save DC** or fall **Prone**.
 
 ### **Black Laser (Laser)**
 *A paradoxical energy that absorbs light and sound. It acts as a black hole for other energies and emits an inaudible hum.*
 *   **Primary Damage:** Force
 *   **Secondary Damage:** Necrotic, Fire, Piercing
-*   **The Power (Energy Void):** You can silently disintegrate matter. Your Savaroen spells that normally deal Radiant damage deal **Force damage** instead and make no sound. As a Reaction when you are targeted by a spell attack, you can attempt to absorb it. Roll **1d10 + your Charisma modifier**; you reduce the spell's damage by that amount.
+*   **The Power (Energy Void):** You can silently disintegrate matter. Your Savaroen spells that normally deal Radiant damage deal **Force damage** instead and make no sound. As a Reaction when you are targeted by a spell attack, you can attempt to absorb it. Roll **1d10 + your Spellcasting modifier**; you reduce the spell's damage by that amount. You can use this Reaction a number of times equal to your **Proficiency Bonus** per Long Rest.
 *   **The Danger (Sensory Deprivation):** Your power mutes existence around you. When you use your Energy Void reaction, your own senses are temporarily dampened. You are **Deafened** and lose your Darkvision (if you have it) until the end of your next turn.
 
 ### **Solar (Laser)**
@@ -69,35 +69,35 @@ At 1st level, when a character gains the **Elementally Charged** feature from th
 *   **Primary Damage:** Radiant
 *   **Secondary Damage:** Fire, Piercing, Necrotic
 *   **The Power (Radiant Warmth):** When you cast a Savaroen spell that restores Hit Points, the target regains additional Hit Points equal to your **Proficiency Bonus**. Additionally, when you deal Radiant damage, you can choose to force the target to make a Constitution saving throw against your Spell Save DC. On a failure, they are **Blinded** until the start of their next turn instead of taking damage.
-*   **The Danger (Solar Flare):** You cannot suppress your inner light. You shed dim light in a 10-foot radius at all times. If you are subjected to magical darkness, your power aggressively fights back, dealing **1d6 Fire damage** to you at the start of each of your turns until you leave the darkness.
+*   **The Danger (Solar Flare):** You cannot suppress your inner light. You shed dim light in a 10-foot radius at all times. If you are subjected to magical darkness, your power aggressively fights back, dealing **1d6 + your Proficiency Bonus Fire damage** to you at the start of each of your turns until you leave the darkness.
 
 ### **Green Ice (Ice)**
 *A mutation that hardens ice into an emerald or diamond-like texture, sacrificing cold manipulation for sheer physical strength.*
 *   **Primary Damage:** Cold
 *   **Secondary Damage:** Bludgeoning, Piercing, Slashing
-*   **The Power (Diamond Frost):** Your ice constructs are incredibly durable. When you cast *Shield Wall* or gain temporary Hit Points from *Energy Shield*, the AC of the wall or your personal AC increases by **+1**. You have Resistance to Bludgeoning damage.
+*   **The Power (Diamond Frost):** Your ice constructs are incredibly durable. When you cast *Shield Wall* or gain temporary Hit Points from *Energy Shield*, the AC of the wall or your personal AC increases by **+1**. When you cast a Savaroen spell of 1st level or higher, you gain **Resistance to Bludgeoning damage** until the start of your next turn.
 *   **The Danger (Rigid Form):** The hardness of your ice makes it inflexible. When you cast a Savaroen spell of 1st level or higher, frost crystalizes on your joints. Your movement speed is reduced by **10 feet** until the end of your next turn.
 
 ### **Gel (Ice)**
 *A resonance on the border of water and ice, creating an impact-absorbent substance with highly efficient healing properties.*
 *   **Primary Damage:** Cold
 *   **Secondary Damage:** Bludgeoning, Acid, Piercing
-*   **The Power (Viscous Shift):** Your elemental form absorbs trauma. As a Reaction when you take Bludgeoning, Piercing, or Slashing damage, you can shift into a gel state, gaining **Resistance** to that damage instance. Additionally, whenever you regain Hit Points, you regain an extra **1d4**.
+*   **The Power (Viscous Shift):** Your elemental form absorbs trauma. As a Reaction when you take Bludgeoning, Piercing, or Slashing damage, you can shift into a gel state, gaining **Resistance** to that damage instance. You can use this Reaction a number of times equal to your **Proficiency Bonus** per Long Rest. Additionally, whenever you regain Hit Points from a spell or feature, you regain an extra **1 + your Proficiency Bonus** Hit Points.
 *   **The Danger (Cohesion Loss):** Maintaining a solid form requires effort. If you take Fire damage, your gel partially melts; you have **Disadvantage on Strength and Dexterity saving throws** until the end of your next turn.
 
 ### **Silver Water (Water)**
 *A disinfectant liquid that stops blood from clotting, causing severe and continuous bleeding in enemies.*
 *   **Primary Damage:** Cold
 *   **Secondary Damage:** Slashing, Piercing, Acid
-*   **The Power (Anti-Coagulant):** When you damage a living creature with a Savaroen spell, you open a bleeding wound. The target takes **1d4 Slashing damage** at the start of its next turn. Additionally, your spells deal an extra **1d6 Cold damage** to creatures wearing metal armor.
-*   **The Danger (Viscous Weight):** The silver water is heavy and slick. You have **Disadvantage on Dexterity (Acrobatics) checks**, and your jump distance is halved.
+*   **The Power (Anti-Coagulant):** When you damage a living creature with a Savaroen spell, you open a bleeding wound. The target takes **1d4 + your Proficiency Bonus Slashing damage** at the start of its next turn. Additionally, your spells deal an extra **1d4 + your Proficiency Bonus Cold damage** to creatures wearing metal armor.
+*   **The Danger (Viscous Weight):** The silver water is heavy and slick. You have **Disadvantage on Dexterity (Acrobatics) checks**, and your speed is reduced by **10 feet**.
 
 ### **Blood (Water)**
 *A terrifying mutation allowing control over the internal blood of living creatures. Like the legend Oasis, it is a power of precision and accidental devastation.*
 *   **Primary Damage:** Necrotic
 *   **Secondary Damage:** Cold, Bludgeoning, Slashing
 *   **The Power (Sanguine Grip):** You can target the blood inside enemies. When you cast a Savaroen spell that deals Necrotic damage, you can force the target to make a **Constitution saving throw** against your Spell Save DC. On a failure, they are **Incapacitated** until the start of your next turn as you seize their internal blood flow. You can use this feature a number of times equal to your Proficiency Bonus per Long Rest.
-*   **The Danger (Sanguine Resonance):** Your power is highly sensitive to the Elsaither of those around you. If a creature fails their save against your Sanguine Grip, the resonance is so violent that one other creature within 10 feet of the target (chosen randomly, including allies) takes **1d10 Necrotic damage**.
+*   **The Danger (Sanguine Resonance):** Your power is highly sensitive to the Elsaither of those around you. If a creature fails their save against your Sanguine Grip, the resonance is so violent that one other creature within 10 feet of the target (chosen randomly, including allies) takes **1d6 + your Spellcasting modifier Necrotic damage**.
 
 ### **Gold (Metal)**
 *A mutation that deforms metals effortlessly and possesses a "Midas Touch."*
@@ -110,21 +110,21 @@ At 1st level, when a character gains the **Elementally Charged** feature from th
 *A manifestation of diamond and ruby structures, elevating defensive capabilities far beyond normal earth or metal.*
 *   **Primary Damage:** Piercing
 *   **Secondary Damage:** Slashing, Bludgeoning, Force
-*   **The Power (Crystalline Matrix):** You gain **Resistance to Piercing and Slashing damage**. When you cast *Shield Wall*, the wall is completely transparent and gains an additional **20 Hit Points**.
-*   **The Danger (Shatter Point):** Crystals are hard but brittle. If you take Thunder damage, or if you are hit by a Critical Hit that deals Bludgeoning damage, your crystal matrix shatters. You lose your Resistances and take an extra **1d8 Force damage** until you finish a Short Rest.
+*   **The Power (Crystalline Matrix):** When you cast a Savaroen spell of 1st level or higher, you gain **Resistance to Piercing and Slashing damage** until the start of your next turn. When you cast *Shield Wall*, the wall is completely transparent and gains additional Hit Points equal to **your Proficiency Bonus × 5**.
+*   **The Danger (Shatter Point):** Crystals are hard but brittle. If you take Thunder damage, or if you are hit by a Critical Hit that deals Bludgeoning damage, your crystal matrix shatters. You lose your Resistances and take an extra **1d6 + your Proficiency Bonus Force damage** until you finish a Short Rest.
 
 ### **Purple Stone (Earth)**
 *A mutation deeply connected to the world's flora and fauna, offering massive healing capabilities.*
 *   **Primary Damage:** Bludgeoning
 *   **Secondary Damage:** Radiant, Force, Piercing
-*   **The Power (Geomantic Healing):** You gain Advantage on Wisdom (Animal Handling) checks. When you cast a Savaroen healing spell, you roll **d10s** instead of d8s for the healing amount.
+*   **The Power (Geomantic Healing):** You gain Advantage on Wisdom (Animal Handling) checks. When you cast a Savaroen healing spell, the target regains additional Hit Points equal to your **Spellcasting modifier** (minimum 1).
 *   **The Danger (Pacifist's Bind):** Whenever you reduce a living creature to 0 Hit Points, the earth rebukes you. You become **Restrained** by purple stone roots until the end of your next turn.
 
 ### **Glass (Earth)**
 *The ability to form sharp, clear structures. Uniquely defensive, and incredibly dangerous when paired with Lasers.*
 *   **Primary Damage:** Slashing
 *   **Secondary Damage:** Fire, Force, Radiant
-*   **The Power (Refractive Guard):** As an Action, you can turn your body partially clear, granting yourself **Advantage on Dexterity (Stealth) checks**. As a Reaction when you are targeted by a spell attack, you can form a glass mirror, granting yourself a **+3 bonus to AC** against that attack.
+*   **The Power (Refractive Guard):** As an Action, you can turn your body partially clear, granting yourself **Advantage on Dexterity (Stealth) checks** until the start of your next turn. As a Reaction when you are targeted by a spell attack, you can form a glass mirror, granting yourself a **+3 bonus to AC** against that attack. You can use this Reaction a number of times equal to your **Proficiency Bonus** per Long Rest.
 *   **The Danger (Fragile Vessel):** You have **Vulnerability to Thunder damage**. Furthermore, if a Laser or Radiant spell passes through you, it refracts; you and all creatures within 5 feet of you take **1d6 Radiant damage**.
 
 ### **Purple Air (Air)**
@@ -145,14 +145,14 @@ At 1st level, when a character gains the **Elementally Charged** feature from th
 *Also known as Witherbone. A mutation sitting between Bone and Shadow that crafts weapons from the void.*
 *   **Primary Damage:** Necrotic
 *   **Secondary Damage:** Bludgeoning, Force, Piercing
-*   **The Power (Shadow Weaver):** You can cast *Misty Step* a number of times equal to your **Proficiency Bonus** per Long Rest without expending a spell slot. Additionally, you can create 10-foot tendrils of black bone that allow you to grapple creatures up to 15 feet away using your Charisma modifier.
+*   **The Power (Shadow Weaver):** You can cast *Misty Step* once per Long Rest without expending a spell slot. Additionally, you can create 10-foot tendrils of black bone that allow you to grapple creatures up to 15 feet away. To grapple with a tendril, you make a spell attack roll using your Spellcasting modifier; the target may contest with a **Strength saving throw against your Spell Save DC**.
 *   **The Danger (Wither Fracture):** Your form is a volatile lattice of void-bone. Whenever you cast a Savaroen spell of 1st level or higher, or use your *Shadow Weaver* teleportation, your form fractures. Every creature within 10 feet of you (including allies) must succeed on a **Dexterity saving throw against your Spell Save DC** or take Piercing damage equal to **1d6 + your Proficiency Bonus** as black bone shards explode outward.
 
 ### **Acid (Gas)**
 *A violent, aggressive green fluid mutation whose working resonance rivals Fire and Lightning.*
 *   **Primary Damage:** Acid
 *   **Secondary Damage:** Poison, Fire, Force
-*   **The Power (Caustic Burn):** When you deal Acid damage to a creature, their **Armor Class is reduced by 1** until the start of your next turn. This effect does not stack.
+*   **The Power (Caustic Burn):** When you deal Acid damage to a creature, they must succeed on a **Constitution saving throw against your Spell Save DC** or their **Armor Class is reduced by 1** until the start of your next turn. This effect does not stack.
 *   **The Danger (Uncontained Fumes):** The chemical reactions are highly unstable. Whenever you cast a Savaroen spell that targets an area, volatile fumes erupt around you. At the start of your next turn, you take Acid damage equal to the spell's level + your Proficiency Bonus.
 
 ### **Life (Darki)**

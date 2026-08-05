@@ -199,7 +199,7 @@ At 20th level, as a Bonus Action, you manifest a **Divine Elemental Weapon** for
 *   **Bonded Weapon:** Bond to a weapon. You can use **Charisma** for its attack and damage rolls.
 *   **Level 6: War Magic:** Extra Attack. You can cast one of your **Cantrips** in place of one of those attacks.
 *   **Level 10: Eldritch Strike:** Creatures hit by your weapon have Disadvantage on the next save against your spells.
-*   **Level 14: Arcane Charge:** You can teleport up to 30 feet to an unoccupied space when you use your Action Surge or cast a spell.
+*   **Level 14: Arcane Charge:** When you cast a spell of 1st level or higher using a spell slot, you can teleport up to 30 feet to an unoccupied space you can see as part of the same action.
 
 #### **Warrion (The Rage Mage)**
 *   **Level 3: Combat Training:** Gain proficiency in **Martial Weapons**, **Shields**, and **Athletics**.
@@ -234,9 +234,9 @@ At 20th level, as a Bonus Action, you manifest a **Divine Elemental Weapon** for
 *   **Level 14: Soul of the Machine:** Attune to **5 Magic Items**. +1 to all Saves for every 2 attuned items.
 
 #### **Ninji (The Blaster)**
-*   **Level 3: Elemental Bypass:** Your spells ignore Resistance to your elemental damage type. Immunity counts as Resistance.
+*   **Level 3: Elemental Bypass:** Your spells ignore Resistance to your elemental damage type. Immunity counts as Resistance. You can use this feature a number of times equal to your **Proficiency Bonus** per Long Rest; after that, immunity is no longer downgraded until you finish a Long Rest.
 *   **Level 6: Potent Spellcasting:** Add **Charisma modifier** to the damage roll of your elemental spells.
-*   **Level 10: Echoes of Power:** Single-target spells can target a second creature within 10 feet (dealing half damage).
+*   **Level 10: Echoes of Power:** A number of times per Long Rest equal to your **Proficiency Bonus**, when you cast a single-target spell, you can have it also affect one additional creature within 10 feet of the original target, dealing half damage (or half the effect) to the secondary target.
 *   **Level 14: Elemental Cataclysm:**
     *   **Overchannel:** 1/Long Rest, maximize damage of a 1st-5th level spell.
     *   **Siege Monster:** Double damage to objects/structures.
@@ -305,7 +305,7 @@ At 1st level, your shadow form manifests as deadly weapons. You gain the followi
 *   **Tendril Whip:** Deals **1d4 piercing damage** on a hit. It has the **Reach** property (10 feet).
 
 **Unarmored Defense**
-While you are not wearing any armor, your Armor Class equals **10 + your Dexterity modifier + your Charisma modifier**. You can use a shield and still gain this benefit.
+While you are not wearing any armor, your Armor Class equals **10 + your Dexterity modifier + your Charisma modifier**. You cannot use a shield and gain this benefit.
 
 **Shadow Casting**
 At 2nd level, you learn to weave shadow magic.
@@ -359,11 +359,11 @@ Once you use this feature, you can’t use it again until you finish a long rest
 *   **Level 3: Blood-Siphon**
     When you reduce a hostile creature to 0 hit points, you gain temporary hit points equal to your **Charisma modifier + your Shadow Warrior level**.
 *   **Level 6: Savage Surge**
-    You can use your Action Surge (as the Fighter feature) once per Short or Long Rest.
+    Once per Short or Long Rest, you can make one additional Attack as a Bonus Action on your turn (in addition to your Extra Attack action). This represents the Ravager's blood-frenzy reaching a peak.
 *   **Level 10: Apex Aggression**
     You have advantage on attack rolls against any creature that hasn't taken a turn in the combat yet. Additionally, you gain a climbing speed equal to your walking speed.
 *   **Level 14: Ravage Soul**
-    When you score a critical hit with a melee weapon attack, you regain hit points equal to the damage dealt.
+    When you score a critical hit with a melee weapon attack, you regain hit points equal to your **Proficiency Bonus** multiplied by the highest damage die of the weapon (e.g., PB × 6 for a d6 weapon). You can benefit from this feature a number of times equal to your **Proficiency Bonus** per Long Rest.
 
 #### **The Weaver (Support)**
 *Focus: Protecting allies and mitigating damage.*
@@ -387,13 +387,13 @@ Once you use this feature, you can’t use it again until you finish a long rest
 *   **Level 10: Spider-Legs**
     You can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free. You gain a climbing speed equal to your walking speed.
 *   **Level 14: Neurotoxin**
-    Your Tendril Whip attacks force the target to make a Constitution saving throw. On a failure, the target is **Paralyzed** until the end of your next turn. You can use this feature once per turn.
+    Your Tendril Whip attacks can carry a paralytic venom. When you hit with your Tendril Whip, you can force the target to make a **Constitution saving throw against your Spell Save DC**. On a failure, the target is **Paralyzed** until the end of your next turn. You can use this feature a number of times equal to your **Proficiency Bonus** per Long Rest.
 
 #### **The Mind-Eater (Psionic)**
 *Focus: Mental attacks and disruption.*
 
 *   **Level 3: Synaptic Shock**
-    When you hit a creature with a weapon attack, you can deal an extra **1d6 Psychic damage**. The target cannot take Reactions until the start of its next turn.
+    A number of times per Long Rest equal to your **Proficiency Bonus**, when you hit a creature with a weapon attack, you can deal an extra **1d6 Psychic damage**. The target cannot take Reactions until the start of its next turn.
 *   **Level 6: Mental Fortress**
     You are immune to the Charmed and Frightened conditions.
 *   **Level 10: Puppet Master**
@@ -495,8 +495,8 @@ You spent your young years playing with technology, taking things apart, putting
 
 **Violent Soldier**
 *Origin Feat*
-You’ve been trained to deal particularly powerful attacks.
-*   **Great Weapon Mastery:** When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon or spell attack, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2.
+You've been trained to deal particularly powerful melee attacks.
+*   **Great Weapon Mastery:** When you roll a 1 or 2 on a damage die for an attack you make with a **melee weapon** (not spells), you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2.
 
 **Skilled**
 *Origin Feat*
@@ -540,7 +540,7 @@ You haven't fully mutated, but you can force your body to emulate a rare mutatio
 *General Feat (Prerequisite: Level 4+, Nyxid race or Shadow Warrior class)*
 The bond between host and symbiote allows for extraordinary reflexes and shared awareness.
 *   **Ability Score Increase:** Increase your Strength, Dexterity, or Charisma score by 1, to a maximum of 20.
-*   **Shared Reflexes:** If you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you can use your Reaction to take no damage if you succeed on the saving throw, and only half damage if you fail.
+*   **Shared Reflexes:** Once per Long Rest, when you fail a Dexterity saving throw, you can choose to reroll it and use the new result.
 
 **Weaver's Flow**
 *General Feat (Prerequisite: Level 4+, Proficiency with Martial Weapons and Spellcasting)*
@@ -580,7 +580,7 @@ You have conquered the volatile nature of the mutated elements, adapting your bo
 *General Feat (Prerequisite: Level 8+, Weaver's Flow feat or Extra Attack feature)*
 Your integration of martial prowess and Elsaither magic is flawless, allowing you to cast and strike in the blink of an eye.
 *   **Ability Score Increase:** Increase your Strength, Dexterity, or spellcasting ability score by 1, to a maximum of 20.
-*   **Arcane Flurry:** When you use your Action to cast a spell of 1st-level or higher, you can make one melee weapon attack as a Bonus Action.
+*   **Arcane Flurry:** A number of times per Long Rest equal to your **Proficiency Bonus**, when you use your Action to cast a spell of 1st-level or higher, you can make one melee weapon attack as a Bonus Action.
 *   **Eldritch Deflection:** When you take the Dodge action, you can expend a spell slot of 1st-level or higher. If you do, you gain temporary hit points equal to `1d10 + the spell slot's level` and you gain Resistance to damage from spells until the start of your next turn.
 
 **Symbiotic Synchronicity**
@@ -611,22 +611,22 @@ The symbiote acts as a perfect failsafe, ripping you away from death's door.
 *   **Ability Score Increase:** Increase your Strength, Dexterity, or Constitution score by 1, to a maximum of 20.
 *   **Symbiotic Preservation:** If you are reduced to 0 Hit Points but not killed outright, you can choose to drop to 1 Hit Point instead. If you do, you gain Temporary Hit Points equal to your character level, and you can immediately move up to 15 feet without provoking Opportunity Attacks as the symbiote drags you to safety. Once you use this feature, you cannot use it again until you finish a Long Rest.
 
-### **Epic Boons (Level 16+)**
+### **Epic Boons (Level 19+)**
 
 **Boon of the First Elementals**
-*Epic Boon (Prerequisite: Level 16+, Elsaither Conduit feat)*
+*Epic Boon (Prerequisite: Level 19+, Elsaither Conduit feat)*
 *   **Ability Score Increase:** Increase any ability score by 1, to a maximum of 30.
 *   **Primordial Resistance:** You gain Resistance to your primary elemental damage type. If you already have Resistance to it from another source, you gain Immunity instead.
 *   **Elemental Retribution:** When a creature within 30 feet of you deals your primary elemental damage to you, you can use your Reaction to force them to make a Dexterity saving throw against your Spell Save DC. On a failure, they take damage of that type equal to `2d10 + your character level`.
 
 **Boon of the Void Weaver**
-*Epic Boon (Prerequisite: Level 16+, Spellsong Maestro feat)*
+*Epic Boon (Prerequisite: Level 19+, Spellsong Maestro feat)*
 *   **Ability Score Increase:** Increase your Strength, Dexterity, or spellcasting ability score by 1, to a maximum of 30.
 *   **Eldritch Momentum:** When you cast a spell of 1st-level or higher using your Action, your movement speed increases by 15 feet until the end of your turn, and your movement doesn't provoke Opportunity Attacks.
 *   **Weaver's Strike:** Once per turn, when you hit a creature with a melee weapon attack, you can expend a spell slot of 1st-level or higher to weave magic directly into the wound. The target takes extra damage of your primary elemental type equal to `1d8` per level of the spell slot expended.
 
 **Boon of the Perfect Host**
-*Epic Boon (Prerequisite: Level 16+, Symbiotic Ascendancy feat)*
+*Epic Boon (Prerequisite: Level 19+, Symbiotic Ascendancy feat)*
 *   **Ability Score Increase:** Increase your Strength, Dexterity, or Constitution score by 1, to a maximum of 30.
 *   **Inseparable Minds:** You are permanently Immune to the Charmed and Frightened conditions.
 *   **Symbiotic Flurry:** Once per turn, when you miss with a melee weapon attack, you can allow your symbiote to immediately make a follow-up attack against the same target. On a hit, this attack deals necrotic damage equal to `1d10 + your Strength or Dexterity modifier`.
@@ -1053,7 +1053,7 @@ You channel the breath of Anima to tear a creature from the battlefield and conf
 **Range:** 30 feet  
 **Duration:** Concentration, up to 1 minute  
 **Components:** V, S  
-You summon a gentle, revitalizing breeze. Choose a point within range. Creatures of your choice within 20 feet of that point regain **2d6 hit points** at the start of each of their turns for the duration.
+You summon a gentle, revitalizing breeze. Choose a point within range. At the start of each of your turns while you maintain Concentration, you can use a Bonus Action to pulse the breeze. Creatures of your choice within 20 feet of that point regain **2d6 hit points**.
 
 ## **Fulgur (Chaos)**
 **Deity Cantrip: Fulgur's Spark (Lightning)**  
@@ -1072,7 +1072,7 @@ You release a burst of electrical energy. Choose one effect:
 **Range:** Self (30-foot radius)  
 **Duration:** Concentration, up to 1 minute  
 **Components:** V, S  
-The area within 30 feet of you becomes charged with static. Each round you maintain concentration, creatures of your choice in the area must make a Dexterity saving throw, taking **4d8 lightning damage** on a failed save, or half as much on a success.
+The area within 30 feet of you becomes charged with static. Each round you maintain concentration, creatures of your choice in the area must make a **Dexterity saving throw against your Spell Save DC**, taking **2d8 lightning damage** on a failed save, or half as much on a success.
 
 **Unique Spell: Bolt of Bedlam**  
 *4th Level Evocation*  
@@ -1082,13 +1082,13 @@ The area within 30 feet of you becomes charged with static. Each round you maint
 **Components:** V, S  
 You unleash a bolt of chaotic lightning. Make a ranged spell attack against a target. On a hit, it takes **6d8 lightning damage**. The lightning then arcs to another target within 30 feet, dealing half damage. It can arc up to two more times.
 
-**Unique Spell: Thunderous Echo**  
-*4th Level Evocation*  
-**Casting Time:** 1 Action  
-**Range:** Self (60-foot cone)  
+**Unique Spell: Thunderous Echo**
+*5th Level Evocation*
+**Casting Time:** 1 Action
+**Range:** Self (30-foot cone)
 **Duration:** Instantaneous  
 **Components:** V, S  
-A cone of thunderous sound. Creatures must make a Constitution saving throw or be **Stunned** until the end of their next turn and take **6d8 thunder damage**.
+A thunderous echo detonates in a 30-foot cone. Each creature in the cone must make a **Constitution saving throw against your Spell Save DC**, taking **6d8 thunder damage** on a failed save or half as much on a success. On a failed save, the creature is also **Incapacitated** until the end of its next turn.
 
 ## **Fulmena (Order)**
 **Deity Cantrip: Fulmena's Touch (Lightning)**  
@@ -1123,7 +1123,7 @@ You channel Fulmena's disciplined power into a creature, sharpening its reflexes
 **Range:** 120 feet  
 **Duration:** Concentration, up to 1 minute  
 **Components:** V, S  
-You create a radiant beacon of lightning. Creatures wearing metal in a 30-foot radius must make a Constitution saving throw or take **6d10 lightning damage** and be **Blinded**.
+You create a radiant beacon of lightning. Creatures wearing metal in a 30-foot radius must make a **Constitution saving throw against your Spell Save DC** or take **6d10 lightning damage** and be **Blinded**.
 
 ## **Mundus (Harmony)**
 **Deity Cantrip: Mundus' Soil (Earth)**  
@@ -1212,7 +1212,7 @@ You summon a beam of light. Choose one:
 **Range:** Touch  
 **Duration:** Instantaneous  
 **Components:** V, S  
-Heal a creature for **6d8** HP. Cure disease/poison. Can revive a creature dead for 1 minute (returns with half HP).
+Lux's healing radiance flows through your touch. You touch a creature, and it regains **6d8 Hit Points**. This spell also ends one disease and one poison effect currently afflicting the target.
 
 **Unique Spell: Luminous Ray**  
 *3rd Level Evocation*  
@@ -1360,7 +1360,7 @@ Ossis guides your hand as you press your palm to a bone or weapon, flooding it w
 **Range:** 30 feet  
 **Duration:** Instantaneous  
 **Components:** V, S  
-You unleash a wave of bone-shattering energy in a 30-foot cone. Creatures must make a Constitution saving throw, taking **7d8 force damage** on a failed save.
+You unleash a wave of bone-shattering energy in a 30-foot cone. Creatures must make a **Constitution saving throw against your Spell Save DC**, taking **7d8 force damage** on a failed save or half as much on a success.
 
 **Unique Spell: Skeletal Grasp**
 *4th Level Necromancy*
@@ -1670,20 +1670,12 @@ You preserve life. Choose one:
 Anastasia's blessing fills a creature with the stubborn, unyielding vitality of one who has stared death in the eye and endured. You touch a willing creature. For the duration, the target has **Advantage on Strength, Dexterity, and Constitution saving throws**, is **Immune to the Frightened condition**, and has **Resistance to Necrotic damage**.
 
 **Unique Spell: Soulweave**
-*4th Level Necromancy*
+*5th Level Necromancy*
 **Casting Time:** 1 Hour
 **Range:** Touch
 **Duration:** Instantaneous
-**Components:** V, S, M (rare luminescent threads worth at least 100 cc, which the spell consumes)
-Anastasia weaves the departing soul back into its body using sacred threads of Elsaither energy. You touch a creature that has died within the last 24 hours. The creature returns to life with all of its Hit Points restored, and all diseases and conditions are cured.
-
-**Unique Spell: Eternal Revival**
-*4th Level Necromancy*
-**Casting Time:** 1 Hour
-**Range:** Touch
-**Duration:** Instantaneous
-**Components:** V, S, M (consecrated oils worth at least 500 cc, which the spell consumes)
-Anastasia's grace reaches into the boundary between life and death and pulls a soul back through. You touch a creature that died within the last 24 hours. The creature returns to life with Hit Points equal to half its Hit Point maximum, and it is cured of all diseases and poisons.
+**Components:** V, S, M (rare luminescent threads and consecrated oils worth at least 500 cc, which the spell consumes)
+Anastasia weaves the departing soul back into its body using sacred threads of Elsaither energy. You touch a creature that has died within the last 24 hours. The creature returns to life with **1 Hit Point**, and all diseases and poisons afflicting it at death are cured. The spell cannot return a creature to life if it died of old age, or if it lacks the body parts necessary for life.
 
 ## **Lucilus (Evil)**
 **Deity Cantrip: Lucilus' Shadow (Shadow)**  
