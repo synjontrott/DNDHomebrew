@@ -32,13 +32,11 @@ In the Elsaither universe, elemental affinity dictates resistance and power.
 **Speed:** 30 feet
 
 *   **Age:** Long-lived, maturing around 180 and living for 1,000+ years.
-*   **Elementally Charged:** You choose your element at character creation. You gain **Resistance** to your element's primary damage type. You can also use cantrips of your chosen element from the Savaroen spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells (choose when you select this species).
+*   **Elementally Charged:** You choose your elemental affinity at character creation. You gain **Resistance** to your element's primary damage type. You also learn **one cantrip of your choice** corresponding to your element from the Savaroen spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this spell (choose when you select this species).
 *   **Deep Focus:** You do not need to sleep. Instead, you meditate deeply for 4 hours a day. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
 *   **Versatile Adaptability:** You gain proficiency in **two skills of your choice**.
 *   **Resourceful Determination:** Whenever you finish a Long Rest, you gain **Heroic Inspiration**.
 *   **Elemental Heritage:** You gain **one Origin Feat** of your choice (such as *Skilled*, *Alert*, *Tough*, *Smithy*, *Violent Soldier*, or *Magic Initiate*).
-
-
 
 ## **Genempriea (Techno Cluster)**
 **Creature Type:** Humanoid  
@@ -46,7 +44,7 @@ In the Elsaither universe, elemental affinity dictates resistance and power.
 **Speed:** 35 feet
 
 *   **Age:** Long-lived (1,000+ years).
-*   **Elementally Charged:** You choose your element at character creation. You gain **Resistance** to your element's primary damage type. You can also use cantrips of your chosen element from the Savaroen spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells (choose when you select this species).
+*   **Elementally Charged:** You choose your elemental affinity at character creation. You gain **Resistance** to your element's primary damage type. You also learn **one cantrip of your choice** corresponding to your element from the Savaroen spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this spell (choose when you select this species).
 *   **Deep Focus:** You do not need to sleep. Instead, you meditate or practice forms for 4 hours a day to gain the benefits of a Long Rest.
 *   **Cybernetic Aptitude:** You have proficiency in the Acrobatics, Athletics, or Arcana skill.
 *   **Overclocked Actuators:** As a Bonus Action, you can take the **Dash action**. You can use this feature a number of times equal to your **Proficiency Bonus**, regaining all expended uses when you finish a Long Rest.
@@ -57,7 +55,7 @@ In the Elsaither universe, elemental affinity dictates resistance and power.
 **Speed:** 30 feet
 
 *   **Age:** Long-lived (1,000+ years).
-*   **Elementally Charged:** You choose your element at character creation. You gain **Resistance** to your element's primary damage type. You can also use cantrips of your chosen element from the Savaroen spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells (choose when you select this species).
+*   **Elementally Charged:** You choose your elemental affinity at character creation. You gain **Resistance** to your element's primary damage type. You also learn **one cantrip of your choice** corresponding to your element from the Savaroen spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this spell (choose when you select this species).
 *   **Deep Focus:** You meditate for 4 hours a day to gain the benefits of a Long Rest.
 *   **Powerful Build:** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift. You have Advantage on any ability check or saving throw made to escape the Grappled condition.
 *   **Warrion Knowledge:** You have proficiency in the Nature skill.
@@ -68,7 +66,7 @@ In the Elsaither universe, elemental affinity dictates resistance and power.
 **Speed:** 30 feet
 
 *   **Age:** Similar to Elves.
-*   **Elementally Charged:** You choose your element at character creation. You gain **Resistance** to your element's primary damage type. You can also use cantrips of your chosen element from the Savaroen spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells (choose when you select this species).
+*   **Elementally Charged:** You choose your elemental affinity at character creation. You gain **Resistance** to your element's primary damage type. You also learn **one cantrip of your choice** corresponding to your element from the Savaroen spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this spell (choose when you select this species).
 *   **Versatile Training:** You gain proficiency in **one skill of your choice**, plus one additional skill based on your regional origin (*Tuvotor:* Intimidation, *Raiben:* Athletics, *Vailum:* Survival, *Middlesvista:* Persuasion, *Scarsgough:* Insight).
 *   **Resourceful Heritage:** You gain **one Origin Feat** of your choice (such as *Skilled*, *Smithy*, *Healing*, *Violent Soldier*, or *Wilderness Brawler*).
 
@@ -79,9 +77,10 @@ In the Elsaither universe, elemental affinity dictates resistance and power.
 
 *   **Age:** Ageless and effectively immortal unless killed.
 *   **Living Shadow:** You do not need to eat, drink, or breathe. You are immune to disease. You do not sleep, but meditate for 4 hours to gain a Long Rest.
-*   **Elementally Charged:** You are infused with Shadow energy. You gain **Resistance** to Psychic damage. You can also use Shadow cantrips from the Savaroen spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells (choose when you select this species).
+*   **Elementally Charged:** You are infused with Shadow energy. You gain **Resistance** to Psychic damage. You also learn **one Shadow cantrip of your choice** from the Savaroen spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this spell (choose when you select this species).
 *   **Darkvision:** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light.
 *   **Natural Armor:** Your skin is hardened shadow. When you aren’t wearing armor, your AC equals **13 + your Dexterity modifier**.
+
 
 ---
 
