@@ -681,28 +681,85 @@ The symbiote acts as a perfect failsafe, ripping you away from death's door.
 *   **Nidosis Chitin Guard:** *Medium Armor.* AC 14 + Dex modifier (Max 2). Weight: 25 lbs. Cost: 20cc.
 *   **Nidosis Hardened Shell:** *Heavy Armor.* AC 16. No Strength requirement. Weight: 35 lbs. Cost: 45cc.
 
-## **Magic Items**
-**Furione’n Erolye (Guardian’s Edge)**
-*Weapon (Longsword), legendary (requires attunement)*
-A +3 Longsword.
-*   **Critical Effect:** When you score a Critical Hit, roll a d8. The target suffers a random effect (Fire burn, Cold slow, Acid damage, Lightning stun, Necrotic anti-heal, Radiant illumination, Poisoned, or Force push).
+## **Regional Magic Items**
 
-**Ninjarikan Kutana**
-*Weapon (Sword), rare (requires attunement)*
-A finely crafted blade.
-*   **Elemental Infusion:** As a Bonus Action, you can cause the blade to glow with elemental energy for 1 minute. While glowing, it deals an extra **1d6 elemental damage** on a hit. You can use this feature a number of times equal to your Proficiency Bonus.
+### **Category 1: Regional Weapons**
 
-**Cryogenic Plate Armor**
-*Armor (Plate), Legendary (requires attunement)*
-*   **Defense:** You have a +2 bonus to AC.
-*   **Resistance:** You have Resistance to Cold damage.
-*   **Freeze:** As an Action (1/Long Rest), you unleash a 15-foot cone of cold. Creatures must make a DC 18 Dexterity save, taking **6d6 Cold damage** on a failed save (half on success). On a fail, their speed becomes 0.
+#### **Common Weapons**
+*   **Nidosis Sentry Blade:** *Weapon (Dagger or Shortsword), Common.* Emits a soft amber glow when within 60 feet of a beast or monstrosity. Once per day, as a Bonus Action, you can grant yourself a +1 bonus to your next attack roll with this blade.
+*   **Ninjonian Target Pistol:** *Weapon (Pistol), Common.* Powered by compressed crystal energy. Projectiles shed dim light in a 5-foot radius where they strike. Has the *Ammunition* (Range 40/120), *Light*, and *Reload* (15 shots) properties.
 
-**Duchina Restraints**
-*Adventuring Gear*
-Power-suppressing cuffs.
-*   **Use:** DC 13 Dexterity check to apply to a Grappled/Incapacitated creature.
-*   **Effect:** The creature is Restrained and cannot cast spells with Somatic components. Escape DC 15.
+#### **Uncommon Weapons**
+*   **Warrion Maul of the Behemoth:** *Weapon (Maul or Greatclub), Uncommon.* Heavy stone weapon forged in magma. Deals double damage to nonmagical objects and structures. Once per Short Rest, when you hit a Large or smaller creature, you can force it to make a **Strength saving throw (DC 13)** or fall **Prone**.
+*   **Techno Shock Baton:** *Weapon (Mace or Club), Uncommon.* Once per turn, when you hit a creature wearing metal armor, it takes an extra **1d4 Lightning damage**. Once per Long Rest, as an Action, you can discharge a battery burst to cast *Shocking Grasp* (+5 spell attack).
+
+#### **Rare Weapons**
+*   **Ninjarikan Kutana:** *Weapon (Any Sword), Rare (Requires Attunement).* You gain a **+1 bonus to attack and damage rolls** made with this magic weapon. As a Bonus Action, you can cause the blade to hum with elemental energy for 1 minute. While humming, weapon hits deal an extra **1d6 elemental damage** of your primary type. You can use this feature a number of times equal to your **Proficiency Bonus**, regaining all uses on a Long Rest.
+*   **Techno Plasma Carbine:** *Weapon (Rifle or Pistol), Rare (Requires Attunement).* You gain a **+1 bonus to attack and damage rolls** made with this ranged magic weapon. It fires plasma bolts dealing **1d10 Force damage**. Once per Short Rest, as an Action, you can fire a 30-foot line of plasma; each creature in the line must make a **Dexterity saving throw (DC 15)**, taking **4d6 Fire damage** on a failed save, or half as much on a success.
+
+#### **Very Rare Weapons**
+*   **Warrion Obsidian Dread-Axe:** *Weapon (Greataxe), Very Rare (Requires Attunement).* You gain a **+2 bonus to attack and damage rolls** made with this magic weapon. When you score a Critical Hit, the target takes an extra **2d12 Fire damage** and must succeed on a **Strength saving throw (DC 16)** or be pushed 15 feet away and knocked **Prone**.
+*   **Nidosis Shadow-Bow:** *Weapon (Longbow or Shortbow), Very Rare (Requires Attunement).* You gain a **+2 bonus to attack and damage rolls** made with this magic weapon. It creates shadow arrows automatically when drawn, dealing an extra **1d8 Necrotic damage** on a hit. Once per Long Rest, as an Action, you can fire a shadow tether arrow; the target must succeed on a **Strength saving throw (DC 16)** or be **Restrained** for 1 minute (repeat save end of turn).
+
+#### **Legendary Weapons**
+*   **Furione’n Erolye (Guardian’s Edge):** *Weapon (Longsword or Greatsword), Legendary (Requires Attunement).* You gain a **+3 bonus to attack and damage rolls** made with this legendary blade. Attacks made with it ignore Resistance to elemental damage. When you score a Critical Hit, roll a d8 to trigger a Primordial Surge:
+    1.  *Fire:* Target takes **2d6 Fire damage** at start of its next turn.
+    2.  *Cold:* Target's speed is reduced to 0 until end of its next turn.
+    3.  *Acid:* Target takes **2d8 Acid damage** and AC is reduced by 1 for 1 minute.
+    4.  *Lightning:* Target is **Incapacitated** until start of its next turn.
+    5.  *Necrotic:* Target cannot regain Hit Points until start of your next turn.
+    6.  *Radiant:* Target is **Blinded** until end of its next turn.
+    7.  *Poison:* Target is **Poisoned** until end of its next turn.
+    8.  *Force:* Target is pushed 20 feet away and knocked **Prone**.
+*   **Techno Annihilator Railgun:** *Weapon (Heavy Firearm), Legendary (Requires Attunement).* You gain a **+3 bonus to attack and damage rolls** made with this ranged weapon (base **2d10 Elemental damage**). It ignores Half and Three-Quarters cover. Once per Long Rest, as an Action, you can fire an Orbital Beam in a 100-foot line 10 feet wide. Each creature in the area must make a **Dexterity saving throw (DC 19)**, taking **10d10 Radiant and Force damage** on a failed save, or half as much on a success.
+
+---
+
+### **Category 2: Regional Armor & Shields**
+
+#### **Common Armor & Shields**
+*   **Ninjonian Stealth Lining:** *Armor Modification (Light Armor), Common.* Grants **Advantage on Dexterity (Stealth) checks** made while standing still in dim light or darkness.
+*   **Nidosis Bark Shield:** *Shield, Common.* Crafted from petrified ironwood. Weighs 3 lbs (half standard weight) and floats in water.
+
+#### **Uncommon Armor & Shields**
+*   **Techno Environmental Suit:** *Armor (Light or Medium Armor), Uncommon.* You have **Resistance to Poison damage** and **Advantage on saving throws** against airborne toxins, toxic gases, and ambient hazards.
+*   **Warrion Carapace Shield:** *Shield, Uncommon.* You gain a **+1 bonus to AC** while holding this shield. As a Reaction when hit by a melee attack, you can deal **1d4 Piercing damage** to the attacker from the shield's chitinous thorns.
+
+#### **Rare Armor & Shields**
+*   **Reinforced Techno Suit:** *Armor (Light or Medium Armor), Rare (Requires Attunement).* You gain a **+1 bonus to AC**. You have **Resistance to Lightning and Thunder damage**. As a Reaction when targeted by a ranged spell attack, you can deploy a kinetic barrier, gaining a **+3 bonus to AC** against that attack. You can use this Reaction a number of times equal to your **Proficiency Bonus**, regaining all uses on a Long Rest.
+*   **Warrion Ironclad Plate:** *Armor (Heavy Armor), Rare (Requires Attunement).* You gain a **+1 bonus to AC**. Whenever you take nonmagical Bludgeoning, Piercing, or Slashing damage, the damage is reduced by **3**.
+
+#### **Very Rare Armor & Shields**
+*   **Nidosis Chitin Aegis:** *Armor (Medium or Heavy Armor), Very Rare (Requires Attunement).* You gain a **+2 bonus to AC**. You are **Immune to the Restrained and Paralyzed conditions** caused by webbing, toxins, or natural terrain. You gain a **30-foot Climbing speed**.
+*   **Ninjonian Assassin Suit:** *Armor (Light Armor), Very Rare (Requires Attunement).* You gain a **+2 bonus to AC** and a **+3 bonus to Dexterity (Stealth) checks**. As a Bonus Action, you can turn **Invisible** until the end of your next turn or until you attack or cast a spell. You can use this feature a number of times equal to your **Proficiency Bonus**, regaining all uses on a Long Rest.
+
+#### **Legendary Armor & Shields**
+*   **Cryogenic Plate Armor:** *Armor (Plate), Legendary (Requires Attunement).* You gain a **+2 bonus to AC**. You have **Resistance to Cold damage**. As an Action (1/Long Rest), you unleash a 15-foot radius freeze burst. Each creature in the area must make a **Constitution saving throw (DC 18)**, taking **6d6 Cold damage** and having its speed reduced to 0 until the end of its next turn on a failed save, or half as much damage on a success.
+*   **Aegis of the First Elementals:** *Shield, Legendary (Requires Attunement).* You gain a **+3 bonus to AC**. When you attune to this shield, choose one elemental damage type (Fire, Cold, Lightning, Acid, Thunder, or Radiant). You have **Immunity** to that damage type. As a Reaction when an ally within 15 feet takes damage of that elemental type, you can redirect the damage to your shield, absorbing it completely. You can use this Reaction once per Short or Long Rest.
+
+---
+
+### **Category 3: Wondrous Items & Gear**
+
+#### **Common Wondrous Items**
+*   **Elsaither Spark Pendant:** *Wondrous Item, Common.* A small crystal pendant that sheds dim light in a 10-foot radius. As an Action, you can touch an unlit torch, candle, or campfire to ignite it instantly.
+*   **Nidosis Travel Pouch:** *Wondrous Item, Common.* Food and drink placed inside this pouch remain fresh indefinitely and are immune to natural rot and nonmagical spoilage.
+
+#### **Uncommon Wondrous Items**
+*   **Techno Scanner Goggles:** *Wondrous Item, Uncommon.* You gain **Darkvision out to 60 feet**. You can cast *Detect Magic* without expending a spell slot once per Long Rest.
+*   **Warrion Strength Band:** *Wondrous Item, Uncommon (Requires Attunement).* You count as **one size larger** when determining your carrying capacity and the weight you can push, drag, or lift, and you gain **Advantage on Strength (Athletics) checks** made to force open doors or break objects.
+
+#### **Rare Wondrous Items**
+*   **Ninjonian Warp Boots:** *Wondrous Item (Boots), Rare (Requires Attunement).* Your walking speed increases by **10 feet**. As a Bonus Action, you can magically teleport up to **15 feet** to an unoccupied space you can see. You can use this teleportation a number of times equal to your **Proficiency Bonus**, regaining all uses on a Long Rest.
+*   **Duchina Restraints:** *Wondrous Item (Shackles), Rare.* Power-suppressing cuffs. As an Action (or as part of a grapple contest), you can apply them to a Grappled or Incapacitated creature. The creature is **Restrained** and cannot cast spells requiring Somatic components. A creature can use its Action to make a Strength (Athletics) or Dexterity (Acrobatics) check against a **DC equal to 8 + your Proficiency Bonus + your Strength or Dexterity modifier**, escaping on a success.
+
+#### **Very Rare Wondrous Items**
+*   **Symbiotic Shadow Cloak:** *Wondrous Item (Cloak), Very Rare (Requires Attunement).* You have **Resistance to Necrotic and Psychic damage**. While in dim light or darkness, as a Bonus Action, you can step through shadows to teleport up to **60 feet** to an unoccupied space in dim light or darkness. You can use this teleportation once per Short or Long Rest.
+*   **Techno Overclock Module:** *Wondrous Item (Implant or Trinket), Very Rare (Requires Attunement).* Once per Long Rest, as a Free Action on your turn, you can take one additional Action (as *Action Surge*). Afterward, your movement speed is halved until the end of your next turn as your systems cool down.
+
+#### **Legendary Wondrous Items**
+*   **Crown of the Elsaither Sovereign:** *Wondrous Item (Headwear), Legendary (Requires Attunement).* Your **Spell Save DC** and **spell attack modifier** increase by **+2**. You gain **Resistance** to all elemental damage types (Fire, Cold, Lightning, Acid, Thunder, Radiant). Once per Long Rest, when you cast a spell of 1st through 8th level, you can cast it without expending a spell slot.
+*   **Heart of the Primordial Core:** *Wondrous Item (Artifact), Legendary (Requires Attunement).* Increase your Intelligence, Wisdom, Charisma, or Strength score by **+2** (to a maximum of 22). When you are reduced to 0 Hit Points but not killed outright, you drop to 1 Hit Point instead and detonate an elemental shockwave. Each hostile creature within 20 feet of you must make a **Dexterity saving throw (DC 18)**, taking **4d10 elemental damage** of your primary type on a failed save, or half as much on a success. Once this shockwave triggers, it cannot trigger again until you finish a Long Rest.
 
 ## **Plant Life**
 *   **Peibinu Arsib (Fire Berry):** Eating a berry restores **1d4 hit points**.
