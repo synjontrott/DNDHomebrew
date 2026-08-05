@@ -48,13 +48,13 @@ At 1st level, when a character gains the **Elementally Charged** feature from th
 *   **Primary Damage:** Psychic
 *   **Secondary Damage:** Necrotic, Force, Thunder
 *   **The Power (Mind Walker):** You gain Advantage on Wisdom (Insight) checks. When you cast a Savaroen spell that deals Psychic damage, you can force the target to make a Wisdom saving throw against your Spell Save DC. On a failure, they are **Frightened** of you until the end of your next turn. You can use this Frightened effect a number of times equal to your **Proficiency Bonus** per Long Rest.
-*   **The Danger (Empathic Overload):** You constantly feel the Elsaither energy of others. If an ally within 30 feet of you is reduced to 0 Hit Points or is Frightened, you must make a **Wisdom saving throw against your Spell Save DC**. On a failure, you take Psychic damage equal to **1d6 + your Spellcasting Modifier** as their terror bleeds into your mind.
+*   **The Danger (Empathic Overload):** You constantly feel the Elsaither energy of others. If an ally within 30 feet of you is reduced to 0 Hit Points or gains the Frightened condition, you must make a **Wisdom saving throw against your Spell Save DC**. On a failure, you take Psychic damage equal to **1d6 + your Spellcasting Modifier** as their terror bleeds into your mind.
 
 ### **Red Lightning (Lightning)**
 *A volcanic, explosive form of lightning that hits like a physical impact, capable of shattering rock and destabilizing molecules.*
 *   **Primary Damage:** Lightning
 *   **Secondary Damage:** Thunder, Force, Fire
-*   **The Power (Concussive Blast):** Your lightning spells carry physical weight. When you deal Thunder or Lightning damage to a creature with a Savaroen spell, you can push them up to **10 feet** away from you (Large or smaller creatures must first fail a **Strength saving throw against your Spell Save DC** to be pushed). Your spells deal double damage to objects and structures.
+*   **The Power (Concussive Blast):** Your lightning spells carry physical weight. When you deal Thunder or Lightning damage to a creature with a Savaroen spell, you can force it to make a **Strength saving throw against your Spell Save DC**. On a failure, a Large or smaller creature is pushed up to **10 feet** away from you. Your spells deal double damage to objects and structures.
 *   **The Danger (Molecular Recoil):** The explosive nature of your power is hard to contain. When you cast a Savaroen spell of 1st level or higher, the blast radius recoils. You are pushed 10 feet in the opposite direction of the spell's target/area and must succeed on a **Strength saving throw against your Spell Save DC** or fall **Prone**.
 
 ### **Black Laser (Laser)**
@@ -75,7 +75,7 @@ At 1st level, when a character gains the **Elementally Charged** feature from th
 *A mutation that hardens ice into an emerald or diamond-like texture, sacrificing cold manipulation for sheer physical strength.*
 *   **Primary Damage:** Cold
 *   **Secondary Damage:** Bludgeoning, Piercing, Slashing
-*   **The Power (Diamond Frost):** Your ice constructs are incredibly durable. When you cast *Shield Wall* or gain temporary Hit Points from *Energy Shield*, the AC of the wall or your personal AC increases by **+1**. When you cast a Savaroen spell of 1st level or higher, you gain **Resistance to Bludgeoning damage** until the start of your next turn.
+*   **The Power (Diamond Frost):** Your ice constructs are incredibly durable. When you cast *Shield Wall* or gain temporary Hit Points from *Energy Shield*, the AC of the wall increases by +1, or your personal AC increases by **+1 until the start of your next turn**. When you cast a Savaroen spell of 1st level or higher, you gain **Resistance to Bludgeoning damage** until the start of your next turn.
 *   **The Danger (Rigid Form):** The hardness of your ice makes it inflexible. When you cast a Savaroen spell of 1st level or higher, frost crystalizes on your joints. Your movement speed is reduced by **10 feet** until the end of your next turn.
 
 ### **Gel (Ice)**
@@ -103,15 +103,14 @@ At 1st level, when a character gains the **Elementally Charged** feature from th
 *A mutation that deforms metals effortlessly and possesses a "Midas Touch."*
 *   **Primary Damage:** Slashing
 *   **Secondary Damage:** Piercing, Bludgeoning, Fire
-*   **The Power (Aurelian Touch):** You have Advantage on attack rolls against creatures wearing metal armor. Once per Short Rest, when you hit a creature with a melee spell attack, you can force them to make a **Constitution saving throw**. On a failure, they are **Restrained** until the end of your next turn.
-*   **The Danger (Heavy Burden):** Gold is heavy and soft. You cannot wear Heavy Armor. Additionally, your base walking speed is reduced by **5 feet**.
+*   **The Power (Aurelian Touch):** You can shape and soften nonmagical metal. You gain Advantage on Strength (Athletics) checks made to bend or break metal. Once per turn, when you hit a creature wearing metal armor or made of metal with a melee attack, you can force them to make a **Constitution saving throw against your Spell Save DC**. On a failure, they are **Stunned** until the start of your next turn as their armor momentarily fuses. You can use this Stun feature a number of times equal to your **Proficiency Bonus**, regaining all expended uses when you finish a Long Rest. Additionally, your base walking speed is reduced by **5 feet**.
 
 ### **Crystal (Metal/Earth)**
 *A manifestation of diamond and ruby structures, elevating defensive capabilities far beyond normal earth or metal.*
 *   **Primary Damage:** Piercing
 *   **Secondary Damage:** Slashing, Bludgeoning, Force
 *   **The Power (Crystalline Matrix):** When you cast a Savaroen spell of 1st level or higher, you gain **Resistance to Piercing and Slashing damage** until the start of your next turn. When you cast *Shield Wall*, the wall is completely transparent and gains additional Hit Points equal to **your Proficiency Bonus × 5**.
-*   **The Danger (Shatter Point):** Crystals are hard but brittle. If you take Thunder damage, or if you are hit by a Critical Hit that deals Bludgeoning damage, your crystal matrix shatters. You lose your Resistances and take an extra **1d6 + your Proficiency Bonus Force damage** until you finish a Short Rest.
+*   **The Danger (Shatter Point):** Crystals are hard but brittle. If you take Thunder damage, or if you are hit by a Critical Hit that deals Bludgeoning damage, your crystal matrix shatters. You lose your Resistances, and the next time you take damage from an attack or spell before finishing a Short Rest, you take an extra **1d6 + your Proficiency Bonus Force damage**.
 
 ### **Purple Stone (Earth)**
 *A mutation deeply connected to the world's flora and fauna, offering massive healing capabilities.*
@@ -131,7 +130,7 @@ At 1st level, when a character gains the **Elementally Charged** feature from th
 *A supportive mutation that excels in flight and speed enhancement.*
 *   **Primary Damage:** Force
 *   **Secondary Damage:** Thunder, Cold, Bludgeoning
-*   **The Power (Zephyr's Lift):** When you cast a supportive Savaroen spell on an ally, that ally's movement speed increases by **10 feet**, and they do not provoke Opportunity Attacks for the duration of the spell.
+*   **The Power (Zephyr's Lift):** You can ride thermal drafts. When you cast a Savaroen spell of 1st level or higher that targets an ally, you can grant that ally a **30-foot fly speed (Hover)** until the end of their next turn.
 *   **The Danger (Untethered):** You have **Disadvantage on Strength saving throws** made to resist being pushed, pulled, or knocked Prone.
 
 ### **Vortex (Air)**
@@ -145,7 +144,7 @@ At 1st level, when a character gains the **Elementally Charged** feature from th
 *Also known as Witherbone. A mutation sitting between Bone and Shadow that crafts weapons from the void.*
 *   **Primary Damage:** Necrotic
 *   **Secondary Damage:** Bludgeoning, Force, Piercing
-*   **The Power (Shadow Weaver):** You can cast *Misty Step* once per Long Rest without expending a spell slot. Additionally, you can create 10-foot tendrils of black bone that allow you to grapple creatures up to 15 feet away. To grapple with a tendril, you make a spell attack roll using your Spellcasting modifier; the target may contest with a **Strength saving throw against your Spell Save DC**.
+*   **The Power (Shadow Weaver):** You can cast *Misty Step* once per Long Rest without expending a spell slot. Additionally, as a Bonus Action, you can create 10-foot tendrils of black bone that allow you to grapple creatures up to 15 feet away. To grapple with a tendril, you make a spell attack roll using your Spellcasting modifier; the target may contest with a **Strength saving throw against your Spell Save DC**.
 *   **The Danger (Wither Fracture):** Your form is a volatile lattice of void-bone. Whenever you cast a Savaroen spell of 1st level or higher, or use your *Shadow Weaver* teleportation, your form fractures. Every creature within 10 feet of you (including allies) must succeed on a **Dexterity saving throw against your Spell Save DC** or take Piercing damage equal to **1d6 + your Proficiency Bonus** as black bone shards explode outward.
 
 ### **Acid (Gas)**

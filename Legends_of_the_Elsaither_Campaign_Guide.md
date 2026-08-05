@@ -32,7 +32,7 @@ In the Elsaither universe, elemental affinity dictates resistance and power.
 **Speed:** 30 feet
 
 *   **Age:** Long-lived, maturing around 180 and living for 1,000+ years.
-*   **Elementally Charged:** You choose your element at character creation. You gain **Resistance** to your element's primary damage type. You can also use cantrips of your chosen element from the Savaroen spell list.
+*   **Elementally Charged:** You choose your element at character creation. You gain **Resistance** to your element's primary damage type. You can also use cantrips of your chosen element from the Savaroen spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells (choose when you select this species).
 *   **Deep Focus:** You do not need to sleep. Instead, you meditate deeply for 4 hours a day. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
 *   **Cluster Training:** You have proficiency in the Performance, Intimidation, or Deception skill.
 
@@ -42,7 +42,7 @@ In the Elsaither universe, elemental affinity dictates resistance and power.
 **Speed:** 40 feet
 
 *   **Age:** Long-lived (1,000+ years).
-*   **Elementally Charged:** You choose your element at character creation. You gain **Resistance** to your element's primary damage type. You can also use cantrips of your chosen element from the Savaroen spell list.
+*   **Elementally Charged:** You choose your element at character creation. You gain **Resistance** to your element's primary damage type. You can also use cantrips of your chosen element from the Savaroen spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells (choose when you select this species).
 *   **Deep Focus:** You do not need to sleep. Instead, you meditate or practice forms for 4 hours a day to gain the benefits of a Long Rest.
 *   **Cybernetic Aptitude:** You have proficiency in the Acrobatics, Athletics, or Arcana skill.
 
@@ -52,7 +52,7 @@ In the Elsaither universe, elemental affinity dictates resistance and power.
 **Speed:** 30 feet
 
 *   **Age:** Long-lived (1,000+ years).
-*   **Elementally Charged:** You choose your element at character creation. You gain **Resistance** to your element's primary damage type. You can also use cantrips of your chosen element from the Savaroen spell list.
+*   **Elementally Charged:** You choose your element at character creation. You gain **Resistance** to your element's primary damage type. You can also use cantrips of your chosen element from the Savaroen spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells (choose when you select this species).
 *   **Deep Focus:** You meditate for 4 hours a day to gain the benefits of a Long Rest.
 *   **Powerful Build:** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift. You have Advantage on any ability check or saving throw made to escape the Grappled condition.
 *   **Warrion Knowledge:** You have proficiency in the Nature skill.
@@ -63,7 +63,7 @@ In the Elsaither universe, elemental affinity dictates resistance and power.
 **Speed:** 30 feet
 
 *   **Age:** Similar to Elves.
-*   **Elementally Charged:** You choose your element at character creation. You gain **Resistance** to your element's primary damage type. You can also use cantrips of your chosen element from the Savaroen spell list.
+*   **Elementally Charged:** You choose your element at character creation. You gain **Resistance** to your element's primary damage type. You can also use cantrips of your chosen element from the Savaroen spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells (choose when you select this species).
 *   **Versatile Training:** You gain proficiency in one skill of your choice. Additionally, you gain a regional benefit based on your origin:
     *   *Tuvotor:* Proficiency in Intimidation.
     *   *Raiben:* Proficiency in Athletics.
@@ -78,7 +78,7 @@ In the Elsaither universe, elemental affinity dictates resistance and power.
 
 *   **Age:** Ageless and effectively immortal unless killed.
 *   **Living Shadow:** You do not need to eat, drink, or breathe. You are immune to disease. You do not sleep, but meditate for 4 hours to gain a Long Rest.
-*   **Elementally Charged:** You are infused with Shadow energy. You gain **Resistance** to Psychic damage. You can also use Shadow cantrips from the Savaroen spell list.
+*   **Elementally Charged:** You are infused with Shadow energy. You gain **Resistance** to Psychic damage. You can also use Shadow cantrips from the Savaroen spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells (choose when you select this species).
 *   **Darkvision:** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light.
 *   **Natural Armor:** Your skin is hardened shadow. When you aren’t wearing armor, your AC equals **13 + your Dexterity modifier**.
 
@@ -170,7 +170,7 @@ At 5th level, whenever you expend a Spell Slot of 3rd level or higher, you gain 
 **Elemental Specialty**
 At 7th level, choose one specialization:
 *   **Animal Spirit:** You gain proficiency in Animal Handling. As an Action, you can expend a use of *Elemental Surge* to summon a **Spirit Companion** (use *Summon Beast* stats, dealing elemental damage). It lasts for 1 hour (Concentration).
-*   **Hiarelobi (Dual Element):** Choose a second element. You gain Resistance to its primary damage type. When you cast an elemental spell, you can swap its damage type to your second element. Once per Long Rest, you can deal maximum damage with a spell instead of rolling (Fusion Blast).
+*   **Hiarelobi (Dual Element):** Choose a second element. You gain Resistance to its primary damage type. When you cast a spell that deals elemental damage, you can change its damage type to your second element. Once per Long Rest, when you roll damage for a spell, you can deal maximum damage instead of rolling (Fusion Blast).
 
 **Improved Surge**
 At 11th level, the extra damage from your *Elemental Surge* increases to **1d8**.
@@ -196,17 +196,17 @@ At 20th level, as a Bonus Action, you manifest a **Divine Elemental Weapon** for
 
 #### **Ninjarikan (The Hybrid)**
 *   **Level 3: Spellblade Training:** Gain proficiency in **Martial Weapons**. You gain proficiency in Arcana, History, or Investigation.
-*   **Bonded Weapon:** Bond to a weapon. You can use **Charisma** for its attack and damage rolls.
+*   **Bonded Weapon:** At the end of a Short or Long Rest, you can touch one weapon to bond with it. You can use your **Charisma** modifier instead of Strength or Dexterity for its attack and damage rolls.
 *   **Level 6: War Magic:** Extra Attack. You can cast one of your **Cantrips** in place of one of those attacks.
-*   **Level 10: Eldritch Strike:** Creatures hit by your weapon have Disadvantage on the next save against your spells.
+*   **Level 10: Eldritch Strike:** Creatures hit by your weapon attack have Disadvantage on the next saving throw they make against one of your spells before the end of your next turn.
 *   **Level 14: Arcane Charge:** When you cast a spell of 1st level or higher using a spell slot, you can teleport up to 30 feet to an unoccupied space you can see as part of the same action.
 
 #### **Warrion (The Rage Mage)**
 *   **Level 3: Combat Training:** Gain proficiency in **Martial Weapons**, **Shields**, and **Athletics**.
-*   **Elemental Trance:** Bonus Action to enter a trance (PB/Long Rest). While tranced:
-    *   Resistance to Bludgeoning, Piercing, Slashing damage.
-    *   Add PB to melee damage rolls.
-    *   *Restriction:* You can only concentrate on spells dealing your primary elemental damage.
+*   **Elemental Trance:** As a Bonus Action, you can enter an elemental trance that lasts for 1 minute (or until you fall Unconscious, or end it as a Bonus Action). You can enter this trance a number of times equal to your **Proficiency Bonus**, regaining all expended uses when you finish a Long Rest. While tranced:
+    *   You have Resistance to Bludgeoning, Piercing, and Slashing damage.
+    *   Add your **Proficiency Bonus** to melee weapon damage rolls.
+    *   *Restriction:* You can only concentrate on spells that deal your primary elemental damage type.
 *   **Level 6: Extra Attack:** Attack twice per Action.
 *   **Level 10: Furious Focus:** Advantage on Constitution saves to maintain concentration while in Trance.
 *   **Level 14: Retaliatory Burst:** When hit in melee while in Trance, Reaction to deal **CHA + Level** elemental damage to the attacker.
@@ -221,14 +221,14 @@ At 20th level, as a Bonus Action, you manifest a **Divine Elemental Weapon** for
 
 #### **Tek (The Tech Caster)**
 *   **Level 3: Gadgeteer:** Gain proficiency in **Shields** and **Tinker’s Tools**.
-    *   **Arcane Battery:** Action to recover one expended spell slot (Level <= Half PB). 1/Long Rest.
-*   **Level 6: Alchemical Casting:** When you cast a spell that heals or damages, add **1d8** to the roll.
-*   **Level 10: Shield Generator:** Reaction to reduce damage to self/ally by **2d8 + CHA**.
-*   **Level 14: Noise Canceling:** Advantage on Concentration saves. Immune to Thunder damage/Deafened.
+    *   **Arcane Battery:** Action to recover one expended spell slot (with a level equal to or less than half your Proficiency Bonus, rounded up). Once per Long Rest.
+*   **Level 6: Alchemical Casting:** When you cast a spell that heals or damages, add **1d8** to one damage or healing roll of that spell.
+*   **Level 10: Shield Generator:** As a Reaction when you or an ally within 30 feet of you takes damage, you can reduce that damage by **2d8 + your Charisma modifier**.
+*   **Level 14: Noise Canceling:** Advantage on Constitution saves. Immune to Thunder damage and the Deafened condition.
 
 #### **Techno (The Item Master)**
 *   **Level 3: Master Maker:** Gain proficiency in **Heavy Armor**, **Shields**, and **Smith’s Tools**.
-    *   **Automaton Assistant:** Create a mechanical companion (use Steel Defender stats, no Reaction). Bonus Action to command.
+    *   **Automaton Assistant:** Over a Long Rest using Smith's Tools, you can construct a mechanical companion (use Steel Defender stats, no Reaction). Bonus Action to command.
 *   **Level 6: Magic Item Savant:** You can attune to **4 Magic Items**.
 *   **Level 10: Rapid Fabricator:** Cast *Fabricate* and *Creation* 1/Long Rest (free). Automaton attacks are magical.
 *   **Level 14: Soul of the Machine:** Attune to **5 Magic Items**. +1 to all Saves for every 2 attuned items.
@@ -496,7 +496,7 @@ You spent your young years playing with technology, taking things apart, putting
 **Violent Soldier**
 *Origin Feat*
 You've been trained to deal particularly powerful melee attacks.
-*   **Great Weapon Mastery:** When you roll a 1 or 2 on a damage die for an attack you make with a **melee weapon** (not spells), you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2.
+*   **Great Weapon Mastery:** When you roll a 1 or 2 on a damage die for an attack you make with a **Two-Handed or Versatile melee weapon** held in two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2.
 
 **Skilled**
 *Origin Feat*
@@ -513,7 +513,7 @@ You gain the following benefits.
 *Origin Feat*
 You gain the following benefits.
 *   **Tool Proficiency:** You gain proficiency with **Fusion Smith's Tools** or **Tinker's Tools**.
-*   **Discount:** Whenever you buy a nonmagical item, you receive a 20 percent discount on it.
+*   **Discount:** Whenever you buy a nonmagical item, you receive a 20 percent discount on it for personal use or crafting raw materials. Items purchased with this discount sell for their discounted value.
 *   **Crafting:** When you finish a long rest, you can craft one consumable item (like a grenade or potion) worth 50cc or less, provided you have the materials.
 
 **Healing**
@@ -552,7 +552,7 @@ You have mastered the gish combat style, seamlessly weaving magic and steel.
 *General Feat (Prerequisite: Level 4+, Elementally Charged feature)*
 You have learned to push past your natural limits, weaponizing your own life force to amplify your elemental power.
 *   **Ability Score Increase:** Increase your Constitution or your spellcasting ability score by 1, to a maximum of 20.
-*   **Overclock:** When you deal damage with a spell or class feature that uses your primary elemental type, you can choose to expend one of your Hit Dice. Roll the Hit Die and add the result to the damage dealt to one target. However, the violent energy recoils, and you take damage equal to the number rolled. This recoil damage cannot be reduced in any way.
+*   **Overclock:** Once per turn, when you deal damage with a spell or class feature that uses your primary elemental type, you can choose to expend one of your Hit Dice. Roll the Hit Die and add the result to the damage dealt to one target. However, the violent energy recoils, and you take damage equal to the number rolled. This recoil damage cannot be reduced in any way.
 
 **Elemental Vanguard**
 *General Feat (Prerequisite: Level 4+)*
@@ -603,7 +603,7 @@ You have learned to temporarily suppress the violent recoil of your mutation.
 You can push the limits of your elemental output, ensuring your spells always hit with devastating force.
 *   **Ability Score Increase:** Increase your Constitution or spellcasting ability score by 1, to a maximum of 20.
 *   **Overwhelming Element:** When you roll damage for a spell or class feature that deals your primary elemental damage, you can treat any 1s or 2s on the damage dice as 3s.
-*   **Elemental Piercing:** Once per turn, when you hit a creature with an attack or spell that deals your primary elemental damage, you can ignore Resistance to that damage type for that specific attack.
+*   **Elemental Piercing:** Once per Long Rest, when you hit a creature with an attack or spell that deals your primary elemental damage, you can treat Immunity to that damage type as Resistance for that attack.
 
 **Symbiotic Ascendancy**
 *General Feat (Prerequisite: Level 12+, Symbiotic Synchronicity feat)*
