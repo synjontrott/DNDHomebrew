@@ -26,9 +26,14 @@ Create a perfectly balanced D&D Homebrew guidebook based on LotE Lore. The resul
 - **Technical Rules & RAW Audit (August 2026):** Fixed missing durations (Warrion `Elemental Trance` 1-min duration), missing action costs (Animal Spirit, Bonded Weapon, Automaton Assistant), and RAW loopholes (Violent Soldier, Smithy discount reselling).
 - **6-Agent 2024 OP Balance Sweep (August 2026):** Multi-agent sweep adjusted Techno Railgun (2d10 Loading), capped spell damage multipliers (Fusion Blast, Potent Spellcasting), re-leveled tier-inappropriate features (Mind Break, Rift Maker), and set Epic Boon prerequisites to Level 19+.
 - **Species Traits & Benchmarks (August 2026):** Genempriea updated to 35ft base speed + *Overclocked Actuators* (Bonus Action Dash PB/LR, matching 2024 Wood Elf/Orc benchmarks). Plunesako expanded to grant dual skills + 1 Origin Feat of choice (matching 2024 Human benchmarks).
+- **Per-Region Magic Item Compendiums (August 2026):** 150 total magic items added to Chapter 4 across 5 regional compendiums (Ninjonia, Techno, Warrion, Nidosis, Shadow/Ancient Elsaither).
+- **High-Fantasy Subclass Titles & Disconnect Fixes (August 2026):** High-fantasy titles applied to all subclasses and feature disconnects resolved.
+- **Glass Cannon Mutation Audit (August 2026):** All 21 mutations tuned to strict high risk / high reward glass cannon paradigms.
+- **Full 19-Deity Spell Compendium (August 2026):** Chapter 6 standardized to 100% compliance across all 19 Deities (114 spells), providing a 3-option cantrip `(Utility), (Utility), (Damage)` + 5 unique spells mapped to 2nd, 3rd, 4th, 5th, and Capstone tiers.
 - **Cantrip Standardization:** All cantrips provide utility or temporary benefits rather than permanent healing or overpowered debuffs.
 - **Currency:** Standardized as "cc" (Crystalarium Currency) across all primary documents.
 - **Reference Management:** Legacy homebrew volumes and individual class files are archived in the `ReferenceDocuments/` directory.
+
 
 ## Key Files
 | File | Purpose |
