@@ -1562,7 +1562,7 @@ You transform into a solar entity for 1 minute. For the duration, you gain a **6
 **Range:** 60 feet  
 **Duration:** Instantaneous  
 You create a burst of laser light. Choose one:
-*   **Blind (Control):** A creature within range must succeed on a Constitution saving throw or take **1d6 radiant damage** and have **Disadvantage on its next attack roll**.
+*   **Blind (Utility):** A creature within range must succeed on a Constitution saving throw or take **1d6 radiant damage** and have **Disadvantage on its next attack roll**.
 *   **Distract (Utility):** Flash a flare that grants Advantage on the next attack made against a target before your next turn.
 *   **Searing Bolt (Damage):** Make a ranged spell attack against a target. On a hit, deal **1d8 radiant damage**.
 
@@ -1780,7 +1780,7 @@ The earth detonates with millions of sharp bone fragments. Hostile creatures wit
 You knit flesh and bone. Choose one:
 *   **Stabilize (Utility):** Stabilize a dying creature at 0 HP.
 *   **Repair (Utility):** Fix a break or crack in a small nonmagical object.
-*   **Calcified Ward (Support):** Touch a willing creature. Target gains **1d4 temporary hit points**.
+*   **Bone Spike (Damage):** Target a creature within range. It must make a Dexterity saving throw, taking **1d8 piercing damage** on a failure.
 
 **Unique Spell 1: Calcified Ward**  
 *2nd Level Abjuration*  
@@ -1899,7 +1899,7 @@ You summon cosmic gas. Choose one:
 Channel cosmic gas in a 30-foot line. Creatures take **3d10 force damage** on a failed Dexterity save and are pushed 15 feet.
 
 **Unique Spell 2: Nebulous Conduit**  
-*4th Level Transmutation*  
+*3rd Level Transmutation*  
 **Casting Time:** 1 Action  
 **Range:** Self  
 **Duration:** Concentration, up to 1 minute  
@@ -1995,8 +1995,8 @@ A massive steel aura protects allies within 30 feet. Allies gain **Resistance to
 **Duration:** 1 Round  
 You reinforce your form. Choose one:
 *   **Harden (Utility):** Gain +1 AC against the next attack.
-*   **Spike Strike (Damage):** Unarmed strike deals 1d6 Slashing damage.
 *   **Metal Coat (Utility):** Gain Resistance to Bludgeoning, Piercing, and Slashing damage until start of next turn.
+*   **Spike Strike (Damage):** Make an unarmed spell strike dealing **1d6 slashing damage**.
 
 **Unique Spell 1: Ferrokinetic Surge**  
 *2nd Level Transmutation*  
@@ -2212,7 +2212,7 @@ Transform into an avatar of death for 1 minute. Gain immunity to Necrotic and Ps
 You preserve life force. Choose one:
 *   **Spare (Utility):** Stabilize a dying creature at 0 HP.
 *   **Bless (Utility):** Target gains +1d4 to its next saving throw.
-*   **Life Guard (Support):** Target gains Advantage on death saving throws until your next turn.
+*   **Radiant Spark (Damage):** Target a creature within range. It must make a Constitution saving throw, taking **1d8 radiant damage** on a failure.
 
 **Unique Spell 1: Life-Thread Blessing**  
 *2nd Level Evocation*  
