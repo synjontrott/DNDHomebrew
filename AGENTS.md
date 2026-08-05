@@ -1,5 +1,7 @@
 # D&D Homebrew Project Agents
 
+> **Cross-Reference:** This file works alongside [`GEMINI.md`](./GEMINI.md) and [`CLAUDE.md`](./CLAUDE.md). All three files share the same project mandates; refer to them together for full context.
+
 The primary goal of this project is to create a perfectly balanced D&D Homebrew guidebook based on Legends of the Elsaither (LotE) Lore. The content must be fun to play and compliment the standard D&D 2024 classes as if it were a canon rulebook.
 
 ## **Specialized Subagent Roles**
@@ -21,7 +23,7 @@ The primary goal of this project is to create a perfectly balanced D&D Homebrew 
 
 ---
 
-## **Recent Audit & Project Progress (July 2026)**
+## **Recent Audit & Project Progress (August 2026)**
 
 The project has completed a major mechanical audit and introduced structured character progression:
 
@@ -31,3 +33,5 @@ The project has completed a major mechanical audit and introduced structured cha
 4.  **Standardized Elemental Profiles:** Every mutation must follow a 1-primary/3-secondary damage type profile to maintain system consistency.
 5.  **Action Economy:** The 'Dual Player' mode for the Shadow Warrior remains a "Hero Character" mechanic for two players sharing one body.
 6.  **Terminology & Workspace:** Currency is standardized as "cc," and all legacy volumes are archived in `ReferenceDocuments/`.
+7.  **White Shadow Mutation Fix (August 2026):** The Power of the White Shadow mutation was revised. "No penalties in bright light" had zero mechanical effect in D&D 2024 and was replaced with a meaningful prismatic distortion ability (Advantage on Sleight of Hand, 1/Short Rest blinding flash).
+8.  **Deity Spell Integration (August 2026):** A "Deity Blessing" class feature was added to both the Savaroen and Shadow Warrior, formalizing the mechanical pathway to obtain a Deity's Cantrip and Unique Spells. All shorthand deity spell descriptions in Chapter 6 were expanded to full D&D 2024 block format.

@@ -40,7 +40,7 @@ At 1st level, when a character gains the **Elementally Charged** feature from th
 *A prismatic shadow that reflects light rather than absorbing it, allowing the user to shift seamlessly in broad daylight.*
 *   **Primary Damage:** Radiant
 *   **Secondary Damage:** Psychic, Force, Thunder
-*   **The Power (Prismatic Shift):** You do not suffer penalties in bright light. Once per turn, as a Bonus Action, you can magically teleport up to 15 feet to an unoccupied space you can see, leaving a trail of white light.
+*   **The Power (Prismatic Shift):** Your shadow blazes with refracted light, creating dazzling distortions that confuse the eye. You gain **Advantage on Dexterity (Sleight of Hand) checks**, as your prismatic aura creates perfect misdirection. Once per turn, as a Bonus Action, you can magically teleport up to 15 feet to an unoccupied space you can see, leaving a trail of white light. Additionally, once per Short or Long Rest, as a Bonus Action, you can detonate a burst of prismatic light from your shadow. Each creature within 10 feet of you must succeed on a **Constitution saving throw against your Spell Save DC** or be **Blinded** until the end of their next turn.
 *   **The Danger (Luminescent Beacon):** Because your shadow reflects light, you have **Disadvantage on Dexterity (Stealth) checks** made in dim light or darkness. Additionally, you cannot benefit from the *Invisibility* condition.
 
 ### **Dream (Shadow)**
