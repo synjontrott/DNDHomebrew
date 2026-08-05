@@ -32,12 +32,12 @@ In the Elsaither universe, elemental affinity dictates resistance and power.
 **Speed:** 30 feet
 
 *   **Age:** Long-lived, maturing around 180 and living for 1,000+ years.
-*   **Darkvision:** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light.
 *   **Elementally Charged:** You choose your element at character creation. You gain **Resistance** to your element's primary damage type. You can also use cantrips of your chosen element from the Savaroen spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells (choose when you select this species).
 *   **Deep Focus:** You do not need to sleep. Instead, you meditate deeply for 4 hours a day. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
-*   **Cluster Discipline:** You have proficiency in **two skills** of your choice from Acrobatics, Stealth, Perception, Intimidation, or Deception.
-*   **Ninjonian Reflexes:** You have **Advantage on Initiative rolls**.
-*   **Shadow Stride:** As a Bonus Action, while in dim light or darkness, you can magically teleport up to 30 feet to an unoccupied space you can see that is also in dim light or darkness. You can use this feature a number of times equal to your **Proficiency Bonus**, regaining all expended uses when you finish a Long Rest.
+*   **Versatile Adaptability:** You gain proficiency in **two skills of your choice**.
+*   **Resourceful Determination:** Whenever you finish a Long Rest, you gain **Heroic Inspiration**.
+*   **Elemental Heritage:** You gain **one Origin Feat** of your choice (such as *Skilled*, *Alert*, *Tough*, *Smithy*, *Violent Soldier*, or *Magic Initiate*).
+
 
 
 ## **Genempriea (Techno Cluster)**
