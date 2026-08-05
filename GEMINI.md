@@ -30,6 +30,8 @@ Create a perfectly balanced D&D Homebrew guidebook based on LotE Lore. The resul
 - **High-Fantasy Subclass Titles & Disconnect Fixes (August 2026):** Replaced informal parenthetical subclass subtitles with thematic LotE titles (e.g., *The Blademaster Discipline*, *The Arcane Technomancer*) and resolved mechanics disconnects (e.g. *Martial Counter* on Ninjonian).
 - **Glass Cannon Mutation Audit (August 2026):** Audited all 21 elemental mutations in `Mutations_Expansion_Guide.md` for glass cannon balance, combining powerful benefits with active D&D 2024 mechanical penalties.
 - **Full 28-Deity Spell Compendium (August 2026):** Standardized Chapter 6 across all 28 Deities (starting with Pireous down to Zarta) to 100% compliance. Each deity includes a 3-option cantrip `(Utility), (Utility), (Damage)` and 5 unique spells mapped to 2nd, 3rd, 4th, 5th, and 7th/8th Level Capstone spells (168 total spells).
+- **Inherent Magic & 2024 Class Parity Audit (August 2026):** Standardized *Elementally Charged* across all 5 species to grant Primary Resistance + 1 Elemental Cantrip of choice, ensuring 100% balance and zero exploits when played with standard D&D 2024 PHB classes.
+
 
 - **Reference Management:** Legacy homebrew volumes and individual class files are archived in the `ReferenceDocuments/` directory.
 

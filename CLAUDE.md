@@ -32,6 +32,8 @@ Create a perfectly balanced D&D Homebrew guidebook based on LotE Lore. The resul
 - **High-Fantasy Subclass Titles & Disconnect Fixes (August 2026):** High-fantasy titles applied to all subclasses and feature disconnects resolved.
 - **Glass Cannon Mutation Audit (August 2026):** All 21 mutations tuned to strict high risk / high reward glass cannon paradigms.
 - **Full 28-Deity Spell Compendium (August 2026):** Chapter 6 standardized to 100% compliance across all 28 Deities starting with Pireous down to Zarta (168 total spells), providing a 3-option cantrip `(Utility), (Utility), (Damage)` + 5 unique spells mapped to 2nd, 3rd, 4th, 5th, and Capstone tiers.
+- **Inherent Magic & 2024 Class Parity Audit (August 2026):** Standardized *Elementally Charged* across all 5 species to grant Primary Resistance + 1 Elemental Cantrip of choice, ensuring 100% balance and zero exploits when played with standard D&D 2024 PHB classes.
+
 
 - **Cantrip Standardization:** All cantrips provide utility or temporary benefits rather than permanent healing or overpowered debuffs.
 - **Currency:** Standardized as "cc" (Crystalarium Currency) across all primary documents.

@@ -44,5 +44,7 @@ The project has completed a major mechanical audit and introduced structured cha
 13. **High-Fantasy Subclass Titles & Disconnect Audit (August 2026):** Renamed all informal parenthetical subclass titles to rich high-fantasy titles (e.g. *The Blademaster Discipline*, *The Arcane Technomancer*, *The Forge Sovereign*) and resolved feature disconnects (e.g. replacing Rogue Evasion on Ninjonian with *Martial Counter*).
 14. **Glass Cannon Mutation Audit (August 2026):** Re-tuned all 21 mutations in `Mutations_Expansion_Guide.md` to ensure high offensive/utility potency balanced by active, taxing D&D 2024 penalties (self-burn, speed penalty encasement, cover loss).
 15. **Full 28-Deity Spell Compendium (August 2026):** Standardized all 28 Deities in Chapter 6 (starting with Pireous down to Zarta) to 100% compliance. Every deity features a 3-option cantrip `(Utility), (Utility), (Damage)` and 5 unique spells mapped to 2nd, 3rd, 4th, 5th, and a 7th/8th Level Capstone spell (168 total deity spells).
+16. **Inherent Magic & 2024 Class Parity Audit (August 2026):** Standardized *Elementally Charged* across all 5 species (Krenpowen, Genempriea, Garanko, Plunesako, Nyxid) to grant Primary Resistance + 1 Elemental Cantrip of choice (Int/Wis/Cha), guaranteeing complete mathematical balance and zero cantrip economy exploits when played with standard D&D 2024 PHB classes.
+
 
 
