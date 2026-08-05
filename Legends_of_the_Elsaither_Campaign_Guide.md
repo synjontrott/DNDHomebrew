@@ -1131,320 +1131,490 @@ You touch a creature that has been dead for no longer than 200 years. The creatu
 
 # **Chapter 6: Deities & Domains**
 
-## **Pireous (Destruction)**
+## **Pireous (Destruction / Fire)**
+
 **Deity Cantrip: Pireous' Flame (Fire)**  
 *Evocation Cantrip*  
 **Casting Time:** 1 Action  
 **Range:** 30 feet  
 **Duration:** 1 Minute  
-You summon a small, flickering flame. You can use it in the following ways:
-*   **Flickering Light:** The flame sheds dim light in a 10-foot radius.
-*   **Heat:** You can use the flame to warm a small object or boil water.
-*   **Searing Mote:** You can hurl the flame at a creature. Make a ranged spell attack. On a hit, the target takes **1d8 fire damage**.
+You summon a flickering elemental flame. Choose one:
+*   **Flickering Light (Utility):** The flame sheds dim light in a 10-foot radius for 1 minute.
+*   **Ignite (Utility):** You instantly ignite a candle, torch, or small campfire within range.
+*   **Searing Mote (Damage):** You hurl the flame at a target within range. Make a ranged spell attack. On a hit, deal **1d8 fire damage**.
 
-**Unique Spell: Molten Embrace**  
-*6th Level Transmutation*  
+**Unique Spell 1: Flame Surge**  
+*2nd Level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** Self (30-foot cone)  
+**Duration:** Instantaneous  
+**Components:** V, S  
+Unleash a wave of roaring flame in a 30-foot cone. Each creature in the area must make a **Dexterity saving throw**, taking **3d8 fire damage** on a failed save, or half as much on a success.
+
+**Unique Spell 2: Blaze Trance**  
+*3rd Level Transmutation*  
 **Casting Time:** 1 Action  
 **Range:** Self  
 **Duration:** Concentration, up to 1 minute  
 **Components:** V, S  
-Your skin becomes molten lava. You gain Immunity to Fire damage. Creatures within 10 feet of you take **2d6 fire damage** at the start of their turns.
+You suffuse your body with elemental fire. For the duration, you gain **Resistance to Fire damage**, and your weapon attacks deal an additional **1d8 fire damage** on a hit.
 
-**Unique Spell: Raze**  
-*8th Level Evocation*  
-**Casting Time:** 1 Action  
-**Range:** 150 feet  
-**Duration:** Instantaneous  
-**Components:** V, S  
-A surge of fire engulfs a 60-foot cube. Each creature must make a Dexterity saving throw, taking **12d12 fire damage** on a failed save, or half on a success. Structures take double damage.
-
-**Unique Spell: Volcanic Eruption**  
-*8th Level Evocation*  
-**Casting Time:** 1 Action  
-**Range:** 150 feet  
-**Duration:** Instantaneous  
-**Components:** V, S  
-Lava erupts in a 20-foot radius cylinder. Each creature must make a Dexterity saving throw, taking **10d8 fire** and **10d8 bludgeoning damage** on a failed save. The area becomes difficult terrain (cooled lava).
-
-## **Firena (Healing)**
-**Deity Cantrip: Firena's Light (Fire)**  
-*Evocation Cantrip*  
-**Casting Time:** 1 Action  
-**Range:** 30 feet  
-**Duration:** 1 Minute  
-You create a gentle flame of healing light. You can use it in the following ways:
-*   **Comfort:** The flame provides warmth and light in a 10-foot radius.
-*   **Cauterize:** You can use the flame to stabilize a dying creature you touch.
-*   **Cleansing Burn:** You target a creature within range. It must succeed on a Dexterity saving throw or take **1d6 radiant damage**.
-
-**Unique Spell: Flame's Blessing**  
-*5th Level Abjuration*  
-**Casting Time:** 1 Action  
-**Range:** Touch  
-**Duration:** Concentration, up to 10 minutes  
-**Components:** V, S  
-You touch a creature. It gains Resistance to Fire damage and its attacks deal an extra **1d6 fire damage**.
-
-**Unique Spell: Warm Embrace**  
-*7th Level Evocation*  
-**Casting Time:** 1 Action  
-**Range:** Touch  
-**Duration:** Instantaneous  
-**Components:** V, S  
-You touch a creature, restoring **70 hit points**. This spell also ends blindness, deafness, and any diseases affecting the target.
-
-**Unique Spell: Soothing Ember**  
-*8th Level Evocation*  
-**Casting Time:** 1 Action  
-**Range:** Touch  
-**Duration:** Instantaneous  
-**Components:** V, S  
-You touch a creature. It regains **6d8 + 20 hit points** and one level of Exhaustion is removed.
-
-## **Hydronimus (Power)**
-**Deity Cantrip: Hydronimus' Tide (Water)**  
-*Evocation Cantrip*  
-**Casting Time:** 1 Action  
-**Range:** 30 feet  
-**Duration:** 1 Minute  
-You conjure a volume of water. You can manipulate it in the following ways:
-*   **Shape:** You can shape water into simple forms or move it up to 30 feet.
-*   **Douse:** You can extinguish a small flame.
-*   **Pressure Blast:** You unleash a blast of water at a creature. Make a ranged spell attack. On a hit, the target takes **1d8 bludgeoning damage** and is pushed 5 feet.
-
-**Unique Spell: Sculptor's Torrent**  
-*7th Level Evocation*  
-**Casting Time:** 1 Action  
-**Range:** 60 feet  
-**Duration:** Concentration, up to 1 minute  
-**Components:** V, S  
-You create a torrent of water in a 60-foot line. Creatures in the line make a Strength save, taking **10d8 cold damage** and being pushed 20 feet on a failure.
-
-**Unique Spell: Abrasive Deluge**  
-*7th Level Evocation*  
-**Casting Time:** 1 Action  
-**Range:** Self (60-foot cone)  
-**Duration:** Instantaneous  
-**Components:** V, S  
-An abrasive flood deals **12d6 cold damage** (Constitution save for half). Creatures who fail have their AC reduced by 2 for 1 minute.
-
-**Unique Spell: Aqua Erosion**  
-*7th Level Evocation*  
+**Unique Spell 3: Inferno Blast**  
+*4th Level Evocation*  
 **Casting Time:** 1 Action  
 **Range:** 120 feet  
-**Duration:** Concentration, up to 1 minute  
-**Components:** V, S  
-Water bursts forth, eroding the land in a 20-foot cube. Each creature in the area must make a Dexterity saving throw, taking **10d8 cold damage** on a failed save (half on success) and being knocked **Prone**. The area becomes difficult terrain. You can move the area on subsequent turns.
-
-## **Riviera (Life)**
-**Deity Cantrip: Riviera's Splash (Water)**  
-*Evocation Cantrip*  
-**Casting Time:** 1 Action  
-**Range:** 30 feet  
-**Duration:** 1 Minute  
-You conjure a splash of healing water. You can use it in the following ways:
-*   **Soothe:** You can clean a wound or object.
-*   **Hydrate:** You create enough fresh water to fill a cup.
-*   **Mend:** A creature of your choice that you can see within range gains **1d4 temporary hit points**.
-
-**Unique Spell: Riviera's Embrace**  
-*5th Level Evocation*  
-**Casting Time:** 1 Action  
-**Range:** Touch  
-**Duration:** Concentration, up to 1 minute  
-**Components:** V, S  
-You touch a creature. It regains **1d8 + your spellcasting ability modifier** hit points at the start of each of its turns for the duration.
-
-**Unique Spell: Ephemeral Wellspring**  
-*6th Level Conjuration*  
-**Casting Time:** 1 Action  
-**Range:** Self (30-foot radius)  
-**Duration:** Concentration, up to 1 minute  
-**Components:** V, S  
-You create a zone of healing water. Friendly creatures in the radius regain **1d6 hit points** at the start of their turns.
-
-**Unique Spell: Aqua Resurgence**  
-*9th Level Necromancy*  
-**Casting Time:** 1 Minute  
-**Range:** Touch  
 **Duration:** Instantaneous  
 **Components:** V, S  
-You revive a creature that has died within the last 10 days. It returns with half its HP and cured of all diseases.
+A 20-foot-radius sphere of fire detonates at a point within range. Each creature in the area must make a **Dexterity saving throw**, taking **7d6 fire damage** on a failed save, or half as much on a success.
 
-## **Caelum (Power)**
-**Deity Cantrip: Caelum's Gust (Air)**  
-*Evocation Cantrip*  
-**Casting Time:** 1 Action  
-**Range:** 60 feet  
-**Duration:** 1 Minute  
-You create a sudden burst of wind. You can use it in the following ways:
-*   **Push:** A creature you choose within range must succeed on a Strength saving throw or be pushed **10 feet** away.
-*   **Disperse:** You can clear fog or gas in a 5-foot cube.
-*   **Blast:** Make a ranged spell attack. On a hit, deal **1d6 bludgeoning damage**.
-
-**Unique Spell: Whirlwind Waltz**
-*4th Level Abjuration*
-**Casting Time:** 1 Reaction (which you take when you are the target of an attack)
-**Range:** Self
-**Duration:** Instantaneous
-**Components:** S
-You spin with the wind, disrupting your attacker's aim and riding the gust to safety. The attacker has **Disadvantage** on the triggering attack roll. If the attack misses, you can immediately move up to half your speed without provoking Opportunity Attacks, and you gain **Temporary Hit Points** equal to your character level + your Charisma modifier.
-
-**Unique Spell: Zephyr's Grace**  
+**Unique Spell 4: Molten Armor**  
 *5th Level Transmutation*  
 **Casting Time:** 1 Action  
 **Range:** Self  
 **Duration:** Concentration, up to 1 minute  
 **Components:** V, S  
-You gain a flying speed of 60 feet and Advantage on Dexterity saves.
+Your skin turns to flowing molten lava. For the duration, you gain **Immunity to Fire damage**, and any creature that starts its turn within 10 feet of you or hits you with a melee attack takes **3d6 fire damage**.
 
-**Unique Spell: Galeforce Gust**  
+**Capstone Spell: Pireous' Volcanic Rupture**  
+*8th Level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** 150 feet  
+**Duration:** Instantaneous  
+**Components:** V, S  
+The earth beneath a 40-foot-radius circle erupts into liquid fire. Each creature in the area must make a **Dexterity saving throw**, taking **10d8 fire damage** and **8d8 bludgeoning damage** on a failed save, or half as much on a success. Nonmagical structures take double damage, and the ground becomes liquid lava difficult terrain for 1 minute.
+
+---
+
+## **Firena (Healing / Fire)**
+
+**Deity Cantrip: Firena's Light (Fire)**  
+*Evocation Cantrip*  
+**Casting Time:** 1 Action  
+**Range:** 30 feet  
+**Duration:** 1 Minute  
+You conjure a gentle flame of soothing light. Choose one:
+*   **Comfort (Utility):** The flame provides warmth and dim light in a 10-foot radius.
+*   **Cauterize (Utility):** Touch a dying creature to stabilize it at 0 Hit Points.
+*   **Cleansing Burn (Damage):** Target a creature within range. It must succeed on a Dexterity saving throw or take **1d6 radiant damage**.
+
+**Unique Spell 1: Searing Rejuvenation**  
+*2nd Level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** Touch  
+**Duration:** Instantaneous  
+**Components:** V, S  
+You touch a creature, restoring **2d8 + your Spellcasting modifier Hit Points** and ending the Poisoned condition on it.
+
+**Unique Spell 2: Flame's Blessing**  
+*3rd Level Abjuration*  
+**Casting Time:** 1 Action  
+**Range:** Touch  
+**Duration:** Concentration, up to 10 minutes  
+**Components:** V, S  
+You touch a willing creature. For the duration, it gains **Resistance to Fire damage**, and its weapon attacks deal an extra **1d6 fire damage**.
+
+**Unique Spell 3: Cauterizing Shield**  
+*4th Level Abjuration*  
+**Casting Time:** 1 Action  
+**Range:** Self  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+A barrier of warm flame surrounds you. You gain **20 Temporary Hit Points**. While the shield holds, any creature that hits you with a melee attack takes **2d8 fire damage**.
+
+**Unique Spell 4: Phoenix Restoration**  
+*5th Level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** Touch  
+**Duration:** Instantaneous  
+**Components:** V, S  
+Firena's light purges all affliction. You touch a creature, restoring **5d8 + your Spellcasting modifier Hit Points** and curing the Blinded, Deafened, and Poisoned conditions.
+
+**Capstone Spell: Warmth of the Eternal Hearth**  
 *7th Level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** Self (60-foot radius)  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+A sacred hearth aura radiates 60 feet around you. Friendly creatures in the area gain **Immunity to Fire damage**, add your Spellcasting modifier to saving throws, and regain **3d8 Hit Points** at the start of each of their turns.
+
+---
+
+## **Hydronimus (Power / Water)**
+
+**Deity Cantrip: Hydronimus' Tide (Water)**  
+*Evocation Cantrip*  
+**Casting Time:** 1 Action  
+**Range:** 30 feet  
+**Duration:** 1 Minute  
+You conjure and control water. Choose one:
+*   **Shape (Utility):** Shape up to 5 cubic feet of water or move it 30 feet.
+*   **Douse (Utility):** Instantly douse nonmagical flames in a 5-foot cube.
+*   **Pressure Blast (Damage):** Make a ranged spell attack. On a hit, deal **1d8 bludgeoning damage** and push target 5 feet.
+
+**Unique Spell 1: Hydraulic Jet**  
+*2nd Level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** Self (60-foot line)  
+**Duration:** Instantaneous  
+**Components:** V, S  
+A high-pressure stream of water blasts out in a 60-foot line 5 feet wide. Creatures take **3d8 bludgeoning damage** and are knocked **Prone** on a failed Strength save (half damage and no Prone on success).
+
+**Unique Spell 2: Tidal Crash**  
+*3rd Level Evocation*  
 **Casting Time:** 1 Action  
 **Range:** Self (30-foot cone)  
 **Duration:** Instantaneous  
 **Components:** V, S  
-A powerful burst of wind erupts from you. Creatures in the cone must make a Strength saving throw. On a failed save, they are pushed 15 feet away and take **8d8 force damage**.
+Unleash a crashing wave in a 30-foot cone. Creatures take **4d8 cold damage** and are pushed **15 feet** away on a failed Strength save (half damage on success).
 
-## **Anima (Balance)**
+**Unique Spell 3: Aqua Erosion**  
+*4th Level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** 120 feet  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+Water erupts in a 20-foot cube, eroding the ground. Creatures take **6d8 cold damage** and are knocked **Prone** on a failed Dexterity save. The area becomes difficult terrain.
+
+**Unique Spell 4: Sculptor's Torrent**  
+*5th Level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** 60 feet  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+Create a roaring torrent of water in a 60-foot line 10 feet wide. Creatures in the line make a **Strength saving throw**, taking **6d10 cold damage** and pushed 20 feet on a failure.
+
+**Capstone Spell: Hydronimus' Tsunami Deluge**  
+*7th Level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** 150 feet  
+**Duration:** Instantaneous  
+**Components:** V, S  
+A colossal tsunami wave 60 feet wide and 30 feet tall crashes over the battlefield. Each creature in its path must make a **Strength saving throw**, taking **8d10 cold damage** and **4d10 bludgeoning damage** and being knocked **Prone** on a failed save, while having its AC reduced by 2 for 1 minute.
+
+---
+
+## **Riviera (Life / Water)**
+
+**Deity Cantrip: Riviera's Splash (Water)**  
+*Evocation Cantrip*  
+**Casting Time:** 1 Action  
+**Range:** 30 feet  
+**Duration:** 1 Minute  
+You conjure healing waters. Choose one:
+*   **Soothe (Utility):** Clean a wound or object instantly.
+*   **Hydrate (Utility):** Create 1 gallon of fresh drinkable water.
+*   **Riptide Splash (Damage):** Target a creature within range. It must succeed on a Dexterity saving throw or take **1d8 cold damage**.
+
+**Unique Spell 1: Riviera's Blessing**  
+*2nd Level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** Touch  
+**Duration:** Instantaneous  
+**Components:** V, S  
+Touch a creature to restore **2d8 + your Spellcasting modifier Hit Points** and cure one disease.
+
+**Unique Spell 2: Ephemeral Wellspring**  
+*3rd Level Conjuration*  
+**Casting Time:** 1 Action  
+**Range:** Self (20-foot radius)  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+A pool of healing water surrounds you. Friendly creatures in the radius regain **1d8 + your Spellcasting modifier Hit Points** at the start of their turns.
+
+**Unique Spell 3: Riviera's Grace**  
+*4th Level Abjuration*  
+**Casting Time:** 1 Action  
+**Range:** Touch  
+**Duration:** 1 Hour  
+**Components:** V, S  
+Touch a willing creature. Target gains **30 Temporary Hit Points** and **Advantage on saving throws** for 1 hour.
+
+**Unique Spell 4: Riviera's Vital Surge**  
+*5th Level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** Self (30-foot radius)  
+**Duration:** Instantaneous  
+**Components:** V, S  
+A surge of life-giving water radiates 30 feet. Friendly creatures in range regain **4d8 + your Spellcasting modifier Hit Points** and are cured of the Poisoned and Blinded conditions.
+
+**Capstone Spell: Riviera's Aqua Resurgence**  
+*8th Level Necromancy*  
+**Casting Time:** 1 Minute  
+**Range:** Touch  
+**Duration:** Instantaneous  
+**Components:** V, S, M (holy water worth 500 cc, consumed)  
+You revive a creature dead up to 30 days. The creature returns to life with **100 Hit Points**, cured of all diseases, poisons, and curses, and with all missing limbs restored.
+
+---
+
+## **Caelum (Power / Air)**
+
+**Deity Cantrip: Caelum's Gust (Air)**  
+*Evocation Cantrip*  
+**Casting Time:** 1 Action  
+**Range:** 60 feet  
+**Duration:** 1 Minute  
+You create a sudden gale. Choose one:
+*   **Disperse (Utility):** Clear fog, smoke, or gas in a 10-foot cube.
+*   **Push (Utility):** Target a creature. It must succeed on a Strength saving throw or be pushed 10 feet.
+*   **Gale Blast (Damage):** Make a ranged spell attack. On a hit, deal **1d8 bludgeoning damage**.
+
+**Unique Spell 1: Zephyr Dash**  
+*2nd Level Transmutation*  
+**Casting Time:** 1 Bonus Action  
+**Range:** Self  
+**Duration:** 1 Round  
+**Components:** V  
+Ride the wind. You gain +30 feet movement speed, provoke no Opportunity Attacks, and gain a **+2 bonus to AC** until the start of your next turn.
+
+**Unique Spell 2: Whirlwind Waltz**  
+*3rd Level Abjuration*  
+**Casting Time:** 1 Reaction (when hit by an attack)  
+**Range:** Self  
+**Duration:** Instantaneous  
+**Components:** S  
+Disrupt an attacker's aim. Attacker has **Disadvantage on the triggering attack**. If it misses, you can move up to half your speed without provoking Opportunity Attacks and gain **10 Temporary Hit Points**.
+
+**Unique Spell 3: Zephyr's Grace**  
+*4th Level Transmutation*  
+**Casting Time:** 1 Action  
+**Range:** Self  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+You gain a **60-foot Fly speed (Hover)** and **Advantage on Dexterity saving throws**.
+
+**Unique Spell 4: Galeforce Gust**  
+*5th Level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** Self (30-foot cone)  
+**Duration:** Instantaneous  
+**Components:** V, S  
+Unleash a devastating burst of wind in a 30-foot cone. Creatures take **6d8 force damage** and are pushed **20 feet** away on a failed Strength save.
+
+**Capstone Spell: Caelum's Tempest Cyclone**  
+*7th Level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** 120 feet  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+Summon a 30-foot-radius, 60-foot-tall tornado. Enemies in range take **8d10 force damage** and are launched **40 feet into the air** (taking fall damage when crashing down) on a failed Strength save.
+
+---
+
+## **Anima (Balance / Air)**
+
 **Deity Cantrip: Anima's Breath (Air)**  
 *Evocation Cantrip*  
 **Casting Time:** 1 Action  
 **Range:** 30 feet  
 **Duration:** 1 Minute  
-You control the air around you. You can cause the following effects:
-*   **Breeze:** You create a light breeze that can ripple clothes or disperse smoke.
-*   **Message:** You can whisper a message to a creature within range.
-*   **Wind Blade:** You target a creature. It must make a Dexterity saving throw. On a failed save, it takes **1d6 slashing damage**.
+You control air currents. Choose one:
+*   **Breeze (Utility):** Create a gentle breeze to ripple clothes or clear light smoke.
+*   **Message (Utility):** Whisper a 25-word message carried by wind to a target within 120 feet.
+*   **Wind Blade (Damage):** Target a creature. It must succeed on a Dexterity saving throw or take **1d6 slashing damage**.
 
-**Unique Spell: Tempest's Embrace**
-*4th Level Abjuration*
-**Casting Time:** 1 Action
-**Range:** 60 feet
-**Duration:** Concentration, up to 1 minute
-**Components:** V, S
-You encircle one willing creature you can see within range with a protective vortex of balanced wind. The target gains **Advantage on saving throws against spells and magical effects** for the duration.
+**Unique Spell 1: Harmonious Shield**  
+*2nd Level Abjuration*  
+**Casting Time:** 1 Action  
+**Range:** Touch  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+Surround a willing creature in balanced wind. Target gains **+2 AC** and **Advantage on saving throws against being Charmed or Frightened**.
 
-**Unique Spell: Breath of the Beyond**
-*4th Level Abjuration*
-**Casting Time:** 1 Action
-**Range:** 60 feet
-**Duration:** Concentration, up to 1 minute
-**Components:** V, S
-You channel the breath of Anima to tear a creature from the battlefield and confine it to a tranquil demiplane of your deity's making. The target must succeed on a **Charisma saving throw** against your Spell Save DC or be **Banished** to a harmless demiplane for the duration. While Banished, the creature is Incapacitated. At the end of each of its turns, the target can repeat the saving throw. On a success, the creature returns to the space it left or the nearest unoccupied space. When the spell ends, the target reappears in the same manner.
+**Unique Spell 2: Tempest's Embrace**  
+*3rd Level Abjuration*  
+**Casting Time:** 1 Action  
+**Range:** 60 feet  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+Encircle a target in a protective vortex. Target gains **Advantage on saving throws against spells and magical effects**.
 
-**Unique Spell: Ethereal Zephyr**  
-*6th Level Transmutation*  
+**Unique Spell 3: Breath of the Beyond**  
+*4th Level Abjuration*  
+**Casting Time:** 1 Action  
+**Range:** 60 feet  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+Banish a creature to a tranquil demiplane. Target must succeed on a **Charisma saving throw** or be **Banished** for the duration (repeat save end of turn).
+
+**Unique Spell 4: Ethereal Zephyr**  
+*5th Level Transmutation*  
 **Casting Time:** 1 Action  
 **Range:** 30 feet  
 **Duration:** Concentration, up to 1 minute  
 **Components:** V, S  
-You summon a gentle, revitalizing breeze. Choose a point within range. At the start of each of your turns while you maintain Concentration, you can use a Bonus Action to pulse the breeze. Creatures of your choice within 20 feet of that point regain **2d6 hit points**.
+Summon a revitalizing breeze. Bonus Action to pulse the breeze, restoring **2d8 Hit Points** to chosen creatures within 20 feet of the target point.
 
-## **Fulgur (Chaos)**
+**Capstone Spell: Anima's Harmonious Realm**  
+*7th Level Abjuration*  
+**Casting Time:** 1 Action  
+**Range:** Self (60-foot radius)  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+A sacred realm of atmospheric balance surrounds you. Allies in range gain **Resistance to all elemental damage types**, +2 AC, and regain **2d8 Hit Points** at the start of their turn.
+
+---
+
+## **Fulgur (Chaos / Lightning)**
+
 **Deity Cantrip: Fulgur's Spark (Lightning)**  
 *Evocation Cantrip*  
 **Casting Time:** 1 Action  
 **Range:** 30 feet  
 **Duration:** Instantaneous  
-You release a burst of electrical energy. Choose one effect:
-*   **Shock:** Touch a device to overload or power it briefly.
-*   **Static:** Cause a harmless sensory effect like sparks or hair standing on end.
-*   **Jolt:** Target a creature. It must make a Dexterity saving throw. On a failure, it takes **1d8 lightning damage**.
+You release electrical energy. Choose one:
+*   **Shock (Utility):** Briefly power or overload a small nonmagical device or lock.
+*   **Static (Utility):** Cause a harmless sensory effect like sparks or hair standing on end.
+*   **Jolt (Damage):** Target a creature. It must make a Dexterity saving throw. On a failure, it takes **1d8 lightning damage**.
 
-**Unique Spell: Storm Surge**  
+**Unique Spell 1: Arcing Bolt**  
+*2nd Level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** 60 feet  
+**Duration:** Instantaneous  
+**Components:** V, S  
+Fire a lightning bolt at a target within range. Make a **ranged spell attack**. On a hit, deal **3d8 lightning damage**, and the bolt arcs to a second target within 15 feet dealing **1d8 lightning damage**.
+
+**Unique Spell 2: Storm Surge**  
 *3rd Level Evocation*  
 **Casting Time:** 1 Action  
 **Range:** Self (30-foot radius)  
 **Duration:** Concentration, up to 1 minute  
 **Components:** V, S  
-The area within 30 feet of you becomes charged with static. Each round you maintain concentration, creatures of your choice in the area must make a **Dexterity saving throw against your Spell Save DC**, taking **2d8 lightning damage** on a failed save, or half as much on a success.
+A static field surrounds you. Enemies starting turn inside take **3d8 lightning damage** on a failed Dexterity save.
 
-**Unique Spell: Bolt of Bedlam**  
+**Unique Spell 3: Bolt of Bedlam**  
 *4th Level Evocation*  
 **Casting Time:** 1 Action  
 **Range:** 120 feet  
 **Duration:** Instantaneous  
 **Components:** V, S  
-You unleash a bolt of chaotic lightning. Make a ranged spell attack against a target. On a hit, it takes **6d8 lightning damage**. The lightning then arcs to another target within 30 feet, dealing half damage. It can arc up to two more times.
+Unleash chaotic lightning. Make a ranged spell attack; on a hit, deal **6d8 lightning damage**. Bolt arcs to up to 3 additional targets within 30 feet dealing half damage.
 
-**Unique Spell: Thunderous Echo**
-*5th Level Evocation*
-**Casting Time:** 1 Action
-**Range:** Self (30-foot cone)
+**Unique Spell 4: Thunderous Echo**  
+*5th Level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** Self (30-foot cone)  
 **Duration:** Instantaneous  
 **Components:** V, S  
-A thunderous echo detonates in a 30-foot cone. Each creature in the cone must make a **Constitution saving throw against your Spell Save DC**, taking **6d8 thunder damage** on a failed save or half as much on a success. On a failed save, the creature is also **Incapacitated** until the end of its next turn.
+A thunderous detonation in a 30-foot cone deals **6d8 thunder damage** and leaves creatures **Incapacitated** until end of next turn on a failed Constitution save.
 
-## **Fulmena (Order)**
+**Capstone Spell: Fulgur's Cataclysmic Lightning Storm**  
+*8th Level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** 150 feet  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+Call down a colossal lightning storm in a 50-foot radius. Enemies take **12d10 lightning and thunder damage** on a failed Dexterity save (half on success) and are **Stunned** for 1 minute (repeat save end of turn).
+
+---
+
+## **Fulmena (Order / Lightning)**
+
 **Deity Cantrip: Fulmena's Touch (Lightning)**  
 *Evocation Cantrip*  
 **Casting Time:** 1 Action  
 **Range:** Touch  
 **Duration:** 1 Minute  
-You channel ordered electricity. Choose one effect:
-*   **Magnetize:** You can pick up a metal object weighing up to 5 lbs.
-*   **Signal:** You can send a spark to a point within 60 feet.
-*   **Stun:** Make a melee spell attack against the target. On a hit, the target takes **1d8 lightning damage**, and it can't take Reactions until the start of its next turn.
+You channel ordered electricity. Choose one:
+*   **Magnetize (Utility):** Pick up or attract a metal object weighing up to 10 lbs.
+*   **Signal (Utility):** Send a bright spark to a point within 60 feet.
+*   **Stun Strike (Damage):** Make a melee spell attack. On a hit, deal **1d8 lightning damage** and target cannot take Reactions until its next turn.
 
-**Unique Spell: Static Ward**
-*2nd Level Abjuration*
-**Casting Time:** 1 Action
-**Range:** Touch
-**Duration:** Concentration, up to 1 minute
-**Components:** V, S
-You suffuse a creature with Fulmena's ordered electricity, forming a crackling ward that repels chaotic energy. The target gains **Resistance to Lightning damage** for the duration. Additionally, attack rolls made against the target using weapons or abilities that deal Lightning damage, or that use magnetism (DM's discretion), have **Disadvantage**.
+**Unique Spell 1: Static Ward**  
+*2nd Level Abjuration*  
+**Casting Time:** 1 Action  
+**Range:** Touch  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+Ward a creature in ordered electricity. Target gains **Resistance to Lightning damage**, and attackers taking melee hits take **2d6 lightning damage**.
 
-**Unique Spell: Empowering Surge**
-*2nd Level Transmutation*
-**Casting Time:** 1 Action
-**Range:** Touch
-**Duration:** Concentration, up to 1 minute
-**Components:** V, S
-You channel Fulmena's disciplined power into a creature, sharpening its reflexes and amplifying its physical might. For the duration, the target gains **Advantage on Strength and Dexterity ability checks and saving throws**.
+**Unique Spell 2: Empowering Surge**  
+*3rd Level Transmutation*  
+**Casting Time:** 1 Action  
+**Range:** Touch  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+Channel disciplined energy into a target. Target gains **Advantage on Strength and Dexterity checks and saves**, and +10 feet movement speed.
 
-**Unique Spell: Luminous Beacon**  
+**Unique Spell 3: Luminous Beacon**  
 *4th Level Evocation*  
 **Casting Time:** 1 Action  
 **Range:** 120 feet  
 **Duration:** Concentration, up to 1 minute  
 **Components:** V, S  
-You create a radiant beacon of lightning. Creatures wearing metal in a 30-foot radius must make a **Constitution saving throw against your Spell Save DC** or take **6d10 lightning damage** and be **Blinded**.
+Create a radiant lightning beacon. Creatures in a 30-foot radius wearing metal take **6d10 lightning damage** and are **Blinded** on a failed Constitution save.
 
-## **Mundus (Harmony)**
+**Unique Spell 4: Fulmena's Command**  
+*5th Level Evocation*  
+**Casting Time:** 1 Action  
+**Range:** Self (60-foot line)  
+**Duration:** Instantaneous  
+**Components:** V, S  
+Fire a beam of ordered lightning in a 60-foot line 10 feet wide. Creatures take **6d10 lightning damage** and are **Stunned** for 1 round on a failed Constitution save.
+
+**Capstone Spell: Aegis of Ordered Thunder**  
+*7th Level Abjuration*  
+**Casting Time:** 1 Action  
+**Range:** Self (30-foot radius)  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+An aura of absolute electrical discipline surrounds you. Allies within 30 feet gain **Resistance to Lightning, Thunder, and Force damage**, and their weapon attacks deal an extra **2d8 lightning damage**.
+
+---
+
+## **Mundus (Harmony / Earth)**
+
 **Deity Cantrip: Mundus' Soil (Earth)**  
 *Transmutation Cantrip*  
 **Casting Time:** 1 Action  
 **Range:** 30 feet  
 **Duration:** Instantaneous  
-You manipulate the earth. Choose one:
-*   **Mold:** Excavate or move a 5-foot cube of loose earth.
-*   **Camouflage:** Change the color/texture of stone or dirt.
-*   **Stone Throw:** Hurl a rock at a target. Make a ranged spell attack. On a hit, deal **1d6 bludgeoning damage**.
+You manipulate soil and stone. Choose one:
+*   **Mold (Utility):** Excavate or move a 5-foot cube of loose earth.
+*   **Camouflage (Utility):** Change the color/texture of stone or dirt (+2 Stealth).
+*   **Stone Throw (Damage):** Make a ranged spell attack. On a hit, deal **1d6 bludgeoning damage**.
 
-**Unique Spell: Dustgag**
-*1st Level Transmutation*
-**Casting Time:** 1 Action
-**Range:** 30 feet
-**Duration:** 1 Round
-**Components:** V, S
-You command the earth to rise up and choke a creature with a cloud of stifling dust and grit. The target must succeed on a **Wisdom saving throw** against your Spell Save DC. On a failed save, the target is **Silenced** (unable to speak or cast spells with verbal components) until the start of your next turn, and it has **Disadvantage on the first attack roll it makes** before the end of its next turn.
+**Unique Spell 1: Dustgag**  
+*2nd Level Transmutation*  
+**Casting Time:** 1 Action  
+**Range:** 30 feet  
+**Duration:** 1 Round  
+**Components:** V, S  
+Choke a creature with stifling dust. Target must make a **Wisdom saving throw**. On a failure, it is **Silenced** and has Disadvantage on its next attack roll.
 
-**Unique Spell: Earthen Embrace**
-*2nd Level Transmutation*
-**Casting Time:** 1 Action
-**Range:** 60 feet
-**Duration:** Concentration, up to 1 minute
-**Components:** V, S
-At a point you can see within range, Mundus coaxes swift and ancient plant growth from the earth. Plants erupt in a 30-foot radius centered on that point. Creatures of your choice within the area gain **Resistance to Poison damage** and **Advantage on Constitution saving throws** for the duration. The plants do not impede movement.
+**Unique Spell 2: Earthen Embrace**  
+*3rd Level Transmutation*  
+**Casting Time:** 1 Action  
+**Range:** 60 feet  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+Plants erupt in a 30-foot radius. Allies inside gain **Resistance to Poison damage** and **Advantage on Constitution saving throws**.
 
-**Unique Spell: Stone Sentinel**  
+**Unique Spell 3: Terrene Wall**  
+*4th Level Abjuration*  
+**Casting Time:** 1 Action  
+**Range:** 60 feet  
+**Duration:** Concentration, up to 10 minutes  
+**Components:** V, S  
+Raise a 30-foot-long, 10-foot-tall wall of solid stone providing total cover.
+
+**Unique Spell 4: Stone Sentinel**  
 *5th Level Conjuration*  
 **Casting Time:** 1 Action  
 **Range:** 60 feet  
 **Duration:** Concentration, up to 1 hour  
 **Components:** V, S, M (a stone)  
-You summon an Earth Elemental spirit. It manifests in an unoccupied space that you can see. It uses the statistics of a **Stone Defender** (or Earth Elemental). It obeys your verbal commands.
+Summon an Earth Elemental spirit (Stone Defender statistics) to obey your verbal commands.
+
+**Capstone Spell: Mundus' Harmonious World-Form**  
+*8th Level Transmutation*  
+**Casting Time:** 1 Action  
+**Range:** 120 feet  
+**Duration:** Concentration, up to 1 minute  
+**Components:** V, S  
+Reshape the environment in a 60-foot radius. Enemies take **10d10 bludgeoning damage** on a failed Strength save, while allies in the area gain **40 Temporary Hit Points** and a **+3 bonus to AC**.
+
 
 ## **Terra (Protection / Earth)**
 
