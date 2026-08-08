@@ -43,7 +43,7 @@ Create a perfectly balanced D&D Homebrew guidebook based on LotE Lore. The resul
 ## Key Files
 | File | Purpose |
 |---|---|
-| [`Chapters/`](./Chapters/) | Modular chapter files (Ch1–Ch6 + Ch2c Beast Master) |
-| [`Legends_of_the_Elsaither_Campaign_Guide.md`](./Legends_of_the_Elsaither_Campaign_Guide.md) | Legacy monolith (reference only — chapters are source of truth) |
+| [`Chapters/`](./Chapters/) | Modular chapter files — **source of truth** for all edits |
+| [`Legends_of_the_Elsaither_Campaign_Guide.md`](./Legends_of_the_Elsaither_Campaign_Guide.md) | Auto-generated monolith (all chapters concatenated) — use this for PDF/Docs export |
 | [`Mutations_Expansion_Guide.md`](./Mutations_Expansion_Guide.md) | 21 elemental mutation rules |
 | [`ReferenceDocuments/`](./ReferenceDocuments/) | Archived legacy volumes |
