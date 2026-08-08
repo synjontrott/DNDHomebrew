@@ -36,11 +36,11 @@ A Herbalism Kit and 20cc (or 50cc starting gold)
 | 10th | +4 | Mark Feature III | 4 | 7 | 4 | 3 | 2 | — | — |
 | 11th | +4 | Enhanced Pillars | 4 | 8 | 4 | 3 | 3 | — | — |
 | 12th | +4 | Ability Score Improvement | 4 | 8 | 4 | 3 | 3 | — | — |
-| 13th | +5 | Primal Arcanum (6th Level) | 4 | 9 | 4 | 3 | 3 | 1 | — |
+| 13th | +5 | Primal Arcanum (Tier 3) | 4 | 9 | 4 | 3 | 3 | 1 | — |
 | 14th | +5 | Mark Feature IV | 4 | 9 | 4 | 3 | 3 | 1 | — |
 | 15th | +5 | — | 4 | 10 | 4 | 3 | 3 | 2 | — |
 | 16th | +5 | Ability Score Improvement | 4 | 10 | 4 | 3 | 3 | 2 | — |
-| 17th | +6 | Primal Arcanum (7th Level) | 4 | 11 | 4 | 3 | 3 | 3 | 1 |
+| 17th | +6 | Primal Arcanum (Tier 3, 2nd) | 4 | 11 | 4 | 3 | 3 | 3 | 1 |
 | 18th | +6 | — | 4 | 11 | 4 | 3 | 3 | 3 | 1 |
 | 19th | +6 | Epic Boon of the Wild | 4 | 12 | 4 | 3 | 3 | 3 | 2 |
 | 20th | +6 | Avatar of the Mark | 4 | 12 | 4 | 3 | 3 | 3 | 2 |
@@ -125,17 +125,17 @@ You can attack twice, instead of once, whenever you take the Attack action on yo
 Your mastery over the primal engine reaches new heights:
 * **Pillar I:** The first time you command your companion to attack each round, it costs 0 PE. Additionally, your companion's damage increases to 1d8 + your Wisdom modifier.
 * **Pillar II:** You can now maintain up to 2 Aspect Mutations simultaneously. The duration of all your mutations increases to 10 minutes.
-* **Pillar III:** Your Wildshape duration increases to 10 minutes (requiring no PE to extend). The Temporary Hit Points you gain from your Wildshape increase by 50 percent (rounded down). Furthermore, you can now cast your Primal Arcanum spells while in Wildshape form.
+* **Pillar III:** Your Wildshape duration increases to 10 minutes (requiring no PE to extend). The Temporary Hit Points you gain from your Wildshape increase by 50 percent (rounded down). Furthermore, you can now cast your Tier 3 Primal Arcanum spells while in Wildshape form.
 
 ### **Primal Arcanum**
 *13th-Level Beast Master Feature*
 
-You choose one 6th-level spell from the Savaroen spell list that is thematically appropriate to your element and Mark. You can cast this spell once per Long Rest without expending a spell slot. This spell is always prepared and doesn't count against your Spells Known.
+You choose one **Tier 3** spell (6–7th level) from the Savaroen spell list that is thematically appropriate to your element and Mark. You can cast this spell once per Long Rest without expending a spell slot. This spell is always prepared and doesn't count against your Spells Known.
 
-**Primal Arcanum (7th Level)**
+**Primal Arcanum (Tier 3, 2nd)**
 *17th-Level Beast Master Feature*
 
-You choose one 7th-level spell from the Savaroen spell list that is thematically appropriate to your element and Mark. You can cast this spell once per Long Rest without expending a spell slot. This spell is always prepared and doesn't count against your Spells Known. You now have two Primal Arcanum spells total (one 6th-level and one 7th-level), each usable once per Long Rest.
+You choose a second **Tier 3** spell (6–7th level) from the Savaroen spell list. This spell must be different from the one chosen at 13th level. You can cast it once per Long Rest without expending a spell slot. It is always prepared and doesn't count against your Spells Known. You now have two Primal Arcanum spells total, each usable once per Long Rest.
 
 ### **Epic Boon of the Wild**
 *19th-Level Beast Master Feature*
