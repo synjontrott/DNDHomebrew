@@ -32,10 +32,9 @@ In the Elsaither universe, elemental affinity dictates resistance and power.
 **Speed:** 30 feet
 
 *   **Age:** Long-lived, maturing around 180 and living for 1,000+ years.
-*   **Elementally Charged:** You choose your elemental affinity at character creation. You gain **Resistance** to your element's primary damage type. You also learn **one cantrip of your choice** corresponding to your element from the Savaroen spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this spell (choose when you select this species).
-*   **Deep Focus:** You do not need to sleep. Instead, you meditate deeply for 4 hours a day. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.
-*   **Versatile Adaptability:** You gain proficiency in **two skills of your choice**.
-*   **Resourceful Determination:** Whenever you finish a Long Rest, you gain **Heroic Inspiration**.
+*   **Elementally Charged:** You choose your elemental affinity at character creation. You gain **Resistance** to your element's primary damage type. You also learn **one cantrip of your choice** corresponding to your element from the Savaroen spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this spell (choose when you select this species). At Levels 3 and 5, you can choose to gain one spell from the Savaroen spells list. Level 3 is a Tier 1 spell, level 5 is a tier 2 spell. You can always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have of the appropriate level. 
+*   **Deep Focus:** You do not need to sleep. Instead, you meditate deeply for 4 hours a day to gain the benefits of a Long Rest.
+*   **Versatile Adaptability:** You gain proficiency in **one skill of your choice**.
 *   **Elemental Heritage:** You gain **one Origin Feat** of your choice (such as *Skilled*, *Alert*, *Tough*, *Smithy*, *Violent Soldier*, or *Magic Initiate*).
 
 ## **Genempriea (Techno Cluster)**
@@ -44,7 +43,7 @@ In the Elsaither universe, elemental affinity dictates resistance and power.
 **Speed:** 35 feet
 
 *   **Age:** Long-lived (1,000+ years).
-*   **Elementally Charged:** You choose your elemental affinity at character creation. You gain **Resistance** to your element's primary damage type. You also learn **one cantrip of your choice** corresponding to your element from the Savaroen spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this spell (choose when you select this species).
+*   **Elementally Charged:** You choose your elemental affinity at character creation. You gain **Resistance** to your element's primary damage type. You also learn **one cantrip of your choice** corresponding to your element from the Savaroen spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this spell (choose when you select this species). At Levels 3 and 5, you can choose to gain one spell from the Savaroen spells list. Level 3 is a Tier 1 spell, level 5 is a tier 2 spell. You can always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have of the appropriate level. 
 *   **Deep Focus:** You do not need to sleep. Instead, you meditate or practice forms for 4 hours a day to gain the benefits of a Long Rest.
 *   **Cybernetic Aptitude:** You have proficiency in the Acrobatics, Athletics, or Arcana skill.
 *   **Overclocked Actuators:** As a Bonus Action, you can take the **Dash action**. You can use this feature a number of times equal to your **Proficiency Bonus**, regaining all expended uses when you finish a Long Rest.
@@ -55,7 +54,7 @@ In the Elsaither universe, elemental affinity dictates resistance and power.
 **Speed:** 30 feet
 
 *   **Age:** Long-lived (1,000+ years).
-*   **Elementally Charged:** You choose your elemental affinity at character creation. You gain **Resistance** to your element's primary damage type. You also learn **one cantrip of your choice** corresponding to your element from the Savaroen spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this spell (choose when you select this species).
+*   **Elementally Charged:** You choose your elemental affinity at character creation. You gain **Resistance** to your element's primary damage type. You also learn **one cantrip of your choice** corresponding to your element from the Savaroen spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this spell (choose when you select this species). At Levels 3 and 5, you can choose to gain one spell from the Savaroen spells list. Level 3 is a Tier 1 spell, level 5 is a tier 2 spell. You can always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have of the appropriate level. 
 *   **Deep Focus:** You meditate for 4 hours a day to gain the benefits of a Long Rest.
 *   **Powerful Build:** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift. You have Advantage on any ability check or saving throw made to escape the Grappled condition.
 *   **Warrion Knowledge:** You have proficiency in the Nature skill.
@@ -66,7 +65,7 @@ In the Elsaither universe, elemental affinity dictates resistance and power.
 **Speed:** 30 feet
 
 *   **Age:** Similar to Elves.
-*   **Elementally Charged:** You choose your elemental affinity at character creation. You gain **Resistance** to your element's primary damage type. You also learn **one cantrip of your choice** corresponding to your element from the Savaroen spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this spell (choose when you select this species).
+*   **Elementally Charged:** You choose your elemental affinity at character creation. You gain **Resistance** to your element's primary damage type. You also learn **one cantrip of your choice** corresponding to your element from the Savaroen spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this spell (choose when you select this species). At Levels 3 and 5, you can choose to gain one spell from the Savaroen spells list. Level 3 is a Tier 1 spell, level 5 is a tier 2 spell. You can always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have of the appropriate level. 
 *   **Versatile Training:** You gain proficiency in **one skill of your choice**, plus one additional skill based on your regional origin (*Tuvotor:* Intimidation, *Raiben:* Athletics, *Vailum:* Survival, *Middlesvista:* Persuasion, *Scarsgough:* Insight).
 *   **Resourceful Heritage:** You gain **one Origin Feat** of your choice (such as *Skilled*, *Smithy*, *Healing*, *Violent Soldier*, or *Wilderness Brawler*).
 
@@ -77,7 +76,7 @@ In the Elsaither universe, elemental affinity dictates resistance and power.
 
 *   **Age:** Ageless and effectively immortal unless killed.
 *   **Living Shadow:** You do not need to eat, drink, or breathe. You are immune to disease. You do not sleep, but meditate for 4 hours to gain a Long Rest.
-*   **Elementally Charged:** You are infused with Shadow energy. You gain **Resistance** to Psychic damage. You also learn **one Shadow cantrip of your choice** from the Savaroen spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this spell (choose when you select this species).
+*   **Elementally Charged:** You are infused with Shadow energy. You gain **Resistance** to Psychic damage. You also learn **one Shadow cantrip of your choice** from the Savaroen spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this spell (choose when you select this species). At Levels 3 and 5, you can choose to gain one Shadow spell from the Savaroen spells list. Level 3 is a Tier 1 spell, level 5 is a tier 2 spell. You can always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have of the appropriate level. 
 *   **Darkvision:** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light.
 *   **Natural Armor:** Your skin is hardened shadow. When you aren’t wearing armor, your AC equals **13 + your Dexterity modifier**.
 
@@ -102,7 +101,7 @@ In the Elsaither universe, elemental affinity dictates resistance and power.
 
 **Equipment**  
 You start with the following equipment, in addition to the equipment granted by your background:
-*   (a) a regional Simple or Martial Melee Weapon matching your species/origin (such as a Ninjonian Saber, Techno Arc Blade, Warrion Cleaver, or Nidosis Spear-Staff) or (b) two Daggers
+*   (a) a regional Simple or Martial Melee Weapon matching your species/origin (such as a Ninjonian Saber, Techno Arc Blade, Warrion Cleaver, or Nidosis Spear-Staff) or (b) a Shortsword
 *   (a) a regional ranged weapon (such as a Ninjonian Pistol + 1 Power Crystal or Techno Pulse Blaster) or (b) a Light Crossbow and 20 bolts
 *   (a) an Explorer's Pack or (b) a Scholar's Pack
 *   Regional Light or Medium Armor matching your species origin (e.g. Techno Weave for Genempriea, Standard Ninjonian for Krenpowen, Warrion Carapace for Garanko, or Nidosis Chitin for Plunesako) and 20cc (or 50cc starting gold)
@@ -636,21 +635,21 @@ The symbiote acts as a perfect failsafe, ripping you away from death's door.
 # **Chapter 4: Equipment & Magic Items**
 
 ## **Special Materials**
-*   **Crystalarium:** A valuable crafting material. When used to forge armor, it can remove Vulnerability to a specific element.
+*   **Crystalarium:** A valuable crafting material. When used to forge armor, it can add Resistance to a specific element, selected at the time of forging.
 *   **Power Crystals:** Crystals infused with elemental energy. Can be attached to a weapon as an Action. For 1 minute, the weapon deals +1d4 elemental damage on a hit (Once per Short Rest per crystal).
-*   **Gruhunsh:** A rare medicinal herb. Consuming it grants the benefits of the *Haste* spell for 1 minute (requires Concentration). When the effect ends, the user gains 1 level of Exhaustion.
+*   **Gruhunsh:** A rare medicinal herb. Consuming it grants the benefits of the *Haste* spell for 1 hour (requires Concentration). When the effect ends, the user gains 1 level of Exhaustion.
 
 ## **Standardized Regional Weapons**
 
 ### **Ninjonian Cluster (Krenpowen/Tenebrie)**
-*   **Ninjonian Pistol:** *Uncommon.* Range 40/120 ft. **Damage:** 1d6 Elemental. **Properties:** Ammunition, Range, Reload (15 shots), Light. Cost: 25cc.
-*   **Ninjonian Rifle:** *Uncommon.* Range 100/500 ft. **Damage:** 1d8 Elemental. **Properties:** Ammunition, Range, Reload (10 shots), Two-Handed. Cost: 50cc.
+*   **Ninjonian Pistol:** *Simple Ranged.* Range 40/120 ft. **Damage:** 1d6 Elemental. **Properties:** Ammunition, Range, Reload (15 shots), Light. Cost: 25cc.
+*   **Ninjonian Rifle:** *Martial Ranged.* Range 100/500 ft. **Damage:** 1d8 Elemental. **Properties:** Ammunition, Range, Reload (10 shots), Two-Handed. Cost: 50cc.
 *   **Ninjonian Saber:** *Martial Melee.* **Damage:** 1d8 Slashing. **Properties:** Finesse. Cost: 15cc.
 
 ### **Techno Cluster (Genempriea)**
-*   **Techno Pulse Blaster:** *Uncommon.* Range 60/180 ft. **Damage:** 1d8 Force or Elemental. **Properties:** Ammunition, Range, Reload (10 shots), Light. Cost: 30cc.
+*   **Techno Pulse Blaster:** *Simple Ranged.* Range 60/180 ft. **Damage:** 1d8 Force or Elemental. **Properties:** Ammunition, Range, Reload (10 shots), Light. Cost: 30cc.
 *   **Techno Arc Blade:** *Martial Melee.* **Damage:** 1d8 Lightning or Force. **Properties:** Versatile (1d10). Cost: 20cc.
-*   **Techno Railgun:** *Legendary.* Range 200/400 ft. **Damage:** 2d10 Elemental. **Properties:** Ammunition, Range, Reload (1 shot), Heavy, Two-Handed. Cost: 150cc.
+*   **Techno Railgun:** *Martial Ranged.* Range 200/400 ft. **Damage:** 2d10 Elemental. **Properties:** Ammunition, Range, Reload (1 shot), Heavy, Two-Handed. Cost: 150cc.
 
 ### **Warrion Cluster (Garanko)**
 *   **Warrion Heavy Cleaver:** *Martial Melee.* **Damage:** 2d6 Slashing. **Properties:** Heavy, Two-Handed. Cost: 20cc.
@@ -672,7 +671,7 @@ The symbiote acts as a perfect failsafe, ripping you away from death's door.
 ### **Techno Armor**
 *   **Techno Weave Suit:** *Light Armor.* AC 12 + Dex modifier. Integrated environmental seals (+1 bonus to Constitution saving throws against toxins and gases). Weight: 10 lbs. Cost: 25cc.
 *   **Reinforced Techno Suit:** *Medium Armor.* AC 15 + Dex modifier (Max 2). Weight: 35 lbs. Cost: 40cc.
-*   **Heavy Techno Armor:** *Heavy Armor.* AC 18. Disadvantage on Stealth. Requires Strength 15. Weight: 50 lbs. Cost: 100cc.
+*   **Heavy Techno Armor:** *Heavy Armor.* AC 18. Disadvantage on Stealth. Requires Strength 15. Weight: 60 lbs. Cost: 100cc.
 
 ### **Warrion Armor**
 *   **Warrion Beast Harness:** *Light Armor.* AC 12 + Dex modifier. Weight: 12 lbs. Cost: 10cc.
@@ -715,31 +714,31 @@ The symbiote acts as a perfect failsafe, ripping you away from death's door.
     *   *Ninjonian Shadow-Weave Vest:* Light Armor (AC 12+Dex). Resistance to Necrotic damage.
     *   *Ninjonian Deflector Shield:* +1 Shield. Reaction when hit by a missile spell: reduce spell damage by 1d10 + Dex mod.
 *   **Rare:**
-    *   *Ninjonian Assassin Suit:* Light Armor (AC 12+Dex). +2 Stealth. PB/LR Bonus Action Invisibility until end of next turn or attack/spell cast.
-    *   *Ninjonian Vanguard Plate:* Heavy Armor (AC 17+1). Resistance to Psychic damage. Disadvantage on Stealth.
+    *   *Ninjonian Night-Ops Suit:* Light Armor (AC 12+Dex). +2 Stealth. PB/LR Bonus Action Invisibility until end of next turn or attack/spell cast.
+    *   *Ninjonian Anti-Shadow Plate:* Heavy Armor (AC 17+Dex Max 1). Resistance to Psychic damage. Disadvantage on Stealth.
 *   **Very Rare:**
     *   *Ninjonian Eclipse Weave:* Medium Armor (AC 15+Dex max 2). You can cast *Pass Without Trace* 1/Long Rest without spell components.
     *   *Ninjonian Prismatic Barrier Shield:* +2 Shield (Requires Attunement). Reaction to incoming spell: grant yourself Advantage on the saving throw (PB/LR).
 *   **Legendary:**
-    *   *Ninjonian Ghost Armor of Tenebrie:* Light/Medium Armor (AC 13/15+Dex, Requires Attunement). +3 AC. You gain a 30ft Fly speed (Hover) and can move through solid objects/creatures as if dim terrain (take 1d10 Force damage if ending turn inside).
+    *   *Ninjonian Ghost Knight Armor:* Light/Medium Armor (AC 13/15+Dex, Requires Attunement). +3 AC. You gain a 30ft Fly speed (Hover) and can move through solid objects/creatures as if dim terrain (take 1d10 Force damage if ending turn inside).
     *   *Ninjonian Impervious Aegis:* +3 Shield (Requires Attunement). You are Immune to the Frightened and Blinded conditions, and grant half-cover (+2 AC/Dex saves) to allies within 10 feet.
 
 #### **Wondrous Items & Accessories**
 *   **Common:**
-    *   *Ninjonian Signal Gem:* Sheds dim light 15ft. Can change color on command.
-    *   *Ninjonian Light Charm:* Ignores light sensitivity penalties in bright sunlight.
+    *   *Ninjonian Signal Orb:* Sheds dim light 15ft. Can change color on command.
+    *   *Ninjonian Light Charm:* Gives the wearer 30 feet of Darkvision.
 *   **Uncommon:**
     *   *Ninjonian Pulse Ring:* Action: deal 1d6 Thunder damage to all adjacent creatures (DC 13 Str save or pushed 5ft, 1/SR).
     *   *Ninjonian Warp Locket:* 1/Long Rest, cast *Misty Step* without a spell slot.
 *   **Rare:**
-    *   *Ninjonian Warp Boots:* +10ft Speed. Bonus Action to teleport 15ft (PB/LR, Requires Attunement).
+    *   *Ninjonian Zerospace Boots:* +10ft Speed. Bonus Action to teleport 15ft (PB/LR, Requires Attunement).
     *   *Ninjonian Holo-Cloak:* Action to project 3 mirror images (as *Mirror Image* spell, 1/LR).
 *   **Very Rare:**
     *   *Ninjonian Phase Harness:* Bonus Action to step into Ethereal Plane until end of turn (1/SR, Requires Attunement).
-    *   *Ninjonian Chrono-Wristband:* Reaction when hit: gain +5 AC against triggering attack (as *Shield* spell, 3 charges/day).
+    *   *Ninjonian Active Proton-Shield:* Reaction when hit: gain +5 AC against triggering attack (as *Shield* spell, 3 charges/day).
 *   **Legendary:**
-    *   *Ninjonian Crown of Shadows:* +2 Spell Save DC & spell attack mod. You can see through magical darkness out to 120 feet.
-    *   *Ninjonian Eye of Tenebrie:* Artifact Pendant. Truesight out to 60 feet. Cast *Time Stop* 1/Long Rest.
+    *   *Ninjonian Mask of Shadows:* +2 Spell Save DC & spell attack mod. You can see through magical darkness out to 120 feet.
+    *   *Ninjonian Eye of the Elsaither:* Artifact Pendant. Truesight out to 60 feet. Cast *Time Stop* 1/Long Rest.
 
 ---
 
@@ -822,7 +821,7 @@ The symbiote acts as a perfect failsafe, ripping you away from death's door.
     *   *Warrion Hide Wrap:* Light Armor (AC 11+Dex). +1 to Survival checks.
     *   *Warrion Wooden Tower Shield:* +2 AC Shield. Provides Half-Cover (+2 AC/Dex saves) when taking Dodge action.
 *   **Uncommon:**
-    *   *Warrion Beast Harness:* Light Armor (AC 12+Dex). Advantage on Animal Handling checks.
+    *   *Warrion Beast Handler's Harness:* Light Armor (AC 12+Dex). Advantage on Animal Handling checks.
     *   *Warrion Carapace Shield:* +1 Shield. Reaction when hit in melee: deal 1d4 Piercing damage to attacker.
 *   **Rare:**
     *   *Warrion Ironclad Plate:* +1 Heavy Armor (AC 17+1). Reduces nonmagical B/P/S damage by 3.
@@ -880,7 +879,7 @@ The symbiote acts as a perfect failsafe, ripping you away from death's door.
     *   *Nidosis Traveler Leathers:* Light Armor (AC 12+Dex). Flexible, zero stealth penalty.
     *   *Nidosis Bio-Chitin Shield:* +1 Shield. +1 to AC against ranged weapon attacks.
 *   **Rare:**
-    *   *Nidosis Chitin Guard:* +1 Medium Armor (AC 14+Dex max 2). Resistance to Acid damage.
+    *   *Nidosis Venomous Chitin Guard:* +1 Medium Armor (AC 14+Dex max 2). Resistance to Acid damage.
     *   *Nidosis Spore Shield:* +1 Shield (Requires Attunement). When struck in melee, release spore cloud (attacker DC 14 Con save or **Poisoned** 1 round).
 *   **Very Rare:**
     *   *Nidosis Chitin Aegis:* +2 Armor. Immune to Restrained/Paralyzed from webs/toxins. 30ft Climbing speed.
@@ -964,7 +963,7 @@ The symbiote acts as a perfect failsafe, ripping you away from death's door.
 ## **Plant Life**
 *   **Peibinu Arsib (Fire Berry):** Eating a berry restores **1d4 hit points**.
 *   **Oxyrabinu:** Extremely nutritious white berry. Eating one provides food for 3 days but requires a **DC 15 Wisdom save** or causes incapacitating hallucinations for 1 minute.
-*   **Gruhunsh:** A coconut-like fruit with coffee-flavored flesh. Eating it grants the effect of the *Haste* spell for 1 minute. Non-Earth/Lightning elementals suffer 1 level of Exhaustion afterward.
+*   **Gruhunsh:** A coconut-like fruit with coffee-flavored flesh. Eating it grants the effect of the *Haste* spell for 1 hour. Non-Earth/Lightning elementals suffer 1 level of Exhaustion afterward.
 
 ---
 
