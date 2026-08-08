@@ -10,15 +10,15 @@
 You summon a flickering elemental flame. Choose one:
 *   **Flickering Light (Utility):** The flame sheds dim light in a 10-foot radius for 1 minute.
 *   **Ignite (Utility):** You instantly ignite a candle, torch, or small campfire within range.
-*   **Searing Mote (Damage):** You hurl the flame at a target within range. Make a ranged spell attack. On a hit, deal **1d8 fire damage**.
+*   **Searing Mote (Damage):** You hurl the flame at a target within range. Make a ranged spell attack. On a hit, deal **1d8 fire damage**. This spell's damage increases by one die when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
 **Unique Spell 1: Flame Surge**  
 *2nd Level Evocation*  
 **Casting Time:** 1 Action  
-**Range:** Self (30-foot cone)  
+**Range:** Self (15-foot cone)  
 **Duration:** Instantaneous  
 **Components:** V, S  
-Unleash a wave of roaring flame in a 30-foot cone. Each creature in the area must make a **Dexterity saving throw**, taking **3d8 fire damage** on a failed save, or half as much on a success.
+Unleash a wave of roaring flame in a 15-foot cone. Each creature in the area must make a **Dexterity saving throw**, taking **3d8 fire damage** on a failed save, or half as much on a success.
 
 **Unique Spell 2: Blaze Trance**  
 *3rd Level Transmutation*  
@@ -64,7 +64,7 @@ The earth beneath a 40-foot-radius circle erupts into liquid fire. Each creature
 You conjure a gentle flame of soothing light. Choose one:
 *   **Comfort (Utility):** The flame provides warmth and dim light in a 10-foot radius.
 *   **Cauterize (Utility):** Touch a dying creature to stabilize it at 0 Hit Points.
-*   **Cleansing Burn (Damage):** Target a creature within range. It must succeed on a Dexterity saving throw or take **1d6 radiant damage**.
+*   **Cleansing Burn (Damage):** Target a creature within range. It must succeed on a Dexterity saving throw or take **1d6 radiant damage**. This spell's damage increases by one die when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
 **Unique Spell 1: Searing Rejuvenation**  
 *2nd Level Evocation*  
@@ -118,7 +118,7 @@ A sacred hearth aura radiates 60 feet around you. Friendly creatures in the area
 You conjure and control water. Choose one:
 *   **Shape (Utility):** Shape up to 5 cubic feet of water or move it 30 feet.
 *   **Douse (Utility):** Instantly douse nonmagical flames in a 5-foot cube.
-*   **Pressure Blast (Damage):** Make a ranged spell attack. On a hit, deal **1d8 bludgeoning damage** and push target 5 feet.
+*   **Pressure Blast (Damage):** Make a ranged spell attack. On a hit, deal **1d8 bludgeoning damage** and push target 5 feet. This spell's damage increases by one die when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
 **Unique Spell 1: Hydraulic Jet**  
 *2nd Level Evocation*  
@@ -172,7 +172,7 @@ A colossal tsunami wave 60 feet wide and 30 feet tall crashes over the battlefie
 You conjure healing waters. Choose one:
 *   **Soothe (Utility):** Clean a wound or object instantly.
 *   **Hydrate (Utility):** Create 1 gallon of fresh drinkable water.
-*   **Riptide Splash (Damage):** Target a creature within range. It must succeed on a Dexterity saving throw or take **1d8 cold damage**.
+*   **Riptide Splash (Damage):** Target a creature within range. It must succeed on a Dexterity saving throw or take **1d8 cold damage**. This spell's damage increases by one die when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
 **Unique Spell 1: Riviera's Blessing**  
 *2nd Level Evocation*  
@@ -188,7 +188,7 @@ Touch a creature to restore **2d8 + your Spellcasting modifier Hit Points** and 
 **Range:** Self (20-foot radius)  
 **Duration:** Concentration, up to 1 minute  
 **Components:** V, S  
-A pool of healing water surrounds you. Friendly creatures in the radius regain **1d8 + your Spellcasting modifier Hit Points** at the start of their turns.
+A pool of healing water surrounds you. As a Bonus Action on your turn, you can cause all allies of your choice within 20 feet of you to regain Hit Points equal to 1d8 + your Spellcasting Ability modifier.
 
 **Unique Spell 3: Riviera's Grace**  
 *4th Level Abjuration*  
@@ -226,7 +226,7 @@ You revive a creature dead up to 30 days. The creature returns to life with **10
 You create a sudden gale. Choose one:
 *   **Disperse (Utility):** Clear fog, smoke, or gas in a 10-foot cube.
 *   **Push (Utility):** Target a creature. It must succeed on a Strength saving throw or be pushed 10 feet.
-*   **Gale Blast (Damage):** Make a ranged spell attack. On a hit, deal **1d8 bludgeoning damage**.
+*   **Gale Blast (Damage):** Make a ranged spell attack. On a hit, deal **1d8 bludgeoning damage**. This spell's damage increases by one die when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
 **Unique Spell 1: Zephyr Dash**  
 *2nd Level Transmutation*  
@@ -280,7 +280,7 @@ Summon a 30-foot-radius, 60-foot-tall tornado. Enemies in range take **8d10 forc
 You control air currents. Choose one:
 *   **Breeze (Utility):** Create a gentle breeze to ripple clothes or clear light smoke.
 *   **Message (Utility):** Whisper a 25-word message carried by wind to a target within 120 feet.
-*   **Wind Blade (Damage):** Target a creature. It must succeed on a Dexterity saving throw or take **1d6 slashing damage**.
+*   **Wind Blade (Damage):** Target a creature. It must succeed on a Dexterity saving throw or take **1d6 slashing damage**. This spell's damage increases by one die when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
 **Unique Spell 1: Harmonious Shield**  
 *2nd Level Abjuration*  
@@ -334,7 +334,7 @@ A sacred realm of atmospheric balance surrounds you. Allies in range gain **Resi
 You release electrical energy. Choose one:
 *   **Shock (Utility):** Briefly power or overload a small nonmagical device or lock.
 *   **Static (Utility):** Cause a harmless sensory effect like sparks or hair standing on end.
-*   **Jolt (Damage):** Target a creature. It must make a Dexterity saving throw. On a failure, it takes **1d8 lightning damage**.
+*   **Jolt (Damage):** Target a creature. It must make a Dexterity saving throw. On a failure, it takes **1d8 lightning damage**. This spell's damage increases by one die when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
 **Unique Spell 1: Arcing Bolt**  
 *2nd Level Evocation*  
@@ -388,7 +388,7 @@ Call down a colossal lightning storm in a 50-foot radius. Enemies take **12d10 l
 You channel ordered electricity. Choose one:
 *   **Magnetize (Utility):** Pick up or attract a metal object weighing up to 10 lbs.
 *   **Signal (Utility):** Send a bright spark to a point within 60 feet.
-*   **Stun Strike (Damage):** Make a melee spell attack. On a hit, deal **1d8 lightning damage** and target cannot take Reactions until its next turn.
+*   **Stun Strike (Damage):** Make a melee spell attack. On a hit, deal **1d8 lightning damage** and target can't take a Reaction until its next turn. This spell's damage increases by one die when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
 **Unique Spell 1: Static Ward**  
 *2nd Level Abjuration*  
@@ -441,8 +441,8 @@ An aura of absolute electrical discipline surrounds you. Allies within 30 feet g
 **Duration:** Instantaneous  
 You manipulate soil and stone. Choose one:
 *   **Mold (Utility):** Excavate or move a 5-foot cube of loose earth.
-*   **Camouflage (Utility):** Change the color/texture of stone or dirt (+2 Stealth).
-*   **Stone Throw (Damage):** Make a ranged spell attack. On a hit, deal **1d6 bludgeoning damage**.
+*   **Camouflage (Utility):** Change the color/texture of stone or dirt (+2 Stealth) for 1 minute.
+*   **Stone Throw (Damage):** Make a ranged spell attack. On a hit, deal **1d6 bludgeoning damage**. This spell's damage increases by one die when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
 **Unique Spell 1: Dustgag**  
 *2nd Level Transmutation*  
@@ -493,9 +493,9 @@ Reshape the environment in a 60-foot radius. Enemies take **10d10 bludgeoning da
 **Range:** 30 feet  
 **Duration:** 1 Minute  
 You command the earth to protect and strike. Choose one:
-*   **Wall (Utility):** Create a 5-foot wall of earth that provides half-cover (+2 AC/Dex saves).
+*   **Wall (Utility):** Create a 5-foot wall of earth that provides half-cover (+2 AC/Dex saves) for 1 minute.
 *   **Harden (Utility):** Touch a nonmagical object or structure, granting it a +2 bonus to its AC and damage threshold for 1 minute.
-*   **Rock Strike (Damage):** You hurl a stone projectile at a target within range. Make a ranged spell attack. On a hit, deal **1d8 bludgeoning damage**.
+*   **Rock Strike (Damage):** You hurl a stone projectile at a target within range. Make a ranged spell attack. On a hit, deal **1d8 bludgeoning damage**. This spell's damage increases by one die when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
 **Unique Spell 1: Guardian's Embrace**  
 *2nd Level Abjuration*  
@@ -549,7 +549,7 @@ Terra strikes the ground, rupturing the battlefield in a 60-foot-radius area cen
 You summon a beam of pure light. Choose one:
 *   **Illuminate (Utility):** An object sheds bright light in a 20-foot radius and dim light for another 20 feet.
 *   **Signal (Utility):** Flash a beam into the sky visible up to 5 miles away, signaling allies.
-*   **Solar Ray (Damage):** Target a creature within range. It must succeed on a Constitution saving throw or take **1d8 radiant damage**.
+*   **Solar Ray (Damage):** Target a creature within range. It must succeed on a Constitution saving throw or take **1d8 radiant damage**. This spell's damage increases by one die when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
 **Unique Spell 1: Luminous Flare**  
 *2nd Level Evocation*  
@@ -581,7 +581,7 @@ A dazzling aura surrounds you. You have **Resistance to Radiant and Necrotic dam
 **Range:** Self (30-foot radius)  
 **Duration:** Instantaneous  
 **Components:** V, S  
-A blinding burst of dawn energy erupts centered on you. Friendly creatures within 30 feet regain **5d8 + your Spellcasting modifier Hit Points**, while hostile creatures must make a **Constitution saving throw**, taking **5d8 radiant damage** and becoming **Blinded** for 1 minute on a failed save.
+A blinding burst of dawn energy erupts centered on you. When you cast this spell, choose one: Heal allies or Harm enemies. If you choose to heal, friendly creatures within 30 feet regain **3d8 + your Spellcasting modifier Hit Points**. If you choose to harm, hostile creatures in the area must make a **Constitution saving throw**, taking **3d8 radiant damage** and becoming **Blinded** for 1 minute on a failed save.
 
 **Capstone Spell: Crown of the Sun Sovereign**  
 *7th Level Evocation*  
@@ -601,9 +601,9 @@ You transform into a solar entity for 1 minute. For the duration, you gain a **6
 **Range:** 60 feet  
 **Duration:** Instantaneous  
 You create a burst of laser light. Choose one:
-*   **Blind (Utility):** A creature within range must succeed on a Constitution saving throw or take **1d6 radiant damage** and have **Disadvantage on its next attack roll**.
+*   **Blind (Utility):** A creature within range must succeed on a Constitution saving throw or take **1d6 radiant damage** and have **Disadvantage on its next attack roll**. This spell's damage increases by one die when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 *   **Distract (Utility):** Flash a flare that grants Advantage on the next attack made against a target before your next turn.
-*   **Searing Bolt (Damage):** Make a ranged spell attack against a target. On a hit, deal **1d8 radiant damage**.
+*   **Searing Bolt (Damage):** Make a ranged spell attack against a target. On a hit, deal **1d8 radiant damage**. This spell's damage increases by one die when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
 **Unique Spell 1: Searing Beam**  
 *2nd Level Evocation*  
@@ -657,7 +657,7 @@ You call down a colossal pillar of solar laser fire in a 40-foot-radius, 100-foo
 You manifest icy cold. Choose one:
 *   **Freeze (Utility):** Freeze a 5-foot cube of water or liquid.
 *   **Sculpt (Utility):** Instantly shape a small ice tool or object.
-*   **Frost Shard (Damage):** Make a ranged spell attack. On a hit, deal **1d10 cold damage**.
+*   **Frost Shard (Damage):** Make a ranged spell attack. On a hit, deal **1d10 cold damage**. This spell's damage increases by one die when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
 
 **Unique Spell 1: Cryogenic Lash**  
 *2nd Level Evocation*  
@@ -711,7 +711,7 @@ You detonate a sub-zero shockwave. Each hostile creature within 60 feet must mak
 You summon freezing wind. Choose one:
 *   **Extinguish (Utility):** Instantly douse a torch, lantern, or campfire.
 *   **Chill (Utility):** Lower the temperature in a 30-foot radius for 1 hour.
-*   **Glacial Breeze (Damage):** A target within range must succeed on a Constitution saving throw or take **1d6 cold damage** and have its speed reduced by 10 feet until your next turn.
+*   **Glacial Breeze (Damage):** A target within range must succeed on a Constitution saving throw or take **1d6 cold damage** and have its speed reduced by 10 feet until your next turn. This spell's damage increases by one die when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
 **Unique Spell 1: Permafrost Sanctuary**  
 *2nd Level Transmutation*  
@@ -751,7 +751,7 @@ Create a 30-foot-long, 10-foot-tall crystal wall. Whenever a ranged spell or wea
 **Range:** Self (30-foot radius)  
 **Duration:** Concentration, up to 1 minute  
 **Components:** V, S  
-A massive dome of unbreakable crystal encapsulates a 30-foot radius around you. Allies inside the dome are completely immune to outside damage, spells, and environmental hazards. Furthermore, allies inside regain **3d8 Hit Points** at the start of each turn.
+A massive dome of unbreakable crystal encapsulates a 30-foot radius around you. Allies inside the area have half cover (+2 bonus to AC and Dexterity saving throws), Resistance to all damage, and Advantage on saving throws against spells and other magical effects. Furthermore, allies inside regain **3d8 Hit Points** at the start of each turn.
 
 ---
 
@@ -765,7 +765,7 @@ A massive dome of unbreakable crystal encapsulates a 30-foot radius around you. 
 You manipulate skeletal bone. Choose one:
 *   **Shape (Utility):** Carve or shape a small bone object.
 *   **Reinforce (Utility):** Grant an undead creature +1 AC for 1 minute.
-*   **Bone Spur (Damage):** A bone spur erupts from the ground. Target must succeed on a Dexterity saving throw or take **1d8 piercing damage**.
+*   **Bone Spur (Damage):** A bone spur erupts from the ground. Target must succeed on a Dexterity saving throw or take **1d8 piercing damage**. This spell's damage increases by one die when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
 **Unique Spell 1: Bone Spike Armor**  
 *2nd Level Abjuration*  
@@ -819,7 +819,7 @@ The earth detonates with millions of sharp bone fragments. Hostile creatures wit
 You knit flesh and bone. Choose one:
 *   **Stabilize (Utility):** Stabilize a dying creature at 0 HP.
 *   **Repair (Utility):** Fix a break or crack in a small nonmagical object.
-*   **Bone Spike (Damage):** Target a creature within range. It must make a Dexterity saving throw, taking **1d8 piercing damage** on a failure.
+*   **Bone Spike (Damage):** Target a creature within range. It must make a Dexterity saving throw, taking **1d8 piercing damage** on a failure. This spell's damage increases by one die when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
 **Unique Spell 1: Calcified Ward**  
 *2nd Level Abjuration*  
@@ -827,7 +827,7 @@ You knit flesh and bone. Choose one:
 **Range:** Touch  
 **Duration:** 1 Hour  
 **Components:** V, S  
-Reinforce a creature's skeleton. Target gains **2d8 + your Spellcasting modifier Temporary Hit Points** and a **+1 bonus to AC** while Temp HP remains.
+Reinforce a creature's skeleton. Target gains **2d8 + your Spellcasting modifier Temporary Hit Points**.
 
 **Unique Spell 2: Osseous Rejuvenation**  
 *3rd Level Necromancy*  
@@ -859,7 +859,7 @@ Touch a creature dead within 1 hour. It returns to life with **half its maximum 
 **Range:** Self (30-foot radius)  
 **Duration:** Concentration, up to 1 minute  
 **Components:** V, S  
-A sacred bone aura surrounds you. For the duration, allies within 30 feet **cannot be reduced below 1 Hit Point** by damage, gain a **+3 bonus to AC**, and are immune to critical hits.
+A sacred bone aura surrounds you. For the duration, if an allied creature within range drops to 0 Hit Points, it drops to 1 Hit Point instead. This effect can trigger only once per ally per casting of this spell. Allies also gain a **+3 bonus to AC**, and are immune to critical hits.
 
 ---
 
@@ -873,7 +873,7 @@ A sacred bone aura surrounds you. For the duration, allies within 30 feet **cann
 You control volatile gases. Choose one:
 *   **Fog (Utility):** Create a 5-foot cube of dim light or obscurement.
 *   **Mask (Utility):** Alter the scent of a creature or conceal tracks.
-*   **Poison Puff (Damage):** Target a creature within range. It must succeed on a Constitution saving throw or take **1d12 poison damage**.
+*   **Poison Puff (Damage):** Target a creature within range. It must succeed on a Constitution saving throw or take **1d12 poison damage**. This spell's damage increases by one die when you reach 5th level (2d12), 11th level (3d12), and 17th level (4d12).
 
 **Unique Spell 1: Ephemeral Mirage**  
 *2nd Level Illusion*  
@@ -927,7 +927,7 @@ Unleash a massive 60-foot-radius cloud of blighting poison gas. Enemies inside t
 You summon cosmic gas. Choose one:
 *   **Light (Utility):** The gas sheds dim light in a 10-foot radius.
 *   **Float (Utility):** Levitate a small object weighing up to 10 lbs.
-*   **Cosmic Acid (Damage):** Target must succeed on a Dexterity saving throw or take **1d8 acid damage**.
+*   **Cosmic Acid (Damage):** Target must succeed on a Dexterity saving throw or take **1d8 acid damage**. This spell's damage increases by one die when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
 **Unique Spell 1: Cosmic Surge**  
 *2nd Level Evocation*  
@@ -943,7 +943,7 @@ Channel cosmic gas in a 30-foot line. Creatures take **3d10 force damage** on a 
 **Range:** Self  
 **Duration:** Concentration, up to 1 minute  
 **Components:** V, S  
-Diffuse your body into cosmic gas. Gain **Resistance to Bludgeoning, Piercing, and Slashing damage**, a **40-foot Fly speed (Hover)**, and move through enemy spaces.
+Diffuse your body into cosmic gas. Gain a **40-foot Fly speed (Hover)**, and move through enemy spaces.
 
 **Unique Spell 3: Celestial Emanation**  
 *4th Level Evocation*  
@@ -981,7 +981,7 @@ Open a cosmic black hole in a 40-foot radius. All enemies in range are pulled to
 You control metal. Choose one:
 *   **Magnetize (Utility):** Pull a metal object 10 feet toward you.
 *   **Mend (Utility):** Repair a small break in metal or metallic armor.
-*   **Iron Strike (Damage):** Make a ranged spell attack. On a hit, deal **1d6 bludgeoning damage** and target has Disadvantage on its next attack.
+*   **Iron Strike (Damage):** Make a ranged spell attack. On a hit, deal **1d6 bludgeoning damage** and target has Disadvantage on its next attack. This spell's damage increases by one die when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
 **Unique Spell 1: Metallic Ward**  
 *2nd Level Abjuration*  
@@ -1035,7 +1035,7 @@ A massive steel aura protects allies within 30 feet. Allies gain **Resistance to
 You reinforce your form. Choose one:
 *   **Harden (Utility):** Gain +1 AC against the next attack.
 *   **Metal Coat (Utility):** Gain Resistance to Bludgeoning, Piercing, and Slashing damage until start of next turn.
-*   **Spike Strike (Damage):** Make an unarmed spell strike dealing **1d6 slashing damage**.
+*   **Spike Strike (Damage):** Make an unarmed spell strike dealing **1d6 slashing damage**. This spell's damage increases by one die when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
 **Unique Spell 1: Ferrokinetic Surge**  
 *2nd Level Transmutation*  
@@ -1067,7 +1067,7 @@ A 20-foot sphere of molten metal explodes. Creatures take **5d8 force + 3d8 slas
 **Range:** Self  
 **Duration:** Concentration, up to 1 minute  
 **Components:** V, S  
-Transform into a 12-foot metal titan. Gain +3 AC, weapon attacks deal extra **2d8 slashing damage**, and you gain **20 Temporary Hit Points** at the start of each turn.
+Transform into a 12-foot metal titan. Gain +1 AC, weapon attacks deal extra **2d8 slashing damage**, and you gain 20 Temporary Hit Points when you cast this spell.
 
 **Capstone Spell: Argenti's Cataclysmic Blade-Storm**  
 *8th Level Evocation*  
@@ -1089,7 +1089,7 @@ Unleash a tidal wave of 10,000 liquid blades in a 100-foot line 15 feet wide. Cr
 You manifest spectral blades. Choose one:
 *   **Cut (Utility):** Sever a rope or small nonmagical object.
 *   **Carve (Utility):** Mark a surface with a glowing symbol.
-*   **Knife Throw (Damage):** Make a ranged spell attack. On a hit, deal **1d6 force damage**.
+*   **Knife Throw (Damage):** Make a ranged spell attack. On a hit, deal **1d6 force damage**. This spell's damage increases by one die when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
 **Unique Spell 1: Disciplined Blade**  
 *2nd Level Transmutation*  
@@ -1141,9 +1141,9 @@ You enter a trance of pure martial perfection for 1 minute. For the duration, yo
 **Range:** 10 feet  
 **Duration:** Instantaneous  
 You expel virulent toxin. Choose one:
-*   **Coat (Utility):** Coat a weapon (next hit deals +1d4 poison damage).
-*   **Corrode (Utility):** Deal 1d4 damage to a nonmagical object.
-*   **Toxic Spray (Damage):** Target a creature within range. It must succeed on a Constitution saving throw or take **1d12 poison damage**.
+*   **Coat (Utility):** Coat a weapon for 1 minute, or until triggered on the next hit (next hit deals +1d4 poison damage).
+*   **Corrode (Utility):** Deal 1d4 damage to a nonmagical object. This spell's damage increases by one die when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
+*   **Toxic Spray (Damage):** Target a creature within range. It must succeed on a Constitution saving throw or take **1d12 poison damage**. This spell's damage increases by one die when you reach 5th level (2d12), 11th level (3d12), and 17th level (4d12).
 
 **Unique Spell 1: Corrosive Surge**  
 *2nd Level Necromancy*  
@@ -1151,7 +1151,7 @@ You expel virulent toxin. Choose one:
 **Range:** 30 feet  
 **Duration:** 1 Minute  
 **Components:** V, S  
-Project a jet of acidic poison. Make a **ranged spell attack**. On a hit, deal **3d10 poison damage** and reduce target AC by 1 for 1 minute.
+Project a jet of acidic poison. Make a **ranged spell attack**. On a hit, deal **3d10 poison damage**. The target must succeed on a Constitution saving throw against your Spell Save DC or have its AC reduced by 1 for the duration.
 
 **Unique Spell 2: Toxic Surge**  
 *3rd Level Necromancy*  
@@ -1197,7 +1197,7 @@ A 60-foot-radius eruption of corrosive venom dissolves the battlefield. Creature
 You channel death energy. Choose one:
 *   **Chill (Utility):** Extinguish a candle or small flame instantly.
 *   **Wither (Utility):** Cause a small non-magical plant to wither.
-*   **Death Toll (Damage):** Target a creature. It must make a Wisdom saving throw. On a failure, it takes **1d8 necrotic damage**.
+*   **Death Toll (Damage):** Target a creature. It must make a Wisdom saving throw. On a failure, it takes **1d8 necrotic damage**. This spell's damage increases by one die when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
 **Unique Spell 1: Death's Shroud**  
 *2nd Level Abjuration*  
@@ -1250,8 +1250,8 @@ Transform into an avatar of death for 1 minute. Gain immunity to Necrotic and Ps
 **Duration:** Instantaneous  
 You preserve life force. Choose one:
 *   **Spare (Utility):** Stabilize a dying creature at 0 HP.
-*   **Bless (Utility):** Target gains +1d4 to its next saving throw.
-*   **Radiant Spark (Damage):** Target a creature within range. It must make a Constitution saving throw, taking **1d8 radiant damage** on a failure.
+*   **Bless (Utility):** Target gains +1d4 to its next saving throw until the end of its next turn.
+*   **Radiant Spark (Damage):** Target a creature within range. It must make a Constitution saving throw, taking **1d8 radiant damage** on a failure. This spell's damage increases by one die when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
 **Unique Spell 1: Life-Thread Blessing**  
 *2nd Level Evocation*  
@@ -1283,7 +1283,7 @@ Touch a creature dead within 1 minute. It returns to life with **1 Hit Point** a
 **Range:** Touch  
 **Duration:** Instantaneous  
 **Components:** V, S  
-Touch a target dead up to 24 hours. Return it to life with **full Hit Points** and cured of all conditions and poisons.
+Touch a target dead up to 24 hours. The target returns to life with 1 Hit Point. For the next 3 days, the target has Disadvantage on attack rolls, saving throws, and ability checks (the penalties of Raise Dead apply). It is also cured of all conditions and poisons.
 
 **Capstone Spell: Anastasia's Miracle of Rebirth**  
 *7th Level Evocation*  
@@ -1291,7 +1291,7 @@ Touch a target dead up to 24 hours. Return it to life with **full Hit Points** a
 **Range:** Self (60-foot radius)  
 **Duration:** Instantaneous  
 **Components:** V, S  
-A blinding shockwave of holy resurrection radiates 60 feet. All dead allies within the area killed within the last 24 hours return to life with **half their maximum Hit Points**, and all living allies in range heal **50 Hit Points**.
+A blinding shockwave of holy resurrection radiates 60 feet. Choose one dead allied creature within range. That creature returns to life with Hit Points equal to half its Hit Point maximum. All other dead allied creatures within range that you choose are instead stabilized if they have been dead for less than 1 minute. All living allies in range heal **50 Hit Points**.
 
 ---
 
@@ -1305,7 +1305,7 @@ A blinding shockwave of holy resurrection radiates 60 feet. All dead allies with
 You manipulate minds. Choose one:
 *   **Obscure (Utility):** Create a 5-foot cube of dim light or darkness.
 *   **Whisper (Utility):** Create spooky sounds or whispers in an area.
-*   **Mind Drain (Damage):** Target a creature. It must make a Charisma saving throw. On a failure, it takes **1d10 psychic damage**.
+*   **Mind Drain (Damage):** Target a creature. It must make a Charisma saving throw. On a failure, it takes **1d10 psychic damage**. This spell's damage increases by one die when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
 
 **Unique Spell 1: Malicious Whisper**  
 *2nd Level Enchantment*  
@@ -1359,7 +1359,7 @@ Unleash a wave of psychic horror. Enemies within 60 feet must make a **Wisdom sa
 You wield darkness. Choose one:
 *   **Snuff (Utility):** Put out a torch or light source instantly.
 *   **Grab (Utility):** Move a small object 10 feet.
-*   **Shadow Lash (Damage):** Target a creature within range. It must succeed on a Dexterity saving throw or take **1d8 necrotic damage**.
+*   **Shadow Lash (Damage):** Target a creature within range. It must succeed on a Dexterity saving throw or take **1d8 necrotic damage**. This spell's damage increases by one die when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
 **Unique Spell 1: Veil of Shadows**  
 *2nd Level Illusion*  
@@ -1413,7 +1413,7 @@ Summon a 100-foot-radius realm of total magical darkness. You gain **Truesight 1
 You wield shadow light. Choose one:
 *   **Flash (Utility):** Distract a creature (Advantage on next attack against it).
 *   **Glow (Utility):** Object sheds dim purple light in a 10-foot radius.
-*   **Star Blast (Damage):** Make a ranged spell attack. On a hit, deal **1d8 psychic damage**.
+*   **Star Blast (Damage):** Make a ranged spell attack. On a hit, deal **1d8 psychic damage**. This spell's damage increases by one die when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
 **Unique Spell 1: Cosmic Pulse**  
 *2nd Level Evocation*  
@@ -1465,9 +1465,9 @@ A massive star explodes in a 40-foot radius. Creatures take **12d10 force damage
 **Range:** 60 feet  
 **Duration:** Instantaneous  
 You channel raw void. Choose one:
-*   **Destroy (Utility):** Deal 1d4 force damage to a nonmagical object.
+*   **Destroy (Utility):** Deal 1d4 force damage to a nonmagical object. This spell's damage increases by one die when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
 *   **Fear (Utility):** Cause a sensory noise or shadow flicker to frighten ambient creatures.
-*   **Void Rend (Damage):** Target must succeed on a Constitution saving throw or take **1d6 necrotic damage** and cannot regain hit points until your next turn.
+*   **Void Rend (Damage):** Target must succeed on a Constitution saving throw or take **1d6 necrotic damage** and cannot regain hit points until your next turn. This spell's damage increases by one die when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
 
 **Unique Spell 1: Void Shear**  
 *2nd Level Evocation*  

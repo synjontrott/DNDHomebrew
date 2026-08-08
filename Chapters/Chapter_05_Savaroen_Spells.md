@@ -8,16 +8,16 @@
 **Range:** 120 feet  
 **Duration:** Instantaneous  
 **Components:** V, S  
-You fire a beam of elemental energy at a creature within range. Make a ranged spell attack against the target. On a hit, the target takes **1d10 elemental damage** of your chosen type.
+You fire a beam of elemental energy at a creature within range. Make a ranged spell attack against the target. On a hit, the target takes **1d10 elemental damage** of your chosen type (choose the damage type from your Primal Bond or Spiritual Awakening element when you learn this cantrip).
 *At Higher Levels:* The spell creates more than one beam when you reach higher levels: two beams at 5th level, three beams at 11th level, and four beams at 17th level. You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam.
 
 **Energy Shield**  
 *Abjuration Cantrip*  
-**Casting Time:** 1 Action  
+**Casting Time:** 1 Bonus Action  
 **Range:** Self  
 **Duration:** 1 Round  
 **Components:** V, S  
-You create a shimmering shield of energy around yourself. You gain **1d4 Temporary Hit Points** until the start of your next turn.
+You create a shimmering shield of energy around yourself. You gain **1d8 + your Spellcasting Ability modifier Temporary Hit Points** until the start of your next turn.
 *At Higher Levels:* The temporary hit points increase by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
 
 **Wound Wrap**  
@@ -26,7 +26,7 @@ You create a shimmering shield of energy around yourself. You gain **1d4 Tempora
 **Range:** Touch  
 **Duration:** Instantaneous  
 **Components:** V, S  
-You touch a living creature that has 0 hit points. The creature becomes stable. If the creature is conscious, you can instead grant it **1 Temporary Hit Point**. This spell has no effect on undead or constructs.
+You touch a living creature that has 0 hit points. The creature becomes stable. This spell has no effect on undead or constructs.
 
 ---
 
@@ -38,8 +38,8 @@ You touch a living creature that has 0 hit points. The creature becomes stable. 
 **Range:** Touch  
 **Duration:** Instantaneous  
 **Components:** V, S  
-A creature you touch regains a number of hit points equal to **1d8 + your Spellcasting Ability modifier**. This spell has no effect on undead or constructs.
-*At Higher Levels:* When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.
+A creature you touch regains a number of hit points equal to **2d8 + your Spellcasting Ability modifier**. This spell has no effect on undead or constructs.
+*At Higher Levels:* When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 2d8 for each slot level above 1st.
 
 **Lash**  
 *Evocation*  
@@ -75,9 +75,9 @@ You create a flat wall of energy 20 feet long, 8 feet high, and 1 foot thick at 
 *Abjuration*  
 **Casting Time:** 1 Action  
 **Range:** Touch  
-**Duration:** Concentration, up to 1 hour  
+**Duration:** 1 hour  
 **Components:** V, S, M (a piece of cured leather)  
-You touch a willing creature. Until the spell ends, the target's AC increases by **+2**.
+You touch a willing creature. Until the spell ends, the target's AC increases by **+3**.
 
 **Boost**  
 *Transmutation*  
@@ -98,11 +98,11 @@ A bright streak flashes to a point you choose within range then blossoms with a 
 
 **Vanguard’s Manifestation**  
 *Conjuration*  
-**Casting Time:** 1 Action  
+**Casting Time:** 1 Bonus Action  
 **Range:** Self  
 **Duration:** Concentration, up to 1 minute  
 **Components:** V, S  
-You conjure a shimmering shield on one arm and an elemental weapon in the other. For the duration, you gain a **+2 bonus to AC** (stacking with other shields). The weapon counts as magical and you are proficient with it. On a hit, it deals **2d8 + your Spellcasting Ability modifier** elemental damage.
+You conjure a shimmering shield on one arm and an elemental weapon in the other. If cast as a Bonus Action on your turn, you may immediately make one melee spell attack with the weapon as part of the same Bonus Action. For the duration, you gain a **+2 bonus to AC**. This spell cannot combine with the AC bonus of another shield or Shield spell. The weapon counts as magical and you are proficient with it. On a hit, it deals **2d8 + your Spellcasting Ability modifier** elemental damage.
 
 ---
 
@@ -114,7 +114,7 @@ You conjure a shimmering shield on one arm and an elemental weapon in the other.
 **Range:** Self  
 **Duration:** 1 Round  
 **Components:** S  
-You gain **Resistance** to the triggering damage type until the start of your next turn. Additionally, the first time you hit with a melee attack on your next turn, the target takes an extra **4d6 damage** of that type.
+You gain **Resistance** to the triggering damage type until the start of your next turn. Additionally, the first time you hit with a melee attack on your next turn, the target takes an extra **10d6 damage** of that type. Alternatively, instead of storing the damage, you can immediately release it as a 15-foot cone of the absorbed element, dealing 10d6 damage (save for half) to all creatures in the area.
 
 **Sphere**  
 *Evocation*  
@@ -128,9 +128,9 @@ You create a massive sphere of destructive energy. Each creature in a 60-foot-ra
 *Transmutation*  
 **Casting Time:** 1 Action  
 **Range:** Self  
-**Duration:** Up to 8 hours  
+**Duration:** Up to 10 minutes  
 **Components:** V, S  
-You step into the border regions of the Ethereal Plane. You remain in the Border Ethereal for the duration or until you use your Action to dismiss the spell. You can move in any direction. You can see and hear the plane you originated from, but everything looks gray, and you can't see anything more than 60 feet away.
+You step into the border regions of the Ethereal Plane. You remain in the Border Ethereal for the duration or until you use your Action to dismiss the spell. You can move in any direction. You can see and hear the plane you originated from, but everything looks gray, and you can't see anything more than 60 feet away. This spell may be upcast using a 7th-level slot to extend the duration to 8 hours.
 
 ---
 
@@ -157,7 +157,7 @@ You fire a massive beam of energy in a line 300 feet long and 15 feet wide. Each
 **Casting Time:** 1 hour  
 **Range:** Touch  
 **Duration:** Instantaneous  
-**Components:** V, S, M (A Crystalarium Plant, which the spell consumes)  
+**Components:** V, S, M (A Crystalarium Plant worth at least 25,000 cc, which the spell consumes)  
 You touch a creature that has been dead for no longer than 200 years. The creature is restored to life with all its hit points. This spell closes all wounds, neutralizes any poison, cures all diseases, and lifts any curses. It replaces damaged or missing organs and limbs.
 
 ---

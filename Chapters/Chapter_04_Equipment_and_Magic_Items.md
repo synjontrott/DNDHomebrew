@@ -3,7 +3,7 @@
 ## **Special Materials**
 *   **Crystalarium:** A valuable crafting material. When used to forge armor, it can add Resistance to a specific element, selected at the time of forging.
 *   **Power Crystals:** Crystals infused with elemental energy. Can be attached to a weapon as an Action. For 1 minute, the weapon deals +1d4 elemental damage on a hit (Once per Short Rest per crystal).
-*   **Gruhunsh:** A coconut-like fruit with coffee-flavored flesh. Consuming it grants the effect of the *Haste* spell for 1 hour. Non-Earth/Lightning elementals suffer 1 level of Exhaustion afterward.
+*   **Gruhunsh:** A coconut-like fruit with coffee-flavored flesh. Eating it grants the effect of the *Haste* spell for 1 minute. Non-Earth/Lightning elementals suffer 1 level of Exhaustion afterward.
 
 ## **Standardized Regional Weapons**
 
@@ -13,14 +13,14 @@
 *   **Ninjonian Saber:** *Martial Melee.* **Damage:** 1d8 Slashing. **Properties:** Finesse. Cost: 15cc.
 
 ### **Techno Cluster (Genempriea)**
-*   **Techno Pulse Blaster:** *Simple Ranged.* Range 60/180 ft. **Damage:** 1d8 Force or Elemental. **Properties:** Ammunition, Range, Reload (10 shots), Light. Cost: 30cc.
+*   **Techno Pulse Blaster:** *Simple Ranged.* Range 60/180 ft. **Damage:** 1d6 Force or Elemental. **Properties:** Ammunition, Range, Reload (10 shots), Light. Cost: 30cc.
 *   **Techno Arc Blade:** *Martial Melee.* **Damage:** 1d8 Lightning or Force. **Properties:** Versatile (1d10). Cost: 20cc.
-*   **Techno Railgun:** *Martial Ranged.* Range 200/400 ft. **Damage:** 2d10 Elemental. **Properties:** Ammunition, Range, Reload (1 shot), Heavy, Two-Handed. Cost: 150cc.
+*   **Techno Railgun:** *Martial Ranged.* Range 200/400 ft. **Damage:** 1d12 Elemental. **Properties:** Ammunition, Range, Reload (1 shot), Loading, Heavy, Two-Handed. Cost: 150cc.
 
 ### **Warrion Cluster (Garanko)**
 *   **Warrion Heavy Cleaver:** *Martial Melee.* **Damage:** 2d6 Slashing. **Properties:** Heavy, Two-Handed. Cost: 20cc.
 *   **Warrion Great-Axe:** *Martial Melee.* **Damage:** 1d12 Slashing. **Properties:** Heavy, Two-Handed. Cost: 20cc.
-*   **Warrion War-Hammer:** *Martial Melee.* **Damage:** 1d10 Bludgeoning. **Properties:** Heavy, Two-Handed, Versatile. Cost: 15cc.
+*   **Warrion War-Hammer:** *Martial Melee.* **Damage:** 1d8 Bludgeoning. **Properties:** Versatile (1d10). Cost: 15cc.
 
 ### **Nidosis Cluster (Plunesako)**
 *   **Nidosis Spear-Staff:** *Simple Melee.* **Damage:** 1d6 Piercing or Bludgeoning. **Properties:** Versatile (1d8), Thrown (20/60). Cost: 5cc.
@@ -61,7 +61,7 @@
     *   *Ninjonian Ceremonial Dagger:* 1d4 Slashing/Piercing. 1/day as a Bonus Action, grant +1 bonus to your next attack roll.
 *   **Uncommon:**
     *   *Ninjonian Crystal Darts (Set of 3):* 1d4 Piercing + 1d4 Lightning. Return to pouch at end of turn.
-    *   *Ninjonian Plasma Dagger:* 1d4 Piercing + 1d4 Fire. Ignites nonmagical flammable objects on hit.
+    *   *Ninjonian Plasma Dagger:* (Requires Attunement). 1d4 Piercing + 1d4 Fire. Ignites nonmagical flammable objects on hit.
 *   **Rare:**
     *   *Ninjarikan Kutana:* +1 Sword (Requires Attunement). Bonus Action (PB/LR) for 1 min: +1d6 primary elemental damage on hit.
     *   *Ninjonian Voltage Rifle:* +1 Rifle (Requires Attunement). Range 100/500 ft (1d8 Lightning). 1/SR discharge: target makes DC 15 Con save or is **Incapacitated** until end of its next turn.
@@ -77,13 +77,13 @@
     *   *Ninjonian Stealth Lining:* Armor Mod (Light). Advantage on Stealth checks while standing still in dim light/darkness.
     *   *Ninjonian Guard Buckler:* +1 AC Shield. Weighs only 2 lbs.
 *   **Uncommon:**
-    *   *Ninjonian Shadow-Weave Vest:* Light Armor (AC 12+Dex). Resistance to Necrotic damage.
-    *   *Ninjonian Deflector Shield:* +1 Shield. Reaction when hit by a missile spell: reduce spell damage by 1d10 + Dex mod.
+    *   *Ninjonian Eclipse Weave:* Medium Armor (AC 15+Dex max 2). You can cast *Pass Without Trace* 1/Long Rest without spell components.
+    *   *Ninjonian Deflector Shield:* +1 Shield. Reaction when hit by a missile spell: reduce spell damage by 1d10 + Dex mod. You can use this Reaction a number of times equal to your Proficiency Bonus per Long Rest.
 *   **Rare:**
+    *   *Ninjonian Shadow-Weave Vest:* Light Armor (AC 12+Dex). Resistance to Necrotic damage.
     *   *Ninjonian Night-Ops Suit:* Light Armor (AC 12+Dex). +2 Stealth. PB/LR Bonus Action Invisibility until end of next turn or attack/spell cast.
     *   *Ninjonian Anti-Shadow Plate:* Heavy Armor (AC 17+Dex Max 1). Resistance to Psychic damage. Disadvantage on Stealth.
 *   **Very Rare:**
-    *   *Ninjonian Eclipse Weave:* Medium Armor (AC 15+Dex max 2). You can cast *Pass Without Trace* 1/Long Rest without spell components.
     *   *Ninjonian Prismatic Barrier Shield:* +2 Shield (Requires Attunement). Reaction to incoming spell: grant yourself Advantage on the saving throw (PB/LR).
 *   **Legendary:**
     *   *Ninjonian Ghost Knight Armor:* Light/Medium Armor (AC 13/15+Dex, Requires Attunement). +3 AC. You gain a 30ft Fly speed (Hover) and can move through solid objects/creatures as if dim terrain (take 1d10 Force damage if ending turn inside).
@@ -97,11 +97,10 @@
     *   *Ninjonian Pulse Ring:* Action: deal 1d6 Thunder damage to all adjacent creatures (DC 13 Str save or pushed 5ft, 1/SR).
     *   *Ninjonian Warp Locket:* 1/Long Rest, cast *Misty Step* without a spell slot.
 *   **Rare:**
-    *   *Ninjonian Zerospace Boots:* +10ft Speed. Bonus Action to teleport 15ft (PB/LR, Requires Attunement).
-    *   *Ninjonian Holo-Cloak:* Action to project 3 mirror images (as *Mirror Image* spell, 1/LR).
-*   **Very Rare:**
     *   *Ninjonian Phase Harness:* Bonus Action to step into Ethereal Plane until end of turn (1/SR, Requires Attunement).
     *   *Ninjonian Active Proton-Shield:* Reaction when hit: gain +5 AC against triggering attack (as *Shield* spell, 3 charges/day).
+    *   *Ninjonian Zerospace Boots:* +10ft Speed. Bonus Action to teleport 15ft (PB/LR, Requires Attunement).
+    *   *Ninjonian Holo-Cloak:* Action to project 3 mirror images (as *Mirror Image* spell, 1/LR).
 *   **Legendary:**
     *   *Ninjonian Mask of Shadows:* +2 Spell Save DC & spell attack mod. You can see through magical darkness out to 120 feet.
     *   *Ninjonian Eye of the Elsaither:* Artifact Pendant. Truesight out to 60 feet. Cast *Time Stop* 1/Long Rest.
@@ -133,7 +132,7 @@
     *   *Techno Repair Shield:* +1 AC Shield. Self-repairs 1 HP per minute if damaged.
 *   **Uncommon:**
     *   *Techno Environmental Suit:* Light/Medium (AC 12/14+Dex). Resistance to Poison damage & Advantage vs gases/toxins.
-    *   *Techno Kinetic Buckler:* +1 Shield. Reaction when hit by ranged weapon attack: reduce damage by 1d10 + Dex mod.
+    *   *Techno Kinetic Buckler:* +1 Shield. Reaction when hit by ranged weapon attack: reduce damage by 1d10 + Dex mod. You can use this Reaction a number of times equal to your Proficiency Bonus per Long Rest.
 *   **Rare:**
     *   *Reinforced Techno Suit:* +1 Medium Armor (AC 15+Dex max 2). Resistance to Lightning/Thunder. PB/LR Reaction +3 AC barrier vs ranged spells.
     *   *Techno Energy Field Shield:* +1 Shield (Requires Attunement). Bonus Action (1/SR): project 10ft force shield granting +2 AC to adjacent allies for 1 min.
@@ -152,9 +151,9 @@
     *   *Techno Scanner Goggles:* 60ft Darkvision. 1/LR cast *Detect Magic* (no slot).
     *   *Techno Thruster Boots:* Jump distance tripled. Fall damage reduced by 20 HP.
 *   **Rare:**
-    *   *Techno Overclock Module:* 1/LR Free Action: take 1 extra Action (*Action Surge*). Speed halved next turn.
     *   *Techno Nanite Dispenser:* 1/LR Action: restore 2d8+PB Hit Points to self or construct/automaton.
 *   **Very Rare:**
+    *   *Techno Overclock Module:* (Requires Attunement). 1/LR Free Action: take 1 extra Action (*Action Surge*). Speed halved next turn.
     *   *Techno Subdermal Armor Plating:* Increases Unarmored AC to 16 + Dex mod (max 2). +1 Con score (max 20).
     *   *Techno AI Assistant Core:* Companion AI. Grants Advantage on Intelligence (Arcana/History/Investigation) checks.
 *   **Legendary:**
@@ -174,8 +173,8 @@
     *   *Warrion Volcanic Flail:* 1d8 Bludgeoning + 1d4 Fire. Hits ignite dry brush/wood.
 *   **Rare:**
     *   *Warrion Heavy Cleaver (Enchanted):* +1 Cleaver (2d6 Slashing). Adds Strength mod twice to damage rolls on Critical Hits.
-    *   *Warrion Magma Axe:* +1 Battleaxe/Greataxe. Deals extra 1d6 Fire damage on hit. 1/SR fire 15ft cone of flames (DC 15 Dex save, 3d6 Fire).
 *   **Very Rare:**
+    *   *Warrion Magma Axe:* +1 Battleaxe/Greataxe. Deals extra 1d6 Fire damage on hit. 1/SR fire 15ft cone of flames (DC 15 Dex save, 3d6 Fire).
     *   *Warrion Obsidian Dread-Axe:* +2 Greataxe. Crit deals +2d12 Fire damage & 15ft push/prone save (DC 16 Str).
     *   *Warrion Thunder-Crusher Hammer:* +2 Warhammer/Maul. Hits deal extra 1d8 Thunder damage. 1/LR slam earth for 20ft AoE shockwave (DC 16 Con save, 4d8 Thunder + Prone).
 *   **Legendary:**
@@ -225,8 +224,8 @@
     *   *Nidosis Sentry Blade:* 1d4 Dagger/Shortsword. Glows amber within 60ft of beasts/monstrosities. 1/day +1 to attack.
     *   *Nidosis Hunting Blowgun:* Range 30/100 ft. Needles deal 1d4 Piercing + Poisoned for 1 round (DC 11 Con save).
 *   **Uncommon:**
-    *   *Nidosis Venom Dagger:* 1d4 Piercing + 1d4 Poison damage on hit.
-    *   *Nidosis Needle Bow:* 1d6 Piercing. Ammunition creates zero noise (cannot break stealth when attacking from hidden).
+    *   *Nidosis Venom Dagger:* (Requires Attunement). 1d4 Piercing + 1d4 Poison damage on hit.
+    *   *Nidosis Needle Bow:* 1d6 Piercing. Ammunition creates zero noise. Attacking with this weapon from hiding does not reveal your position if you miss.
 *   **Rare:**
     *   *Nidosis Spear-Staff (Infused):* +1 Spear/Staff (1d6/1d8). Deals extra 1d6 Acid or Poison damage. Thrown 30/90.
     *   *Nidosis Spore Cannon:* +1 Ranged Weapon (1d8 Poison). 1/SR shoot spore pod (10ft AoE, DC 15 Con save or **Poisoned** 1 min).
@@ -259,13 +258,13 @@
     *   *Nidosis Travel Pouch:* Keeps food and drink inside fresh indefinitely.
     *   *Nidosis Glowing Spore Lamp:* Sheds bright light 20ft, dim light 20ft. No fuel required.
 *   **Uncommon:**
+    *   *Nidosis Living Roots Ring:* 1/LR cast *Entangle* or *Spike Growth* (DC 16).
     *   *Nidosis Herbalist Salve Kit:* 3 uses. Action: apply salve to restore 2d4+2 HP and cure 1 poison.
     *   *Nidosis Vine-Climb Gloves:* Grants 20ft Climbing speed on natural surfaces.
 *   **Rare:**
     *   *Nidosis Bio-Luminescent Cloak:* Resistance to Acid damage. Advantage on Stealth checks in natural foliage.
     *   *Nidosis Spore Mask:* Immunity to breathing airborne toxins, spore clouds, and drowning.
 *   **Very Rare:**
-    *   *Nidosis Living Roots Ring:* 1/LR cast *Entangle* or *Spike Growth* (DC 16).
     *   *Nidosis Phoenix Leaf Amulet:* 1/LR when reduced to 0 HP, drop to 1 HP instead and regain 3d8 HP.
 *   **Legendary:**
     *   *Nidosis Heart of the Great Forest:* Artifact Relic. +2 Wisdom or Dexterity (max 22). 1/LR cast *Regenerate*.
@@ -281,10 +280,10 @@
     *   *Elsaither Focus Wand:* +1 to spell attack rolls for 1st-level cantrips.
 *   **Uncommon:**
     *   *Shadow Whip:* 1d6 Necrotic (Reach, Finesse). Disarms target on critical hit.
-    *   *Elsaither Infused Staff:* 1d6/1d8 Bludgeoning + 1d4 primary elemental damage.
+    *   *Elsaither Infused Staff:* (Requires Attunement). 1d6/1d8 Bludgeoning + 1d4 primary elemental damage.
 *   **Rare:**
     *   *Shadow Tendril Blade:* +1 Shortsword (1d6 Slashing + 1d6 Necrotic). 15ft reach grapple (DC 15 Str save).
-    *   *Elsaither Prism Saber:* +1 Longsword (1d8 Slashing + 1d6 Radiant/Elemental). Swap elemental type on cast.
+    *   *Elsaither Prism Saber:* +1 Longsword (Requires Attunement). (1d8 Slashing + 1d6 Radiant/Elemental). Swap elemental type on cast.
 *   **Very Rare:**
     *   *Shadow Void Scythe:* +2 Glaive (1d10 Slashing + 1d10 Necrotic). Hits prevent target from healing until end of next turn.
     *   *Elsaither Singularity Rod:* +2 Rod (Requires Attunement). +2 to Spell Save DC. 1/LR cast *Gravity Fissure* or *Sunburst*.
@@ -297,9 +296,9 @@
     *   *Shadowweave Veil:* Light Armor Mod (+1 to Stealth checks in dark).
     *   *Elsaither Crystal Buckler:* +1 Shield (1/day absorb 5 elemental damage).
 *   **Uncommon:**
-    *   *Shadow Mantle:* Light Armor (AC 12+Dex). Resistance to Necrotic damage.
     *   *Elsaither Prism Shield:* +1 Shield. Reaction: gain Resistance to triggering elemental damage for 1 round (1/SR).
 *   **Rare:**
+    *   *Shadow Mantle:* Light Armor (AC 12+Dex). Resistance to Necrotic damage.
     *   *Shadow Husk Armor:* Medium Armor (AC 14+Dex max 2). Resistance to Psychic & Necrotic damage.
     *   *Elsaither Barrier Armor:* +1 Armor. PB/LR Reaction: absorb 2d8 + Spellcasting Mod damage from incoming attack.
 *   **Very Rare:**
@@ -329,7 +328,7 @@
 ## **Plant Life**
 *   **Peibinu Arsib (Fire Berry):** Eating a berry restores **1d4 hit points**.
 *   **Oxyrabinu:** Extremely nutritious white berry. Eating one provides food for 3 days but requires a **DC 15 Wisdom save** or causes incapacitating hallucinations for 1 minute.
-*   **Gruhunsh:** A coconut-like fruit with coffee-flavored flesh. Eating it grants the effect of the *Haste* spell for 1 hour. Non-Earth/Lightning elementals suffer 1 level of Exhaustion afterward.
+*   **Gruhunsh:** A coconut-like fruit with coffee-flavored flesh. Eating it grants the effect of the *Haste* spell for 1 minute. Non-Earth/Lightning elementals suffer 1 level of Exhaustion afterward.
 
 ---
 

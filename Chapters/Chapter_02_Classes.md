@@ -119,7 +119,7 @@ At 20th level, as a Bonus Action, you manifest a **Divine Elemental Weapon** for
 *   **Elemental Trance:** As a Bonus Action, you can enter an elemental trance that lasts for 1 minute (or until you fall Unconscious, or end it as a Bonus Action). You can enter this trance a number of times equal to your **Proficiency Bonus**, regaining all expended uses when you finish a Long Rest. While tranced:
     *   You have Resistance to Bludgeoning, Piercing, and Slashing damage.
     *   Add your **Proficiency Bonus** to melee weapon damage rolls.
-    *   *Restriction:* You can only concentrate on spells that deal your primary elemental damage type.
+    *   *Restriction:* You can only concentrate on spells that deal your primary elemental damage type. While in Elemental Trance, you cannot cast leveled spells. You may still concentrate on a spell already active when the trance begins, but you cannot cast new leveled spells until the trance ends.
 *   **Level 6: Extra Attack:** Attack twice per Action.
 *   **Level 10: Furious Focus:** Advantage on Constitution saves to maintain concentration while in Trance.
 *   **Level 14: Retaliatory Burst:** When a creature hits you with a melee attack while you are in Trance, you can use your Reaction to force the attacker to make a **Dexterity saving throw against your Spell Save DC**. On a failure, the attacker takes **2d10 + your Charisma modifier** elemental damage, or half as much on a successful save.
@@ -141,9 +141,9 @@ At 20th level, as a Bonus Action, you manifest a **Divine Elemental Weapon** for
 
 #### **Techno (The Forge Sovereign)**
 *   **Level 3: Master Maker:** Gain proficiency in **Heavy Armor**, **Shields**, and **Smith’s Tools**.
-    *   **Automaton Assistant:** Over a Long Rest using Smith's Tools, you can construct a mechanical companion (use Steel Defender stats, no Reaction). Bonus Action to command.
-*   **Level 6: Magic Item Savant:** You can attune to **4 Magic Items**.
-*   **Level 10: Rapid Fabricator:** Cast *Fabricate* and *Creation* 1/Long Rest (free). Automaton attacks are magical.
+    *   **Automaton Assistant:** Over a Long Rest using Smith's Tools, you can construct a mechanical companion (use Steel Defender stats, no Reaction). Its hit point maximum equals 2 + your Charisma modifier + five times your Savaroen level. Bonus Action to command.
+*   **Level 6: Rapid Fabricator:** Cast *Fabricate* and *Creation* 1/Long Rest (free). Automaton attacks are magical.
+*   **Level 10: Magic Item Savant:** You can attune to **4 Magic Items**.
 *   **Level 14: Soul of the Machine:** Attune to **5 Magic Items**. +1 to all Saves for every 2 attuned items.
 
 #### **Ninji (The Elemental Evoker)**
@@ -151,7 +151,7 @@ At 20th level, as a Bonus Action, you manifest a **Divine Elemental Weapon** for
 *   **Level 6: Potent Spellcasting:** Add your **Charisma modifier** to one damage roll of any elemental spell you cast of 1st level or higher.
 *   **Level 10: Echoes of Power:** A number of times per Long Rest equal to your **Proficiency Bonus**, when you cast a single-target spell, you can have it also affect one additional creature within 10 feet of the original target, dealing half damage (or half the effect) to the secondary target.
 *   **Level 14: Elemental Cataclysm:**
-    *   **Overchannel:** 1/Long Rest, maximize damage of a 1st-5th level spell.
+    *   **Overchannel:** When you use Elemental Cataclysm, you may apply it to a spell of 6th level or higher (Tier 3 or Tier 4), instead of only 1st through 5th level spells. If you already have a feature that maximizes damage on a 1st-5th level spell, you gain one additional use of that feature per Long Rest.
     *   **Siege Monster:** Double damage to objects/structures.
 
 ---
@@ -211,7 +211,7 @@ At 1st level, you determine the nature of your existence. Choose one of the foll
 *   **The Bonded (Dual Player):** You and another player share a single body. One player takes the role of the **Host**, and the other the **Symbiote**.
     *   **Shared Attributes:** You share a single pool of Hit Points, Hit Dice, Speed, Strength, Dexterity, and Constitution scores. Conditions affecting the body affect both of you. If you reach 0 HP, you both fall unconscious.
     *   **Separate Minds:** You each have your own Intelligence, Wisdom, and Charisma scores. You track your own prepared spells (if any) and separate Initiative counts.
-    *   **Action Economy:** On your separate turns, you each get a full set of Actions (Action, Bonus Action, Reaction). However, you share movement; if the body moves its full speed on the Host's turn, it cannot move on the Symbiote's turn until the next round.
+    *   **Action Economy:** On your separate turns, you each get a full set of Actions (Action, Bonus Action, Reaction). However, you share movement; if the body moves its full speed on the Host's turn, it cannot move on the Symbiote's turn until the next round. If the Shadow Warrior and Symbiote count as one player character at the table, the Symbiote may only act on the Host's turn using the Host's Bonus Action or Reaction — it does not gain its own separate turn. If the DM rules that they fill two player character slots, the shared body uses two separate Hit Point pools equal to the Host's normal maximum each.
 
 **Natural Weapons**
 At 1st level, your shadow form manifests as deadly weapons. You gain the following natural weapons, which count as simple melee weapons for you:
@@ -246,7 +246,7 @@ At 3rd level, you gain eldritch alterations to your form. You choose one manifes
 1.  **Ocular Overdrive:** You gain Darkvision out to 120 feet. In darkness, you can see invisible creatures and objects within 10 feet of you.
 2.  **Fibrous Haste:** Your walking speed increases by 10 feet.
 3.  **Tendril Lash:** When a creature enters your reach, you can use your Reaction to make an opportunity attack with your Tendril Whip.
-4.  **Armor of Elsaither:** You can cast *Mage Armor* on yourself at will, without expending a spell slot.
+4.  **Armor of Elsaither:** Eldritch Armor. You can cast False Life on yourself at will without expending a spell slot, using Charisma as your spellcasting ability. Additionally, you can cast Shield once per Long Rest without expending a spell slot.
 5.  **Neural Overclock:** You gain Advantage on Constitution saving throws made to maintain Concentration on spells.
 6.  **Void-Grip:** You gain a climbing speed equal to your walking speed. You can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free.
 7.  **Shadow-Stitch:** When you hit a creature with your Natural Weapons, its speed is reduced by 10 feet until the start of your next turn.
@@ -295,7 +295,7 @@ Once you use this feature, you can’t use it again until you finish a long rest
 *Focus: Traps, shadow webbing, and immobilizing foes.*
 
 *   **Level 3: Ink-Web**
-    You can cast the *Web* spell without expending a spell slot a number of times equal to your **Proficiency Bonus**, regaining all uses on a Long Rest. When you cast it, creatures that fail their save against the web take **1d4 necrotic damage** at the start of their turn while restrained.
+    You can cast Web once per Long Rest without expending a spell slot. You can also cast it using your Shadow Warrior spell slots of 2nd level or higher. When you cast it, creatures that fail their save against the web take **1d4 necrotic damage** at the start of their turn while restrained.
 *   **Level 6: Cocoon**
     As an Action, you can wrap a Medium or smaller creature within 10 feet of you in shadow-webbing. The target must succeed on a Strength saving throw or be **Restrained** for 1 minute. It can repeat the save at the end of each of its turns. You can use this feature once per Short or Long Rest.
 *   **Level 10: Shadow Web Matrix**
@@ -323,7 +323,7 @@ Once you use this feature, you can’t use it again until you finish a long rest
 *   **Level 6: Breach Realm**
     You can cast *Misty Step* a number of times equal to your Proficiency Bonus per Long Rest without expending a spell slot.
 *   **Level 10: Shadow Apocalypse**
-    As an Action, you unleash a wave of necrotic energy. Each creature in a 30-foot cone must make a Constitution saving throw against your Spell Save DC, taking **8d6 necrotic damage** on a failed save, or half as much on a successful one. You can use this feature once per Long Rest.
+    As an Action, you unleash a wave of necrotic energy. Each creature in a 30-foot cone must make a Constitution saving throw against your Spell Save DC, taking **12d6 necrotic damage** on a failed save, or half as much on a successful one. You can use this feature once per Long Rest.
 *   **Level 14: Rift Maker**
     You can cast *Banishment* or *Plane Shift* (targeting only yourself and willing creatures) once per Long Rest without expending a spell slot. The destination for *Plane Shift* must be the Shadow Realm or the Material Plane.
 

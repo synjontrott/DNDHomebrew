@@ -2,12 +2,14 @@
 
 ## **Backgrounds**
 
+**Ability Scores.** When you choose a background, you can increase your ability scores in one of two ways: increase one listed score by 2 and another by 1, or increase all three listed scores by 1. No score can be increased above 20 using this feature.
+
 **Elemental Warrior**
 You were taken from your home when you were young and brought to a training facility on your home planet to learn how to fight. War is all you have ever known.
 *   **Ability Scores:** Strength, Dexterity, Constitution
 *   **Feat:** *Violent Soldier*
 *   **Skill Proficiencies:** Athletics, Intimidation
-*   **Tool Proficiency:** Gaming Set
+*   **Tool Proficiency:** one Gaming Set of your choice (such as a Dice Set or Dragonchess Set)
 *   **Equipment:** Greatsword, Longbow, 20 Arrows, Gaming Set, Healer’s Kit, Quiver, Standard Underclothes, 12cc.
 
 **Elemental Noble**
@@ -55,7 +57,7 @@ Your feet ache when you remember the countless hours you spent at your post on t
 *   **Ability Scores:** Strength, Intelligence, Wisdom
 *   **Feat:** *Alert*
 *   **Skill Proficiencies:** Athletics, Perception
-*   **Tool Proficiency:** Gaming Set
+*   **Tool Proficiency:** one Gaming Set of your choice (such as a Dice Set or Dragonchess Set)
 *   **Equipment:** Spear, Longbow, 20 Arrows, Gaming Set, Duchina Restraints, Standard Underclothes, Quiver, 10cc.
 
 **Elemental Hermit**
@@ -78,8 +80,7 @@ You spent your young years playing with technology, taking things apart, putting
 
 **Violent Soldier**
 *Origin Feat*
-You've been trained to deal particularly powerful melee attacks.
-*   **Great Weapon Mastery:** When you roll a 1 or 2 on a damage die for an attack you make with a **Two-Handed or Versatile melee weapon** held in two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2.
+You gain the Great Weapon Fighting fighting style: when you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll. The weapon must have the Two-Handed or Versatile property for you to gain this benefit.
 
 **Skilled**
 *Origin Feat*
@@ -129,7 +130,7 @@ The bond between host and symbiote allows for extraordinary reflexes and shared 
 *General Feat (Prerequisite: Level 8+, Proficiency with Martial Weapons and Spellcasting)*
 You have mastered the gish combat style, seamlessly weaving magic and steel.
 *   **Ability Score Increase:** Increase your Strength, Dexterity, or spellcasting ability score by 1, to a maximum of 20.
-*   **Spellsong Strike:** When you take the **Magic action** to cast a spell of 1st level or higher, you can make one melee weapon attack as a Bonus Action.
+*   **Spellsong Strike:** When you take the Attack action on your turn, you can replace one of your attacks with a cantrip that has a casting time of 1 Action (using the Attack action in place of the cast). You can use this replacement a number of times equal to your Proficiency Bonus, and you regain all uses when you finish a Long Rest.
 
 **Unshackled Resonance**
 *General Feat (Prerequisite: Level 4+, Elementally Charged feature)*
@@ -185,7 +186,7 @@ You have learned to temporarily suppress the violent recoil of your mutation.
 *General Feat (Prerequisite: Level 12+, Elemental Avatar feat)*
 You can push the limits of your elemental output, ensuring your spells always hit with devastating force.
 *   **Ability Score Increase:** Increase your Constitution or spellcasting ability score by 1, to a maximum of 20.
-*   **Overwhelming Element:** When you roll damage for a spell or class feature that deals your primary elemental damage, you can treat any 1s or 2s on the damage dice as 3s.
+*   **Overwhelming Element:** When you roll damage for a spell or class feature that deals your primary elemental damage, you can treat any 1s or 2s on the damage dice as 3s. If you have a feature that allows you to reroll 1s and 2s (such as Elsaither Resurgence), resolve the reroll first. If the new result is still a 1 or 2, treat it as a 3.
 *   **Elemental Piercing:** Once per Long Rest, when you hit a creature with an attack or spell that deals your primary elemental damage, you can treat Immunity to that damage type as Resistance for that attack.
 
 **Symbiotic Ascendancy**
@@ -212,7 +213,7 @@ The symbiote acts as a perfect failsafe, ripping you away from death's door.
 *Epic Boon (Prerequisite: Level 19+, Symbiotic Ascendancy feat)*
 *   **Ability Score Increase:** Increase your Strength, Dexterity, or Constitution score by 1, to a maximum of 30.
 *   **Inseparable Minds:** You are permanently Immune to the Charmed and Frightened conditions.
-*   **Symbiotic Flurry:** Once per turn, when you miss with a melee weapon attack, you can allow your symbiote to immediately make a follow-up attack against the same target. On a hit, this attack deals necrotic damage equal to `1d10 + your Strength or Dexterity modifier`.
+*   **Symbiotic Flurry:** Once per turn, when you miss with a melee weapon attack, you can allow your symbiote to immediately make a follow-up attack against the same target. This attack uses your normal attack roll modifier for the weapon. On a hit, this attack deals necrotic damage equal to `1d10 + your Strength or Dexterity modifier`.
 
 ---
 

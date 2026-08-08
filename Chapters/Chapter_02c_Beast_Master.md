@@ -36,11 +36,11 @@ A Herbalism Kit and 20cc (or 50cc starting gold)
 | 10th | +4 | Mark Feature III | 4 | 7 | 4 | 3 | 2 | — | — |
 | 11th | +4 | Enhanced Pillars | 4 | 8 | 4 | 3 | 3 | — | — |
 | 12th | +4 | Ability Score Improvement | 4 | 8 | 4 | 3 | 3 | — | — |
-| 13th | +5 | Primal Arcanum (Tier 3) | 4 | 9 | 4 | 3 | 3 | 1 | — |
+| 13th | +5 | Primal Arcanum | 4 | 9 | 4 | 3 | 3 | 1 | — |
 | 14th | +5 | Mark Feature IV | 4 | 9 | 4 | 3 | 3 | 1 | — |
 | 15th | +5 | — | 4 | 10 | 4 | 3 | 3 | 2 | — |
 | 16th | +5 | Ability Score Improvement | 4 | 10 | 4 | 3 | 3 | 2 | — |
-| 17th | +6 | Primal Arcanum (Tier 3, 2nd) | 4 | 11 | 4 | 3 | 3 | 3 | 1 |
+| 17th | +6 | Primal Arcanum (2nd) | 4 | 11 | 4 | 3 | 3 | 3 | 1 |
 | 18th | +6 | — | 4 | 11 | 4 | 3 | 3 | 3 | 1 |
 | 19th | +6 | Epic Boon of the Wild | 4 | 12 | 4 | 3 | 3 | 3 | 2 |
 | 20th | +6 | Avatar of the Mark | 4 | 12 | 4 | 3 | 3 | 3 | 2 |
@@ -123,33 +123,33 @@ You can attack twice, instead of once, whenever you take the Attack action on yo
 *11th-Level Beast Master Feature*
 
 Your mastery over the primal engine reaches new heights:
-* **Pillar I:** The first time you command your companion to attack each round, it costs 0 PE. Additionally, your companion's damage increases to 1d8 + your Wisdom modifier.
+* **Pillar I:** When your Spirit Companion scores a Critical Hit, the Enhanced Strike triggered by that hit costs 0 PE. Additionally, your companion's damage increases to 1d8 + your Wisdom modifier.
 * **Pillar II:** You can now maintain up to 2 Aspect Mutations simultaneously. The duration of all your mutations increases to 10 minutes.
-* **Pillar III:** Your Wildshape duration increases to 10 minutes (requiring no PE to extend). The Temporary Hit Points you gain from your Wildshape increase by 50 percent (rounded down). Furthermore, you can now cast your Tier 3 Primal Arcanum spells while in Wildshape form.
+* **Pillar III:** Your Wildshape duration increases to 10 minutes (requiring no PE to extend). The Temporary Hit Points you gain from your Wildshape increase by 50 percent (rounded down). Furthermore, you can now cast your Primal Arcanum spells while in Wildshape form.
 
 ### **Primal Arcanum**
 *13th-Level Beast Master Feature*
 
-You choose one **Tier 3** spell (6–7th level) from the Savaroen spell list that is thematically appropriate to your element and Mark. You can cast this spell once per Long Rest without expending a spell slot. This spell is always prepared and doesn't count against your Spells Known.
+Your primal mastery reaches beyond normal limits. Choose one 4th-level or 5th-level spell you know or one from the Savaroen spell list that is thematically appropriate to your element and Mark. You can cast that spell a number of times equal to your Proficiency Bonus per Long Rest without expending a spell slot. This spell is always prepared and does not count against your Spells Known.
 
-**Primal Arcanum (Tier 3, 2nd)**
+**Primal Arcanum (2nd)** 
 *17th-Level Beast Master Feature*
 
-You choose a second **Tier 3** spell (6–7th level) from the Savaroen spell list. This spell must be different from the one chosen at 13th level. You can cast it once per Long Rest without expending a spell slot. It is always prepared and doesn't count against your Spells Known. You now have two Primal Arcanum spells total, each usable once per Long Rest.
+Choose a second 4th-level or 5th-level spell, different from the one chosen at 13th level, from the Savaroen spell list that is thematically appropriate to your element and Mark. You can cast that spell a number of times equal to your Proficiency Bonus per Long Rest without expending a spell slot. It is always prepared and does not count against your Spells Known.
 
 ### **Epic Boon of the Wild**
 *19th-Level Beast Master Feature*
 
 You achieve an epic milestone in your primal connection:
-* **Arcanum Ascendant:** Choose one 8th-level or 9th-level spell. You can cast it once per Long Rest without expending a spell slot. It is always prepared and doesn't count against your Spells Known.
+* **Arcanum Ascendant.** You gain one Epic Boon feat of your choice from the Player's Handbook (2024) for which you meet the prerequisites.
 * **Primal Mastery:** Your PE pool maximum increases by 6. Additionally, when you activate your Avatar of the Mark feature, its duration is 2 minutes instead of 1.
 
 ### **Avatar of the Mark**
 *20th-Level Beast Master Feature*
 
 As a Bonus Action, you can embody the absolute pinnacle of your Mark for 2 minutes (duration enhanced by Epic Boon of the Wild). You can use this feature once per Long Rest. While active, you gain the following benefits:
-* **Limitless Essence:** All PE costs are reduced to 0.
-* **Transcendent Form:** The Temporary Hit Points granted by your Wildshape are doubled. Your Spirit Companion's Hit Point maximum is doubled, and it acts on your initiative each round without requiring commands.
+* **Primal Surge:** At the start of each of your turns, you regain 3 Primal Essence points.
+* **Transcendent Form:** You gain 50 additional Temporary Hit Points when you enter your Wildshape Form during this feature (this does not stack with the normal Wildshape Temp HP; it replaces the doubling). Your Spirit Companion's Hit Point maximum is doubled, and it acts on your initiative each round without requiring commands.
 * **Primal Emanation:** Each time you enter Wildshape or trigger an Enhanced Strike, all enemies within 15 feet of you must succeed on a Wisdom saving throw against your Spell Save DC or be Frightened until the end of their next turn.
 * **Elemental Apotheosis:** Your attacks and spells that deal your primary elemental damage ignore Resistance, and treat Immunity as Resistance.
 
@@ -208,7 +208,7 @@ As a Bonus Action, you can let out a commanding howl. All friendly creatures of 
 
 **Feral Coordination**
 *14th-Level Mark of the Wolf Feature*
-You and your Spirit Companion share a single devastating rhythm. When you hit a creature with a weapon attack or a spell attack, your Spirit Companion has Advantage on all attack rolls against that creature until the start of your next turn (and its next attack requires no PE cost). Additionally, your Spirit Companion no longer vanishes permanently when reduced to 0 Hit Points; instead, it returns at the start of your next turn with Hit Points equal to your Wisdom modifier × 2.
+You and your Spirit Companion share a single devastating rhythm. When you hit a creature with a weapon attack or a spell attack, your Spirit Companion has Advantage on all attack rolls against that creature until the start of your next turn (and its next attack requires no PE cost). Additionally, when your Spirit Companion is reduced to 0 Hit Points, you can expend 2 Primal Essence as a Reaction to prevent it from vanishing. It returns at the start of your next turn with Hit Points equal to your Wisdom modifier × 2. You can use this Reaction once per Long Rest.
 
 ---
 
@@ -279,9 +279,9 @@ Your draconic aura becomes overwhelming. Creatures Frightened by any of your fea
 On a hit, the target must make a Strength saving throw against your Spell Save DC or be Grappled by your companion (the companion holds the target and requires no action to maintain it). The Grappled target is also Restrained while your companion maintains the grapple. Your companion can hold only one creature this way at a time.
 
 **Wildshape Form: Cave Bear**
-* **Temp HP:** 5 × your Beast Master level
+* **Temp HP:** 3 × your Beast Master level
 * **Speed:** 40 ft., Climb 30 ft. (If your normal walking speed was faster, it is reduced by 5 feet).
-* **Passive Buffs:** You gain Resistance to non-magical Bludgeoning, Piercing, and Slashing damage while this form is active.
+* **Passive Buffs:** When you take Bludgeoning, Piercing, or Slashing damage while in this form, you can use your Reaction to reduce that damage by your Proficiency Bonus. You can use this Reaction a number of times equal to your Proficiency Bonus, and you regain all uses when you finish a Long Rest.
 * **Enduring Strikes:** Your melee attacks deal an extra 1d6 force damage while in this form.
 
 **Aspect Mutations**
@@ -289,7 +289,7 @@ These mutations cost 1 PE and last for 1 minute unless otherwise noted:
 1. **Bear Hide:** You gain Resistance to Bludgeoning damage. Duration: 1 minute.
 2. **Iron Stomach:** You gain Immunity to the Poisoned condition and Resistance to Poison damage. Duration: 1 hour.
 3. **Mighty Roar:** Each creature of your choice within 30 feet must succeed on a Wisdom saving throw against your Spell Save DC or be Frightened until they are more than 30 feet away from you. Creatures that succeed on the save are immune to this mutation for 24 hours. This mutation is an instant effect.
-4. **Hibernation Surge:** You immediately regain Hit Points equal to 2d10 + your Wisdom modifier. You can use this mutation a number of times equal to your Wisdom modifier per Long Rest (this mutation tracks specific uses, not PE).
+4. **Hibernation Surge:** You immediately regain Hit Points equal to 2d10 + your Wisdom modifier. You can use this mutation a number of times equal to your Wisdom modifier per Long Rest (this mutation tracks specific uses, not PE). This mutation still costs 1 Primal Essence to activate, in addition to expending one of its uses.
 
 **Ursine Endurance**
 *6th-Level Mark of the Bear Feature*
@@ -297,7 +297,7 @@ When you are reduced to 0 Hit Points, you can make a Constitution saving throw w
 
 **Guardian's Presence**
 *7th-Level Mark of the Bear Feature*
-While you are conscious, allied creatures within 10 feet of you have Resistance to damage from area effects (such as spells or features that affect an area, like a fireball or a dragon's breath weapon). 
+While you are conscious, allied creatures within 10 feet of you have Resistance to damage from effects that require a saving throw and affect multiple creatures or an area. 
 
 **Immovable**
 *10th-Level Mark of the Bear Feature*
@@ -344,7 +344,7 @@ Your Spirit Companion takes the form of a Giant Owl. It gains the following trai
 
 *Level 3 Mark of the Owl Feature*
 
-When your Spirit Companion hits a creature with an attack, you can expend 1 Primal Essence to apply the **Owl's Hex**. The target is Hexed until the end of your next turn. While Hexed, the target has Disadvantage on saving throws against your spells and Beast Master features. Only one creature can be Hexed by this feature at a time.
+When your Spirit Companion hits a creature with an attack, you can expend 1 Primal Essence to apply the **Owl's Hex**. The target is Hexed until the end of your next turn. While Hexed, the target has Disadvantage on the next saving throw it makes against one of your spells or Beast Master class features before the end of your next turn. Only one creature can be Hexed by this feature at a time.
 
 #### Wildshape Form: Owlkin
 
@@ -384,13 +384,13 @@ As a Bonus Action, you can extend your primal sight to pierce through illusions.
 
 *Level 10 Mark of the Owl Feature*
 
-When you deal damage to a creature with a spell or cantrip, that creature loses its Reaction until the start of its next turn. Additionally, creatures Hexed by your Owl's Hex feature have Disadvantage on Constitution saving throws made to maintain Concentration.
+When you deal damage to a creature with a spell or cantrip, that creature can't take a Reaction until the start of its next turn. Additionally, creatures Hexed by your Owl's Hex feature have Disadvantage on Constitution saving throws made to maintain Concentration.
 
 #### Predator's Hex
 
 *Level 14 Mark of the Owl Feature*
 
-Your Owl's Hex deepens into a lethal curse. While a creature is affected by your Owl's Hex, it is Vulnerable to the next instance of damage it takes from one of your spells. This vulnerability applies only once per application of the Hex. 
+Your Owl's Hex deepens into a lethal curse. While a creature is affected by your Owl's Hex, the next time you deal damage to it with a spell, you deal additional damage equal to your Beast Master level. 
 
 Additionally, the duration of Owl's Hex is extended: it lasts until the end of your next turn, or until the creature succeeds on a Wisdom saving throw against your Spell Save DC. A creature can make this saving throw as an Action on its turn. A creature that successfully breaks the Hex with this save cannot be Hexed again for 24 hours.
 
@@ -473,7 +473,7 @@ Once per Short or Long Rest, when you take the Dash action as part of your movem
 
 *Level 14 Mark of the Eagle Feature*
 
-While you are flying (from any source), you have Advantage on all attack rolls, and enemies have Disadvantage on attack rolls made against you. Additionally, your Spirit Companion's Fly speed increases by 20 feet, and it gains Advantage on all attack rolls while flying.
+While you are flying (from any source), your first attack on each of your turns is made with Advantage. Additionally, Opportunity Attacks made against you while you are flying are made with Disadvantage. Your Spirit Companion's Fly speed increases by 20 feet, and it gains Advantage on all attack rolls while flying.
 
 ***
 
@@ -528,7 +528,7 @@ When you assume your Wildshape Form, you take on the traits of a Giant Ram. You 
 
 You gain access to the following Aspect Mutations. As a Bonus Action, you can expend 1 Primal Essence to manifest one of these mutations:
 
-* **Shepherd's Call:** You cast *Healing Word* without expending a spell slot, using your Wisdom modifier as the spellcasting ability. The spell heals an amount equal to 1d4 + your Wisdom modifier. You can use this mutation once per Short Rest.
+* **Shepherd's Call:** You cast *Healing Word* without expending a spell slot, using your Wisdom modifier as the spellcasting ability. The spell heals an amount equal to 1d4 + your Wisdom modifier. You can use this mutation once per Short Rest. Activating this mutation still costs 1 Primal Essence.
 * **Wool of the Wild:** You gain Resistance to Cold and Fire damage, and you are immune to the effects of extreme cold or extreme heat environments. *Duration: 1 hour.*
 * **Curling Horns:** You manifest a pair of massive horns. Your unarmed strikes deal 1d8 Bludgeoning damage. On a hit, you push the target 5 feet away from you, unless they succeed on a Strength saving throw against your Spell Save DC. *Duration: 1 minute.*
 * **Verdant Field:** You create a 20-foot-radius sphere of primal energy centered on you that moves with you. Difficult terrain within the sphere does not affect you or allied creatures. Allied creatures within the sphere have Advantage on saving throws against the Frightened condition. *Duration: 1 minute.*
@@ -537,7 +537,7 @@ You gain access to the following Aspect Mutations. As a Bonus Action, you can ex
 
 *Level 6 Mark of the Sheep Feature*
 
-While you are conscious and not in your Wildshape Form, allies within 15 feet of you regain Hit Points equal to your Wisdom modifier at the start of each of your turns. This feature replaces your Aura of the Flock when you are not wildshaped.
+While you are conscious and not in your Wildshape Form, allies within 15 feet of you who are below half their Hit Point maximum regain Hit Points equal to your Wisdom modifier at the start of each of your turns.
 
 #### Stoic Resilience
 
