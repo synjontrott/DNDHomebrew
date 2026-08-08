@@ -25,7 +25,7 @@ Create a perfectly balanced D&D Homebrew guidebook based on LotE Lore. The resul
 - **Deity Spell Integration (August 2026):** A "Deity Blessing" system was added to the Savaroen and Shadow Warrior classes, formalizing how characters with a chosen Deity gain access to their Deity Cantrip and Unique Spells. The deity spell descriptions in Chapter 6 were expanded to full D&D 2024 formatting.
 - **Technical Rules & RAW Audit (August 2026):** Fixed missing durations (Warrion `Elemental Trance` 1-min duration), missing action costs (Animal Spirit, Bonded Weapon, Automaton Assistant), and RAW loopholes (Violent Soldier, Smithy discount reselling).
 - **6-Agent 2024 OP Balance Sweep (August 2026):** Multi-agent sweep adjusted Techno Railgun (2d10 Loading), capped spell damage multipliers (Fusion Blast, Potent Spellcasting), re-leveled tier-inappropriate features (Mind Break, Rift Maker), and set Epic Boon prerequisites to Level 19+.
-- **Species Traits & Benchmarks (August 2026):** Genempriea updated to 35ft base speed + *Overclocked Actuators* (Bonus Action Dash PB/LR). Plunesako expanded to grant dual skills + 1 Origin Feat. Krenpowen/Tenebrie rebuilt as the standard elementally charged species (2024 Human equivalent) with dual skill proficiencies, *Resourceful Determination* (Heroic Inspiration on Long Rest), and *Elemental Heritage* (1 Origin Feat of choice).
+- **Species Traits & Benchmarks (August 2026):** Genempriea updated to 35ft base speed + *Overclocked Actuators* (Bonus Action Dash PB/LR). Plunesako expanded to grant dual skills (Origin Feat removed for balance parity). Krenpowen/Tenebrie rebuilt as the standard elementally charged species (2024 Human equivalent) with dual skill proficiencies and *Resourceful Determination* (Heroic Inspiration on Long Rest) — *Elemental Heritage* Origin Feat removed to achieve exact 2024 Human benchmark parity.
 
 
 - **Per-Region Magic Item Compendiums (August 2026):** 150 total magic items added to Chapter 4 across 5 regional compendiums (Ninjonia, Techno, Warrion, Nidosis, Shadow/Ancient Elsaither).
@@ -33,17 +33,17 @@ Create a perfectly balanced D&D Homebrew guidebook based on LotE Lore. The resul
 - **Glass Cannon Mutation Audit (August 2026):** All 21 mutations tuned to strict high risk / high reward glass cannon paradigms.
 - **Full 28-Deity Spell Compendium (August 2026):** Chapter 6 standardized to 100% compliance across all 28 Deities starting with Pireous down to Zarta (168 total spells), providing a 3-option cantrip `(Utility), (Utility), (Damage)` + 5 unique spells mapped to 2nd, 3rd, 4th, 5th, and Capstone tiers.
 - **Inherent Magic & 2024 Class Parity Audit (August 2026):** Standardized *Elementally Charged* across all 5 species to grant Primary Resistance + 1 Elemental Cantrip of choice, ensuring 100% balance and zero exploits when played with standard D&D 2024 PHB classes.
-
-
+- **Campaign Guide Modularization (August 2026):** Split the monolithic `Legends_of_the_Elsaither_Campaign_Guide.md` into 7 chapter files in the `Chapters/` directory for efficient agent-based editing and reduced token overhead per task.
+- **Beast Master Class Added (August 2026):** New Wisdom-based half-caster added as `Chapters/Chapter_02c_Beast_Master.md`. Key mechanics: 1d8 HD, Primal Essence (PE) pool, three pillars (Spirit Companion, Aspect Mutations, Wildshape), Deity Blessing at L1 (element-match restriction), Weapon Mastery (2), Extra Attack (L5), Enhanced Pillars (L11), Primal Arcanum — PB/LR free cast of a 4th/5th-level spell (L13 & L17), PHB Epic Boon feat (L19), Avatar of the Mark capstone (L20). Six Marks of the Wild: **Wolf**, **Dragon**, **Bear**, **Owl**, **Eagle**, **Sheep**.
+- **8-Chapter Comprehensive 2024 Balance Sweep (August 2026):** 8-agent parallel audit resolved 37 critical and 34 minor D&D 2024 compliance issues. Key fixes: *Elementally Charged* stripped to Resistance + Cantrip only; Primal Arcanum corrected to 4th/5th-level spells; all 28 deity damage cantrips now scale at 5th/11th/17th level; 7 deity spells rebalanced from 9th-level effects; Gruhunsh Haste corrected to 1 minute; Railgun to 1d12; Blood/Black Bone Dangers now harm the caster; Warrion Trance spell-lock added; Techno attunement corrected to L10/L14; Ink-Web limited to 1/LR.
 - **Cantrip Standardization:** All cantrips provide utility or temporary benefits rather than permanent healing or overpowered debuffs.
 - **Currency:** Standardized as "cc" (Crystalarium Currency) across all primary documents.
 - **Reference Management:** Legacy homebrew volumes and individual class files are archived in the `ReferenceDocuments/` directory.
 
-
 ## Key Files
 | File | Purpose |
 |---|---|
-| [`Legends_of_the_Elsaither_Campaign_Guide.md`](./Legends_of_the_Elsaither_Campaign_Guide.md) | Primary rulebook: races, classes, feats, equipment, spells, deities |
+| [`Chapters/`](./Chapters/) | Modular chapter files (Ch1–Ch6 + Ch2c Beast Master) |
+| [`Legends_of_the_Elsaither_Campaign_Guide.md`](./Legends_of_the_Elsaither_Campaign_Guide.md) | Legacy monolith (reference only — chapters are source of truth) |
 | [`Mutations_Expansion_Guide.md`](./Mutations_Expansion_Guide.md) | 21 elemental mutation rules |
-| [`Homebrew_Balance_Report.md`](./Homebrew_Balance_Report.md) | Balance audit log |
 | [`ReferenceDocuments/`](./ReferenceDocuments/) | Archived legacy volumes |
