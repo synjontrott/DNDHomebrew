@@ -104,7 +104,7 @@ At 20th level, as a Bonus Action, you manifest a **Divine Elemental Weapon** for
 #### **Ninjonian (The Blademaster Discipline)**
 *   **Level 3: Combat Superiority:** Gain proficiency in **Martial Weapons**, **Shields**, and **Acrobatics**. You gain **one Fighting Style Feat** of your choice.
 *   **Level 6: Extra Attack:** You can attack twice, instead of once, whenever you take the Attack Action on your turn.
-*   **Level 10: Martial Counter:** When a creature within 5 feet of you misses you with a melee attack, you can use your **Reaction** to make one melee weapon attack against that creature, or add your **Proficiency Bonus** to your Armor Class against one incoming melee attack.
+*   **Level 10: Martial Counter:** When targeted by a melee attack, you can use your **Reaction** to add your **Proficiency Bonus** to your Armor Class against that attack. Alternatively, when a creature within 5 feet of you misses you with a melee attack, you can use your **Reaction** to make one melee weapon attack against that creature.
 *   **Level 14: Whirlwind Strike:** You can use your Action to make a melee attack against any number of creatures within 5 feet of you.
 
 #### **Ninjarikan (The Arcane Spellblade)**
@@ -112,7 +112,7 @@ At 20th level, as a Bonus Action, you manifest a **Divine Elemental Weapon** for
 *   **Bonded Weapon:** At the end of a Short or Long Rest, you can touch one weapon to bond with it. You can use your **Charisma** modifier instead of Strength or Dexterity for its attack and damage rolls.
 *   **Level 6: War Magic:** Extra Attack. You can cast one of your **Cantrips** in place of one of those attacks.
 *   **Level 10: Eldritch Strike:** Creatures hit by your weapon attack have Disadvantage on the next saving throw they make against one of your spells before the end of your next turn.
-*   **Level 14: Arcane Charge:** When you cast a spell of 1st level or higher using a spell slot, you can teleport up to 30 feet to an unoccupied space you can see as part of the same action.
+*   **Level 14: Arcane Charge:** When you cast a spell of 1st level or higher using a spell slot, you can teleport up to 30 feet to an unoccupied space you can see as part of the same Action.
 
 #### **Warrion (The Primordial Berserker)**
 *   **Level 3: Combat Training:** Gain proficiency in **Martial Weapons**, **Shields**, and **Athletics**.
@@ -141,7 +141,7 @@ At 20th level, as a Bonus Action, you manifest a **Divine Elemental Weapon** for
 
 #### **Techno (The Forge Sovereign)**
 *   **Level 3: Master Maker:** Gain proficiency in **Heavy Armor**, **Shields**, and **Smith’s Tools**.
-    *   **Automaton Assistant:** Over a Long Rest using Smith's Tools, you can construct a mechanical companion (use Steel Defender stats, no Reaction). Its hit point maximum equals 2 + your Charisma modifier + five times your Savaroen level. Bonus Action to command.
+    *   **Automaton Assistant:** Over a Long Rest using Smith's Tools, you can construct a mechanical companion (use Steel Defender stats, no Reaction). Its hit point maximum equals 2 + your Charisma modifier + five times your Savaroen level. Directing its movement on your turn costs **0 resources**. As a Bonus Action, you can command it to take the Attack, Dash, Disengage, Help, or Repair action. If you take the Dodge action on your turn, it can take any action on its turn without requiring a Bonus Action.
 *   **Level 6: Rapid Fabricator:** Cast *Fabricate* and *Creation* 1/Long Rest (free). Automaton attacks are magical.
 *   **Level 10: Magic Item Savant:** You can attune to **4 Magic Items**.
 *   **Level 14: Soul of the Machine:** Attune to **5 Magic Items**. +1 to all Saves for every 2 attuned items.
@@ -180,7 +180,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ### **The Shadow Warrior Class Table**
 
-| Level | PB | Features | Spells Known | 1st | 2nd | 3rd | 4th | 5th |
+| Level | PB | Features | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1st | +2 | Symbiotic Bond, Natural Weapons, Unarmored Defense | — | — | — | — | — | — |
 | 2nd | +2 | Fighting Style, Shadow Casting, Deity Blessing | 2 | 2 | — | — | — | — |
@@ -223,22 +223,19 @@ While you are not wearing any armor, your Armor Class equals **10 + your Dexteri
 
 **Shadow Casting**
 At 2nd level, you learn to weave shadow magic.
-*   **Spell Slots:** The Shadow Warrior table shows how many spell slots you have. You regain all expended spell slots when you finish a long rest.
-*   **Spells Known:** You know two spells of your choice from the Savaroen spell list. You learn additional spells as you level up.
+*   **Spell Slots:** The Shadow Warrior table shows how many spell slots you have. You regain all expended spell slots when you finish a Long Rest.
+*   **Prepared Spells:** You prepare the list of Shadow Warrior spells that are available for you to cast. Choose a number of spells equal to the number indicated in the Prepared Spells column of the Shadow Warrior table.
 *   **Spellcasting Ability:** Charisma is your spellcasting ability for your Shadow Warrior spells.
-    *   **Spell save DC** = 8 + your proficiency bonus + your Charisma modifier
-    *   **Spell attack modifier** = your proficiency bonus + your Charisma modifier
+    *   **Spell Save DC** = 8 + your **Proficiency Bonus** + your Charisma modifier
+    *   **Spell Attack Modifier** = your **Proficiency Bonus** + your Charisma modifier
 
 **Fighting Style**
 At 2nd level, you adopt a style of fighting as your specialty. Choose one of the following Fighting Style feats: *Defense, Dueling, Great Weapon Fighting, Protection, Two-Weapon Fighting*.
 
 **Deity Blessing**
-At 2nd level, if the DM permits, you may dedicate yourself to one of the Shadow or Death Deities of the Elsaither (see Chapter 6: Lucilus, Umbra, Orion, Zarta, Nex, or Anastasia). Choosing a Deity is optional.
-*   **Deity Cantrip:** You learn your Deity's **Deity Cantrip**. This cantrip does not count against any spell or cantrip limits. You use Charisma as your spellcasting ability for it.
-*   **Deity's Unique Spells:** Each Deity has up to three **Unique Spells**. These spells are always prepared for you and do not count against your Spells Known total. You can cast them by expending Shadow Warrior spell slots of the appropriate level. You gain access to each Unique Spell only when your Shadow Warrior level grants you spell slots of that level.
-*   **Changing Deities:** With the DM's permission and a significant narrative event, you may switch deities at the end of a Long Rest, losing previous benefits and gaining the new deity's.
+At 2nd level, you gain a blessing from one of the 28 Deities of the Elsaither. You gain your chosen Deity's **Deity Cantrip** (listed in Chapter 6), which counts as a Shadow Warrior spell for you. In addition, when you gain access to 1st, 2nd, 3rd, 4th, and 5th level spell slots, you automatically learn your chosen Deity's corresponding **Unique Spell** (from Chapter 6). These spells are always prepared and do not count against your Prepared Spells limit.
 
-**Shadow Archetype**
+**Shadow Archetypes**
 At 3rd level, you choose an archetype that defines your combat style: Ravager, Weaver, Void-Arachnid, Mind-Eater, or Harbinger. Your choice grants you features at 3rd level and again at 6th, 10th, and 14th level.
 
 **Shadow Manifestations**
@@ -246,7 +243,7 @@ At 3rd level, you gain eldritch alterations to your form. You choose one manifes
 1.  **Ocular Overdrive:** You gain Darkvision out to 120 feet. In darkness, you can see invisible creatures and objects within 10 feet of you.
 2.  **Fibrous Haste:** Your walking speed increases by 10 feet.
 3.  **Tendril Lash:** When a creature enters your reach, you can use your Reaction to make an opportunity attack with your Tendril Whip.
-4.  **Armor of Elsaither:** Eldritch Armor. You can cast False Life on yourself at will without expending a spell slot, using Charisma as your spellcasting ability. Additionally, you can cast Shield once per Long Rest without expending a spell slot.
+4.  **Armor of Elsaither:** Eldritch Armor. You can cast *False Life* on yourself at will without expending a spell slot, using Charisma as your spellcasting ability. Additionally, you can cast *Shield* once per Long Rest without expending a spell slot.
 5.  **Neural Overclock:** You gain Advantage on Constitution saving throws made to maintain Concentration on spells.
 6.  **Void-Grip:** You gain a climbing speed equal to your walking speed. You can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free.
 7.  **Shadow-Stitch:** When you hit a creature with your Natural Weapons, its speed is reduced by 10 feet until the start of your next turn.
@@ -262,8 +259,8 @@ At 11th level, your symbiotic power permeates your strikes. Whenever you hit a c
 At 20th level, you can assume the form of an avatar of death. As a Bonus Action, you transform for 1 minute. You gain the following benefits:
 *   You are immune to Necrotic and Psychic damage.
 *   Your Natural Weapons deal an extra **1d10** necrotic damage on a hit.
-*   Enemies within 30 feet of you have disadvantage on saving throws against your spells and abilities.
-Once you use this feature, you can’t use it again until you finish a long rest.
+*   Enemies within 30 feet of you have Disadvantage on saving throws against your spells and abilities.
+Once you use this feature, you cannot use it again until you finish a Long Rest.
 
 ### **Shadow Archetypes**
 
@@ -297,7 +294,7 @@ Once you use this feature, you can’t use it again until you finish a long rest
 *   **Level 3: Ink-Web**
     You can cast Web once per Long Rest without expending a spell slot. You can also cast it using your Shadow Warrior spell slots of 2nd level or higher. When you cast it, creatures that fail their save against the web take **1d4 necrotic damage** at the start of their turn while restrained.
 *   **Level 6: Cocoon**
-    As an Action, you can wrap a Medium or smaller creature within 10 feet of you in shadow-webbing. The target must succeed on a Strength saving throw or be **Restrained** for 1 minute. It can repeat the save at the end of each of its turns. You can use this feature once per Short or Long Rest.
+    As an Action, you can wrap a Medium or smaller creature within 10 feet of you in shadow-webbing. The target must succeed on a **Strength saving throw against your Spell Save DC** or be **Restrained** for 1 minute. It can repeat the save at the end of each of its turns. You can use this feature once per Short or Long Rest.
 *   **Level 10: Shadow Web Matrix**
     When a creature moves into a space within 15 feet of you or starts its turn there, you can use your **Reaction** to force it to make a **Strength saving throw against your Spell Save DC**. On a failure, shadow threads snap around its limbs, reducing its speed to **0** until the start of its next turn.
 *   **Level 14: Neurotoxin**
