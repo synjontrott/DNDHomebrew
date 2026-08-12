@@ -1,7 +1,7 @@
 # **Chapter 2: Classes**
 
 ## **Savaroen (Warrior)**
-*A master of elemental warfare who blends martial prowess with the channeling of an inner power spirit.*
+*In the Ninjonian tongue, Savaroen means "Warrior" — but it carries a weight that no single word in the common tongue can hold. A Savaroen is not merely a fighter who casts spells; they are a living covenant between a mortal body and an inner power spirit. Where others wield fire or lightning from a distance, the Savaroen breathes with it — their strikes, their spells, and their very heartbeat synchronized with the element that defines them. Across the five main planets of Silveronia, the Savaroen tradition manifests differently: the razor-precise Blademasters of Ninjonia, the arcane artificers of the Techno territories, and the elemental berserkers of the Warrion highlands all walk the same path, forged in different flames. What unites them is the Spiritual Awakening — the moment the inner power spirit stirs to life and changes its host forever. To face a Savaroen in battle is not merely to face a warrior. It is to face something that has learned, at great cost, to become whole.*
 
 **Hit Die:** d8 per Savaroen level  
 **Hit Points at 1st Level:** 8 + your Constitution modifier  
@@ -162,7 +162,7 @@ At 20th level, as a Bonus Action, you manifest a **Divine Elemental Weapon** for
 ---
 
 ## **Shadow Warrior (Nyxid)**
-*A symbiotic warrior who fights in tandem with a shadow entity, blending martial prowess with eldritch power.*
+*The Nyxid did not ask for the shadow. In most cases, it found them. A symbiotic entity of eldritch origin — whether drawn to a host by fate, desperation, or the incomprehensible hunger of the Void — the shadow merges with its partner to create something that is neither fully one thing nor the other: the Shadow Warrior. Some wear their bond openly, the dark matter of their symbiote visible at their edges like ink bleeding into water. Others have integrated so completely that only the faint wrongness behind their eyes betrays what they carry. In the Elsaither, the Nyxid are regarded with a mixture of reverence and unease. They are protectors and predators in the same breath — capable of pulling allies from death's edge or tearing enemies apart with shadow claws before a word is spoken. The Shadow Warrior's power is not borrowed from a deity, trained into muscle, or unlocked by discipline alone. It is shared. And in the quiet moments between battles, both host and symbiote must decide, again and again, whether that is a burden — or a gift.*
 
 **Hit Points**
 *   **Hit Dice:** 1d10 per Shadow Warrior level
