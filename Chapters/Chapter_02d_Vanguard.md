@@ -152,7 +152,7 @@ Your bloodlust evolves into a ruthless protective instinct. While in Dakvura, wh
 ### **Perfected Dakvura**
 *18th-Level Vanguard Feature*
 
-Your physical form is perfectly synchronized with the dark power. The Resistance granted by Dakvura expands to include your Elemental Discipline's **primary damage type** as well as **Necrotic damage**. Additionally, the speed bonus granted by Dakvura increases to **+20 feet** (replacing the previous +10 feet).
+Your physical form is perfectly synchronized with the dark power. The Resistance granted by Dakvura expands to include **Necrotic damage**. You achieve **Elemental Supremacy**: your weapon attacks and Elemental Arts that deal your Elemental Discipline's primary damage type ignore Resistance and treat Immunity as Resistance. The speed bonus granted by Dakvura increases to **+20 feet** (replacing the previous +10 feet).
 
 ---
 

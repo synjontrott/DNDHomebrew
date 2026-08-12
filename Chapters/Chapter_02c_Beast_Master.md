@@ -52,7 +52,7 @@ A Herbalism Kit and 20cc (or 50cc starting gold)
 
 You have learned to draw upon the magic of the natural world.
 
-**Primal Bond.** Choose one elemental affinity from the following list: Fire, Water, Air, Lightning, Earth, Ice, Laser, Bone, Gas, Metal, Knife (Cold Laser), Poison, Death, Shadow, or Darki. This choice reflects the primal spirit that animates your Mark. You gain Resistance to that element's primary damage type (as listed in Chapter 1: The Elemental System).
+**Primal Bond.** Choose one elemental affinity from the following list: Fire, Water, Air, Lightning, Earth, Ice, Laser, Bone, Gas, Metal, Knife (Cold Laser), Poison, Death, Shadow, or Darki. This choice reflects the primal spirit that animates your Mark. You gain Resistance to that element's primary damage type (as listed in Chapter 1: The Elemental System). If you already have Resistance to that damage type from another source (such as your species' *Elementally Charged* trait), you gain **Immunity** to it instead.
 
 **Deity Blessing (Optional).** At 1st level, you may dedicate yourself to one of the Deities of the Elsaither (see Chapter 6). Choosing a Deity is optional, but doing so grants you access to sacred magic tied to that god's domain.
 *   **Requirement:** Your element must match the element listed for your chosen Deity's cantrip, or your DM must approve the connection as lore-appropriate.
@@ -266,7 +266,7 @@ On a hit, the target must succeed on a Wisdom saving throw against your Spell Sa
 As a Bonus Action, you can spend 2 PE to channel the terrifying draconic essence for 1 minute:
 * **Temp HP:** You gain Temporary Hit Points equal to 4 × your Beast Master level.
 * **Draconic Vanguard & Armor:** Your walking speed increases by 15 feet, your jump distance is tripled (assisted by spectral draconic wings that buffet the air), and your AC cannot be lower than 15 while maintaining this mutation. When falling, you can use your Reaction to glide downward up to 60 feet horizontally without taking fall damage.
-* **Elemental Resistance:** You gain Resistance to your primary elemental damage type. If you already have Resistance from another source, your AC increases by 2 instead.
+* **Tenacious Resilience:** You have Advantage on Constitution saving throws. Additionally, when you are subjected to an effect that would reduce you below 1 hit point, you can use your Reaction to instead drop to 1 hit point. Once you use this Reaction, you cannot use it again until you finish a Short or Long Rest.
 * **Elemental Aura:** Creatures that start their turn within 5 feet of you take 1d6 damage of your primary elemental type.
 * **Reckless Rebellion:** Once per turn when you make a weapon attack or spell attack roll while maintaining this mutation, you can fight with violent, reckless passion—gaining Advantage on the attack roll, but attack rolls against you have Advantage until the start of your next turn.
 
@@ -283,7 +283,7 @@ When you manifest your Dragonkin Aspect mutation or when you use Dragonfear Stri
 
 #### Elemental Scales
 *7th-Level Mark of the Dragon Feature*
-While you are not maintaining your Dragonkin Aspect mutation, you gain Resistance to your primary elemental damage type. While maintaining your Dragonkin Aspect mutation, this Resistance is already granted, so instead you gain Resistance to one additional damage type of your choice: Bludgeoning, Piercing, or Slashing.
+Your draconic spirit permanently hardens your elemental defenses. While you are not maintaining your Dragonkin Aspect mutation, you gain **Immunity** to your primary elemental damage type (upgrading any Resistance you already have). While maintaining your Dragonkin Aspect mutation, your hardened scales deflect blows — you gain a **+2 bonus to your AC**.
 
 #### Elder's Breath & Group Cataclysm
 *10th-Level Mark of the Dragon Feature*
