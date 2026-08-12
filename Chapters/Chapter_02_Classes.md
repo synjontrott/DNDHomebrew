@@ -82,8 +82,13 @@ At 3rd level, choose a subclass: Ninjonian, Ninjarikan, Ninji, Techno, Tek, Tech
 At 5th level, whenever you expend a Spell Slot of 3rd level or higher, you gain **Temporary Hit Points** equal to the **Slot Level + your Charisma modifier**.
 
 **Elemental Specialty**
-At 7th level, choose one specialization:
-*   **Hiarelobi (Dual Element):** Choose a second element. You gain Resistance to its primary damage type. When you cast a spell that deals elemental damage, you can change its damage type to your second element. Once per Long Rest, when you roll damage for a spell of 1st through 5th level, you can deal maximum damage instead of rolling (Fusion Blast).
+At 7th level, choose one of the following specializations:
+
+*   **Hiarelobi (Gifted Hybrid):** Choose a second element. You gain Resistance to its primary damage type. When you cast a spell that deals elemental damage, you can change its damage type to your second element. Once per Long Rest, when you roll damage for a spell of 1st through 5th level, you can deal maximum damage instead of rolling (Fusion Blast).
+
+*   **Venokibara (Fang Resonance):** You have learned to transmit raw elemental force through your weapon directly into your enemy. Once per turn when you hit a creature with a **weapon attack**, you can add **1d10 damage of your elemental type** to that hit. Additionally, once per **Short or Long Rest**, if this bonus damage roll shows the maximum result, elemental force detonates outward from the target — each creature of your choice within **5 feet of the target** takes damage equal to your **Charisma modifier** of your elemental type.
+
+*   **Haranoma (Hold Back):** You have mastered drawing your elemental power inward as an impenetrable ward. Your Resistance to your primary elemental damage type **upgrades to Immunity**. Additionally, once per turn when a creature hits you with a **melee attack**, you can release a burst of elemental energy as part of your Reaction — the attacker takes damage equal to your **Proficiency Bonus** of your elemental type (no save required).
 
 **Improved Surge**
 At 11th level, the extra damage from your *Elemental Surge* increases to **1d8**.
