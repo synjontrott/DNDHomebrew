@@ -85,7 +85,7 @@ In the Elsaither universe, elemental affinity dictates resistance and power.
 # **Chapter 2: Classes**
 
 ## **Savaroen (Warrior)**
-*A master of elemental warfare who blends martial prowess with the channeling of an inner power spirit.*
+*In the Ninjonian tongue, Savaroen means "Warrior" — but it carries a weight that no single word in the common tongue can hold. A Savaroen is not merely a fighter who casts spells; they are a living covenant between a mortal body and an inner power spirit. Where others wield fire or lightning from a distance, the Savaroen breathes with it — their strikes, their spells, and their very heartbeat synchronized with the element that defines them. Across the five main planets of Silveronia, the Savaroen tradition manifests differently: the razor-precise Blademasters of Ninjonia, the arcane artificers of the Techno territories, and the elemental berserkers of the Warrion highlands all walk the same path, forged in different flames. What unites them is the Spiritual Awakening — the moment the inner power spirit stirs to life and changes its host forever. To face a Savaroen in battle is not merely to face a warrior. It is to face something that has learned, at great cost, to become whole.*
 
 **Hit Die:** d8 per Savaroen level  
 **Hit Points at 1st Level:** 8 + your Constitution modifier  
@@ -166,8 +166,13 @@ At 3rd level, choose a subclass: Ninjonian, Ninjarikan, Ninji, Techno, Tek, Tech
 At 5th level, whenever you expend a Spell Slot of 3rd level or higher, you gain **Temporary Hit Points** equal to the **Slot Level + your Charisma modifier**.
 
 **Elemental Specialty**
-At 7th level, choose one specialization:
-*   **Hiarelobi (Dual Element):** Choose a second element. You gain Resistance to its primary damage type. When you cast a spell that deals elemental damage, you can change its damage type to your second element. Once per Long Rest, when you roll damage for a spell of 1st through 5th level, you can deal maximum damage instead of rolling (Fusion Blast).
+At 7th level, choose one of the following specializations:
+
+*   **Hiarelobi (Gifted Hybrid):** Choose a second element. You gain Resistance to its primary damage type. When you cast a spell that deals elemental damage, you can change its damage type to your second element. Once per Long Rest, when you roll damage for a spell of 1st through 5th level, you can deal maximum damage instead of rolling (Fusion Blast).
+
+*   **Venokibara (Fang Resonance):** You have learned to transmit raw elemental force through your weapon directly into your enemy. Once per turn when you hit a creature with a **weapon attack**, you can add **1d10 damage of your elemental type** to that hit. Additionally, once per **Short or Long Rest**, if this bonus damage roll shows the maximum result, elemental force detonates outward from the target — each creature of your choice within **5 feet of the target** takes damage equal to your **Charisma modifier** of your elemental type.
+
+*   **Haranoma (Hold Back):** You have mastered drawing your elemental power inward as an impenetrable ward. Your Resistance to your primary elemental damage type **upgrades to Immunity**. Additionally, once per turn when a creature hits you with a **melee attack**, you can release a burst of elemental energy as part of your Reaction — the attacker takes damage equal to your **Proficiency Bonus** of your elemental type (no save required).
 
 **Improved Surge**
 At 11th level, the extra damage from your *Elemental Surge* increases to **1d8**.
@@ -241,7 +246,7 @@ At 20th level, as a Bonus Action, you manifest a **Divine Elemental Weapon** for
 ---
 
 ## **Shadow Warrior (Nyxid)**
-*A symbiotic warrior who fights in tandem with a shadow entity, blending martial prowess with eldritch power.*
+*The Nyxid did not ask for the shadow. In most cases, it found them. A symbiotic entity of eldritch origin — whether drawn to a host by fate, desperation, or the incomprehensible hunger of the Void — the shadow merges with its partner to create something that is neither fully one thing nor the other: the Shadow Warrior. Some wear their bond openly, the dark matter of their symbiote visible at their edges like ink bleeding into water. Others have integrated so completely that only the faint wrongness behind their eyes betrays what they carry. In the Elsaither, the Nyxid are regarded with a mixture of reverence and unease. They are protectors and predators in the same breath — capable of pulling allies from death's edge or tearing enemies apart with shadow claws before a word is spoken. The Shadow Warrior's power is not borrowed from a deity, trained into muscle, or unlocked by discipline alone. It is shared. And in the quiet moments between battles, both host and symbiote must decide, again and again, whether that is a burden — or a gift.*
 
 **Hit Points**
 *   **Hit Dice:** 1d10 per Shadow Warrior level
@@ -464,7 +469,7 @@ A Herbalism Kit and 20cc (or 50cc starting gold)
 
 You have learned to draw upon the magic of the natural world.
 
-**Primal Bond.** Choose one elemental affinity from the following list: Fire, Water, Air, Lightning, Earth, Ice, Laser, Bone, Gas, Metal, Knife (Cold Laser), Poison, Death, Shadow, or Darki. This choice reflects the primal spirit that animates your Mark. You gain Resistance to that element's primary damage type (as listed in Chapter 1: The Elemental System).
+**Primal Bond.** Choose one elemental affinity from the following list: Fire, Water, Air, Lightning, Earth, Ice, Laser, Bone, Gas, Metal, Knife (Cold Laser), Poison, Death, Shadow, or Darki. This choice reflects the primal spirit that animates your Mark. You gain Resistance to that element's primary damage type (as listed in Chapter 1: The Elemental System). If you already have Resistance to that damage type from another source (such as your species' *Elementally Charged* trait), you gain **Immunity** to it instead.
 
 **Deity Blessing (Optional).** At 1st level, you may dedicate yourself to one of the Deities of the Elsaither (see Chapter 6). Choosing a Deity is optional, but doing so grants you access to sacred magic tied to that god's domain.
 *   **Requirement:** Your element must match the element listed for your chosen Deity's cantrip, or your DM must approve the connection as lore-appropriate.
@@ -678,7 +683,7 @@ On a hit, the target must succeed on a Wisdom saving throw against your Spell Sa
 As a Bonus Action, you can spend 2 PE to channel the terrifying draconic essence for 1 minute:
 * **Temp HP:** You gain Temporary Hit Points equal to 4 × your Beast Master level.
 * **Draconic Vanguard & Armor:** Your walking speed increases by 15 feet, your jump distance is tripled (assisted by spectral draconic wings that buffet the air), and your AC cannot be lower than 15 while maintaining this mutation. When falling, you can use your Reaction to glide downward up to 60 feet horizontally without taking fall damage.
-* **Elemental Resistance:** You gain Resistance to your primary elemental damage type. If you already have Resistance from another source, your AC increases by 2 instead.
+* **Tenacious Resilience:** You have Advantage on Constitution saving throws. Additionally, when you are subjected to an effect that would reduce you below 1 hit point, you can use your Reaction to instead drop to 1 hit point. Once you use this Reaction, you cannot use it again until you finish a Short or Long Rest.
 * **Elemental Aura:** Creatures that start their turn within 5 feet of you take 1d6 damage of your primary elemental type.
 * **Reckless Rebellion:** Once per turn when you make a weapon attack or spell attack roll while maintaining this mutation, you can fight with violent, reckless passion—gaining Advantage on the attack roll, but attack rolls against you have Advantage until the start of your next turn.
 
@@ -695,7 +700,7 @@ When you manifest your Dragonkin Aspect mutation or when you use Dragonfear Stri
 
 #### Elemental Scales
 *7th-Level Mark of the Dragon Feature*
-While you are not maintaining your Dragonkin Aspect mutation, you gain Resistance to your primary elemental damage type. While maintaining your Dragonkin Aspect mutation, this Resistance is already granted, so instead you gain Resistance to one additional damage type of your choice: Bludgeoning, Piercing, or Slashing.
+Your draconic spirit permanently hardens your elemental defenses. While you are not maintaining your Dragonkin Aspect mutation, you gain **Immunity** to your primary elemental damage type (upgrading any Resistance you already have). While maintaining your Dragonkin Aspect mutation, your hardened scales deflect blows — you gain a **+2 bonus to your AC**.
 
 #### Elder's Breath & Group Cataclysm
 *10th-Level Mark of the Dragon Feature*
@@ -1121,7 +1126,7 @@ Your bloodlust evolves into a ruthless protective instinct. While in Dakvura, wh
 ### **Perfected Dakvura**
 *18th-Level Vanguard Feature*
 
-Your physical form is perfectly synchronized with the dark power. The Resistance granted by Dakvura expands to include your Elemental Discipline's **primary damage type** as well as **Necrotic damage**. Additionally, the speed bonus granted by Dakvura increases to **+20 feet** (replacing the previous +10 feet).
+Your physical form is perfectly synchronized with the dark power. The Resistance granted by Dakvura expands to include **Necrotic damage**. You achieve **Elemental Supremacy**: your weapon attacks and Elemental Arts that deal your Elemental Discipline's primary damage type ignore Resistance and treat Immunity as Resistance. The speed bonus granted by Dakvura increases to **+20 feet** (replacing the previous +10 feet).
 
 ---
 
