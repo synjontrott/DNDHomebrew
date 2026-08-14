@@ -708,4 +708,414 @@ Veilweavers draw from a rich tradition of illusions, enchantments, nature manipu
 *   **8th Level:** *Animal Shapes*, *Antipathy/Sympathy*, *Dominate Monster*, *Feeblemind (Befuddle)*, *Mind Blank*, *Power Word Stun*.
 *   **9th Level:** *Foresight*, *Mass Polymorph*, *Power Word Kill*, *Prismatic Wall*, *Shapechange*, *Time Stop*, *Weird*.
 
+---
+
+# **Chapter 5: The Forbidden Archetypes — Malevolent Subclasses for PHB Classes**
+
+## **Overview & Concept**
+Across the multiverse and the distant star-clusters of the Elsaither galaxy, power does not always align with righteousness, nobility, or harmony. There exist grim traditions, blood-slicked battlefields, corrupted orders, and forbidden grimoires where champions draw upon malevolent energies, unyielding tyranny, entropy, and slaughter.
+
+This chapter introduces **12 evil-aligned and dark subclasses** designed specifically for the standard **D&D 2024 Player's Handbook (PHB)** classes. Each archetype embraces a distinct facet of malevolence—ranging from blood-soaked martial violence and psychological shadowcraft to entropic decay and infernal pacts—while maintaining strict mathematical balance against official 2024 subclasses.
+
+```
+ ┌───────────────────────────────────────────────────────────────────────────┐
+ │                   THE TWELVE FORBIDDEN ARCHETYPES                         │
+ ├─────────────────┬─────────────────────────────┬───────────────────────────┤
+ │ Class           │ Subclass Archetype          │ Core Dark Theme           │
+ ├─────────────────┼─────────────────────────────┼───────────────────────────┤
+ │ Barbarian       │ Path of Carnage             │ Bloodshed & Gore Momentum │
+ │ Bard            │ College of Darkness         │ Umbral Paranoia & Gloom   │
+ │ Cleric          │ Chaos Domain                │ Entropic Volatility & Flux│
+ │ Druid           │ Circle of Decay             │ Putrefaction & Rot Flesh  │
+ │ Fighter         │ Black Knight                │ Tyrannical Dread Armor    │
+ │ Monk            │ Way of Violence             │ Sadistic Bone-Breaker     │
+ │ Paladin         │ Oath of Darkness            │ Inquisitor of Terror      │
+ │ Ranger          │ Dark Hunter                 │ Sapient Stalker & Trophy  │
+ │ Rogue           │ Killer                      │ Anatomical Executioner    │
+ │ Sorcerer        │ Blood Sorcery               │ Sanguine Hemomancy        │
+ │ Warlock         │ The Archdevil Patron        │ Hellfire & Soul Contracts │
+ │ Wizard          │ Black Magic                 │ Forbidden Soul Grimoires  │
+ └─────────────────┴─────────────────────────────┴───────────────────────────┘
+```
+
+---
+
+## **1. Barbarian: Path of Carnage**
+
+*Where other barbarians channel ancestral spirits or primeval fury, the Barbarian of the Path of Carnage is addicted to the sensory rush of total slaughter. Their rage is a visceral bloodbath, turning their weapon strikes into momentum-driven gore.*
+
+### **Level 3: Taste for Slaughter & Visceral Mutilation**
+*   **Taste for Slaughter:** When you are in a Rage, whenever you reduce a creature to 0 Hit Points or score a Critical Hit with a melee weapon attack, you can immediately make one additional melee weapon attack as a Bonus Action. In addition, you gain **Temporary Hit Points equal to your Barbarian level + your Constitution modifier**.
+*   **Visceral Mutilation:** Once per turn while raging, when you hit a creature with a melee weapon attack using *Reckless Attack*, you can brutally rend its flesh. The target takes additional **Slashing damage equal to your Rage Damage bonus + your Proficiency Bonus**, and its wounds bleed profusely, preventing it from regaining Hit Points until the start of your next turn.
+
+### **Level 6: Sanguine Momentum**
+The scent of spilled blood accelerates your slaughter:
+*   Whenever you reduce a creature to 0 Hit Points or score a Critical Hit, your walking speed increases by **10 feet** for the rest of your turn, and you can move through enemy spaces without provoking Opportunity Attacks.
+*   You have **Advantage on saving throws against being Frightened**. If you are Frightened when you enter a Rage, the condition immediately ends.
+
+### **Level 10: Terrifying Carnage (Gore Display)**
+When you fell an adversary, you display its butchery to break the minds of its allies:
+*   When you reduce a creature to 0 Hit Points with a melee weapon attack while raging, you can use your **Reaction** to unleash a blood-curdling roar or gory display. 
+*   Each hostile creature within **30 feet** of you that can see or hear you must make a **Wisdom saving throw** (DC = 8 + your Proficiency Bonus + your Strength or Constitution modifier). On a failure, a creature gains the **Frightened condition** for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the condition on a success.
+
+### **Level 14: Endless Bloodbath**
+Your addiction to slaughter defies death itself:
+*   While raging, if you take damage that would reduce you to 0 Hit Points, you can use your **Reaction** to immediately make one melee weapon attack against an enemy creature within your reach before your Hit Points are reduced.
+*   If the attack hits, you drop to **1 Hit Point instead of 0**, you regain **Hit Points equal to the damage dealt by the attack**, and your Rage continues uninterrupted.
+*   Once you use this feature, you cannot do so again until you finish a **Short or Long Rest**.
+
+---
+
+## **2. Bard: College of Darkness**
+
+*Bards of the College of Darkness do not sing tales of valor or romance. They compose hymns to the void, shadow opera, and psychological torment—weaving suffocating gloom, sow paranoia, and drowning their foes in umbral despair.*
+
+### **Level 3: Dark Symphony & Stygian Words**
+*   **Bonus Proficiencies & Cantrip:** You gain proficiency in the **Deception** and **Stealth** skills. You also learn the *Chill Touch* or *Minor Illusion* cantrip (it counts as a Bard cantrip for you).
+*   **Shadow Verses:** You can weaponize your Bardic Inspiration to drown minds in twilight. As a **Bonus Action**, you expend one use of your Bardic Inspiration and target one creature you can see within 60 feet. Roll your Bardic Inspiration die. The target is enveloped in clinging magical shadows for 1 minute:
+    *   *Umbral Hex:* The target must subtract the number rolled on your Bardic Inspiration die from its next saving throw or attack roll made within that minute.
+    *   *Suffocating Gloom:* The target's vision is constrained to 15 feet; beyond that distance, it is considered **Blinded**. The target can make a Wisdom saving throw against your Spell Save DC at the end of each of its turns, ending this effect on a success.
+
+### **Level 6: Chorus of the Abyss**
+You harmonize with the primeval void:
+*   You learn the *Darkness* and *Pass without Trace* spells. They count as Bard spells for you, are always prepared, and do not count against your prepared spells limit. You can cast each of these spells once per Long Rest without expending a spell slot.
+*   You can see normally through magical and non-magical darkness out to a distance of **60 feet**.
+*   **Eerie Resonance:** Whenever an enemy creature fails a saving throw against an Enchantment, Illusion, or Necromancy spell you cast, it takes **Psychic damage equal to your Charisma modifier** (minimum 1). When this occurs, you can use your **Reaction** to force a second creature within 15 feet of the target to make a Wisdom saving throw or gain the **Frightened condition** until the end of its next turn.
+
+### **Level 14: Requiem of Eternal Night**
+You conduct the ultimate opus of cosmic annihilation:
+*   As an **Action**, you perform a haunting melody that manifests a **30-foot-radius sphere of magical darkness** centered on yourself for 1 minute (requiring Concentration).
+*   While within this sphere:
+    *   You and all allies you designate gain **Advantage on attack rolls** and **Resistance to Cold and Necrotic damage**.
+    *   Hostile creatures within the sphere suffer **Disadvantage on all attack rolls and saving throws**, and take **3d10 Psychic or Necrotic damage** (your choice) at the start of each of their turns.
+*   Once you use this feature, you cannot do so again until you finish a **Long Rest**, unless you expend a **5th-level or higher spell slot** and one use of your Bardic Inspiration to manifest it again.
+
+---
+
+## **3. Cleric: Chaos Domain**
+
+*The Chaos Domain worships the primordial discord, entropy, and volatile madness that existed before divine law. Priests of chaos reject cosmic order as a fragile illusion, wielding erratic, volatile divine energy that shatters probability.*
+
+### **Level 3: Domain Spells**
+Your connection to cosmic entropy grants you prepared spells at the cleric levels indicated:
+
+| Cleric Level | Prepared Spells |
+| :---: | :--- |
+| **3rd** | *Bane*, *Chaos Bolt*, *Dissonant Whispers*, *Tasha's Hideous Laughter* |
+| **5th** | *Crown of Madness*, *Mirror Image* |
+| **7th** | *Blink*, *Enemies Abound* |
+| **9th** | *Confusion*, *Polymorph* |
+
+### **Level 3: Primordial Anarchy & Channel Divinity: Entropic Surge**
+*   **Primordial Anarchy:** Whenever you cast a cleric spell or make an attack that deals Acid, Cold, Fire, Lightning, Poison, Radiant, or Thunder damage, you can choose to replace the damage type with a randomly rolled type (1: Acid, 2: Cold, 3: Fire, 4: Lightning, 5: Necrotic, 6: Radiant).
+*   **Channel Divinity: Entropic Surge:** As an **Action**, you present your holy symbol to unleash an unstable rift of chaotic energy in a **30-foot burst** centered on yourself. Roll **1d6** to determine the surge's effect on all creatures within the area:
+    *   **1–2 (Warp Reality):** Allies gain a **+2 bonus to AC** and +10 ft speed for 1 minute; enemies take **2d8 Force damage** and are knocked **Prone**.
+    *   **3–4 (Kinetic Teleport):** You can magically teleport each willing ally in the area up to 20 feet. Each enemy must succeed on a Strength saving throw or be pushed 20 feet away from you and become **Incapacitated** until the start of your next turn.
+    *   **5–6 (Entropic Fire):** Allies gain **Temporary Hit Points equal to 1d8 + your Wisdom modifier**; enemies take **3d8 Radiant or Necrotic damage** (your choice) and gain the **Blinded condition** until the end of their next turn (Constitution save negates blindness).
+
+### **Level 6: Fractured Probability (Misfortune’s Jester)**
+You manipulate the strings of chance:
+*   Whenever a creature you can see within **30 feet** of you rolls a d20 with Advantage or Disadvantage, you can use your **Reaction** to invert the roll—turning Advantage into Disadvantage, or Disadvantage into Advantage.
+*   Alternatively, you can use this reaction to add or subtract **1d6** from any attack roll, ability check, or saving throw made within 30 feet of you.
+*   You can use this feature a number of times equal to your **Proficiency Bonus**, regaining all expended uses when you finish a **Long Rest**.
+
+### **Level 17: Sovereign of Pandemonium**
+You are a living avatar of entropy:
+*   You gain permanent immunity to the **Charmed**, **Frightened**, and **Stunned** conditions.
+*   As an **Action**, you project a **60-foot aura of Total Pandemonium** for 1 minute (once per Long Rest). Inside the aura:
+    *   At the start of each enemy's turn, reality warps: the creature takes **3d10 Force damage** and must succeed on a Charisma saving throw or be randomly teleported 15 feet in a direction determined by the DM.
+    *   Enemies within the aura suffer **Disadvantage on all saving throws**.
+
+---
+
+## **4. Druid: Circle of Decay**
+
+*While the Circle of Spores celebrates the fungal rebirth of fallen matter, the Circle of Decay worships the virulent rot, necrotic putrefaction, and bone mold that break down empires and living flesh alike.*
+
+### **Level 3: Circle Spells**
+Your intimate communion with rot infuses you with the following prepared spells:
+
+| Druid Level | Prepared Spells |
+| :---: | :--- |
+| **3rd** | *False Life*, *Inflict Wounds*, *Ray of Sickness* |
+| **5th** | *Blindness/Deafness*, *Ray of Enfeeblement* |
+| **7th** | *Animate Dead*, *Stinking Cloud* |
+| **9th** | *Blight*, *Contagion* |
+
+### **Level 3: Putrid Shroud (Wild Shape)**
+You can channel your Wild Shape into an aura of decomposition rather than a beast:
+*   As a **Bonus Action**, you spend **one use of your Wild Shape** to awaken your *Putrid Shroud*. Swarms of flesh-eating flies, necro-spores, and caustic vapors envelop you for **10 minutes** or until ended as a Bonus Action:
+    *   You gain **Temporary Hit Points equal to 4 times your Druid level**.
+    *   Any hostile creature that starts its turn within **10 feet** of you takes **Necrotic damage equal to your Wisdom modifier + your Proficiency Bonus**.
+    *   When a creature dies within 10 feet of you while your shroud is active, you regain **Hit Points equal to 1d8 + your Wisdom modifier**.
+
+### **Level 6: Virulent Decomposition & Carrion Resilience**
+*   **Virulent Decomposition:** When you deal Necrotic damage to a creature with a Druid spell or your *Putrid Shroud*, its Armor Class is reduced by **1** (up to a maximum reduction of -2) until the end of its next turn as its armor or natural hide corrodes.
+*   **Carrion Resilience:** You gain **Immunity to the Poisoned condition** and immunity to all nonmagical and magical diseases.
+
+### **Level 10: Corpse Bloom & Miasmic Expansion**
+*   The radius of your *Putrid Shroud* increases to **20 feet**.
+*   **Corpse Bloom:** When a creature of Small size or larger dies within your *Putrid Shroud*, you can use your **Reaction** to detonate the corpse into a rotting bloom. The 10-foot area around the corpse becomes difficult terrain for 1 minute, and each hostile creature in that area must make a Constitution saving throw against your Spell Save DC, taking **3d8 Poison or Necrotic damage** on a failure (or half damage on a success).
+
+### **Level 14: Sovereign of the Rotting World**
+You achieve ultimate symbiosis with decay:
+*   While your *Putrid Shroud* is active, you gain **Resistance to all damage types except Radiant and Force**.
+*   **Terminal Gangrene:** Once per Long Rest, when you hit a creature with a melee spell attack or when an enemy fails a saving throw against one of your Circle spells, you can afflict it with *Terminal Gangrene*. The target takes **8d10 Necrotic damage** and has **Disadvantage on Strength and Constitution checks and saving throws** for 1 minute.
+
+---
+
+## **5. Fighter: Black Knight**
+
+*Clad in dark iron plate and radiating tyrannical malice, the Black Knight is an unstoppable martial terror who breaks enemy morale, siphons the life of fallen adversaries, and executes foes with ruthless precision.*
+
+### **Level 3: Dread Presence, Black Iron Juggernaut, & Abyssal Strike**
+*   **Dread Presence:** You gain proficiency in the **Intimidation** skill. If you already have proficiency, you gain **Expertise** (adding double your Proficiency Bonus to checks made with it).
+*   **Black Iron Juggernaut:** While wearing Heavy Armor, you reduce all Bludgeoning, Piercing, and Slashing damage you take by an amount equal to your **Proficiency Bonus**.
+*   **Abyssal Strike:** Once per turn when you hit a creature with a weapon attack, you can deal an extra **1d6 Necrotic or Cold damage** (this increases to **1d8 at Level 10** and **1d10 at Level 18**). If the target is below its Hit Point maximum, it takes additional damage equal to your **Constitution modifier**.
+
+### **Level 7: Unholy Bulwark & Morale Breaker**
+*   Whenever you use your **Second Wind** feature, you can force all hostile creatures within **15 feet** of you to make a **Wisdom saving throw** (DC = 8 + your Proficiency Bonus + your Strength or Constitution modifier). On a failure, a target gains the **Frightened condition** until the end of your next turn.
+*   You gain **Advantage on saving throws against spells and magical effects** created by creatures that are currently Frightened of you.
+
+### **Level 10: Siphon the Fallen**
+Your armor drinks the souls of the dying:
+*   Whenever you reduce a hostile creature to 0 Hit Points or score a Critical Hit with a melee weapon, you gain **Temporary Hit Points equal to your Fighter level + your Constitution modifier**.
+*   In addition, your next weapon attack made before the end of your next turn deals an additional **2d8 Necrotic damage**.
+
+### **Level 15: Terror Sovereign (Executioner’s Stance)**
+*   You have **Advantage on attack rolls** against any creature that has the **Frightened condition**.
+*   Your weapon attacks against Frightened creatures score a **Critical Hit on a roll of 19 or 20**.
+
+### **Level 18: Avatar of the Black Sun**
+As a **Bonus Action**, you unleash your unholy inner dread for 1 minute (usable once per Long Rest, or by expending one use of your *Action Surge*):
+*   You emit a **30-foot aura of oppressive gloom**. Hostile creatures within the aura suffer **Disadvantage on all saving throws**.
+*   Your weapon attacks deal an extra **2d10 Necrotic or Cold damage** on every hit.
+*   When you take damage, you can use your **Reaction** to halve that damage and force the attacker to take **3d8 Necrotic damage**.
+
+---
+
+## **6. Monk: Way of Violence**
+
+*Rejecting the ascetic pursuit of serenity and spiritual balance, Monks of the Way of Violence treat martial arts as an engine of pure cruelty, bone-shattering sadism, and anatomical destruction.*
+
+### **Level 3: Bone Cracker & Violent Momentum**
+*   **Bone Cracker:** When you hit a creature with an Unarmed Strike, you can spend **1 Focus Point** to inflict an excruciating anatomical injury. Choose one of the following effects:
+    *   *Shatter Limbs:* The target's walking speed is reduced to **0** until the start of your next turn, and it has Disadvantage on Dexterity saving throws.
+    *   *Gouge Vision:* The target must make a Constitution saving throw against your Focus DC or gain the **Blinded condition** until the start of your next turn.
+    *   *Solar Plexus Crush:* The target must make a Constitution saving throw or gain the **Incapacitated condition** until the end of its next turn.
+*   **Violent Momentum:** When you reduce a creature to 0 Hit Points with an Unarmed Strike, you immediately regain **1 Focus Point** (up to a number of times equal to your Proficiency Bonus per Short or Long Rest) and can make one free Unarmed Strike against another creature within your reach.
+
+### **Level 6: Thirst for Pain & Sadistic Precision**
+*   **Thirst for Pain:** When you take damage from an attack, you can use your **Reaction** to reduce the damage by **1d10 + your Dexterity modifier + your Monk level**. If you reduce the damage to 0, your next Unarmed Strike before the end of your next turn deals extra damage equal to the damage absorbed.
+*   **Sadistic Precision:** Your Unarmed Strikes deal an extra **1d4 Necrotic or Bludgeoning damage** against any creature that has fewer than half of its maximum Hit Points remaining.
+
+### **Level 11: Mutilating Combination**
+*   Whenever you use *Flurry of Blows* and hit the same creature with two or more strikes on your turn, you can spend **2 Focus Points** to shatter its skeletal integrity.
+*   The target takes additional damage equal to **three rolls of your Martial Arts die**, and it suffers **Disadvantage on all attack rolls and saving throws** until the end of your next turn.
+
+### **Level 17: Executioner’s Touch (Deathblow)**
+*   As an **Action**, you spend **4 Focus Points** and make one Unarmed Strike against a creature within reach.
+*   On a hit, the target takes **10d10 Force or Necrotic damage** (your choice).
+*   If the target has **100 Hit Points or fewer** after taking this damage, it must succeed on a Constitution saving throw against your Focus DC or **instantly drop to 0 Hit Points**. If it succeeds or has more than 100 Hit Points, it gains the **Stunned condition** until the end of its next turn.
+
+---
+
+## **7. Paladin: Oath of Darkness (The Dark Paladin)**
+
+*Bound by an unholy oath to tyranny, the abyssal void, and the subjugation of the weak, the Dark Paladin is a fallen inquisitor who wields necrotic smites, auras of absolute despair, and shadow wings.*
+
+### **Tenets of Darkness**
+*   **Subjugate the Weak:** Mercy is the virtue of cowards. The strong must rule with an iron grip.
+*   **Embrace the Shadow:** Light is fragile; the dark is eternal and absolute.
+*   **Ruthless Pragmatism:** Achieve victory by any means necessary—honor is a luxury for fools.
+*   **Absolute Dominion:** Never bow before another master; bend reality and mortals to your will.
+
+### **Level 3: Oath Spells**
+You gain the following prepared spells at the Paladin levels listed:
+
+| Paladin Level | Prepared Spells |
+| :---: | :--- |
+| **3rd** | *Bane*, *Hellish Rebuke*, *Inflict Wounds* |
+| **5th** | *Darkness*, *Hold Person* |
+| **9th** | *Bestow Curse*, *Fear* |
+| **13th** | *Blight*, *Shadow of Moil* |
+| **17th** | *Contagion*, *Danse Macabre* |
+
+### **Level 3: Channel Divinity**
+You gain two Channel Divinity options:
+*   **Abyssal Dread:** As a **Magic action**, you present your unholy symbol. Each hostile creature within **30 feet** of you must succeed on a **Wisdom saving throw** against your Spell Save DC or gain the **Frightened condition** for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, ending the condition on a success.
+*   **Umbral Shroud:** As a **Bonus Action**, you cloak your weapon in dark flames for 1 minute. Your weapon attacks deal extra **Necrotic damage equal to your Charisma modifier + your Proficiency Bonus**, and you can see through magical darkness out to 60 feet.
+
+### **Level 7: Aura of Despair**
+*   You emit a **10-foot aura of oppressive gloom** (this aura expands to **30 feet at Level 18**).
+*   Hostile creatures within your aura suffer a **penalty to all saving throws equal to your Charisma modifier** (minimum -1).
+*   Whenever a hostile creature within your aura drops to 0 Hit Points, you and chosen allies within the aura gain **Temporary Hit Points equal to your Charisma modifier + your Paladin level**.
+
+### **Level 15: Dark Vengeance & Iron Malice**
+*   You gain permanent **Immunity to the Frightened and Charmed conditions**.
+*   When a creature within 30 feet hits you with an attack, you can use your **Reaction** to lash back with abyssal retribution, dealing **Necrotic damage to the attacker equal to half the damage taken + your Charisma modifier**.
+
+### **Level 20: Avatar of the Black Void**
+As an **Action**, you transform into an avatar of supreme darkness for 1 minute (once per Long Rest, or by expending a 5th-level spell slot):
+*   You sprout shadowy wings, gaining a **flying speed of 60 feet** and the ability to hover.
+*   You emit a **30-foot aura of absolute magical darkness** that only you and allies you choose can see through.
+*   Any hostile creature that enters or starts its turn within the aura takes **4d10 Necrotic damage**.
+*   Your *Divine Smite* deals maximum possible damage on all dice rolled against creatures inside your aura.
+
+---
+
+## **8. Ranger: Dark Hunter**
+
+*The Dark Hunter stalks the most dangerous prey of all: sapient humanoids and cosmic champions. Master of ambush, poison, and psychological warfare, the Dark Hunter turns darkened forests and starship corridors into hunting grounds.*
+
+### **Level 3: Dark Hunter Spells**
+You prepare the following spells at the Ranger levels listed:
+
+| Ranger Level | Prepared Spells |
+| :---: | :--- |
+| **3rd** | *Disguise Self*, *Hunter's Mark*, *Ray of Sickness* |
+| **5th** | *Darkness*, *Pass without Trace* |
+| **9th** | *Fear*, *Nondetection* |
+| **13th** | *Greater Invisibility*, *Phantasmal Killer* |
+| **17th** | *Hold Monster*, *Steel Wind Strike* |
+
+### **Level 3: Grim Trophy & Malice Strike**
+*   **Grim Trophy:** You gain proficiency in the **Stealth** skill and with the **Poisoner’s Kit**.
+*   **Malice Strike:** Whenever you hit a creature marked by your *Hunter’s Mark*, you deal an additional **1d6 Necrotic or Poison damage** (this increases to **1d8 at Level 11**). In addition, your marked target cannot benefit from the Invisible condition or half cover against your attacks.
+
+### **Level 7: Umbral Stride & Ambush Predator**
+*   While in Dim Light or Darkness, you can take the **Hide action as a Bonus Action**, and moving through nonmagical difficult terrain costs you no extra movement.
+*   When you hit a creature from behind cover or while hidden, the target must make a **Constitution saving throw** against your Spell Save DC or gain the **Blinded condition** or have its speed reduced to 0 (your choice) until the end of its next turn.
+
+### **Level 11: Sever the Tether (Executioner’s Barrage)**
+*   Once per turn when you take the Attack action and attack your marked prey, you can make **one additional weapon attack** as part of that same action.
+*   Whenever your marked prey takes damage from you, its walking speed is reduced by **10 feet**, and it cannot take **Reactions** until the start of your next turn.
+
+### **Level 15: Spectral Stalker of the Void**
+As a **Bonus Action**, you can step into the shadow weave for 1 minute (once per Long Rest, or by expending a 4th-level or higher spell slot):
+*   You gain the **Invisible condition**.
+*   You can move through solid objects and creatures as if they were difficult terrain. If you end your turn inside an object, you take 1d10 Force damage and are shunted into the nearest unoccupied space.
+*   Your weapon attacks ignore all damage resistances.
+
+---
+
+## **9. Rogue: Killer**
+
+*Where an Assassin relies on patience and false identities, the Killer is a cold-blooded slaughter specialist who revels in the anatomical reality of murder. They wield brutal precision, scent the blood of wounded prey, and inflict terror upon witnesses.*
+
+### **Level 3: Anatomical Butchery, Blood Scent, & Killer's Instinct**
+*   **Anatomical Butchery:** You gain proficiency in the **Medicine**, **Intimidation**, and **Poisoner’s Kit**. You can apply your *Sneak Attack* feature using any melee weapon that lacks the Two-Handed property.
+*   **Vicious Sneak Attack:** When you roll damage dice for your *Sneak Attack*, you can reroll any dice that land on a **1** (you must use the new roll).
+*   **Blood Scent:** You have **Advantage on Wisdom (Perception and Survival) checks** made to track or locate any creature that is currently below its Hit Point maximum within 1 mile of you.
+
+### **Level 9: The Panic of the Prey (Witness Slaughter)**
+*   When you kill a creature using your *Sneak Attack*, each hostile creature within **30 feet** of you that can see the kill must make a **Wisdom saving throw** (DC = 8 + your Proficiency Bonus + your Dexterity modifier). On a failure, a creature gains the **Frightened condition** for 1 minute.
+*   You have **Advantage on attack rolls** against any creature that has the Frightened condition.
+
+### **Level 13: Cold-Blooded Relentlessness**
+*   You are immune to the **Frightened condition**.
+*   When a creature within 5 feet of you makes an attack roll against you, you can use your **Reaction** to make one melee weapon attack with *Sneak Attack* against that creature before its attack resolves, provided you have not already used Sneak Attack during this turn.
+
+### **Level 17: Inevitable Murder (The Final Cut)**
+*   Your critical hit range for Sneak Attacks becomes **19–20**.
+*   When you hit a creature with your *Sneak Attack*, you can force the creature to make a **Constitution saving throw** (DC = 8 + your Proficiency Bonus + your Dexterity modifier). On a failure, the creature takes **maximum possible damage on all Sneak Attack dice** and gains the **Stunned condition** until the end of your next turn. You can use this feature once per Short or Long Rest.
+
+---
+
+## **10. Sorcerer: Blood Sorcery**
+
+*Blood Sorcerers manipulate the crimson life-currents that flow through all mortal and immortal veins. Through dark hemomancy, they burn their own vitality to amplify spells, puppeteer living foes, and achieve crimson immortality.*
+
+### **Level 3: Bloodline Spells**
+You prepare the following spells at the Sorcerer levels listed:
+
+| Sorcerer Level | Prepared Spells |
+| :---: | :--- |
+| **3rd** | *False Life*, *Inflict Wounds*, *Ray of Sickness* |
+| **5th** | *Hold Person*, *Ray of Enfeeblement* |
+| **7th** | *Life Transference*, *Vampiric Touch* |
+| **9th** | *Blight*, *Shadow of Moil* |
+| **11th** | *Contagion*, *Danse Macabre* |
+
+### **Level 3: Sanguine Font & Hemomantic Dart**
+*   **Sanguine Font (Life for Power):** You can burn your own vitality to fuel your metamagic. As a **Bonus Action**, you can roll one of your unspent Hit Dice, taking Necrotic damage equal to the roll (this damage cannot be reduced or prevented). When you do, you immediately regain a number of **Sorcery Points equal to half the number rolled (minimum 1 point)**.
+*   **Hemomantic Dart:** When you cast a Sorcerer spell of 1st level or higher, you can spend **1 Sorcery Point** to cause a target's veins to rupture. The target takes extra **Necrotic damage equal to 1d6 + your Charisma modifier**, and cannot regain Hit Points until the start of your next turn.
+
+### **Level 6: Blood Puppet & Sanguine Vitality**
+*   **Blood Puppet:** When a creature with blood within **60 feet** of you makes an attack roll or moves, you can use your **Reaction** and spend **2 Sorcery Points** to force it to make a **Constitution saving throw** against your Spell Save DC. On a failure, you choose its movement and redirect its attack to a different target within its reach.
+*   **Sanguine Vitality:** Whenever you deal Necrotic damage with a Sorcerer spell of 1st level or higher, you regain **Hit Points equal to the spell’s level + your Charisma modifier**.
+
+### **Level 14: Hemorrhagic Eruption**
+*   As an **Action**, you spend **4 Sorcery Points** to detonate the blood within creatures in a **30-foot radius** centered on a point you can see within 60 feet.
+*   Each creature with blood in that area must make a **Constitution saving throw** against your Spell Save DC. On a failure, a creature takes **8d8 Necrotic damage** and gains the **Blinded** and **Poisoned** conditions for 1 minute (repeating the save at the end of each of its turns). On a success, it takes half damage and avoids the conditions.
+*   You gain **Temporary Hit Points equal to half the total damage dealt** to all targets.
+
+### **Level 18: Sovereign of Sanguine Immortality**
+*   You gain immunity to **Poison damage**, the **Poisoned condition**, disease, and exhaustion.
+*   When you are reduced to 0 Hit Points, you can spend **5 Sorcery Points** to instantly dissolve into a pool of crimson mist. You reappear at the start of your next turn at **full Hit Points** in an unoccupied space within 60 feet of where you fell. Once you use this feature, you cannot do so again until you finish a **Long Rest**.
+
+---
+
+## **11. Warlock: Otherworldly Patron — The Archdevil**
+
+*You have sworn a binding Faustian pact with one of the supreme Archdevils of the Nine Hells (such as Asmodeus, Mephistopheles, Baalzebul, Dispater, Belial, Levistus, Mammon, or Glasya). You wield hellfire, diabolic resilience, and soul contracts.*
+
+### **Level 3: Patron Spells**
+The Archdevil grants you the following prepared spells at the Warlock levels listed:
+
+| Warlock Level | Prepared Spells |
+| :---: | :--- |
+| **3rd** | *Command*, *Hellish Rebuke*, *Burning Hands* |
+| **5th** | *Scorching Ray*, *Zone of Truth* |
+| **7th** | *Fireball*, *Bestow Curse* |
+| **9th** | *Fire Shield*, *Wall of Fire* |
+| **11th** | *Dominate Person*, *Flame Strike* |
+
+### **Level 3: Infernal Contract & Hellfire Channeling**
+*   **Infernal Contract (Pact of Brimstone):** You can draft a binding metaphysical contract with a willing creature during a 1-minute ritual. If the signatory willingly breaks the written terms of the contract, it takes **10d10 Hellfire damage**, and you immediately learn its exact location on any plane for 24 hours.
+*   **Hellfire Channeling:** Whenever you deal Fire or Force damage with a Warlock spell or cantrip (including *Eldritch Blast*), you can convert the damage to **Hellfire damage** (which ignores Fire Resistance and treats Fire Immunity as Resistance).
+
+### **Level 6: Devil's Resilience & Diabolic Rebuke**
+*   **Devil’s Resilience:** Whenever you finish a Short or Long Rest, choose **Fire**, **Cold**, or **Poison** damage. You gain Resistance to that damage type until you choose a different one with this feature.
+*   **Diabolic Rebuke:** When a creature within 60 feet hits you with an attack, you can use your **Reaction** to engulf it in infernal flames. The attacker takes **Fire and Necrotic damage equal to 2d10 + your Charisma modifier** and must succeed on a Wisdom saving throw against your Spell Save DC or gain the **Frightened condition** until the end of its next turn. You can use this reaction a number of times equal to your **Proficiency Bonus**, regaining all expended uses on a Long Rest.
+
+### **Level 10: Infernal Dominance & Mind of Iron**
+*   You gain permanent **Immunity to the Frightened condition** and have **Advantage on saving throws against spells and magical effects**.
+*   In addition, you can telepathically issue commands to any creature that is currently Charmed or Frightened by you without expending an action.
+
+### **Level 14: Consignment to the Nine Hells**
+*   When you hit a creature with an attack roll or spell, you can instantly banish it through a rift into the deepest fiery depths of Nessus in the Nine Hells.
+*   The creature vanishes until the end of your next turn, at which point it returns to the space it previously occupied (or the nearest unoccupied space).
+*   If the target is not a Fiend, it takes **10d10 Hellfire (Fire/Necrotic) damage** from infernal torment and gains the **Incapacitated condition** until the end of its next turn.
+*   Once you use this feature, you cannot do so again until you finish a **Long Rest**.
+
+---
+
+## **12. Wizard: Arcane Tradition — Black Magic**
+
+*Outlawed by civilized academies and high wizard towers, the School of Black Magic delves into forbidden grimoires, occult curses, soul harvesting, and dark necrotic transmutation to twist the fabric of life and death.*
+
+### **Level 3: Forbidden Savant, Black Magic Infusion, & Soul Harvest**
+*   **Forbidden Savant:** The gold and time you must spend to copy Necromancy, Enchantment, or Curse spells into your spellbook is halved. You also learn the *Toll the Dead* cantrip (it counts as a Wizard cantrip for you).
+*   **Black Magic Infusion:** When you cast a Wizard spell that deals damage, you can infuse it with dark corruption, changing its damage type to **Necrotic or Psychic**. When you do, one target damaged by the spell has its maximum Hit Points reduced by the damage taken until it finishes a Long Rest.
+*   **Soul Harvest:** When a creature within **30 feet** of you dies, you can use your **Reaction** to siphon its departing soul essence. You can choose to regain **one expended 1st- or 2nd-level spell slot**, or gain **Temporary Hit Points equal to your Wizard level + your Intelligence modifier**. You can use this reaction a number of times equal to your **Proficiency Bonus**, regaining all expended uses when you finish a **Long Rest**.
+
+### **Level 6: Occult Curse Weaver**
+You master the art of hexes and sympathetic bonds:
+*   You can cast *Bestow Curse* once per Long Rest without expending a spell slot. When cast in this way, the spell **does not require Concentration**.
+*   **Sympathetic Scrying:** As an Action, you can perceive through the senses of any creature currently cursed by you (seeing through its eyes and hearing through its ears) regardless of distance on the same plane of existence.
+
+### **Level 10: Master of Dark Decrees**
+*   When you cast an Enchantment or Necromancy spell of 1st through 5th level that targets only one creature, you can target a **second creature within range** with the same spell without expending an additional spell slot or material components.
+*   You gain permanent **Resistance to Necrotic and Psychic damage**.
+
+### **Level 14: Grandmaster of the Forbidden Arts**
+As an **Action**, you awaken your supreme black magic aura for 1 minute (once per Long Rest):
+*   Hostile creatures within **30 feet** of you suffer **Disadvantage on all saving throws against your Wizard spells**.
+*   Your Wizard spells ignore Resistance to Necrotic and Psychic damage, and treat Immunity as Resistance.
+*   Whenever you cast a Wizard spell of 1st level or higher on your turn, you can immediately cast *Toll the Dead* or *Mind Sliver* as a **Bonus Action**.
+
+---
+
+
 
