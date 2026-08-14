@@ -144,7 +144,7 @@ You have learned to draw upon your power spirit to cast spells.
 **Spiritual Awakening**
 At 1st level, the inner power spirit residing within you awakens, binding your soul to one of the fundamental elements of the Elsaither. Choose one elemental affinity from the following list: Fire, Water, Ice, Earth, Air, Lightning, Laser, Gas, Metal, Bone, Shadow, Death, Poison, Knife (Cold Laser), Darki, or Sky (as detailed in Chapter 1: The Elemental System).
 *   **Elemental Focus:** This choice determines the elemental damage type for your Savaroen features, spells, and elemental strikes.
-*   **Elemental Ward:** You gain Resistance to your chosen element's primary damage type. If you already have Resistance to that damage type from another source (such as your species' *Elementally Charged* trait), you gain **Immunity** to it instead.
+*   **Elemental Resilience:** You gain Resistance to your chosen element's primary damage type (if you do not already have it).
 
 **Elemental Surge**
 Starting at 2nd level, you can channel your element to strike with greater force. As a **Bonus Action**, you can imbue your strikes with power for 1 minute.
@@ -474,7 +474,7 @@ A Herbalism Kit and 20cc (or 50cc starting gold)
 
 You have learned to draw upon the magic of the natural world.
 
-**Primal Bond.** Choose one elemental affinity from the following list: Fire, Water, Air, Lightning, Earth, Ice, Laser, Bone, Gas, Metal, Knife (Cold Laser), Poison, Death, Shadow, or Darki. This choice reflects the primal spirit that animates your Mark. You gain Resistance to that element's primary damage type (as listed in Chapter 1: The Elemental System). If you already have Resistance to that damage type from another source (such as your species' *Elementally Charged* trait), you gain **Immunity** to it instead.
+**Primal Bond.** Choose one elemental affinity from the following list: Fire, Water, Air, Lightning, Earth, Ice, Laser, Bone, Gas, Metal, Knife (Cold Laser), Poison, Death, Shadow, or Darki. This choice reflects the primal spirit that animates your Mark. You gain Resistance to that element's primary damage type (as listed in Chapter 1: The Elemental System), if you do not already have it.
 
 **Deity Blessing (Optional).** At 1st level, you may dedicate yourself to one of the Deities of the Elsaither (see Chapter 6). Choosing a Deity is optional, but doing so grants you access to sacred magic tied to that god's domain.
 *   **Requirement:** Your element must match the element listed for your chosen Deity's cantrip, or your DM must approve the connection as lore-appropriate.

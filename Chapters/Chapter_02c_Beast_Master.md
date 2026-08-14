@@ -52,7 +52,7 @@ A Herbalism Kit and 20cc (or 50cc starting gold)
 
 You have learned to draw upon the magic of the natural world.
 
-**Primal Bond.** Choose one elemental affinity from the following list: Fire, Water, Air, Lightning, Earth, Ice, Laser, Bone, Gas, Metal, Knife (Cold Laser), Poison, Death, Shadow, or Darki. This choice reflects the primal spirit that animates your Mark. You gain Resistance to that element's primary damage type (as listed in Chapter 1: The Elemental System). If you already have Resistance to that damage type from another source (such as your species' *Elementally Charged* trait), you gain **Immunity** to it instead.
+**Primal Bond.** Choose one elemental affinity from the following list: Fire, Water, Air, Lightning, Earth, Ice, Laser, Bone, Gas, Metal, Knife (Cold Laser), Poison, Death, Shadow, or Darki. This choice reflects the primal spirit that animates your Mark. You gain Resistance to that element's primary damage type (as listed in Chapter 1: The Elemental System), if you do not already have it.
 
 **Deity Blessing (Optional).** At 1st level, you may dedicate yourself to one of the Deities of the Elsaither (see Chapter 6). Choosing a Deity is optional, but doing so grants you access to sacred magic tied to that god's domain.
 *   **Requirement:** Your element must match the element listed for your chosen Deity's cantrip, or your DM must approve the connection as lore-appropriate.
