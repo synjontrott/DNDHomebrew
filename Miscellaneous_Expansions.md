@@ -292,7 +292,7 @@ You achieve total sensory communion with the plant kingdom:
 
 #### **6. Potion of Invisibility**
 *   **Ingredient:** Sapling flowers, twilight orchids, or translucent ghost petals.
-*   **Effect:** The drinker gains the **Invisible condition** for a duration in minutes equal to the die roll (minimum 1 minute). The effect ends early if the creature attacks, deals damage, or casts a spell (at 14th level, casting utility spells does not break this invisibility).
+*   **Effect:** The drinker gains the **Invisible condition** for a duration in minutes equal to the die roll (minimum 1 minute). The effect ends early if the creature makes an attack roll, deals damage, or casts a spell that deals damage or forces a saving throw (at 14th level, casting non-damaging utility spells does not break this invisibility).
 
 #### **7. Potion of Climbing (Earthstrider)**
 *   **Ingredient:** Smooth river stones, cliff-side lichens, or mountain moss.
@@ -348,7 +348,7 @@ Rooted in the ancient Irish chronicles of the *Lebor Gabála Érenn* (The Book o
 
 ## **Fae Species Traits (D&D 2024 Standards)**
 
-When creating a Fae character, choose one of the following three distinct morphological lineages reflecting the historical taxonomy of the Secret Commonwealth.
+When creating a Fae character, choose one of the following four distinct morphological lineages reflecting the historical taxonomy of the Secret Commonwealth.
 
 ---
 
@@ -390,6 +390,28 @@ When creating a Fae character, choose one of the following three distinct morpho
 *   **Elongated Talons:** Your fingernails can elongate into razor-sharp hunting talons. They are natural melee weapons with the **Finesse property**, dealing **1d6 Slashing damage** on a hit.
 *   **Life-Force Siphon:** Once per turn when you hit a creature with your natural talons or an unarmed strike, you can siphon its vitality. The target takes extra **Necrotic damage equal to your Proficiency Bonus**, and you regain a number of Hit Points (or gain Temporary Hit Points) equal to the same amount. You can use this siphoning ability a number of times equal to your **Proficiency Bonus**, regaining all expended uses when you finish a Long Rest.
 *   **Twilight Metamorphosis:** As an Action, you can transform into a **Raven**, **Crow**, or **Wolf** (using the beast's standard stat block while retaining your Intelligence, Wisdom, and Charisma scores). You can remain in this form for up to 1 hour or until you end it as a Bonus Action. Once you transform, you cannot do so again until you finish a Long Rest.
+
+---
+
+### **4. The Cait Sith (The Cat-Sìdhe / Feline Mortuary Trickster)**
+*Rooted in Scottish and Gaelic folklore, the Cait Sith (or Cat-Sìdhe) is an enigmatic, spectral feline fae native to the misty highlands, domestic hearths, and burial cairns. Appearing either as a sleek, midnight-black feline as large as a hound with a stark white diamond crest upon its chest, or as a nimble bipedal cat-fae dressed in fine twilight garb, the Cait Sith walks the perilous threshold between mortal life, the Otherworld, and the grave.*
+
+*   **Creature Type:** Fey
+*   **Size:** Small (approx. 3 feet tall) or Medium (approx. 4–5 feet tall), chosen when you select this lineage
+*   **Speed:** 30 feet, Climb 30 feet
+*   **Darkvision:** You have Darkvision with a range of 60 feet. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light.
+*   **Age:** Ageless. As an Otherworld entity sustained by milk tithes and soul-currents, a Cait Sith does not die of old age.
+*   **Highland Prowler:** You gain proficiency in the **Stealth** or **Acrobatics** skill.
+*   **Ninefold Fall & Feline Grace:** You take no damage from falling 30 feet or less, and you always land on your feet unless you are Incapacitated. In addition, you have Advantage on Dexterity saving throws made to avoid being knocked Prone or Grappled.
+*   **Ninefold Metamorphosis (Feline Shifting):** In Scottish folklore, fae tricksters and witches could assume the guise of a cat up to eight times, with the ninth binding them forever. As a **Bonus Action**, you can magically transform into the shape of a **Tiny domestic Cat** (or Scottish wildcat), or shift back into your humanoid fae form.
+    *   While in cat form, your size is **Tiny**, your walking speed becomes **40 feet**, and your climbing speed is **30 feet**.
+    *   You retain your Hit Points, Hit Dice, saving throws, skill proficiencies, and your Intelligence, Wisdom, and Charisma scores.
+    *   You cannot cast spells (though you can maintain concentration on spells cast before transforming) or wield weapons/shields, and any equipment you are wearing or carrying melds into your new form.
+    *   You have **Advantage on Dexterity (Stealth)** checks made to hide or blend in as a mundane domestic animal.
+    *   You can remain in this form for up to 1 hour, or until you revert as a Bonus Action or fall Unconscious. You can use this transformation a number of times equal to your **Proficiency Bonus**, regaining all expended uses when you finish a Long Rest.
+*   **Soul Tithe (The Feill Fhaicill):** In Gaelic tradition, mortals held the *Feill Fhaicill* (The Late Wake) to prevent the Cait Sith from leaping over a corpse to claim its departing soul (*anam*). When a creature you can see within 30 feet of you is reduced to 0 Hit Points, you can use your **Reaction** to siphon a passing sliver of its spiritual essence. When you do, you gain **Temporary Hit Points equal to your Proficiency Bonus + your Intelligence, Wisdom, or Charisma modifier** (choose when you select this lineage, minimum 1), and you gain **Advantage on the next attack roll, ability check, or saving throw** you make before the end of your next turn. You can use this reaction a number of times equal to your **Proficiency Bonus**, regaining all expended uses when you finish a Long Rest.
+*   **Samhain Boon & Hex:** You embody the ancient law of the Samhain milk offering—bestowing uncanny fortune upon the hospitable and spiteful curses upon the greedy. You know the *Thaumaturgy* cantrip. In addition, you can cast the *Bless* or *Bane* spell once per Long Rest without expending a spell slot (choosing which spell to cast each time). Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells (matching the ability chosen for *Soul Tithe*).
+*   **King of the Cats:** You can communicate verbally and telepathically with domestic and wild feline beasts (such as cats, panthers, lions, tigers, and smilodons) as if under the constant effect of the *Speak with Animals* spell. In addition, you have Advantage on all Charisma checks made to influence or interact with felines.
 
 ---
 
@@ -476,12 +498,13 @@ You harness the illusory mist of the Otherworld, represented by a pool of **Veil
 In fae lore, an entity’s True Name or physical token represents absolute metaphysical sympathy.
 *   As a **Reaction**, when a creature within 60 feet of you casts a spell, attacks, or speaks, you can invoke the sympathetic resonance of its name or presence. The target must succeed on a **Charisma saving throw against your Spell Save DC** or suffer **Disadvantage on all attack rolls and ability checks** made until the end of its current turn.
 *   Alternatively, if an ally is attacking a creature whose True Name or biological token you possess, you can use this reaction to grant the ally **Advantage on the attack roll**.
+*   You can use this reaction a number of times equal to your **Proficiency Bonus**, regaining all expended uses when you finish a Long Rest. Alternatively, you can spend **1 Veil Point** to use this reaction again after your free uses are expended.
 
 ---
 
 ### **Level 2: Iron Aversion & Warded Flesh**
 The ancient pacts of the Otherworld grant you supernatural protection against the mortal realm, balanced by the fatal curse of cold forged iron.
-*   **Supernatural Warding:** While you are wearing light armor or no armor, your Armor Class equals **10 + your Dexterity modifier + your Charisma modifier**. In addition, you have **Resistance to Bludgeoning, Piercing, and Slashing damage** dealt by non-magical, non-iron weapons.
+*   **Supernatural Warding:** While you are wearing light armor or no armor, your Armor Class equals **10 + your Dexterity modifier + your Charisma modifier**. In addition, you have **Resistance to Bludgeoning, Piercing, and Slashing damage** dealt by non-iron weapons.
 *   **Cold Iron Aversion:** When you take damage from a weapon forged of pure iron (cold iron) or raw refined steel, you take an additional **1d6 Force damage**, and your *Otherworld Step* and *Veil Glamour* features are suppressed until the end of your next turn.
 
 ---
@@ -506,7 +529,7 @@ Your mantle grants you features at **Level 3, Level 6, Level 10, and Level 14**.
 ### **Level 5: Sídhe Geas (Contractual Taboo)**
 You can bind foes and oathbreakers with the supernatural weight of a fae decree.
 *   When you cast an Enchantment or Illusion spell of 1st level or higher, you can spend **2 Veil Points** to place a *Sídhe Geas* on one affected target. 
-*   If the target willingly breaks a spoken agreement, attacks you after you offer parley, or targets you with a hostile action within 1 minute, it takes **Psychic damage equal to twice your Veilweaver level** and must succeed on a Wisdom saving throw or become **Stunned** until the end of its next turn.
+*   If the target willingly breaks a spoken agreement, attacks you after you offer parley, or targets you with a hostile action within 1 minute, it takes **Psychic damage equal to twice your Veilweaver level** and must succeed on a Wisdom saving throw against your Spell Save DC or gain the **Stunned condition** until the end of its next turn.
 
 ---
 
@@ -540,9 +563,9 @@ You can instantly fold space across the veil of worlds.
 
 ### **Level 15: Tír na nÓg Time Dilation**
 You manifest the extreme temporal distortion of the faerie realm into the mortal world.
-*   As an Action, you spend **5 Veil Points** (or use this feature once per Long Rest for free) to create a **30-foot aura of dilated time** centered on yourself for 1 minute.
-*   **Allies** within the aura gain the benefits of the *Haste* spell without suffering lethargy when it ends.
-*   **Enemies** that enter or start their turn within the aura must succeed on a Wisdom saving throw against your Spell Save DC or be subjected to the *Slow* spell.
+*   As an Action, you can spend **5 Veil Points** (or use this feature once per Long Rest without expending points) to create a **30-foot aura of dilated time** centered on yourself for 1 minute (requiring Concentration).
+*   **Allies** within the aura gain a **+2 bonus to Armor Class**, **Advantage on Dexterity saving throws**, **+10 feet to their walking speed**, and can make **one additional weapon attack** when taking the Attack action on their turn.
+*   **Enemies** that enter or start their turn within the aura must succeed on a **Wisdom saving throw against your Spell Save DC** or be subjected to the *Slow* spell while remaining inside the aura.
 
 ---
 
@@ -602,16 +625,16 @@ Once per Long Rest (or by expending **5 Veil Points**), you can conjure a radian
  │ Relic Name      │ City Origin  │ Combat Manifestation Effect            │
  ├─────────────────┼──────────────┼────────────────────────────────────────┤
  │ Lia Fáil        │ Falias       │ 30-ft zone: True King ward, +30 Temp HP│
- │ Spear of Lugh   │ Gorias       │ Unstoppable 6d10 Force thrown strike   │
+ │ Spear of Lugh   │ Gorias       │ 6d10 Force/Radiant strike + return     │
  │ Sword of Nuada  │ Findias      │ 3d10 Radiant blade, prevents teleport  │
- │ Dagda's Cauldron│ Murias       │ Mass revival to 50% HP + Cleanses all  │
+ │ Dagda's Cauldron│ Murias       │ Mass revival + cleanses conditions     │
  └─────────────────┴──────────────┴────────────────────────────────────────┘
 ```
 
-1.  **Lia Fáil (The Stone of Destiny):** You summon a glowing monolith in a 30-foot radius. All illusions are dispelled, enemies cannot turn invisible, and all allies gain **30 Temporary Hit Points** and Advantage on all attack rolls while inside the zone.
-2.  **The Spear of Lugh (Gáe Assail):** You conjure the flaming spear of victory. As an Action, you throw it at a target within 120 feet. It **never misses**, ignores all cover, deals **6d10 Force or Radiant damage**, and instantly returns to your hand.
+1.  **Lia Fáil (The Stone of Destiny):** You summon a glowing monolith in a 30-foot radius. All illusions within the area are dispelled, enemies cannot benefit from the Invisible condition, and all allies within the zone gain **30 Temporary Hit Points** and Advantage on all attack rolls.
+2.  **The Spear of Lugh (Gáe Assail):** You conjure the flaming spear of victory. As an Action, make a ranged spell attack against a target within 120 feet (with Advantage). The spear ignores all cover, deals **6d10 Force or Radiant damage** (your choice) on a hit, and instantly returns to your hand.
 3.  **The Sword of Nuada (Fragarach / The Answerer):** You wield a glowing, sunbeam longsword for 1 minute. Melee spell attacks with it deal **3d10 Slashing + Radiant damage**, and struck targets cannot take Reactions, Disengage, or Teleport until the start of your next turn.
-4.  **The Cauldron of the Dagda:** You summon the legendary vessel of endless restorative grace. All unconscious or downed allies within 30 feet instantly regain Hit Points equal to **half their maximum Hit Points**, are cleansed of all negative conditions, and gain the benefits of a Short Rest.
+4.  **The Cauldron of the Dagda:** You summon the legendary vessel of endless restorative grace. All unconscious allies within 30 feet instantly regain **5d8 + your Charisma modifier Hit Points**, stand up without expending movement, are cleansed of the Blinded, Deafened, Paralyzed, and Poisoned conditions, and remove 1 level of Exhaustion.
 
 ---
 
@@ -647,26 +670,26 @@ Channeling the immortal resilience of Arthurian lore’s Green Knight:
 #### **Level 3: Law of Equivalent Exchange & The Bone Tithe**
 *   **Law of Equivalent Exchange:** As a **Reaction** when an ally within 30 feet of you takes damage, you can balance the cosmic ledger: redirect up to a number of damage points equal to **your Veilweaver level + your Charisma modifier** to a hostile creature within 30 feet. To use this feature, you must spend **1 Veil Point** or expend **1 Hit Die**.
 *   **The Bone Tithe (Sympathetic Tokens):** Whenever a creature within 30 feet takes Bludgeoning, Piercing, or Slashing damage, you can use your Reaction to magically extract a biological token (a tooth, lock of hair, or bone fragment). You can store up to a number of Tithes equal to your **Charisma modifier** (minimum 1).
-    *   *Sympathetic Hex:* When you cast an Enchantment, Necromancy, or Veilweaver spell targeting a creature whose Tithe you hold, it has **Disadvantage on its saving throw**.
-    *   *Tithe Consumption:* You can consume a Tithe to cast a 1st- or 2nd-level Veilweaver spell without expending a spell slot.
+    *   *Sympathetic Hex:* When you cast an Enchantment or Necromancy spell targeting a creature whose Tithe you hold, you can expend the Tithe to impose **Disadvantage on the target's initial saving throw** against the spell.
+    *   *Tithe Consumption:* You can consume a Tithe as a Bonus Action to regain **1 expended Veil Point**, or to cast a 1st- or 2nd-level Veilweaver spell without expending a spell slot.
 
 #### **Level 6: The Rumpelstiltskin Bargain**
 You offer a willing companion an astonishing, rule-breaking advantage—at a steep, asymmetrical price.
-*   As a **Bonus Action**, you strike a bargain with an ally within 30 feet until the start of your next turn. Choose one of the following boons:
-    1.  **Golden Spindle:** The ally's next successful attack is automatically a **Critical Hit**.
+*   As a **Bonus Action**, you spend **2 Veil Points** to strike a bargain with an ally within 30 feet until the start of your next turn. Choose one of the following boons:
+    1.  **Golden Spindle:** The ally's next successful attack before the start of your next turn is automatically a **Critical Hit**.
     2.  **Veil Shield:** The ally gains **Advantage on all saving throws** and **Resistance to all damage** until the start of your next turn.
-    3.  **Surge of the Sídhe:** The ally can immediately take an additional **Action** on its turn.
+    3.  **Surge of the Sídhe:** The ally can immediately take an additional **Action** on its turn (a creature can receive this boon only once per Short Rest).
 *   **The Fae Debt:** On the ally's subsequent turn, the debt is collected: the ally's speed is reduced by half, and it cannot take Reactions until the end of that turn.
 
 #### **Level 10: Ironclad Literalism & Loophole Mastery**
 *   You can never be compelled to tell the truth by magical means, yet you never physically break a sworn word. You gain **Advantage on all Charisma (Deception, Insight, and Persuasion)** checks.
-*   **Treaty Defense:** If an enemy attacks you after you have offered parley, or if an enemy attacks anyone under your hospitality, you can use your **Reaction** to immediately cast a prepared spell targeting that creature without expending a spell slot.
+*   **Treaty Defense:** If an enemy attacks you after you have offered parley, or if an enemy attacks anyone under your hospitality, you can use your **Reaction** to immediately cast a prepared spell of 1st through 3rd level targeting that creature without expending a spell slot. You can use this reaction once, and regain the ability to do so when you finish a Short or Long Rest, or by expending **3 Veil Points**.
 
 #### **Level 14: True Name Foreclosure**
 You invoke absolute metaphysical mastery over a bound target.
 *   As an Action, you speak the conceptual True Name of a creature whose Tithe you hold or whose identity you have fully researched. 
 *   The target must make a **Charisma saving throw against your Spell Save DC**. On a failure, the creature falls under your absolute dominion (as if under the *Dominate Monster* spell) for **1 hour without requiring Concentration**. 
-*   While dominated, the creature cannot harm you or your allies and must execute your telepathic commands to the absolute letter. Once you use this feature, you cannot do so again until you finish a **Long Rest**.
+*   While dominated, the creature cannot harm you or your allies and must execute your telepathic commands to the absolute letter. The target can repeat the saving throw at the end of each of its turns and each time it takes damage, ending the effect on a success. Once you use this feature, you cannot do so again until you finish a **Long Rest**.
 
 ---
 
