@@ -57,6 +57,11 @@ You have learned to draw upon your power spirit to cast spells.
     *   **Spell save DC** = 8 + Proficiency Bonus + Charisma modifier
     *   **Spell attack modifier** = Proficiency Bonus + Charisma modifier
 
+**Spiritual Awakening**
+At 1st level, the inner power spirit residing within you awakens, binding your soul to one of the fundamental elements of the Elsaither. Choose one elemental affinity from the following list: Fire, Water, Ice, Earth, Air, Lightning, Laser, Gas, Metal, Bone, Shadow, Death, Poison, Knife (Cold Laser), Darki, or Sky (as detailed in Chapter 1: The Elemental System).
+*   **Elemental Focus:** This choice determines the elemental damage type for your Savaroen features, spells, and elemental strikes.
+*   **Elemental Ward:** You gain Resistance to your chosen element's primary damage type. If you already have Resistance to that damage type from another source (such as your species' *Elementally Charged* trait), you gain **Immunity** to it instead.
+
 **Elemental Surge**
 Starting at 2nd level, you can channel your element to strike with greater force. As a **Bonus Action**, you can imbue your strikes with power for 1 minute.
 *   **Effect:** The first time you hit with a weapon attack or spell attack on each of your turns, you deal an extra **1d6** damage of your chosen elemental type.
