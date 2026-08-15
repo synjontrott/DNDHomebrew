@@ -6,11 +6,11 @@
 ## **Welcome to the Great Culinary Cosmos (Gourmandia)**
 
 > *"In the multiverse of the Infinite Kitchen, cooking is not a chore—it is high magic, martial supremacy, biochemical alchemy, and the highest form of hospitality. From the roaring charcoal pits of the Hearthward Plains to the floating iron griddles of the Teppan Dojos, the deepest fermentation cellars of Zymos, and the wild spice groves of the foragers, taste and fire govern reality itself."*  
-> — **The Grand Onion King & Royal Chef Kevin**
+> — **Grand Sovereign Allium XIV & Lord Barnaby the Celestial Hearth-Hound**
 
 Welcome to **The Infinite Kitchen**, a standalone, fully balanced **D&D 2024 (5.5e)** expansion that transforms the culinary arts into complete tabletop player classes, martial disciplines, unique magic systems, and a menagerie of delicious, terrifying monsters!
 
-Whether you want to drop these classes into your existing D&D campaign world, run a gourmet fantasy quest inspired by *Delicious in Dungeon*, *Battle Chef Brigade*, or *Overcooked*, or embark on an epic journey across the **Five Cosmic Pantries**, this compendium has everything you need.
+Whether you want to drop these classes into your existing D&D campaign world, run a gourmet fantasy quest through ancient pantries and enchanted feasts, or embark on an epic journey across the **Five Cosmic Pantries**, this compendium provides a complete, original setting and ruleset.
 
 ```
  ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -40,7 +40,7 @@ Whether you want to drop these classes into your existing D&D campaign world, ru
 3. **Chapter 3: The Zymurgist (Fermentation Specialist) Hybrid Class** — Full 20-level Dexterity/Intelligence half-caster / rogue hybrid commanding the *Four Pillars of Fermentation* (Dairy, Kombucha, Alcohol, Brine).
 4. **Chapter 4: The Grill Master (*The Pitmaster*) Martial Class** — Full 20-level Strength/Constitution 1d12 powerhouse martial class mastering *Low-and-Slow* damage deferral, hardwood smoke plumes, searing iron brands, and legendary BBQ feasts.
 5. **Chapter 5: Circle of Wildcrafting Druid & Dedicated Wildcrafter** — Primal potion brewers crafting 9 magical draughts, witch doctor healing, and alchemical infusions.
-6. **Chapter 6: The Kitchen Bestiary** — 11 balanced D&D 2024 creature stat blocks (CR 1/2 to CR 17) inspired by *Overcooked 1 & 2*, *Battle Chef Brigade*, *Monster Hunter*, *Bugsnax*, and *Don't Starve*.
+6. **Chapter 6: The Kitchen Bestiary** — 11 balanced D&D 2024 creature stat blocks (CR 1/2 to CR 17) spanning monstrous foodstuffs, animated hearth constructs, culinary elementals, and legendary gastronomic entities.
 
 # **Chapter 1: New Base Class — The Bread Mage (Kenyérmágus)**
 
@@ -1655,40 +1655,41 @@ For campaigns and players who prefer to replace beast transformation entirely in
 
 ---
 
+
 # **Chapter 6: The Kitchen Bestiary — Creatures, Monsters, & Culinary Aberrations**
 
 ## **Overview & Gastronomic Ecology**
 
-> *"In the mortal realm, cooking is merely the preparation of sustenance. But in the primordial kitchen planes, along the cosmic food trade routes, and within the enchanted kitchens of the realm, culinary energy takes living form. From the terrifying, wailing tomato sauce of the Spaghetti Leviathan to the reanimated horde of stale Unbread and the adorable bouncing Dim Sum Sprites, the culinary ecosystem is as perilous as it is delicious."*  
-> — **Chef-Sage Kevin & The Grand Onion King**
+> *"In the mortal realm, cooking is merely the preparation of sustenance. But in the primordial kitchen planes, along the cosmic food trade routes, and within enchanted banquet halls, culinary energy takes living form. From the terrifying, wailing sauce of the Vermicelli Abyssal to the reanimated horde of Necro-Crust Thralls and the adorable bouncing Manna-Vapor Sprites, the culinary ecosystem is as perilous as it is wondrous."*  
+> — **Grand Sovereign Allium XIV & Lord Barnaby**
 
 ```
  ┌─────────────────────────────────────────────────────────────────────────────┐
  │                      THE KITCHEN BESTIARY OVERVIEW                          │
  ├────────────────────────────────┬─────┬──────────────────┬───────────────────┤
- │ Creature Name                  │ CR  │ Creature Type    │ Inspired By       │
+ │ Creature Name                  │ CR  │ Creature Type    │ Ecological Role   │
  ├────────────────────────────────┼─────┼──────────────────┼───────────────────┤
- │ 1. The Unbread Toast Minion    │ 1/2 │ Undead           │ Overcooked 2      │
- │ 2. The Unbread Loaf Juggernaut │ 3   │ Undead           │ Overcooked 2      │
- │ 3. Bouncing Bao Dim Sum Swarm  │ 2   │ Swarm of Fey     │ Overcooked/Bugsnax│
- │ 4. Palico Wok Skillet Knight   │ 3   │ Small Humanoid   │ Monster Hunter    │
- │ 5. Screaming Onion Volcano     │ 4   │ Medium Elemental │ Hibachi/Overcooked│
- │ 6. Boiling Fondue Ooze         │ 5   │ Large Ooze       │ Battle Chef / OC  │
- │ 7. Chimichanga Wyrm / Burrito  │ 7   │ Huge Dragonkin   │ Battle Chef / OC  │
- │ 8. Glazed Donut Drake          │ 9   │ Large Dragon     │ Battle Chef / Bug │
- │ 9. Great Crock Pot Chimera     │ 11  │ Huge Monstrosity │ Don't Starve      │
- │ 10. Spaghetti Leviathan        │ 14  │ Gargantuan Aber. │ Overcooked 1 Boss │
- │ 11. The Onion King & Kevin     │ 17  │ Legendary Fey    │ Overcooked 1 & 2  │
+ │ 1. Necro-Crust Thrall          │ 1/2 │ Undead           │ Stale Minion      │
+ │ 2. Sourdough Dreadnought       │ 3   │ Undead           │ Mold-Crust Brute  │
+ │ 3. Manna-Vapor Sprite Swarm    │ 2   │ Swarm of Fey     │ Steamed Swarm     │
+ │ 4. Felid Skillet-Chevalier     │ 3   │ Small Humanoid   │ Iron-Wok Knight   │
+ │ 5. Pyre-Shallot Geyser         │ 4   │ Medium Elemental │ Cinder Elemental  │
+ │ 6. Boiling Casein Ooze         │ 5   │ Large Ooze       │ Molten Cheese     │
+ │ 7. The Masa Wyrm               │ 7   │ Huge Dragonkin   │ Tortilla Wyrm     │
+ │ 8. Glazed Confection Drake     │ 9   │ Large Dragon     │ Sugar-Glass Drake │
+ │ 9. The Cauldron Behemoth       │ 11  │ Huge Monstrosity │ Kettle Chimera    │
+ │ 10. The Vermicelli Abyssal     │ 14  │ Gargantuan Aber. │ Marinara Kraken   │
+ │ 11. Grand Sovereign Allium     │ 17  │ Legendary Fey    │ Feast Monarch     │
  └────────────────────────────────┴─────┴──────────────────┴───────────────────┘
 ```
 
 ---
 
-### **1. The Unbread Toast Minion**
+### **1. Necro-Crust Thrall**
 *Small Undead, Neutral Evil*  
-*Burnt, stale slices of reanimated breakfast bread that claw up from compost bins and abandoned pantries, driven by an insatiable hungering rage.*
+*Burnt, calcified slices of stale bread animated by foul kitchen necromancy, clawing up from disposal pits with hungering malice.*
 
-* **Armor Class:** 12 (Stale Crust)
+* **Armor Class:** 12 (Hardened Crust)
 * **Hit Points:** 22 (4d6 + 8)
 * **Speed:** 30 ft.
 * **STR:** 12 (+1) | **DEX:** 14 (+2) | **CON:** 14 (+2) | **INT:** 4 (-3) | **WIS:** 8 (-1) | **CHA:** 4 (-3)
@@ -1698,18 +1699,18 @@ For campaigns and players who prefer to replace beast transformation entirely in
 * **Challenge:** 1/2 (100 XP) | **Proficiency Bonus:** +2
 
 **TRAITS:**  
-* **Stale Crust (Undead Fortitude):** If damage reduces the Unbread to 0 Hit Points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is Fire or from a Critical Hit. On a success, the Unbread drops to 1 Hit Point instead.  
-* **Sticky Jam Residue:** Any creature that hits the Unbread with a melee attack must succeed on a DC 12 Strength save or have its weapon stuck to the jam (escape DC 12 as an Action).  
+* **Calcified Crust (Undead Resilience):** If damage reduces the Thrall to 0 Hit Points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is Fire or from a Critical Hit. On a success, the Thrall drops to 1 Hit Point instead.  
+* **Congealed Preserve Residue:** Any creature that hits the Thrall with a melee weapon attack must succeed on a DC 12 Strength save or have its weapon temporarily stuck to the congealed fruit glue (escape DC 12 as an Action).  
 
 **ACTIONS:**  
 * **Burnt Crust Claws:** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) Slashing damage plus 2 (1d4) Fire damage.  
-* **Mold Spore Cough (Recharge 6):** The Unbread expels a 10-foot puff of green mold spores. Creatures in the area must succeed on a DC 12 Constitution save or take 7 (2d6) Poison damage and be Poisoned until the end of their next turn.
+* **Mold Spore Cough (Recharge 6):** The Thrall expels a 10-foot puff of necrotic mold spores. Creatures in the area must succeed on a DC 12 Constitution save or take 7 (2d6) Poison damage and be Poisoned until the end of their next turn.
 
 ---
 
-### **2. The Unbread Loaf Juggernaut**
+### **2. Sourdough Dreadnought**
 *Medium Undead, Neutral Evil*  
-*A colossal, mold-crusted sourdough loaf grown to hulking proportions, wielding stale baguette clubs and spitting boiling jam.*
+*A colossal, mold-petrified sourdough loaf grown to hulking proportions, wielding hardened baguette cudgels and firing pressurized boiling preserves.*
 
 * **Armor Class:** 15 (Reinforced Hardtack Armor)
 * **Hit Points:** 68 (8d8 + 32)
@@ -1721,17 +1722,17 @@ For campaigns and players who prefer to replace beast transformation entirely in
 * **Challenge:** 3 (700 XP) | **Proficiency Bonus:** +2
 
 **ACTIONS:**  
-* **Multiattack:** The Juggernaut makes two Baguette Club attacks.  
-* **Baguette Club Slam:** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 12 (2d8 + 3) Bludgeoning damage. If the target is Medium or smaller, it must make a DC 13 Strength save or be knocked Prone.  
-* **Boiling Strawberry Jam Cannon (Recharge 5–6):** *Ranged Weapon Attack:* +5 to hit, range 30/60 ft., one target. *Hit:* 14 (3d8) Scalding Fire and Acid damage, and the target is Restrained by hardening jam (escape DC 13).
+* **Multiattack:** The Dreadnought makes two Baguette Cudgel attacks.  
+* **Baguette Cudgel Slam:** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 12 (2d8 + 3) Bludgeoning damage. If the target is Medium or smaller, it must make a DC 13 Strength save or be knocked Prone.  
+* **Pressurized Boiling Preserve Cannon (Recharge 5–6):** *Ranged Weapon Attack:* +5 to hit, range 30/60 ft., one target. *Hit:* 14 (3d8) Scalding Fire and Acid damage, and the target is Restrained by congealing preserve glaze (escape DC 13).
 
 ---
 
-### **3. Bouncing Bao Dim Sum Swarm**
+### **3. Manna-Vapor Sprite Swarm**
 *Medium Swarm of Tiny Fey, Chaotic Neutral*  
-*A skittering, giggling swarm of hot steamed pork bao, sweet custard dumplings, and spicy potstickers that bounce across table surfaces, scalding greedy eaters.*
+*A skittering, squeaking swarm of delicate steamed dough sprites infused with boiling savory broth, bouncing gracefully before popping with explosive steam.*
 
-* **Armor Class:** 13 (Steamed Elastic Dough)
+* **Armor Class:** 13 (Elastic Steamed Dough)
 * **Hit Points:** 36 (8d8)
 * **Speed:** 30 ft., Jump 20 ft.
 * **STR:** 10 (+0) | **DEX:** 16 (+3) | **CON:** 11 (+0) | **INT:** 6 (-2) | **WIS:** 12 (+1) | **CHA:** 14 (+2)
@@ -1740,18 +1741,18 @@ For campaigns and players who prefer to replace beast transformation entirely in
 * **Challenge:** 2 (450 XP) | **Proficiency Bonus:** +2
 
 **TRAITS:**  
-* **Swarm:** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny bun.  
-* **Steamer Basket Cloud:** The swarm is perpetually surrounded by a 5-foot aura of dense steam (Heavily Obscured).  
+* **Swarm:** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny sprite.  
+* **Vapor Cloak:** The swarm is perpetually surrounded by a 5-foot aura of dense culinary steam (Heavily Obscured).  
 
 **ACTIONS:**  
-* **Bao Nibble & Scalding Broth:** *Melee Weapon Attack:* +5 to hit, reach 0 ft., one creature in the swarm's space. *Hit:* 10 (2d6 + 3) Piercing damage plus 7 (2d6) Scalding Fire damage, or 5 (1d4 + 3) Piercing damage plus 3 (1d6) Fire damage if the swarm has half of its hit points or fewer.  
-* **Explosive Custard Pop:** When the swarm is reduced to 0 HP, it explodes in a 10-foot radius of boiling sweet cream. All creatures in the area must make a DC 13 Dexterity save, taking 10 (3d6) Fire damage on a failed save, or half on a success.
+* **Sprite Nibble & Scalding Broth:** *Melee Weapon Attack:* +5 to hit, reach 0 ft., one creature in the swarm's space. *Hit:* 10 (2d6 + 3) Piercing damage plus 7 (2d6) Scalding Fire damage, or 5 (1d4 + 3) Piercing damage plus 3 (1d6) Fire damage if the swarm has half of its hit points or fewer.  
+* **Explosive Custard Eruption:** When the swarm is reduced to 0 HP, it explodes in a 10-foot radius of boiling sweet cream. All creatures in the area must make a DC 13 Dexterity save, taking 10 (3d6) Fire damage on a failed save, or half on a success.
 
 ---
 
-### **4. Palico Wok Skillet Knight**
+### **4. Felid Skillet-Chevalier**
 *Small Humanoid / Beast, Lawful Good*  
-*A proud, armored feline master chef of the hunter guilds, wielding a smoking cast-iron wok as both shield and cooking surface while flipping battle morsels.*
+*A proud, armored feline master chef of the guild kitchens, wielding a heavy cast-iron wok as both shield and blazing cooking surface.*
 
 * **Armor Class:** 16 (Studded Leather + Cast-Iron Wok Shield)
 * **Hit Points:** 55 (10d6 + 20)
@@ -1761,18 +1762,18 @@ For campaigns and players who prefer to replace beast transformation entirely in
 * **Challenge:** 3 (700 XP) | **Proficiency Bonus:** +2
 
 **ACTIONS:**  
-* **Multiattack:** The Skillet Knight makes two Ladle Strikes.  
+* **Multiattack:** The Chevalier makes two Ladle Strikes.  
 * **Blazing Steel Ladle:** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) Bludgeoning damage plus 4 (1d8) Fire damage.  
-* **Hot Miso Splash (Recharge 4–6):** The Knight scoops boiling broth from its wok and hurls it in a 15-foot cone. Each creature in the area must make a DC 13 Dexterity save, taking 14 (4d6) Fire damage and being Blinded until the end of its next turn on a failed save, or half damage on a success.  
+* **Hot Broth Splash (Recharge 4–6):** The Chevalier scoops boiling seasoned broth from its wok and hurls it in a 15-foot cone. Each creature in the area must make a DC 13 Dexterity save, taking 14 (4d6) Fire damage and being Blinded until the end of its next turn on a failed save, or half damage on a success.  
 
 **REACTIONS:**  
-* **Wok Deflection:** When hit by a melee or ranged attack, the Knight adds +3 to its AC against the attack by parrying with its heavy wok. If the attack misses, the attacker takes 5 (1d10) Fire damage from the heated iron.
+* **Wok Deflection:** When hit by a melee or ranged attack, the Chevalier adds +3 to its AC against the attack by parrying with its heavy wok. If the attack misses, the attacker takes 5 (1d10) Fire damage from the heated iron.
 
 ---
 
-### **5. Screaming Onion Volcano**
+### **5. Pyre-Shallot Geyser**
 *Medium Elemental, Neutral Evil*  
-*A stack of sentient, flaming onion rings that vents superheated wasabi vapors and hurls spinning fiery rings like deadly chakrams.*
+*A stacked tower of sentient, glowing shallot layers that vents superheated pungent vapors and hurls spinning concentric ring-blades.*
 
 * **Armor Class:** 14 (Natural Vegetable Layers)
 * **Hit Points:** 65 (10d8 + 20)
@@ -1783,15 +1784,15 @@ For campaigns and players who prefer to replace beast transformation entirely in
 * **Challenge:** 4 (1,100 XP) | **Proficiency Bonus:** +2
 
 **ACTIONS:**  
-* **Multiattack:** The Volcano makes two Onion Ring Chakram attacks.  
-* **Flaming Onion Ring Chakram:** *Ranged Weapon Attack:* +5 to hit, range 30/60 ft., one target. *Hit:* 8 (1d10 + 3) Slashing damage plus 7 (2d6) Fire damage.  
-* **Volcanic Wasabi Eruption (Recharge 5–6):** The Volcano erupts in a 20-foot-radius sphere of burning green vapor and boiling oil. All creatures in the area must make a DC 13 Constitution save. On a failed save, a creature takes 18 (4d8) Fire and Acid damage, is Blinded for 1 minute, and spends its next turn incapacitated by uncontrollable coughing. On a success, it takes half damage and is not blinded or coughing.
+* **Multiattack:** The Geyser makes two Concentric Ring Chakram attacks.  
+* **Concentric Ring Chakram:** *Ranged Weapon Attack:* +5 to hit, range 30/60 ft., one target. *Hit:* 8 (1d10 + 3) Slashing damage plus 7 (2d6) Fire damage.  
+* **Volcanic Pungent Eruption (Recharge 5–6):** The Geyser erupts in a 20-foot-radius sphere of stinging sulfurous vapor and boiling oil. All creatures in the area must make a DC 13 Constitution save. On a failed save, a creature takes 18 (4d8) Fire and Acid damage, is Blinded for 1 minute, and spends its next turn incapacitated by uncontrollable coughing. On a success, it takes half damage and is not blinded or coughing.
 
 ---
 
-### **6. Boiling Fondue Ooze**
+### **6. Boiling Casein Ooze**
 *Large Ooze, Unaligned*  
-*A bubbling, golden-yellow mass of melted gruyère, emmental, and white wine that glides along dungeon stone, dissolving metal and trapping adventurers in hardened cheese crusts.*
+*A bubbling, golden-yellow mass of melted artisan cheeses and white wine that glides along stone, dissolving metal and trapping prey in cooling dairy rock.*
 
 * **Armor Class:** 10
 * **Hit Points:** 85 (10d10 + 30)
@@ -1802,19 +1803,19 @@ For campaigns and players who prefer to replace beast transformation entirely in
 * **Challenge:** 5 (1,800 XP) | **Proficiency Bonus:** +3
 
 **TRAITS:**  
-* **Boiling Cheese Body:** Any creature that touches the Ooze or hits it with a melee attack while within 5 feet takes 7 (2d6) Fire damage. Non-magical metal weapons that strike the Ooze suffer a permanent -1 penalty to damage rolls as cheese melts into the mechanics.  
+* **Molten Casein Body:** Any creature that touches the Ooze or hits it with a melee attack while within 5 feet takes 7 (2d6) Fire damage. Non-magical metal weapons that strike the Ooze suffer a permanent -1 penalty to damage rolls as cheese melts into the mechanics.  
 
 **ACTIONS:**  
-* **Fondue Pseudopod:** *Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 10 (2d6 + 3) Bludgeoning damage plus 10 (3d6) Fire damage and 7 (2d6) Acid damage. If the target is Medium or smaller, it is Grappled (escape DC 14).  
-* **Hardening Cheese Encasement (Recharge 5–6):** The Ooze spews cooling cheese over a creature it is grappling. The creature must make a DC 14 Strength save or be **Restrained** in solid cheese rock (AC 15, 30 HP). A restrained target takes 10 (3d6) Fire damage at the start of each of its turns until it breaks free.
+* **Fromage Pseudopod:** *Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 10 (2d6 + 3) Bludgeoning damage plus 10 (3d6) Fire damage and 7 (2d6) Acid damage. If the target is Medium or smaller, it is Grappled (escape DC 14).  
+* **Hardening Casein Encasement (Recharge 5–6):** The Ooze spews cooling cheese over a creature it is grappling. The creature must make a DC 14 Strength save or be **Restrained** in solid dairy stone (AC 15, 30 HP). A restrained target takes 10 (3d6) Fire damage at the start of each of its turns until it breaks free.
 
 ---
 
-### **7. The Chimichanga Wyrm (Burrito Golem)**
+### **7. The Masa Wyrm**
 *Huge Dragonkin / Construct, Unaligned*  
-*A massive serpentine beast tightly wrapped in a flame-toasted flour tortilla, filled with molten spiced beef, habanero peppers, and bubbling queso.*
+*A massive serpentine beast armored in flame-toasted corn masa and spiced scales, filled with simmering spiced meats and bubbling cheese.*
 
-* **Armor Class:** 16 (Crispy Toasted Tortilla Scales)
+* **Armor Class:** 16 (Crispy Toasted Masa Scales)
 * **Hit Points:** 115 (11d12 + 44)
 * **Speed:** 40 ft., Burrow 20 ft.
 * **STR:** 20 (+5) | **DEX:** 12 (+1) | **CON:** 18 (+4) | **INT:** 6 (-2) | **WIS:** 12 (+1) | **CHA:** 8 (-1)
@@ -1824,16 +1825,16 @@ For campaigns and players who prefer to replace beast transformation entirely in
 * **Challenge:** 7 (2,900 XP) | **Proficiency Bonus:** +3
 
 **ACTIONS:**  
-* **Multiattack:** The Wyrm makes one Bite attack and one Tortilla Tail Slam.  
-* **Crispy Tortilla Bite:** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 16 (2d10 + 5) Piercing damage plus 7 (2d6) Fire damage.  
-* **Tortilla Tail Slam:** *Melee Weapon Attack:* +8 to hit, reach 15 ft., one target. *Hit:* 14 (2d8 + 5) Bludgeoning damage, and the target must make a DC 16 Strength save or be knocked Prone.  
-* **Molten Queso Breath (Recharge 5–6):** The Wyrm exhales a 30-foot cone of scalding, sticky cheese and habanero salsa. Each creature in the cone must make a DC 15 Dexterity save, taking 31 (7d8) Fire and Acid damage and having its speed reduced to 0 on a failed save, or half damage on a success.
+* **Multiattack:** The Wyrm makes one Bite attack and one Masa Tail Slam.  
+* **Crispy Masa Bite:** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 16 (2d10 + 5) Piercing damage plus 7 (2d6) Fire damage.  
+* **Masa Tail Slam:** *Melee Weapon Attack:* +8 to hit, reach 15 ft., one target. *Hit:* 14 (2d8 + 5) Bludgeoning damage, and the target must make a DC 16 Strength save or be knocked Prone.  
+* **Molten Queso Breath (Recharge 5–6):** The Wyrm exhales a 30-foot cone of scalding, sticky cheese and spiced pepper glaze. Each creature in the cone must make a DC 15 Dexterity save, taking 31 (7d8) Fire and Acid damage and having its speed reduced to 0 on a failed save, or half damage on a success.
 
 ---
 
-### **8. Glazed Donut Drake**
+### **8. Glazed Confection Drake**
 *Large Dragon, Chaotic Neutral*  
-*A majestic, sugar-winged dragon with sparkling sugar-glass scales, glowing raspberry jelly breath, and a tail tipped with a hard-candied sprinkle mace.*
+*A dazzling dragon with crystallized sugar-glass scales, rainbow-sprinkle talons, and a scalding breath of superheated fruit preserves.*
 
 * **Armor Class:** 17 (Crystallized Sugar-Glass Glaze)
 * **Hit Points:** 142 (15d10 + 60)
@@ -1848,14 +1849,14 @@ For campaigns and players who prefer to replace beast transformation entirely in
 * **Multiattack:** The Drake makes one Bite attack and two Claw attacks.  
 * **Sugar-Glass Bite:** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 15 (2d10 + 4) Piercing damage plus 9 (2d8) Radiant damage.  
 * **Sprinkle Claw:** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) Slashing damage.  
-* **Scalding Raspberry Jelly Breath (Recharge 5–6):** The Drake exhales a 40-foot cone of superheated, acidic raspberry jelly. Each creature in the area must make a DC 16 Dexterity save, taking 45 (10d8) Fire and Acid damage and being Blinded for 1 minute on a failed save, or half damage on a success.  
-* **Sugar Rush (1/Day):** The Drake enters a state of hyper-speed for 1 minute (functioning as *Haste* without lethargy).
+* **Scalding Berry Glaze Breath (Recharge 5–6):** The Drake exhales a 40-foot cone of superheated, acidic fruit glaze. Each creature in the area must make a DC 16 Dexterity save, taking 45 (10d8) Fire and Acid damage and being Blinded for 1 minute on a failed save, or half damage on a success.  
+* **Sugar Acceleration (1/Day):** The Drake enters a state of hyper-speed for 1 minute (functioning as *Haste* without lethargy).
 
 ---
 
-### **9. The Great Crock Pot Chimera**
+### **9. The Cauldron Behemoth**
 *Huge Monstrosity, Unaligned*  
-*An arcane fusion of living cast-iron cauldron, roaring dragon head, and heavy beast legs. It swallows ingredients thrown into its bubbling broth to dynamically change its elemental breath attacks.*
+*A living fusion of enchanted cast-iron kettle, dragon head, and heavy ironwood legs, dynamically changing its elemental breath based on the herbs and reagents simmering within its belly.*
 
 * **Armor Class:** 18 (Cast-Iron Kettle Body)
 * **Hit Points:** 178 (17d12 + 68)
@@ -1868,23 +1869,23 @@ For campaigns and players who prefer to replace beast transformation entirely in
 * **Challenge:** 11 (7,200 XP) | **Proficiency Bonus:** +4
 
 **TRAITS:**  
-* **Dynamic Recipe Brew:** At the start of its turn, the Chimera’s internal stew bubbles into one of four recipes:
-  1. *Dragonpie Brew:* Its attacks deal bonus **Fire damage**, and it gains an aura of roaring flame.
-  2. *Monster Lasagna:* Its attacks deal bonus **Necrotic/Poison damage**, and it inflicts the Poisoned condition.
-  3. *Spicy Chili Stew:* Its speed increases by 20 ft., and its breath weapon deals **Acid/Fire damage**.
-  4. *Meaty Stew:* It regenerates **15 Hit Points** at the start of its turn.
+* **Dynamic Broth Catalyst:** At the start of its turn, the Behemoth’s internal cauldron shifts into one of four magical broths:
+  1. *Dragon-Pepper Broth:* Its attacks deal bonus **Fire damage**, and it gains an aura of roaring flame.
+  2. *Blight-Root Infusion:* Its attacks deal bonus **Necrotic/Poison damage**, and it inflicts the Poisoned condition.
+  3. *Spiced Cider Simmer:* Its speed increases by 20 ft., and its breath weapon deals **Acid/Fire damage**.
+  4. *Restorative Marrow Stew:* It regenerates **15 Hit Points** at the start of its turn.
 
 **ACTIONS:**  
-* **Multiattack:** The Chimera makes three attacks: one Cauldron Bite and two Iron Ladle Stomp attacks.  
+* **Multiattack:** The Behemoth makes three attacks: one Cauldron Bite and two Iron Ladle Stomp attacks.  
 * **Cauldron Bite:** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 19 (2d12 + 6) Piercing damage plus 9 (2d8) Fire damage.  
 * **Iron Ladle Stomp:** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 15 (2d8 + 6) Bludgeoning damage.  
-* **Boiling Stew Breath (Recharge 5–6):** The Chimera disgorges a 50-foot cone of boiling stew. Each creature in the area must make a DC 17 Constitution save, taking 54 (12d8) damage of its current recipe type and being pushed 20 feet away on a failed save, or half damage on a success.
+* **Boiling Broth Eruption (Recharge 5–6):** The Behemoth disgorges a 50-foot cone of boiling broth. Each creature in the area must make a DC 17 Constitution save, taking 54 (12d8) damage of its current broth type and being pushed 20 feet away on a failed save, or half damage on a success.
 
 ---
 
-### **10. The Spaghetti Leviathan & Meatball Behemoth**
+### **10. The Vermicelli Abyssal**
 *Gargantuan Aberration / Monstrosity, Chaotic Evil*  
-*The ultimate nightmare of the culinary cosmos: a 100-foot-tall horror of boiling marinara sauce, writhing al dente pasta tentacles, and flaming parmesan-shielded meatball boulders.*
+*A 100-foot-tall horror from the deep sauce trenches, composed of thousands of writhing al dente pasta tendrils, a bubbling acidic marinara core, and crushing parmesan-crusted meatball boulders.*
 
 * **Armor Class:** 19 (Parmesan-Crusted Meatball Core & Swirling Pasta)
 * **Hit Points:** 264 (16d20 + 96)
@@ -1898,29 +1899,29 @@ For campaigns and players who prefer to replace beast transformation entirely in
 * **Challenge:** 14 (11,500 XP) | **Proficiency Bonus:** +5
 
 **TRAITS:**  
-* **Boiling Marinara Aura:** The ground within 30 feet of the Leviathan is flooded with boiling red sauce. Hostile creatures treat the area as Difficult Terrain and take 14 (4d6) Fire and Acid damage when they enter the aura for the first time on a turn or start their turn there.  
-* **Legendary Resistance (3/Day):** If the Leviathan fails a saving throw, it can choose to succeed instead.  
+* **Boiling Marinara Aura:** The ground within 30 feet of the Abyssal is flooded with boiling red sauce. Hostile creatures treat the area as Difficult Terrain and take 14 (4d6) Fire and Acid damage when they enter the aura for the first time on a turn or start their turn there.  
+* **Legendary Resistance (3/Day):** If the Abyssal fails a saving throw, it can choose to succeed instead.  
 
 **ACTIONS:**  
-* **Multiattack:** The Leviathan makes four attacks: three Pasta Tentacle Slams and one Meatball Catapult.  
-* **Pasta Tentacle Slam:** *Melee Weapon Attack:* +13 to hit, reach 20 ft., one target. *Hit:* 21 (3d8 + 8) Bludgeoning damage plus 9 (2d8) Fire damage. The target is Grappled (escape DC 19) and Restrained. The Leviathan has 8 tentacles, each of which can grapple one creature.  
+* **Multiattack:** The Abyssal makes four attacks: three Pasta Tendril Slams and one Meatball Catapult.  
+* **Pasta Tendril Slam:** *Melee Weapon Attack:* +13 to hit, reach 20 ft., one target. *Hit:* 21 (3d8 + 8) Bludgeoning damage plus 9 (2d8) Fire damage. The target is Grappled (escape DC 19) and Restrained. The Abyssal has 8 tentacles, each of which can grapple one creature.  
 * **Flaming Meatball Catapult:** *Ranged Weapon Attack:* +13 to hit, range 60/180 ft., one target. *Hit:* 27 (3d12 + 8) Bludgeoning damage plus 14 (4d6) Fire damage, and the target must make a DC 19 Strength save or be knocked Prone.  
-* **Great Marinara Tsunami (Recharge 5–6):** The Leviathan unleashes a 60-foot wave of boiling tomato sauce and garlic shrapnel. All creatures in the area must make a DC 19 Dexterity save, taking 58 (13d8) Fire and Acid damage and being washed 40 feet away on a failed save, or half damage on a success.
+* **Great Marinara Tsunami (Recharge 5–6):** The Abyssal unleashes a 60-foot wave of boiling tomato sauce and garlic shrapnel. All creatures in the area must make a DC 19 Dexterity save, taking 58 (13d8) Fire and Acid damage and being washed 40 feet away on a failed save, or half damage on a success.
 
 **LEGENDARY ACTIONS (3/Round):**  
-1. **Tentacle Lash:** The Leviathan makes one Pasta Tentacle attack.  
-2. **Parmesan Dust (2 Actions):** The Leviathan shakes a cloud of sharp parmesan cheese crystals in a 20-foot radius. Enemies must make a DC 19 Con save or be Blinded until the end of their next turn.  
-3. **Meatball Roll (3 Actions):** The Leviathan hurls a rolling meatball in a 60-foot line (3d10 Bludgeoning damage + knocks all creatures Prone on failed DC 19 Dex save).
+1. **Tendril Lash:** The Abyssal makes one Pasta Tendril attack.  
+2. **Parmesan Dust (2 Actions):** The Abyssal shakes a cloud of sharp cheese crystals in a 20-foot radius. Enemies must make a DC 19 Con save or be Blinded until the end of their next turn.  
+3. **Meatball Roll (3 Actions):** The Abyssal hurls a rolling meatball in a 60-foot line (3d10 Bludgeoning damage + knocks all creatures Prone on failed DC 19 Dex save).
 
 ---
 
-### **11. The Grand Onion King & Royal Chef Kevin**
+### **11. Grand Sovereign Allium & The Celestial Hearth-Hound**
 *Medium Fey / Celestial (Mythic Monarch), Chaotic Good*  
-*The legendary ruler of the Infinite Kitchens, crowned with golden onion rings, seated on his royal kitchen throne, and accompanied by Kevin, the magical flying chef hound.*
+*The immortal ruler of the Grand Feasts, crowned with golden caramel rings and wielding the royal rolling pin scepter alongside Lord Barnaby, the flying celestial hearth-hound.*
 
-* **Armor Class:** 20 (Royal Chef Robes + Ethereal Apron)
+* **Armor Class:** 20 (Royal Feast Robes + Ethereal Apron)
 * **Hit Points:** 290 (20d8 + 200)
-* **Speed:** 40 ft., Fly 40 ft. (hover via Kevin's guidance)
+* **Speed:** 40 ft., Fly 40 ft. (hover via celestial guidance)
 * **STR:** 16 (+3) | **DEX:** 20 (+5) | **CON:** 22 (+6) | **INT:** 20 (+5) | **WIS:** 22 (+6) | **CHA:** 24 (+7)
 * **Saving Throws:** Dex +11, Con +12, Wis +12, Cha +13
 * **Skills:** Cook's Utensils +18, Perception +12, Performance +13, Insight +12
@@ -1931,18 +1932,18 @@ For campaigns and players who prefer to replace beast transformation entirely in
 * **Challenge:** 17 (18,000 XP) | **Proficiency Bonus:** +6
 
 **TRAITS:**  
-* **Order Ticket Timer (Mythic Aura):** The Onion King projects an aura of fast-paced culinary urgency in a 60-foot radius. On count 20 of each round, a conveyor belt shifts beneath the feet of all creatures in the area, moving them 15 feet in a direction the Onion King chooses unless they succeed on a DC 19 Dexterity save.  
-* **Kevin's Loyal Guidance:** Kevin the chef dog barks encouraging advice. The Onion King and all friendly creatures within 30 feet have Advantage on all saving throws and cannot be surprised.  
-* **Legendary Resistance (3/Day):** If the Onion King fails a saving throw, he can choose to succeed instead.
+* **The Grand Service Rush (Mythic Aura):** Sovereign Allium projects an aura of fast-paced culinary urgency in a 60-foot radius. On count 20 of each round, a kinetic conveyor belt shifts beneath the feet of all creatures in the area, moving them 15 feet in a direction Sovereign Allium chooses unless they succeed on a DC 19 Dexterity save.  
+* **Lord Barnaby's Loyal Guidance:** Lord Barnaby the hearth-hound barks encouraging advice. Sovereign Allium and all friendly creatures within 30 feet have Advantage on all saving throws and cannot be surprised.  
+* **Legendary Resistance (3/Day):** If Sovereign Allium fails a saving throw, he can choose to succeed instead.
 
 **ACTIONS:**  
-* **Multiattack:** The Onion King makes three Royal Scepter (Rolling Pin) strikes.  
+* **Multiattack:** Sovereign Allium makes three Royal Scepter (Rolling Pin) strikes.  
 * **Golden Rolling Pin of the Crown:** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 16 (2d10 + 5) Bludgeoning damage plus 14 (4d6) Radiant or Fire damage.  
-* **Order Up! (Recharge 5–6):** The Onion King rings his magical service bell. Four piping-hot, legendary gourmet dishes materialize in unoccupied spaces within 60 feet. Allies that touch a dish regain 40 Hit Points and gain the benefits of *Haste* for 1 turn. Enemies that touch a dish must make a DC 19 Con save or take 36 (8d8) Fire/Radiant damage from overwhelming flavor shock.  
+* **Service Is Served! (Recharge 5–6):** Sovereign Allium rings his celestial service bell. Four piping-hot, legendary gourmet dishes materialize in unoccupied spaces within 60 feet. Allies that touch a dish regain 40 Hit Points and gain the benefits of *Haste* for 1 turn. Enemies that touch a dish must make a DC 19 Con save or take 36 (8d8) Fire/Radiant damage from overwhelming flavor shock.  
 
 **LEGENDARY ACTIONS (3/Round):**  
-1. **Kevin's Bark:** Kevin barks fiercely, granting one ally within 60 feet Heroic Inspiration or forcing one enemy to make a DC 19 Wis save or be Frightened for 1 round.  
-2. **Conveyor Belt Surge (2 Actions):** The Onion King spins the battlefield floor, sliding up to three creatures within 60 feet 20 feet in any direction.  
-3. **Flambé Scepter Wave (3 Actions):** The Onion King sweeps his rolling pin, creating a 30-foot cone of radiant culinary fire (8d8 Fire and Radiant damage, DC 19 Dex save for half).
+1. **Barnaby's Inspiring Bark:** Lord Barnaby barks fiercely, granting one ally within 60 feet Heroic Inspiration or forcing one enemy to make a DC 19 Wis save or be Frightened for 1 round.  
+2. **Conveyor Floor Surge (2 Actions):** Sovereign Allium spins the battlefield floor, sliding up to three creatures within 60 feet 20 feet in any direction.  
+3. **Flambé Scepter Wave (3 Actions):** Sovereign Allium sweeps his rolling pin, creating a 30-foot cone of radiant culinary fire (8d8 Fire and Radiant damage, DC 19 Dex save for half).
 
 ---
