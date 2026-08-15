@@ -2271,3 +2271,290 @@ You have become one with the eternal cycle of fermentation:
 *   You can also apply this effect to a willing, dying ally to preserve its soul and body indefinitely until healed.
 
 ---
+
+---
+
+# **Chapter 9: New Martial Class — The Grill Master (The Pitmaster)**
+
+## **Class Overview & Mechanics**
+
+> *"Anyone can burn a steak on a campfire. But it takes a true Pitmaster to tame the roaring hickory, to nurse the glowing lump charcoal through a sixteen-hour midnight vigil, to craft the sacred dry rub, and to command the iron grate with the authority of an emperor. The pit is my forge, the smoke is my armor, and the blade is my carving knife. Step up to my grill... if you can handle the heat."*  
+> — **Hank 'Big Iron' MacTavish, Grandmaster of the Mesquite Pit**
+
+```
+          .---.
+         /     \         [THE GRILL MASTER (PITMASTER)]
+        | () () |        - Hit Die: 1d12 per Grill Master level
+         \  =  /         - Primary Abilities: Strength (Heavy Cleavers/Grates) & Constitution (Heat/Smoke Endurance)
+         /|   |\         - Resource Engine: Coal Points (Pit Briquette Pool)
+        / |   | \        - Armor: Light, Medium, Heavy Armor, Shields (Heavy Pitmaster Apron)
+       (  |___|  )       - Weapons: Simple & Martial Weapons, Improvised BBQ Implements (Tongs, Cleavers, Spits)
+          /   \          - Saving Throws: Strength, Constitution
+         (     )         - Core Identity: Hardwood Smoke Plumes, Low-and-Slow Damage Deferral, Searing Brands, BBQ Feasts
+```
+
+The **Grill Master** (often titled the *Pitmaster*, *Flame Tender*, or *Sovereign of the Smoker*) is a colossal, heavy-hitting martial powerhouse who wields the primordial authority of glowing lump charcoal, hardwood smoke, iron grates, heavy butcher cleavers, and searing barbecue implements.
+
+Born from frontier smokehouses, roadside cookouts, and ancient campfires where warriors gather after bloody campaigns, Grill Masters do not fight with delicate finesse. They fight with the unyielding stamina of a sixteen-hour low-and-slow brisket smoke, shielding allies with clouds of aromatic mesquite smoke, searing crosshatch grill marks into monster hides, parrying fatal blows with heavy iron tongs, and feeding entire warbands with restorative barbecue feasts that make soldiers fight like demigods.
+
+---
+
+## **Grill Master Class Progression Table**
+
+| Level | PB | Class Features | Coal Points | Searing Die | Weapon Mastery |
+| :---: | :---: | :--- | :---: | :---: | :---: |
+| **1st** | +2 | Weapon Mastery (3), Pitmaster's Apron, Searing Pit Arts, The Tong Clack | 3 | 1d6 | 3 |
+| **2nd** | +2 | Low-and-Slow (Damage Deferral), Hardwood Smoke Plume | 4 | 1d6 | 3 |
+| **3rd** | +2 | Barbecue Style / Pitmaster Tradition (Subclass Feature) | 5 | 1d6 | 3 |
+| **4th** | +2 | Ability Score Improvement / Feat | 6 | 1d6 | 4 |
+| **5th** | +3 | Extra Attack, Searing Charcoal Sunder (Ignore Fire Resistance) | 7 | 1d8 | 4 |
+| **6th** | +3 | Subclass Feature | 8 | 1d8 | 4 |
+| **7th** | +3 | Hickory Iron Resilience (Con Save Mastery) | 9 | 1d8 | 4 |
+| **8th** | +3 | Ability Score Improvement / Feat | 10 | 1d8 | 4 |
+| **9th** | +4 | The Perfect Bark (*A Tökéletes Kéreg*), Heavy Smoke Stagger | 11 | 1d8 | 4 |
+| **10th** | +4 | Subclass Feature | 12 | 1d8 | 5 |
+| **11th** | +4 | Master Carver (19-20 Critical Hit & Sunder) | 13 | 1d10 | 5 |
+| **12th** | +4 | Ability Score Improvement / Feat | 14 | 1d10 | 5 |
+| **13th** | +5 | Rolling Coal Wave (30-ft Seething Ember Wave) | 15 | 1d10 | 5 |
+| **14th** | +5 | Subclass Feature (Grand Pitmastery) | 16 | 1d10 | 5 |
+| **15th** | +5 | Grand Pit Hospitality (Combat Morsel Intercept) | 17 | 1d10 | 5 |
+| **16th** | +5 | Ability Score Improvement / Feat | 18 | 1d10 | 5 |
+| **17th** | +6 | Searing Hearth Transcendence (Fire Immunity) | 19 | 1d12 | 5 |
+| **18th** | +6 | Avatar of the Eternal Smoker (30-ft Mesquite Aura) | 20 | 1d12 | 5 |
+| **19th** | +6 | Epic Boon Feat (D&D 2024 Standard) | 22 | 1d12 | 5 |
+| **20th** | +6 | Supreme Lord of the Pit (The Grand Smokehouse Cataclysm) | 24 | 1d12 | 5 |
+
+---
+
+## **Class Features**
+
+### **Hit Points & Proficiencies**
+*   **Hit Dice:** 1d12 per Grill Master level
+*   **Hit Points at 1st Level:** 12 + your Constitution modifier
+*   **Hit Points at Higher Levels:** 1d12 (or 7) + your Constitution modifier per Grill Master level after 1st
+*   **Armor Proficiencies:** Light Armor, Medium Armor, Heavy Armor, Shields
+*   **Weapon Proficiencies:** Simple Weapons, Martial Weapons, Improvised Cooking Weapons (Heavy Iron Tongs, Meat Hooks, Spits, Butcher Cleavers, Searing Brands, Cast-Iron Grates)
+*   **Tool Proficiencies:** Cook's Utensils (**Expertise:** Add double your Proficiency Bonus to any check using Cook's Utensils) and Woodcarver's Tools or Smith's Tools
+*   **Saving Throws:** **Strength**, **Constitution**
+*   **Skills:** Choose three from *Athletics*, *Animal Handling*, *Insight*, *Intimidation*, *Nature*, *Perception*, *Performance*, and *Survival*.
+
+---
+
+### **Level 1: Weapon Mastery**
+Your mastery of butchery and iron implements grants you martial supremacy. You gain **Weapon Mastery** with **three weapons** of your choice (such as Greataxes, Greatswords, Warhammers, Halberds, Morningstars, or Handaxes). Whenever you finish a Long Rest, you can change one of your mastered weapons. You gain additional masteries at higher levels as indicated in the table.
+
+---
+
+### **Level 1: Pitmaster's Apron & Hearth Toughness**
+Your skin and clothing are tempered by years of boiling grease, popping embers, and blistering pit heat:
+*   You gain permanent **Resistance to Fire damage**.
+*   **Pitmaster's Apron:** While wearing armor or your heavy leather Pitmaster's Apron, you can calculate your AC as **10 + your Constitution modifier + your Strength modifier (max 2) + Shield bonus**.
+
+---
+
+### **Level 1: Searing Pit Arts & The Tong Clack**
+You harness the glowing fury of the lump charcoal pit. You have a pool of **Coal Points** equal to **your Grill Master level + your Constitution modifier** (minimum of 3 points). You regain all expended Coal Points when you finish a **Short or Long Rest**.
+
+You can expend Coal Points to activate the following Pit Arts:
+
+*   **Crosshatch Sear:** When you hit a creature with a melee weapon attack, you can expend **1 Coal Point** to burn glowing crosshatch grill marks into its flesh or armor. The target takes extra **Fire damage equal to one roll of your Searing Die (1d6) + your Strength modifier**, and its movement speed is reduced by **10 feet** until the end of its next turn as charred sinew tightens.
+*   **The Tong Clack (Rhythmic Parry):** When a creature hits you or an ally within 5 feet with a melee attack, you can use your **Reaction** and expend **1 Coal Point** to clack your iron tongs twice with authoritative force. You add your **Constitution modifier to the target's AC** against the triggering attack. If the attack misses, you immediately bash the attacker with your heavy tongs, dealing **Bludgeoning and Fire damage equal to your Searing Die + your Strength modifier**.
+*   **Dry-Rub Toss:** As a **Bonus Action** (1 Coal Point), you throw a handful of spicy cayenne, cracked black pepper, and coarse salt at a creature within **15 feet**. The target must make a Constitution saving throw against your **Pit Save DC (8 + PB + Constitution modifier)** or take **Fire/Acid damage equal to your Searing Die** and gain the **Blinded condition** until the start of your next turn.
+
+---
+
+### **Level 2: Low-and-Slow (Damage Deferral) & Smoke Plume**
+*   **Low-and-Slow:** You possess the legendary endurance of a 16-hour hickory smoke. When you take damage from any source, you can use your **Reaction** to defer half of that damage into a slow burn. You take half the damage immediately, and the remaining half is converted into a slow burn, dealing **1d4 Fire damage** to you at the end of each of your next turns until the deferred amount is paid. (While this slow burn is active, you are filled with adrenaline, gaining **Advantage on Strength checks and attack rolls**).
+*   **Hardwood Smoke Plume:** As a **Bonus Action** (1 Coal Point), you exhale or vent a 15-foot cone of thick, aromatic mesquite and hickory smoke. The area is **Heavily Obscured** for 1 minute. Hostile creatures inside the smoke have Disadvantage on attack rolls and perception checks.
+
+---
+
+### **Level 3: Barbecue Style / Pitmaster Tradition (Subclass)**
+At 3rd level, you swear allegiance to one of the four legendary regional barbecue styles:
+*   **Order of the Texas Brisket (*The Mesquite Pitmaster*):** Heavy smoke, low-and-slow endurance, massive two-handed butcher axes, impenetrable black bark armor, and crushing single-target cleaves.
+*   **Order of the Carolina Vinegar (*The Whole Hog Pitmaster*):** Tangy acidic mop-sauce sprays, crowd-control brine splatters, rapid cleaver butchery, and group-wide mobility buffs.
+*   **Order of the Memphis Dry-Rub (*The Rib Slinger*):** Spicy pepper clouds, searing rib-bone weapons, burning cayenne blindings, and blazing area sweeps.
+*   **Order of the Asado Gaucho (*The Open-Fire Spitmaster*):** Argentine-style iron cross spits, lasso grapples, radiant ember whirlwinds, and massive whole-carcass communal feasts.
+
+Your chosen Tradition grants features at **Level 3, Level 6, Level 10, and Level 14**.
+
+---
+
+### **Level 5: Extra Attack & Searing Charcoal Sunder**
+*   **Extra Attack:** You can attack twice, instead of once, whenever you take the Attack action on your turn.
+*   **Searing Charcoal Sunder:** Your weapons burn with the white-hot intensity of compressed lump charcoal. Your weapon attacks and Pit Arts **ignore Resistance to Fire damage**, and treat **Immunity to Fire as Resistance**.
+
+---
+
+### **Level 7: Hickory Iron Resilience**
+Your long hours over the smoking coals have forged your lungs and stomach into cast iron:
+*   You gain **Advantage on all Constitution saving throws** against spells, poison, paralysis, blindness, and exhaustion.
+*   Whenever you or any ally within 30 feet of you spends Hit Dice to regain Hit Points during a Short Rest, add your **Constitution modifier** to each die rolled.
+
+---
+
+### **Level 9: The Perfect Bark (*A Tökéletes Kéreg*)**
+You develop the indestructible, caramelized black outer crust of a championship brisket:
+*   Whenever you roll Initiative or enter combat, you immediately gain **Temporary Hit Points equal to your Grill Master level + your Constitution modifier**.
+*   While you have these Temporary Hit Points, you have **Resistance to Slashing, Piercing, and Bludgeoning damage**, and you cannot be moved or knocked Prone against your will.
+
+---
+
+### **Level 11: Master Carver (*Slicing the Fat Cap*)**
+*   Your **Searing Die** increases to **1d10**.
+*   Your weapon attacks score a **Critical Hit on a roll of 19–20**.
+*   When you score a Critical Hit with a melee weapon, you carve through the target's armor or hide with butcher-like precision, reducing the target's **Armor Class by 2** (up to a maximum reduction of -4) for the remainder of the encounter.
+
+---
+
+### **Level 13: Rolling Coal Wave (Seething Ember Eruption)**
+*   As an **Action** (2 Coal Points), you slam your weapon or heavy cast-iron grate into the earth, sending a 30-foot cone of glowing red-hot charcoal embers tearing across the ground.
+*   Each creature in the area must make a Dexterity saving throw against your Pit Save DC. A creature takes **6d8 Fire and Bludgeoning damage** and is knocked **Prone** on a failed save, or half as much damage and is not knocked prone on a successful one.
+*   The ground in the area becomes a bed of seething coals for 1 minute (Difficult Terrain; deals 2d8 Fire damage for every 5 feet moved across it).
+
+---
+
+### **Level 15: Grand Pit Hospitality (Combat Morsel Intercept)**
+*   As a **Bonus Action** (1 Coal Point), you fling a perfectly smoked, piping-hot burnt end or rib tip to an ally within **30 feet**. The ally consumes it as a Free Reaction, gaining **Temporary HP equal to 2d10 + your Constitution modifier** and **Resistance to all damage** until the start of your next turn.
+*   You can use this feature a number of times equal to your **Constitution modifier**, regaining all uses on a **Short or Long Rest**.
+
+---
+
+### **Level 17: Searing Hearth Transcendence**
+*   Your **Searing Die** increases to **1d12**.
+*   You gain permanent **Immunity to Fire damage** and **Immunity to the Poisoned condition and Exhaustion**.
+*   Your melee weapon attacks deal an extra **1d8 Fire damage** on every hit automatically, without expending Coal Points.
+
+---
+
+### **Level 18: Avatar of the Eternal Smoker**
+As an Action, you transform yourself into a living smokehouse titan surrounded by roaring hickory coals for 1 minute (once per Long Rest, or by spending 4 Coal Points):
+*   A **30-foot aura** of savory, blinding hardwood smoke and glowing embers radiates from you.
+*   Hostile creatures that enter the aura or start their turn there take **4d10 Fire and Smoke damage** and have **Disadvantage on all attack rolls**.
+*   Allies inside your aura gain **15 Temporary Hit Points** at the start of each of their turns and are immune to blindness, fear, and forced movement.
+
+---
+
+### **Level 19: Epic Boon Feat**
+You gain an **Epic Boon Feat** from the D&D 2024 Player's Handbook (such as *Boon of Fortitude*, *Boon of Irresistible Offense*, or *Boon of the Unfettered*) or an Ability Score Improvement.
+
+---
+
+### **Level 20: Supreme Lord of the Pit (The Grand Smokehouse Cataclysm)**
+You reach the pinnacle of barbecue godhood:
+*   **Endless Coals:** Whenever you roll Initiative and have fewer than **4 Coal Points**, your pool immediately resets to **4 Coal Points**.
+*   **The Grand Smokehouse Cataclysm:** Once per Long Rest, you can slam your two-handed weapon into the ground to manifest the legendary **Primordial Pit**:
+    *   A 60-foot-radius iron smokehouse grid of roaring coals and searing cast iron explodes into existence around you.
+    *   All hostile creatures in the area must make a Constitution saving throw against your Pit Save DC, taking **12d10 Fire and Bludgeoning damage** on a failed save, or half as much on a successful one.
+    *   Simultaneously, a celestial barbecue feast materializes: all allies within the 60-foot radius are **instantly restored to their maximum Hit Points**, cured of all diseases and curses, and gain **50 Temporary Hit Points** for 24 hours.
+
+---
+
+# **Grill Master Subclasses (Barbecue Traditions)**
+
+---
+
+## **1. Order of the Texas Brisket (*The Mesquite Pitmaster*)**
+
+*Devoted to the sacred religion of the 16-hour smoked beef brisket, heavy post oak smoke, and massive butcher cleavers, these Pitmasters are impenetrable tanks who carve through armored foes with single-minded brutality.*
+
+```
+      [ORDER OF THE TEXAS BRISKET]
+      - Role: Heavy Armored Juggernaut / Sunder Tank
+      - Weaponry: Greataxes, Heavy Butcher Cleavers, Searing Brands
+      - Key Mechanics: Black Bark Shield, Burnt End Sunder, 16-Hour Stand
+```
+
+### **Level 3: Black Bark Armor & Heavy Butcher Cleaver**
+*   **Black Bark Armor:** While wearing Heavy Armor, you reduce all incoming Bludgeoning, Piercing, and Slashing damage by your **Constitution modifier** (minimum of 1).
+*   **Heavy Cleaver Sunder:** When wielding a two-handed weapon (such as a Greataxe or Greatsword), your weapon attacks deal an extra **1d8 Fire damage**. When you hit a creature with a heavy weapon, you can spend **1 Coal Point** to force the target to make a Strength save or drop its weapon and fall **Prone**.
+
+### **Level 6: Burnt End Smash**
+*   When you use your Attack action, you can replace one attack with a **Burnt End Smash** (1 Coal Point). You slam your blazing blade into the ground beneath an enemy. The target takes **3d10 Fire damage**, and all creatures within 10 feet must make a Dexterity save or take **2d10 Fire damage** from exploding charcoal chunks.
+
+### **Level 10: The 16-Hour Stand (Unstoppable Meat-Tank)**
+*   When you are reduced to 0 Hit Points, you can use your **Reaction** to drop to **1 Hit Point instead**, gain **Temporary HP equal to 4 × your Grill Master level**, and immediately make a free melee weapon attack with Advantage against the creature that damaged you. (1/Long Rest or by spending 3 Coal Points).
+
+### **Level 14: Legendary Brisket Cleave**
+*   As an Action (4 Coal Points), you deliver a cataclysmic overhead butcher cleave against a single target. Make a melee weapon attack. On a hit, the target takes your normal weapon damage plus **10d10 Fire and Slashing damage**, its armor is shattered (granting all allies Advantage on attacks against it for 1 minute), and it is **Stunned** until the end of your next turn.
+
+---
+
+## **2. Order of the Carolina Vinegar (*The Whole Hog Pitmaster*)**
+
+*Specializing in whole-hog pit-cooking, tangy cider vinegar mop-sauces, and rapid cleaver chops, these high-mobility warriors douse the battlefield in corrosive acid and whip allies into a hyperactive frenzy.*
+
+```
+      [ORDER OF THE CAROLINA VINEGAR]
+      - Role: Fast Skirmisher / Acid Debuffer / Whole-Hog Butcher
+      - Key Mechanics: Vinegar Mop-Sauce Blast, Acidic Armor Melt, Rapid Chopping
+```
+
+### **Level 3: Mop-Sauce Acid Spray & Dual Cleaver Mastery**
+*   **Mop-Sauce Spray:** As an Action (1 Coal Point), you swing a heavy basting mop in a 20-foot cone. Each creature in the area must make a Dexterity save, taking **3d6 Acid and Fire damage** on a failed save, or half as much on a success. Armor worn by affected creatures takes a **-1 penalty to AC** for 1 minute.
+*   **Dual Cleaver Flow:** When wielding two Light or Finesse weapons, you can add your **Strength modifier** to offhand damage, and your movement speed increases by **10 feet**.
+
+### **Level 6: Tangy Vinegar Slick**
+*   Whenever you use your Mop-Sauce or Dash, you leave a slippery, acidic puddle in a 15-foot square. The area is Difficult Terrain; any enemy that enters or starts its turn there must make a Dexterity save or fall **Prone** and take **2d6 Acid damage**.
+
+### **Level 10: Whole-Hog Frenzy**
+*   When you take the Attack action, you can make **three weapon attacks** instead of two. In addition, when you reduce a creature to 0 Hit Points, your movement speed doubles until the end of your turn, and you immediately regain **1 Coal Point**.
+
+### **Level 14: Whole-Hog Pit Swarm**
+*   As an Action (4 Coal Points), you spin in a cyclone of flying cleavers and boiling vinegar mop-sauce.
+*   All enemies within **20 feet** must make a Constitution saving throw. On a failure, a creature takes **8d10 Slashing and 4d10 Acid damage** and is Blinded and Slowed for 1 minute. On a success, it takes half damage.
+
+---
+
+## **3. Order of the Memphis Dry-Rub (*The Rib Slinger*)**
+
+*Masters of dry-rub rib seasoning, cayenne pepper clouds, and brown-sugar carmelization, these aggressive Pitmasters blind enemies with burning spices and roast foes in flaming dry-rub twisters.*
+
+```
+      [ORDER OF THE MEMPHIS DRY-RUB]
+      - Role: Area Blaster / Pyromancer / Dry-Rub Crowd Controller
+      - Key Mechanics: Brown-Sugar Glaze, Cayenne Pepper Tornado, Searing Rib-Bones
+```
+
+### **Level 3: Brown Sugar Caramelization & Spicy Dry-Rub Aura**
+*   **Brown Sugar Glaze:** Your weapon attacks deal an extra **1d6 Fire and 1d6 Radiant damage** as sugar caramelizes on the blade.
+*   **Cayenne Smoke Burst:** Whenever you use your *Hardwood Smoke Plume*, all enemies inside the smoke take **2d6 Fire/Poison damage** at the start of their turns from stinging cayenne and paprika dust.
+
+### **Level 6: Searing Rib Throw (Bone Skewer)**
+*   You can fling sharpened, red-hot beef ribs as deadly throwing weapons (Range 30/60 ft). When you make a ranged attack with a rib, it deals **1d10 Piercing + 1d8 Fire damage**. On a hit, the rib pins the target, reducing its speed to **0** until it uses an action to pull the bone free.
+
+### **Level 10: Flaming Cayenne Cyclone**
+*   As an Action (2 Coal Points), you spin into a roaring tornado of fire and burning dry rub in a 15-foot radius. Enemies in the area must make a Dexterity save, taking **5d8 Fire damage** and gaining the **Blinded condition** for 1 minute on a failed save, or half damage on a success.
+
+### **Level 14: Memphis Dry-Rub Inferno**
+*   As an Action (4 Coal Points), you ignite a 40-foot-radius conflagration of caramelized sugar and cayenne flame.
+*   Each creature in the area takes **8d10 Fire and 4d10 Radiant damage** (ignoring Fire Resistance).
+*   The area remains engulfed in blazing sweet smoke for 1 minute, healing allies who stand in it for **2d8 Hit Points** at the start of their turns while scorching enemies for **3d8 Fire damage**.
+
+---
+
+## **4. Order of the Asado Gaucho (*The Open-Fire Spitmaster*)**
+
+*Hailing from the vast open plains, the Gaucho Spitmasters roast whole steers on massive vertical iron crosses (Cruz de Asado). They are master wranglers, fire-brand wielders, and battlefield commanders who inspire allies with epic campfire hospitality.*
+
+```
+      [ORDER OF THE ASADO GAUCHO]
+      - Role: Grappler / Battlefield Commander / Open-Flame Wrangler
+      - Key Mechanics: Iron Cruz Spit (Reach), Gaucho Lasso Grapple, Open-Fire Feast
+```
+
+### **Level 3: Iron Cruz Spit & Gaucho Lasso**
+*   **Iron Cruz Spit:** You can wield heavy iron spits and polearms (Glaives, Halberds, Pikes, Spears) with lethal grace. Your reach with these weapons increases by **5 feet** (total 15 ft reach), and your attacks deal an extra **1d8 Fire damage**.
+*   **Gaucho Lasso:** As a Bonus Action, you can throw a rawhide lasso at a Large or smaller creature within **30 feet**. Make an Athletics check contested by the target's Athletics or Acrobatics. If you win, the target is **Grappled and Restrained**, and you can pull it up to 20 feet toward you.
+
+### **Level 6: Searing Cruz Slam (Branded to the Earth)**
+*   When you have a creature Grappled or Restrained with your lasso or spit, you can use your Action (1 Coal Point) to slam it into the ground and brand it with glowing coals. The target takes **4d10 Fire and Bludgeoning damage** and cannot stand up from Prone until the end of its next turn.
+
+### **Level 10: Gaucho Campfire Rally**
+*   Your hearty campfire chants inspire everyone around you. Allies within **30 feet** of you add your **Constitution modifier** to all attack rolls and saving throws, and are immune to the Frightened condition.
+
+### **Level 14: The Great Pampas Asado Festival**
+*   During a Short Rest, you roast a magnificent whole steer on an iron cross for up to **12 creatures** (spending 4 Coal Points):
+*   All participants regain all their Hit Points, gain **40 Temporary Hit Points**, gain **Immunity to Fear and Poison**, and deal an extra **1d8 Fire damage** on all their weapon and spell attacks for the next 8 hours.
+
+---
