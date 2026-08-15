@@ -1751,3 +1751,523 @@ You unleash the complete sixfold trial of the grain in an overwhelming, cosmic s
 Simultaneously, all allies in the 60-foot area are restored to **maximum Hit Points**, cleansed of all conditions and curses, and imbued with an indestructible golden crust that grants **50 Temporary Hit Points** for 24 hours.
 
 ---
+
+---
+
+# **Chapter 7: New Martial Class — The Hibachi Ninja (Teppan-Shinobi)**
+
+## **Class Overview & Mechanics**
+
+> *"The blade that chops the scallion in a microsecond is the same blade that severs the throat of an assassin. The flame that toasts the sesame oil is the same inferno that incinerates a warlord. True mastery is not merely killing—it is cooking with such theatrical lethality that your audience applauds before they even realize they are on fire."*  
+> — **Master Chef-Shinobi Jinbei of the Crimson Teppan**
+
+```
+          /| ____________________________________________________
+ O|===|* >____________________________________________________>
+          \|
+          [THE HIBACHI NINJA (TEPPAN-SHINOBI)]
+          - Hit Die: 1d10 per Hibachi Ninja level
+          - Primary Abilities: Dexterity (Combat / Agility) & Charisma (Showmanship / Sizzle DC)
+          - Resource Engine: Heat Points (Teppan Sizzle Pool)
+          - Armor: Light Armor, Medium Armor
+          - Weapons: Simple Weapons, Martial Weapons, Cook's Utensils (Chef Cleavers, Spatulas, Katanas)
+          - Saving Throws: Dexterity, Charisma
+          - Core Identity: Flash-Fire Maneuvers, Dual Culinary Blades, Blade Juggling, Theatrical Executions
+```
+
+The **Hibachi Ninja** (*Teppan-Shinobi*) is a flamboyant, high-speed martial warrior who blends the acrobatic stealth of the shadow shinobi with the roaring flash-fire and hypnotic blade-juggling of high-end teppanyaki culinary performance.
+
+Trained in secretive underground culinary dojos, Hibachi Ninjas treat the battlefield as their iron griddle (*Teppan*). They wield heavy chef cleavers, balanced spatulas, razor-sharp katanas, and culinary skewers with blinding speed, flash-searing enemies with pressurized cooking oils, erecting blinding *Onion Volcanoes*, and dazzling both allies and foes with acrobatic blade-juggling and searing theatrical strikes.
+
+---
+
+## **Hibachi Ninja Class Progression Table**
+
+| Level | PB | Class Features | Heat Points | Sizzle Die | Weapon Mastery |
+| :---: | :---: | :--- | :---: | :---: | :---: |
+| **1st** | +2 | Weapon Mastery (2), Searing Teppan Arts, The Chef's Edge (Dual Wielding) | 3 | 1d6 | 2 |
+| **2nd** | +2 | Teppan Footwork (Flash Step), Oil Toss Maneuver | 4 | 1d6 | 2 |
+| **3rd** | +2 | Hibachi Ninja School (Subclass Feature) | 5 | 1d6 | 2 |
+| **4th** | +2 | Ability Score Improvement / Feat | 6 | 1d6 | 3 |
+| **5th** | +3 | Extra Attack, Searing Flambé Strike | 7 | 1d8 | 3 |
+| **6th** | +3 | Subclass Feature | 8 | 1d8 | 3 |
+| **7th** | +3 | Evasion, Iron Sizzle Reflexes | 9 | 1d8 | 3 |
+| **8th** | +3 | Ability Score Improvement / Feat | 10 | 1d8 | 3 |
+| **9th** | +4 | The Showstopper (*Miseba*), Flash-Sear Flourish | 11 | 1d8 | 4 |
+| **10th** | +4 | Subclass Feature | 12 | 1d8 | 4 |
+| **11th** | +4 | Relentless Sizzle, Blazing Blade Juggle | 13 | 1d10 | 4 |
+| **12th** | +4 | Ability Score Improvement / Feat | 14 | 1d10 | 4 |
+| **13th** | +5 | Flash-Sear Defense (Blinding Flame Wall) | 15 | 1d10 | 4 |
+| **14th** | +5 | Subclass Feature (Grandmastery) | 16 | 1d10 | 4 |
+| **15th** | +5 | Grand Teppan Action (Double Flourish) | 17 | 1d10 | 4 |
+| **16th** | +5 | Ability Score Improvement / Feat | 18 | 1d10 | 4 |
+| **17th** | +6 | Searing Iron Ascendance (Fire Immunity) | 19 | 1d12 | 4 |
+| **18th** | +6 | Living Teppan Inferno (20-ft Searing Aura) | 20 | 1d12 | 4 |
+| **19th** | +6 | Epic Boon Feat (D&D 2024 Standard) | 22 | 1d12 | 4 |
+| **20th** | +6 | Seven-Star Feast Execution (*Shichisei Ryori-O*) | 24 | 1d12 | 4 |
+
+---
+
+## **Class Features**
+
+### **Hit Points & Proficiencies**
+*   **Hit Dice:** 1d10 per Hibachi Ninja level
+*   **Hit Points at 1st Level:** 10 + your Constitution modifier
+*   **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per Hibachi Ninja level after 1st
+*   **Armor Proficiencies:** Light Armor, Medium Armor
+*   **Weapon Proficiencies:** Simple Weapons, Martial Weapons
+*   **Tool Proficiencies:** Cook's Utensils (**Expertise:** Add double your Proficiency Bonus to any check using Cook's Utensils)
+*   **Saving Throws:** **Dexterity**, **Charisma**
+*   **Skills:** Choose three from *Acrobatics*, *Athletics*, *Deception*, *Insight*, *Intimidation*, *Perception*, *Performance*, *Sleight of Hand*, and *Stealth*.
+
+---
+
+### **Level 1: Weapon Mastery**
+Your relentless martial culinary training grants you mastery over weapons. You gain **Weapon Mastery** with **two weapons** of your choice that have the *Light* or *Finesse* property, or with Shortswords, Scimitars, Katanas (Longswords), or Daggers. Whenever you finish a Long Rest, you can change one of your mastered weapons. You gain additional masteries at higher levels as indicated in the table.
+
+---
+
+### **Level 1: The Chef's Edge (Dual Wielding Mastery)**
+You treat cooking spatulas, chef cleavers, and kunai with deadly dual-wielding grace:
+*   You can use **Dexterity** instead of Strength for the attack and damage rolls of any melee weapon you wield that has the *Finesse* or *Light* property, or when wielding Cook's Utensils as improvised weapons (which deal **1d6 Slashing or Bludgeoning damage** in your hands).
+*   When you engage in Two-Weapon Fighting, you can make the extra offhand attack as part of the **Attack action** (gaining the benefit of the *Nick* property even on weapons that lack it), and you add your ability modifier to the damage roll of the offhand attack.
+
+---
+
+### **Level 1: Searing Teppan Arts (*Sizzle Pool*)**
+You master the kinetic heat and showmanship of the griddle. You have a pool of **Heat Points** equal to **your Hibachi Ninja level + your Charisma modifier** (minimum of 3 points). You regain all expended Heat Points when you finish a **Short or Long Rest**.
+
+You can expend Heat Points to execute the following Teppan Maneuvers:
+
+*   **Searing Slice:** When you hit a creature with a weapon attack, you can expend **1 Heat Point** to flash-sear the wound. The target takes extra **Fire damage equal to one roll of your Sizzle Die (1d6) + your Charisma modifier**.
+*   **Blade & Spatula Juggle (Parry):** When a creature hits you with a melee attack, you can use your **Reaction** and expend **1 Heat Point** to flourish your blades in an acrobatic juggling shield. You add your **Charisma modifier to your AC** against the triggering attack. If the attack misses, you immediately throw a ricocheting knife or spatula at the attacker, dealing **Slashing damage equal to your Sizzle Die + your Dexterity modifier**.
+*   **The Onion Volcano (*Tamanegi Kazan*):** As a **Bonus Action** (1 Heat Point), you ignite an aromatic smoking cone of slicing onions on the ground in your space. A 10-foot-radius sphere of dense, spicy smoke erupts centered on you for 1 minute. The area is **Heavily Obscured** for all creatures except you. Any enemy that starts its turn in the smoke takes **Fire and Acid damage equal to your Sizzle Die** from the stinging vapor.
+
+---
+
+### **Level 2: Teppan Footwork (Flash Step) & Oil Toss**
+*   **Teppan Footwork:** You can take the **Dash or Disengage** action as a **Bonus Action** on each of your turns. When you Dash, you leave a 5-foot-wide line of sizzling hot sesame oil and coals along your movement path until the start of your next turn. Any creature that enters this line takes **Fire damage equal to your Sizzle Die**.
+*   **Oil Toss:** As a **Bonus Action** (1 Heat Point), you flick a flask of pressurized cooking oil at a creature within **30 feet**. The target is coated in oil for 1 minute. The next time the target takes Fire damage, the oil detonates, dealing additional **Fire damage equal to two rolls of your Sizzle Die** and catching the target on fire (taking 1d6 Fire damage at the start of each of its turns until it uses an action to extinguish the flames).
+
+---
+
+### **Level 3: Hibachi Ninja School (Subclass)**
+At 3rd level, you dedicate your martial craft to one of the four legendary schools of the culinary shinobi:
+*   **School of the Dragon's Griddle (*Ryu-Teppan*):** High-heat pyromancers who unleash massive dragon flame arcs and blazing iron slams.
+*   **School of the Flying Cleaver (*Hicho-Ryori*):** Acrobatic knife-throwers who juggle six blades simultaneously and ricochet thrown weapons.
+*   **School of the Iron Umami (*Kagayaku Umami*):** Tactical martial gourmands who flash-cook combat morsels that grant buffs and resistances to allies while parrying with heavy teppan shields.
+*   **School of the Phantom Smoke (*Kemuri-Kage*):** Deadly stealth assassins who strike from spice smoke, flash-step behind foes, and execute searing surprise attacks.
+
+Your subclass grants features at **Level 3, Level 6, Level 10, and Level 14**.
+
+---
+
+### **Level 5: Extra Attack & Searing Flambé Strike**
+*   **Extra Attack:** You can attack twice, instead of once, whenever you take the Attack action on your turn.
+*   **Searing Flambé Strike:** Your flames burn with superheated intensity. Fire damage dealt by your weapon attacks and Teppan Maneuvers **ignores Resistance to Fire damage**, and treats **Immunity to Fire as Resistance**.
+
+---
+
+### **Level 7: Evasion & Iron Sizzle Reflexes**
+*   **Evasion:** When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+*   **Iron Sizzle Reflexes:** You gain **Advantage on initiative rolls**. Additionally, when you roll Initiative, you immediately gain **2 Temporary Heat Points** that last until the end of combat.
+
+---
+
+### **Level 9: The Showstopper (*Miseba*)**
+Your combat flourishes inspire allies and terrify your foes:
+*   Whenever you score a **Critical Hit** or reduce a hostile creature to 0 Hit Points, you perform a breathtaking culinary flourish.
+*   All allies within **30 feet** who can see you gain **Heroic Inspiration** and Temporary Hit Points equal to **your Hibachi Ninja level + your Charisma modifier**.
+*   All hostile creatures within **15 feet** must make a Wisdom saving throw against your **Sizzle Save DC (8 + PB + Charisma modifier)** or gain the **Frightened condition** until the end of their next turn.
+
+---
+
+### **Level 11: Relentless Sizzle & Blazing Blade Juggle**
+*   Your **Sizzle Die** increases to **1d10**.
+*   **Blazing Blade Juggle:** You can juggle up to **four light weapons** at once in a hypnotic blur. When you take the Attack action, you can make **one additional weapon attack** with a juggled offhand blade as part of that same action.
+
+---
+
+### **Level 13: Flash-Sear Defense (Blinding Flame Wall)**
+*   When a creature hits you with an attack or targets you with a spell, you can use your **Reaction** to ignite a blazing wall of vaporized cooking oil.
+*   The triggering attack or spell automatically misses as the flame wall consumes it, and the attacker must succeed on a Dexterity saving throw against your Sizzle Save DC or take **3d10 Fire damage** and gain the **Blinded condition** until the end of its next turn.
+*   You can use this reaction a number of times equal to your **Charisma modifier** (minimum once), regaining all uses on a **Long Rest**.
+
+---
+
+### **Level 15: Grand Teppan Action (Double Flourish)**
+You move with the blistering efficiency of a master banquet chef. On each of your turns, you can take **two Bonus Actions** instead of one, provided that at least one of those Bonus Actions is used for a Teppan Maneuver, Teppan Footwork, or a Subclass feature.
+
+---
+
+### **Level 17: Searing Iron Ascendance**
+*   Your **Sizzle Die** increases to **1d12**.
+*   You gain permanent **Immunity to Fire damage** and **Resistance to Slashing and Bludgeoning damage**.
+*   Your weapon attacks deal an extra **1d8 Fire damage** on every hit automatically, without expending Heat Points.
+
+---
+
+### **Level 18: Living Teppan Inferno**
+As an Action, you ignite your entire body into an avatar of the roaring teppan for 1 minute (once per Long Rest, or by spending 4 Heat Points):
+*   A **20-foot aura** of superheated griddle heat surrounds you.
+*   Hostile creatures that enter the aura or start their turn there take **4d10 Fire damage** and have their movement speed reduced by half.
+*   Whenever an enemy within your aura makes a melee attack against you, it takes **2d10 Fire damage** automatically from the radiating heat.
+
+---
+
+### **Level 19: Epic Boon Feat**
+You gain an **Epic Boon Feat** from the D&D 2024 Player's Handbook (such as *Boon of Combat Prowess*, *Boon of Speed*, or *Boon of the Unfettered*) or an Ability Score Improvement.
+
+---
+
+### **Level 20: Seven-Star Feast Execution (*Shichisei Ryori-O*)**
+You achieve the pinnacle of culinary combat:
+*   **Endless Sizzle:** Whenever you roll Initiative and have fewer than **4 Heat Points**, your pool immediately resets to **4 Heat Points**.
+*   **The Seven-Star Execution:** Once per Long Rest, you can take an Action to unleash seven lightning-fast flaming slashes against up to **7 different targets** (or concentrated on a single target) within **60 feet**. Make 7 separate melee weapon attacks. Each hit deals your normal weapon damage plus **4d12 Fire damage**, and any target hit must make a Constitution saving throw against your Sizzle Save DC or be **Stunned** until the end of your next turn.
+
+---
+
+# **Hibachi Ninja Subclasses**
+
+---
+
+## **1. School of the Dragon's Griddle (*Ryu-Teppan*)**
+
+*Specializing in overwhelming pyromancy and heavy iron cleavers, disciples of the Dragon's Griddle turn every battlefield into a roaring volcano of searing steel.*
+
+### **Level 3: Dragon's Breath Flambé & Heavy Cleaver Arts**
+*   **Dragon's Breath Flambé:** As an Action (1 Heat Point), you exhale a 30-foot cone of roaring culinary fire. Each creature in the cone must make a Dexterity save against your Sizzle Save DC, taking **3d6 Fire damage** on a failed save, or half as much on a success. (Scales by 1d6 at Levels 6, 10, and 14).
+*   **Heavy Cleaver Sunder:** When wielding a versatile or martial weapon with one or two hands, you can treat it as a Finesse weapon. When you hit a creature, you can reduce its AC by **-1** (up to -3) until the end of combat as you carve through its armor.
+
+### **Level 6: Searing Magma Griddle**
+*   When you use your *Onion Volcano* or *Dragon's Breath*, the ground in that area becomes molten iron for 1 minute.
+*   Enemies treat the area as Difficult Terrain and take **2d8 Fire damage** for every 5 feet they move across it.
+
+### **Level 10: Dragon's Iron Counter**
+*   When a creature within 10 feet attacks you, you can use your **Reaction** (1 Heat Point) to slam your blazing blade down upon its weapon. The attacker takes **4d10 Fire damage**, and its attack is deflected, causing it to automatically miss.
+
+### **Level 14: Grand Dragon Teppan Cataclysm**
+*   As an Action (4 Heat Points), you leap 30 feet into the air and slam your blades into the earth, creating a 30-foot-radius eruption of volcanic flame.
+*   All creatures in the area must make a Dexterity saving throw, taking **10d10 Fire and Bludgeoning damage** and being knocked **Prone** on a failed save, or half damage on a success.
+
+---
+
+## **2. School of the Flying Cleaver (*Hicho-Ryori*)**
+
+*Masters of the aerial knife-toss and ricochet geometry, these acrobatic ninjas juggle dozens of flying cleavers, skewering targets from across the battlefield.*
+
+### **Level 3: Multi-Blade Juggle & Ricochet Toss**
+*   **Multi-Blade Juggle:** You can draw or stow any number of thrown weapons freely. When you make a ranged weapon attack with a Dagger, Kunai, or Cleaver, its normal range increases to **60/120 feet**.
+*   **Ricochet Toss:** When you hit a creature with a thrown weapon, you can expend **1 Heat Point** to cause the blade to ricochet toward a second target within 20 feet of the first, making an immediate ranged attack roll against the second target.
+
+### **Level 6: Skewer Barrage**
+*   When you take the Attack action on your turn, you can replace one attack with a **Skewer Barrage** (2 Heat Points). You throw a fan of 5 flaming skewers in a 30-foot cone. Each creature in the cone must make a Dexterity save, taking **4d8 Fire and Piercing damage** and having its speed reduced to 0 on a failed save, or half damage on a success.
+
+### **Level 10: Pinning Blade Net**
+*   Whenever you score a Critical Hit with a thrown weapon or hit a creature coated in your *Oil Toss*, the target is pinned to the floor or a nearby wall, gaining the **Restrained condition** (Escape DC = your Sizzle Save DC).
+
+### **Level 14: Storm of a Thousand Flying Cleavers**
+*   As an Action (4 Heat Points), you unleash an aerial whirlwind of dozens of spinning, flaming cleavers.
+*   All hostile creatures within **60 feet** must make a Dexterity saving throw. On a failure, a creature takes **8d10 Slashing and 4d10 Fire damage** and is knocked Prone. On a success, it takes half damage.
+
+---
+
+## **3. School of the Iron Umami (*Kagayaku Umami*)**
+
+*The tactical gourmands who nourish allies with flash-cooked battlefield treats while deflecting incoming strikes with heavy cast-iron teppan shields.*
+
+### **Level 3: Teppan Buckler & Flash-Cooked Battle Morsels**
+*   **Teppan Buckler:** You gain proficiency with **Shields**. When wielding a Shield (which you can use as a cooking surface), your weapon attacks with your main hand still count as Two-Weapon Fighting for all class features.
+*   **Battle Morsel (*Gourmet Snack*):** As a **Bonus Action** (1 Heat Point), you flash-sear a nutritious gourmet bite and toss it to an ally within **30 feet**. The ally immediately consumes it as a Free Reaction, gaining **Temporary HP equal to 1d10 + your Charisma modifier** and an extra **10 feet of movement speed** until the end of its next turn.
+
+### **Level 6: Energizing Umami Feast**
+*   Your Battle Morsels now also grant the eating ally **Advantage on its next attack roll or saving throw** and cleanse one condition (**Poisoned, Frightened, or Stunned**).
+
+### **Level 10: Iron Teppan Intercept**
+*   When an ally within 10 feet of you is targeted by an attack, you can use your **Reaction** to leap in front of them with your cast-iron teppan shield.
+*   You take the hit instead, gaining **Resistance to all damage from that attack**, and the attacker takes **3d10 Fire and Bludgeoning damage** from the superheated shield rebound.
+
+### **Level 14: The Emperor's Seven-Course Banquet**
+*   During a Short Rest, you can cook a legendary seven-course hibachi banquet for up to **8 creatures** (spending 4 Heat Points).
+*   All participants gain **30 Temporary Hit Points**, **Advantage on all Constitution and Wisdom saving throws**, and **Resistance to Fire and Cold damage** for the next 8 hours.
+
+---
+
+## **4. School of the Phantom Smoke (*Kemuri-Kage*)**
+
+*Stealth assassins who operate within blinding clouds of wasabi and spice smoke, executing lethal ambush strikes from the searing shadows.*
+
+### **Level 3: Spice Smoke Infiltration & Wasabi Strike**
+*   **Spice Smoke Camouflage:** While inside any smoke, fog, or obscurement (including your *Onion Volcano*), you are **Invisible** to creatures that rely on sight or darkvision.
+*   **Wasabi Strike (Sneak Attack):** Once per turn, when you hit a creature with a weapon attack and have Advantage on the roll, you can expend **1 Heat Point** to inject blinding wasabi venom. The target takes extra **2d6 Acid and Fire damage** and must succeed on a Constitution save or be **Blinded** until the end of its next turn. (Increases to **4d6** at Level 10).
+
+### **Level 6: Grease-Slick Flash Step**
+*   When you use your Teppan Footwork (Bonus Action Dash), you can instantly teleport between two areas of smoke or fire within **40 feet**. When you emerge, you have Advantage on your next attack roll.
+
+### **Level 10: Searing Shadow Flurry**
+*   When you attack a creature while hidden or invisible, you make **three weapon attacks** instead of two as part of your Attack action.
+
+### **Level 14: Ghost of the Iron Griddle**
+*   As a Bonus Action (4 Heat Points), you become an incorporeal wraith of smoke and floating embers for 1 minute:
+*   You gain a **Fly speed of 40 feet (hover)** and can pass through solid objects and creatures.
+*   You are immune to all non-magical damage.
+*   Whenever you pass through an enemy's space, that enemy takes **4d10 Fire and Acid damage** and is Blinded for 1 round.
+
+---
+---
+
+# **Chapter 8: New Hybrid Class — The Zymurgist (Fermentation Specialist)**
+
+## **Class Overview & Mechanics**
+
+> *"Magic is not just words and gestures; it is the patient, bubbling will of a trillion microscopic lives. In the dark of the crock, yeast breathes and transforms. In the brine, salt purges decay to birth immortality. In the still, grain ascends into fire-water. I am the alchemist of the ferment—and with a single drop, I can cure a plague, corrode an empire's steel, or dissolve your flesh from within."*  
+> — **Matron Vespera of the Four Vats**
+
+```
+          .---.
+         /     \         [THE ZYMURGIST (FERMENTATION SPECIALIST)]
+        | () () |        - Hit Die: 1d8 per Zymurgist level
+         \  =  /         - Primary Abilities: Dexterity (Agility/Stealth) & Intelligence (Biochemical Spellcasting)
+         /|   |\         - Resource Engine: Ferment Charges & Four Culture Vats
+        / |   | \        - Armor: Light Armor, Medium Armor
+       (  |___|  )       - Weapons: Simple Weapons, Hand Crossbows, Rapiers, Shortswords, Scimitars, Blowguns
+          /   \          - Saving Throws: Dexterity, Intelligence (or Constitution)
+         (     )         - Core Identity: Half-Caster Spellcasting, Rogue Cunning Action, Ferment Infusions, Four Pillars
+```
+
+The **Zymurgist** is a half-caster hybrid who blends the cunning agility, precision strikes, and covert infiltration of a rogue with the biochemical mastery of a master fermentation alchemist. 
+
+Operating from clandestine cellars, apothecary vats, and underground distilleries, Zymurgists harness the **Four Pillars of Fermentation**:
+1. **The Lactic Pillar (Dairy / Yogurt):** Probiotic bio-regeneration, calcium armor, curds-and-whey entanglements, and lactic acid corrosion.
+2. **The Symbiotic Pillar (Kombucha / SCOBY):** Living cellulose pellicle suits, effervescent fizzy acid bursts, and metabolic toxin purges.
+3. **The Spirited Pillar (Alcohols / Distillates):** Flammable ethanol vapors, intoxicating delirium darts, flash-distillation explosions, and drunken kinetic evasions.
+4. **The Saline Pillar (Brines / Pickling):** Preservative salt mummification, moisture-draining dehydration, salt-curing wounds, and osmotic shock.
+
+---
+
+## **Zymurgist Class Progression Table**
+
+| Level | PB | Class Features | Ferment Charges | Sneak Attack | 1st | 2nd | 3rd | 4th | 5th |
+| :---: | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1st** | +2 | Ferment Vats, Zymurgic Infusion (Sneak Attack), Cunning Brew | 3 | 1d6 | — | — | — | — | — |
+| **2nd** | +2 | Spellcasting (Half-Caster), Probiotic Metabolism | 4 | 1d6 | 2 | — | — | — | — |
+| **3rd** | +2 | Fermentation Pillar (Subclass Feature) | 5 | 2d6 | 3 | — | — | — | — |
+| **4th** | +2 | Ability Score Improvement / Feat | 6 | 2d6 | 3 | — | — | — | — |
+| **5th** | +3 | Extra Attack, Fast Fermentation | 7 | 3d6 | 4 | 2 | — | — | — |
+| **6th** | +3 | Subclass Feature, Probiotic Immunity (Poison) | 8 | 3d6 | 4 | 2 | — | — | — |
+| **7th** | +3 | Effervescent Evasion, Carbonated Flash Step | 9 | 4d6 | 4 | 3 | — | — | — |
+| **8th** | +3 | Ability Score Improvement / Feat | 10 | 4d6 | 4 | 3 | — | — | — |
+| **9th** | +4 | Catalytic Ferment Strike | 11 | 4d6 | 4 | 3 | 2 | — | — |
+| **10th** | +4 | Subclass Feature | 12 | 5d6 | 4 | 3 | 2 | — | — |
+| **11th** | +4 | Master Brewer's Panacea | 13 | 5d6 | 4 | 3 | 3 | — | — |
+| **12th** | +4 | Ability Score Improvement / Feat | 14 | 5d6 | 4 | 3 | 3 | — | — |
+| **13th** | +5 | Living Vinegar Solvent (Acid Blood) | 15 | 6d6 | 4 | 3 | 3 | 1 | — |
+| **14th** | +5 | Subclass Feature (Grand Pillar Mastery) | 16 | 6d6 | 4 | 3 | 3 | 1 | — |
+| **15th** | +5 | Osmotic Bio-Shield | 17 | 6d6 | 4 | 3 | 3 | 2 | — |
+| **16th** | +5 | Ability Score Improvement / Feat | 18 | 6d6 | 4 | 3 | 3 | 2 | — |
+| **17th** | +6 | Master of the Microcosm (Infinite SCOBY) | 19 | 7d6 | 4 | 3 | 3 | 3 | 1 |
+| **18th** | +6 | Self-Sustaining Ferment Nexus | 20 | 7d6 | 4 | 3 | 3 | 3 | 1 |
+| **19th** | +6 | Epic Boon Feat (D&D 2024 Standard) | 22 | 7d6 | 4 | 3 | 3 | 3 | 2 |
+| **20th** | +6 | The Immortal Culture (*Az Élet Elixírje*) | 24 | 8d6 | 4 | 3 | 3 | 3 | 2 |
+
+---
+
+## **Class Features**
+
+### **Hit Points & Proficiencies**
+*   **Hit Dice:** 1d8 per Zymurgist level
+*   **Hit Points at 1st Level:** 8 + your Constitution modifier
+*   **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per Zymurgist level after 1st
+*   **Armor Proficiencies:** Light Armor, Medium Armor
+*   **Weapon Proficiencies:** Simple Weapons, Hand Crossbows, Rapiers, Shortswords, Scimitars, Blowguns, Darts
+*   **Tool Proficiencies:** Brewer's Supplies, Alchemist's Supplies (**Expertise:** Add double your Proficiency Bonus to checks using Brewer's or Alchemist's Supplies)
+*   **Saving Throws:** **Dexterity**, **Intelligence**
+*   **Skills:** Choose three from *Acrobatics*, *Deception*, *Insight*, *Investigation*, *Medicine*, *Nature*, *Sleight of Hand*, *Stealth*, and *Survival*.
+
+---
+
+### **Level 1: Ferment Vats & Zymurgic Infusion (Sneak Attack)**
+You carry four specialized alchemical culture flasks at your hip corresponding to the **Four Pillars of Fermentation**. You possess a pool of **Ferment Charges** equal to **your Zymurgist level + your Intelligence modifier** (minimum of 3 charges). You regain all expended charges when you finish a **Short or Long Rest**.
+
+*   **Zymurgic Sneak Attack:** Once per turn, you can deal an extra **1d6 damage** (scaling as shown in the Zymurgist table) to one creature you hit with an attack if you have Advantage on the attack roll, or if an ally of yours is within 5 feet of the target and you don't have Disadvantage. The attack must use a Finesse or Ranged weapon.
+*   **Ferment Infusion:** Whenever you deal Sneak Attack damage, you can expend **1 Ferment Charge** to infuse the strike with one of the Four Pillars:
+    *   **1. Lactic Acid Burn (Dairy):** The strike burns with corrosive lactic acid. The target takes the Sneak Attack damage as **Acid damage**, and its **Armor Class is reduced by 2** until the end of its next turn.
+    *   **2. Sticky SCOBY Webbing (Kombucha):** The strike coats the target in viscous cellulose fibers. The target takes **Acid/Poison damage** and has its **speed reduced by 15 feet** and cannot take Reactions until the end of its next turn.
+    *   **3. Distilled Stagger (Alcohol):** The target must make a Constitution saving throw against your Spell Save DC or become **Intoxicated**, suffering **Disadvantage on all attack rolls and ability checks** until the end of its next turn.
+    *   **4. Saline Desiccation (Brine):** The strike draws all water from the target's cells. The target takes the Sneak Attack damage as **Necrotic damage** and **cannot regain Hit Points** until the end of its next turn.
+
+---
+
+### **Level 1: Cunning Brew (Rogue Action Economy)**
+Your swift hands allow you to administer and brew solutions in the blink of an eye. You can take a **Bonus Action** on each of your turns to take the **Dash, Disengage, or Hide** action, or to drink a potion or administer a Ferment Draught to an adjacent creature.
+
+---
+
+### **Level 2: Spellcasting (Half-Caster Progression)**
+You unlock the esoteric alchemy of zymurgic magic, drawing upon living cultures and chemical transmutations to cast spells:
+*   **Spell Slots & Preparation:** You prepare and cast spells from the **Zymurgist Spell List** (1st through 5th level). You prepare a number of spells equal to **your Intelligence modifier + half your Zymurgist level** (minimum of 1 spell).
+*   **Spellcasting Ability:** **Intelligence** is your spellcasting ability:
+    *   **Spell Save DC** = 8 + your Proficiency Bonus + your Intelligence modifier
+    *   **Spell Attack Modifier** = your Proficiency Bonus + your Intelligence modifier
+*   **Spellcasting Focus:** You can use **Brewer's Supplies**, **Alchemist's Supplies**, or a sealed fermentation flask as your spellcasting focus.
+
+---
+
+### **Level 3: Fermentation Pillar (Subclass)**
+At 3rd level, you choose which of the **Four Pillars of Fermentation** you specialize in:
+*   **Order of the Lactic Curd (*Dairy / Yogurt*):** Masters of probiotic healing, thick calcium cheese-rind armor, and corrosive lactic acid geysers.
+*   **Order of the Living SCOBY (*Kombucha / Kefir*):** Bio-armor specialists who grow living cellulose pellicles over their skin and shoot effervescent probiotic darts.
+*   **Order of the Distiller's Guild (*Alcohols / Spirits*):** High-proof pyromancers and saboteurs who throw Molotov ferment flasks and dodge with drunken grace.
+*   **Order of the Saline Brine (*Pickling / Lacto-Saline*):** Desiccation masters who pickle enemies in saline stasis, salt-cure wounds, and mummify tissue.
+
+Your subclass grants features at **Level 3, Level 6, Level 10, and Level 14**.
+
+---
+
+### **Level 5: Extra Attack & Fast Fermentation**
+*   **Extra Attack:** You can attack twice, instead of once, whenever you take the Attack action on your turn.
+*   **Fast Fermentation:** You can brew a full batch of specialized ferment potions or elixirs in just **1 minute** using your Brewer's Supplies.
+
+---
+
+### **Level 6: Probiotic Immunity & Metabolic Purity**
+*   You gain permanent **Immunity to Poison damage** and the **Poisoned condition**.
+*   You are immune to all diseases, parasites, and foodborne toxins.
+*   You have **Advantage on saving throws against Necrotic and Acid damage**.
+
+---
+
+### **Level 7: Effervescent Evasion & Carbonated Flash Step**
+*   **Evasion:** When you make a Dexterity saving throw to take only half damage from an effect, you take no damage on a success and half damage on a failure.
+*   **Carbonated Flash Step:** When you use your Cunning Action (Bonus Action), you release a pressurized burst of effervescent carbonation. You can teleport up to **15 feet** to an unoccupied space you can see, leaving a 10-foot cloud of bubbling fizz that blinds creatures until the start of their next turn on a failed Dexterity save.
+
+---
+
+### **Level 9: Catalytic Ferment Strike**
+Your Ferment Infusions trigger automatically on Critical Hits without expending a Ferment Charge. In addition, when you land a Sneak Attack, you can apply **two different Ferment Infusions** simultaneously by spending 2 Ferment Charges.
+
+---
+
+### **Level 11: Master Brewer's Panacea**
+As an Action, you can spend **2 Ferment Charges** to brew a miracle panacea draught. An ally who drinks it regains **4d8 + your Intelligence modifier Hit Points** and is cleansed of all curses, petrification, blindness, deafness, and levels of exhaustion.
+
+---
+
+### **Level 13: Living Vinegar Solvent (Acidic Blood)**
+*   You gain permanent **Resistance to Acid and Necrotic damage**.
+*   Whenever a creature within 10 feet hits you with a melee attack, pressurized acidic vinegar sprays from your wounds, dealing **3d8 Acid damage** to the attacker and reducing its AC by 1 for 1 minute.
+
+---
+
+### **Level 15: Osmotic Bio-Shield**
+Whenever you cast a Zymurgist spell of 1st level or higher or expend a Ferment Charge, you gain **Temporary Hit Points equal to twice your Intelligence modifier + your Proficiency Bonus**. While these Temporary Hit Points last, you cannot be Grappled, Restrained, or Paralyzed.
+
+---
+
+### **Level 17: Master of the Microcosm (Infinite SCOBY)**
+*   Your body houses an immortal, self-repairing colony of beneficial microbes. At the start of each of your turns, if you have at least 1 Hit Point, you regain **10 Hit Points**.
+*   Whenever you roll damage for a Zymurgist spell or Sneak Attack, you can treat any roll of a 1 or 2 on the dice as a **3**.
+
+---
+
+### **Level 19: Epic Boon Feat**
+You gain an **Epic Boon Feat** from the D&D 2024 Player's Handbook or an Ability Score Improvement.
+
+---
+
+### **Level 20: The Immortal Culture (*Az Élet Elixírje*)**
+You have become one with the eternal cycle of fermentation:
+*   Your **Dexterity** and **Intelligence** scores increase by **+4**, up to a maximum of **24**.
+*   **Immortal Revival:** If you are slain, your physical form dissolves into a dormant, bubbling sourdough/SCOBY culture within your flasks. If kept in any dark container with moisture and sugar, you fully regenerate and rise at full health in **24 hours**.
+
+---
+
+# **Zymurgist Subclasses (The Four Pillars)**
+
+---
+
+## **1. Order of the Lactic Curd (*The Dairy Alchemist*)**
+
+*Specializing in dairy fermentation, yogurt cultures, and cheese-making arts, these alchemists weave thick calcium crusts, slippery whey slicks, and corrosive lactic acid bursts.*
+
+### **Level 3: Hardened Cheese-Rind Armor & Curdling Blast**
+*   **Cheese-Rind Armor:** You can calculate your AC as **13 + your Dexterity modifier + your Intelligence modifier** when not wearing heavy armor.
+*   **Curdling Acid Blast:** As an Action (1 Ferment Charge), you spray a 20-foot cone of boiling, curdling lactic acid. Creatures in the area must make a Constitution save, taking **3d8 Acid damage** and having their speed reduced to 0 on a failed save, or half damage on a success.
+
+### **Level 6: Whey-Slick Evasion & Probiotic Healing**
+*   Whenever you take the Disengage action, you coat the ground beneath you in slippery whey. The ground in a 10-foot radius becomes Difficult Terrain; enemies moving across it must succeed on a Dexterity save or fall **Prone**.
+*   Your healing spells restore an additional **1d8 + your Intelligence modifier Hit Points**.
+
+### **Level 10: Calcium Fortress Mantle**
+*   As a Reaction (2 Ferment Charges) when you take damage, you petrify your skin into thick, mineralized dairy-stone. You gain **Resistance to all damage** until the start of your next turn and gain 30 Temporary Hit Points.
+
+### **Level 14: Grand Galactomancy (The Curd Colossus)**
+*   As an Action (4 Ferment Charges), you transform into a towering 15-foot Curd Colossus for 1 minute:
+*   You grow to **Large size** and gain **75 Temporary Hit Points**.
+*   Your weapon attacks deal an extra **2d8 Acid and 2d8 Bludgeoning damage**.
+*   You radiate an aura of churning lactic acid that deals **3d8 Acid damage** to all enemies within 15 feet at the start of each of their turns.
+
+---
+
+## **2. Order of the Living SCOBY (*The Kombucha Weaver*)**
+
+*Cultivating symbiotic cultures of bacteria and yeast (SCOBY), these Zymurgists grow living cellulose bio-armor over their flesh, shoot carbonated acid darts, and digest enemy spells.*
+
+### **Level 3: Living Pellicle Bio-Suit & Effervescent Darts**
+*   **Living Pellicle Suit:** A thick, rubbery sheet of living kombucha cellulose covers your body like light armor. You gain **+1 to AC**, and you can breathe underwater as the SCOBY oxygenates your bloodstream.
+*   **Effervescent Probiotic Darts:** When you make a ranged attack with a Blowgun, Hand Crossbow, or Dagger, you can fire a pressurized bubble of carbonated vinegar. On a hit, the attack deals an additional **1d8 Acid damage** and forces the target to make a Constitution save or be **Blinded** until the start of your next turn by stinging fizz.
+
+### **Level 6: Bio-Cellulose Absorption**
+*   When you are targeted by a spell that deals Acid, Poison, or Necrotic damage, your living SCOBY absorbs the energy. You take no damage, and you immediately regain **1 expended 1st- or 2nd-level spell slot** or **2 Ferment Charges**.
+
+### **Level 10: SCOBY Tendril Grapple**
+*   Your cellulose suit sprouts grasping, rubbery tendrils. You can Grapple creatures up to **15 feet away** using your Intelligence (Athletics) check, and grappled creatures take **3d8 Acid damage** at the start of each of your turns.
+
+### **Level 14: Symbiotic Hivemind Avatar**
+*   As an Action (4 Ferment Charges), you unleash your living SCOBY into a 30-foot expanding bio-dome for 1 minute:
+*   Allies inside the dome gain **Advantage on all attacks and saves** and regenerate **15 HP** at the start of each of their turns.
+*   Enemies inside the dome are **Restrained** by thick kombucha webbing and take **4d8 Acid damage** each turn.
+
+---
+
+## **3. Order of the Distiller's Guild (*The Spirit Moonshiner*)**
+
+*Masters of distillation, ethanol solvents, and flammable vapors, these volatile rogues throw exploding ferment flasks and dance through battle with drunken, fiery agility.*
+
+### **Level 3: High-Proof Molotov & Flammable Ethanol Mist**
+*   **High-Proof Flask:** As an Action (1 Ferment Charge), you throw a flask of 190-proof distilled grain spirit at a point within **60 feet**. It explodes in a 15-foot radius. Creatures in the area take **3d6 Fire damage** on a failed Dexterity save, or half as much on a success.
+*   **Flammable Breath:** You can spit a line of vaporized alcohol through a torch as a Bonus Action, igniting a 15-foot line of fire for **2d6 Fire damage**.
+
+### **Level 6: Drunken Kinetic Stagger**
+*   When a creature makes an attack roll against you, you can use your **Reaction** to stagger unpredictably. You roll a d6 and add it to your AC for that attack. If the attack misses, the attacker stumbles past you and falls **Prone**.
+
+### **Level 10: Flash-Distillation Bombs**
+*   Your *High-Proof Flasks* now deal **6d6 Fire damage**, ignore Fire Resistance, and stun creatures inside the blast radius on a failed Constitution save.
+
+### **Level 14: Superheated Distiller's Cataclysm**
+*   As an Action (4 Ferment Charges), you shatter your master cask, releasing a 40-foot-radius storm of vaporized ether and ethanol that instantly ignites:
+*   Creatures in the area take **10d10 Fire and Force damage** on a failed Dexterity save, or half as much on a success.
+*   The area remains engulfed in roaring blue alcohol flames for 1 minute, dealing **4d10 Fire damage** to any creature that moves through it.
+
+---
+
+## **4. Order of the Saline Brine (*The Pickling Harvester*)**
+
+*Harnessing hyper-saturated lacto-saline brines, these dark preservationists dehydrate foes, cure wounds with purifying salt, and pickle creatures in mineralized stasis.*
+
+### **Level 3: Lacto-Saline Desiccation & Salt-Curing**
+*   **Desiccating Strike:** When you deal Sneak Attack damage, you can turn the target's bodily fluids to brine, dealing **Necrotic damage** and imposing the **Slowed condition** (speed reduced by half, -2 AC) for 1 minute on a failed Con save.
+*   **Salt-Cure Wound:** As an Action (1 Ferment Charge), you rub consecrated preserving salt into an ally's wound. The ally regains **2d8 + your Intelligence modifier Hit Points** and becomes immune to necrotic damage and bleeding for 1 hour.
+
+### **Level 6: Crystallized Brine Spikes**
+*   Whenever you cast a spell that deals damage, you leave a 15-foot patch of sharp, salt-crusted ground for 1 minute. Creatures moving through the area take **2d6 Piercing and 2d6 Necrotic damage** for every 5 feet traveled.
+
+### **Level 10: Mummifying Saline Touch**
+*   As an Action (2 Ferment Charges), you make a melee spell attack against a creature. On a hit, the target's flesh begins to desiccate into jerky. The target takes **6d10 Necrotic damage** and must succeed on a Constitution save or be **Paralyzed** as its muscles turn to salt until the end of its next turn.
+
+### **Level 14: Eternal Pickling Stasis**
+*   As an Action (4 Ferment Charges), you douse a Large or smaller creature in a column of hyper-saturated sacred brine within **60 feet**.
+*   The target must make a Constitution saving throw. On a failure, the creature is instantly **pickled in magical stasis** (as per the *Flesh to Stone* spell, but turning into a preserved saline statue). While in stasis, the creature does not age, take damage, or rot.
+*   You can also apply this effect to a willing, dying ally to preserve its soul and body indefinitely until healed.
+
+---
