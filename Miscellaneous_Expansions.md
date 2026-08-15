@@ -4,7 +4,7 @@
 
 Welcome to the *Miscellaneous Expansions & Homebrew Compendium* for **Legends of the Elsaither** (LotE). This supplementary volume houses modular expansions, experimental player options, rare ecological anomalies, and auxiliary rules designed for the D&D 2024 ruleset.
 
-> **Note on Culinary & Kitchen Options:** All food-, fermentation-, bread-, and cooking-related classes, subclasses, spells, and bestiary creatures have been consolidated into their own dedicated volume: [`Culinary_and_Kitchen_Compendium.md`](./Culinary_and_Kitchen_Compendium.md).
+> **Note on Standalone Culinary & Kitchen Expansion:** All food-, fermentation-, bread-, and cooking-related player options, classes, and bestiary creatures are established in their own independent, standalone gourmet fantasy expansion: [`Culinary_and_Kitchen_Compendium.md`](./Culinary_and_Kitchen_Compendium.md) (*The Infinite Kitchen: Culinary Arts, Gastromancy, & Kitchen Bestiary*).
 
 
 ---

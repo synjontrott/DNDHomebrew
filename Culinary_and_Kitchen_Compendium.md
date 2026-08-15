@@ -1,26 +1,46 @@
-# **Legends of the Elsaither: Culinary Arts & Kitchen Compendium**
+# **The Infinite Kitchen: Culinary Arts, Gastromancy, & Kitchen Bestiary**
+### *A Standalone D&D 2024 (5.5e) Gourmet Fantasy Campaign Expansion*
 
-## **Introduction: The Gastronomic Weave**
+---
 
-Welcome to the **Culinary Arts & Kitchen Compendium** for *Legends of the Elsaither*. In the multiverse of LotE, food is not merely nourishment—it is high magic, martial perfection, biochemical alchemy, and cosmic law.
+## **Welcome to the Great Culinary Cosmos (Gourmandia)**
 
-This volume gathers all player classes, subclasses, spells, and bestiary creatures dedicated to the culinary and kitchen arts, fully updated and balanced for the **D&D 2024 (5.5e) ruleset**.
+> *"In the multiverse of the Infinite Kitchen, cooking is not a chore—it is high magic, martial supremacy, biochemical alchemy, and the highest form of hospitality. From the roaring charcoal pits of the Hearthward Plains to the floating iron griddles of the Teppan Dojos, the deepest fermentation cellars of Zymos, and the wild spice groves of the foragers, taste and fire govern reality itself."*  
+> — **The Grand Onion King & Royal Chef Kevin**
+
+Welcome to **The Infinite Kitchen**, a standalone, fully balanced **D&D 2024 (5.5e)** expansion that transforms the culinary arts into complete tabletop player classes, martial disciplines, unique magic systems, and a menagerie of delicious, terrifying monsters!
+
+Whether you want to drop these classes into your existing D&D campaign world, run a gourmet fantasy quest inspired by *Delicious in Dungeon*, *Battle Chef Brigade*, or *Overcooked*, or embark on an epic journey across the **Five Cosmic Pantries**, this compendium has everything you need.
 
 ```
  ┌─────────────────────────────────────────────────────────────────────────────┐
- │                      CULINARY COMPENDIUM CONTENTS                           │
- ├─────────────────────────────────────────────────────────────────────────────┤
- │ • Chapter 1: The Bread Mage (Kenyérmágus) Base Class & Hungarian Grimoire   │
- │ • Chapter 2: The Hibachi Ninja (Teppan-Shinobi) Martial Class               │
- │ • Chapter 3: The Zymurgist (Fermentation Specialist) Hybrid Half-Caster    │
- │ • Chapter 4: The Grill Master (The Pitmaster) Martial Class                 │
- │ • Chapter 5: Druid Subclass & Variant — Circle of Wildcrafting              │
- │ • Chapter 6: The Kitchen Bestiary — Creatures & Culinary Aberrations         │
- └─────────────────────────────────────────────────────────────────────────────┘
+ │                     THE FIVE REALMS OF GOURMANDIA                           │
+ ├──────────────────────────┬──────────────────────────────────────────────────┤
+ │ Realm / Region           │ Description & Prevalent Crafts                   │
+ ├──────────────────────────┼──────────────────────────────────────────────────┤
+ │ 1. The Hearthlands       │ Rolling fields of sacred wheat and clay kilns;   │
+ │                          │ home to Bread Mages and Sourdough Shrines.       │
+ │ 2. The Teppan Valleys    │ Steaming volcanic plateaus of polished iron;     │
+ │                          │ home to the Hibachi Ninja dojos and flame arts.  │
+ │ 3. The Cellars of Zymos  │ Subterranean oak vaults of living ferment,       │
+ │                          │ SCOBY vats, aging cheeses, and Zymurgists.       │
+ │ 4. The Pitmaster Marches │ Smoked mesquite forests and open-flame pits;    │
+ │                          │ domain of the Grill Masters and Asado Gauchos.   │
+ │ 5. The Foraging Wilds    │ Ancient spice rainforests, herbal groves, and    │
+ │                          │ the Circle of Wildcrafting Druids.               │
+ └──────────────────────────┴──────────────────────────────────────────────────┘
 ```
 
-
 ---
+
+## **Compendium Table of Contents**
+
+1. **Chapter 1: The Bread Mage (*Kenyérmágus*) Base Class** — Full 20-level Wisdom/Constitution full-caster embodying the *Sixfold Ordeal of the Grain*, with 4 Orders and a complete 20-spell Hungarian Bread Magic grimoire.
+2. **Chapter 2: The Hibachi Ninja (*Teppan-Shinobi*) Martial Class** — Full 20-level Dexterity/Charisma martial class wielding dual culinary blades, blade juggling, oil toss bursts, and *The Onion Volcano*.
+3. **Chapter 3: The Zymurgist (Fermentation Specialist) Hybrid Class** — Full 20-level Dexterity/Intelligence half-caster / rogue hybrid commanding the *Four Pillars of Fermentation* (Dairy, Kombucha, Alcohol, Brine).
+4. **Chapter 4: The Grill Master (*The Pitmaster*) Martial Class** — Full 20-level Strength/Constitution 1d12 powerhouse martial class mastering *Low-and-Slow* damage deferral, hardwood smoke plumes, searing iron brands, and legendary BBQ feasts.
+5. **Chapter 5: Circle of Wildcrafting Druid & Dedicated Wildcrafter** — Primal potion brewers crafting 9 magical draughts, witch doctor healing, and alchemical infusions.
+6. **Chapter 6: The Kitchen Bestiary** — 11 balanced D&D 2024 creature stat blocks (CR 1/2 to CR 17) inspired by *Overcooked 1 & 2*, *Battle Chef Brigade*, *Monster Hunter*, *Bugsnax*, and *Don't Starve*.
 
 # **Chapter 1: New Base Class — The Bread Mage (Kenyérmágus)**
 
