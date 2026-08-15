@@ -1119,3 +1119,635 @@ As an **Action**, you awaken your supreme black magic aura for 1 minute (once pe
 
 
 
+
+---
+
+# **Chapter 6: New Base Class — The Bread Mage (Kenyérmágus)**
+
+## **Class Overview & Philosophy**
+
+> *"First, they buried me under the cold ground, and I survived.*  
+> *When I sprouted toward the sun, they cruelly cut me down with sickles, and I survived.*  
+> *They threshed me with their iron flails, and I survived.*  
+> *They ground me to fine flour between their heavy millstones, and I survived.*  
+> *They dumped me into a trough, doused me with water, and kneaded me with merciless fists, and I survived.*  
+> *Then they thrust me into the roaring belly of a searing clay oven to bake me in flame... and I survived.*  
+> *Have you done these things? Have you endured the burial, the sickle, the threshing, the milling, the kneading, and the fire?*  
+> *Until you do all these six things and survive, you have no power here."*  
+> — **The Ancient Creed of the Grain (*A Búza Hat Próbatétele*)**
+
+```
+          .---.
+         /     \         [THE BREAD MAGE (KENYÉRMÁGUS)]
+        | () () |        - Hit Die: 1d8 per Bread Mage level
+         \  =  /         - Primary Abilities: Wisdom (Spellcasting) & Constitution (Ordeals)
+         /|   |\         - Resource Engine: Kovász Points (Living Leaven Pool)
+        / |   | \        - Armor: Light Armor, Medium Armor, Shields
+       (  |___|  )       - Weapons: Simple Weapons, Flails, Sickles, Scythes, Warhammers
+          /   \          - Saving Throws: Constitution, Wisdom
+         (     )         - Core Identity: Sixfold Ordeal Transformation, Sourdough Conjuration, Hearth Magic
+```
+
+The **Bread Mage** (*Kenyérmágus* in the ancient tongue) is a resilient, agrarian primal-arcane spellcaster whose magic is not drawn from dusty tomes or fickle patrons, but from the immortal resilience of the sacred grain. 
+
+Rooted in ancient folklore and the sacred rites of the hearth, a Bread Mage has spiritually—and physically—passed through the **Sixfold Ordeal of the Grain**: burial in the dark earth, the slicing blade of the sickle, the blunt trauma of the flail, the pulverizing pressure of the millstone, the stretching torment of the kneading trough, and the searing agony of the roaring clay oven (*Kemence*). Having endured all six deaths and risen as the golden, consecrated loaf that feeds nations, the Bread Mage commands absolute mastery over earth, dough, steam, yeast fermentation, protective golden crusts, and primordial hearth-fire.
+
+---
+
+## **Bread Mage Class Progression Table**
+
+| Level | PB | Class Features | Kovász Points | Cantrips Known | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| :---: | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1st** | +2 | Spellcasting, The Sixfold Crucible of Grain, Sacred Hearth Loaf | 3 | 3 | 4 | 2 | — | — | — | — | — | — | — | — | — |
+| **2nd** | +2 | The Living Sourdough Mother (*Anya-Kovász*), Hearth Ferment | 4 | 3 | 5 | 3 | — | — | — | — | — | — | — | — | — |
+| **3rd** | +2 | Bread Mage Order (Subclass Feature) | 5 | 3 | 6 | 4 | 2 | — | — | — | — | — | — | — | — |
+| **4th** | +2 | Ability Score Improvement / Feat | 6 | 4 | 7 | 4 | 3 | — | — | — | — | — | — | — | — |
+| **5th** | +3 | Fermented Potency (*Kovászolt Hatalom*) | 7 | 4 | 9 | 4 | 3 | 2 | — | — | — | — | — | — | — |
+| **6th** | +3 | Subclass Feature | 8 | 4 | 10 | 4 | 3 | 3 | — | — | — | — | — | — | — |
+| **7th** | +3 | The Unyielding Loaf (*Töretlen Kenyér*) | 9 | 4 | 11 | 4 | 3 | 3 | 1 | — | — | — | — | — | — |
+| **8th** | +3 | Ability Score Improvement / Feat | 10 | 4 | 12 | 4 | 3 | 3 | 2 | — | — | — | — | — | — |
+| **9th** | +4 | Hearth-Cured Purity (*Kemence Tisztaság*) | 11 | 4 | 14 | 4 | 3 | 3 | 3 | 1 | — | — | — | — | — |
+| **10th** | +4 | Subclass Feature | 12 | 5 | 15 | 4 | 3 | 3 | 3 | 2 | — | — | — | — | — |
+| **11th** | +4 | Miracle of the Loaves (*Ezerszeres Szaporítás*) | 13 | 5 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — | — |
+| **12th** | +4 | Ability Score Improvement / Feat | 14 | 5 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — | — |
+| **13th** | +5 | Doughform Metamorphosis (*Tészta-Test*) | 15 | 5 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — | — |
+| **14th** | +5 | Subclass Feature (Order Grandmastery) | 16 | 5 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — | — |
+| **15th** | +5 | The Great Hearth Siphon (*Kemence Nyelő*) | 17 | 5 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — | — |
+| **16th** | +5 | Ability Score Improvement / Feat | 18 | 5 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — | — |
+| **17th** | +6 | Transubstantiation of the Bread (*Lényegülés*) | 19 | 5 | 19 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 | — |
+| **18th** | +6 | Sovereign of the Primordial Bakery (*Őskemence*) | 20 | 5 | 20 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 | — |
+| **19th** | +6 | Epic Boon Feat (D&D 2024 Standard) | 22 | 5 | 21 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| **20th** | +6 | The Eternal Harvest (*Az Örök Aratás — Halhatatlanság*) | 24 | 5 | 22 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 | 1 |
+
+---
+
+## **Class Features**
+
+### **Hit Points & Proficiencies**
+*   **Hit Dice:** 1d8 per Bread Mage level
+*   **Hit Points at 1st Level:** 8 + your Constitution modifier
+*   **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per Bread Mage level after 1st
+*   **Armor Proficiencies:** Light Armor, Medium Armor, Shields
+*   **Weapon Proficiencies:** Simple Weapons, Sickles, Scythes (Glaives and Halberds), Flails, Morningstars, Warhammers
+*   **Tool Proficiencies:** Cook's Utensils (**Expertise:** Add double your Proficiency Bonus to any check using Cook's Utensils)
+*   **Saving Throws:** **Constitution**, **Wisdom**
+*   **Skills:** Choose three from *Arcana*, *Athletics*, *History*, *Insight*, *Medicine*, *Nature*, and *Survival*.
+
+---
+
+### **Level 1: Spellcasting**
+As an initiate of the sacred grain, you cast spells through your deep spiritual kinship with the soil, yeast, hearth-flame, and the ancient agricultural rites of the elders.
+
+*   **Cantrips:** You know three cantrips of your choice from the **Bread Mage Spell List**. Whenever you gain a Bread Mage level, you can replace one cantrip you know with another from the spell list. You learn additional cantrips at higher levels as shown in the Cantrips Known column.
+*   **Spell Slots:** The Bread Mage table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a **Long Rest**.
+*   **Prepared Spells:** You prepare the list of Bread Mage spells that are available for you to cast, choosing from the Bread Mage spell list. The number of spells you can prepare equals your **Wisdom modifier + your Bread Mage level** (minimum of one spell).
+*   **Spellcasting Ability:** **Wisdom** is your spellcasting ability for your Bread Mage spells, reflecting your spiritual harmony with the ancestral rhythm of harvest, nourishment, and hearth.
+    *   **Spell Save DC** = 8 + your Proficiency Bonus + your Wisdom modifier
+    *   **Spell Attack Modifier** = your Proficiency Bonus + your Wisdom modifier
+*   **Spellcasting Focus:** You can use **Cook's Utensils**, a wooden bread paddle (*Sütőlapát*), a carved dough bowl, or a jar of living sourdough starter (*Kovász*) as a spellcasting focus for your Bread Mage spells.
+*   **Ritual Casting:** You can cast any Bread Mage spell you have prepared as a ritual if that spell has the ritual tag.
+
+---
+
+### **Level 1: The Sixfold Crucible of Grain (*A Hat Próba*)**
+You have survived the six ancient tortures of the wheat, engraving their metaphysical lessons into your very flesh and soul. You possess a pool of **Kovász Points** (Living Leaven Points) equal to **your Bread Mage level + your Constitution modifier** (minimum of 2 points). You regain all expended Kovász Points when you finish a **Long Rest**, and you regain a number of points equal to your **Wisdom modifier** (minimum 1) when you finish a **Short Rest**.
+
+You can expend Kovász Points to activate the following Ordeal Arts:
+
+1.  **The First Ordeal: The Burial (*Elhantolás — Earth Endurance*):** As a **Bonus Action** (1 point), you attune to the cold earth that buried you. Until the end of your current turn, you gain a **Burrow speed of 15 feet** through loose earth, sand, grain, or flour, and you gain **Tremorsense out to 15 feet** for 1 minute.
+2.  **The Second Ordeal: The Sickle (*Aratás — Severance Defiance*):** When you take Slashing damage or gain the Grappled or Restrained condition, you can use your **Reaction** (1 point) to slip through the binding blade. You reduce the incoming damage by **1d8 + your Constitution modifier** and immediately end the Grappled or Restrained condition on yourself.
+3.  **The Third Ordeal: The Threshing (*Cséplés — Unyielding Stalk*):** When a creature hits you with a melee attack or attempts to push or knock you Prone, you can use your **Reaction** (1 point) to plant your feet like rooted grain. You cannot be moved or knocked Prone against your will, and the attacker takes **Bludgeoning damage equal to your Proficiency Bonus in d6s** as kinetic shockwaves violently rebound.
+4.  **The Fourth Ordeal: The Milling (*Őrlés — Flour Particulate Mist*):** As a **Bonus Action** (1 point), you briefly dissolve into a 10-foot-radius cloud of fine, swirling flour dust. You can teleport to an unoccupied space you can see within **20 feet**, and attack rolls made against you have **Disadvantage** until the start of your next turn.
+5.  **The Fifth Ordeal: The Kneading (*Dagasztás — Elastic Dough Physique*):** As a **Bonus Action** (1 point), your limbs and joints become as pliable and resilient as masterfully kneaded dough for 1 minute. Your melee attack reach increases by **5 feet**, you have Advantage on Strength (Athletics) checks to Grapple, and you can pull a grappled target up to 10 feet toward you when you hit it.
+6.  **The Sixth Ordeal: The Searing Oven (*Kemencesütés — Hardened Golden Crust*):** Whenever you cast a Bread Mage spell of 1st level or higher, you can expend 1 Kovász point as part of the casting to flash-bake your skin into an armor of blazing, golden crust. You gain **Temporary Hit Points equal to twice your Bread Mage level** for 1 hour, and your melee attacks deal an additional **1d6 Fire damage** while these Temporary Hit Points remain.
+
+---
+
+### **Level 1: Sacred Hearth Loaf (*Szent Kenyér*)**
+During a Long Rest, you can use your Cook's Utensils and hearth magic to bake a batch of consecrated Hungarian loaves equal to your **Wisdom modifier** (minimum 1 loaf). Each loaf can be divided into 4 slices.
+*   As a **Bonus Action**, you or an ally can consume a slice of Sacred Bread. Doing so restores **2d4 + your Wisdom modifier Hit Points** and removes one level of **Exhaustion**, the **Poisoned condition**, or the **Frightened condition**.
+*   The healing increases to **4d4** at Level 5, **6d4** at Level 11, and **8d4** at Level 17.
+*   Consecrated loaves retain their magical potency until you finish your next Long Rest, at which point any uneaten bread becomes delicious, non-magical bread.
+
+---
+
+### **Level 2: The Living Sourdough Mother (*Anya-Kovász*)**
+You awaken and bond with an immortal, magical sourdough starter known as the **Anya-Kovász** (The Mother Leaven). Housed in a sealed crock or floating alongside you as a sentient globule of rising dough, it acts as a magical companion and catalyst:
+*   **Adhesive Dough Tether:** As a **Bonus Action**, you can command the Mother Leaven to shoot an elastic strand of dough at a creature or object within **30 feet**. If the target is an object weighing up to 50 pounds, it is pulled into your free hand. If the target is a Medium or smaller creature, it must succeed on a Strength saving throw against your Spell Save DC or be pulled 15 feet toward you and have its speed reduced by 10 feet until the end of its next turn.
+*   **Hearth Ferment (Spell Slot Synthesis):** As an Action, you can channel the bubbling fermentation of the Mother Leaven to convert raw vitality into magic. You can spend Kovász Points to create an expended spell slot as a Bonus Action:
+    *   *1st-Level Slot:* 2 Kovász Points
+    *   *2nd-Level Slot:* 3 Kovász Points
+    *   *3rd-Level Slot:* 5 Kovász Points
+    *   *4th-Level Slot:* 6 Kovász Points
+    *   *5th-Level Slot:* 7 Kovász Points
+
+---
+
+### **Level 3: Bread Mage Order (Subclass)**
+At 3rd level, you choose which sacred culinary and martial tradition of the hearth you devote your craft to:
+*   **Order of the Black Rye (*Fekete Rozs Rendje*):** Dark, brooding battle-mages who master hallucinogenic ergot blight, hardened rye crust armor, and sweeping sickle strikes.
+*   **Order of the Golden Kalács (*Arany Kalács Rendje*):** Radiant festival bakers who weave braided brioche wards, bestow miraculous banquets, and mend broken souls with joyous golden hearth-light.
+*   **Order of the Clay Kemence (*A Kemence Mesterei*):** Pyromantic master bakers who conjure living stone kilns, blast superheated steam, and fling explosive dough bombs.
+*   **Order of the Millstone Golem (*Malomkő Építők*):** Arcane sculptors who animate towering Sourdough Golems, crush foes under spectral millstones, and reshape battlefields into sticky dough traps.
+
+Your chosen Order grants you unique features at **Level 3, Level 6, Level 10, and Level 14**.
+
+---
+
+### **Level 4: Ability Score Improvement / Feat**
+You gain an Ability Score Improvement or a Feat of your choice for which you qualify, as per standard D&D 2024 rules. (Repeated at Levels 8, 12, 16, and 19).
+
+---
+
+### **Level 5: Fermented Potency (*Kovászolt Hatalom*)**
+Your mastery of yeast, heat, and grain enhances all your offensive arts:
+*   You add your **Wisdom modifier** (minimum of +1) to the damage roll of any Bread Mage cantrip or spell you cast.
+*   When you make a weapon attack using a Sickle, Scythe, Flail, or Warhammer, you can use your **Wisdom modifier** instead of Strength or Dexterity for the attack and damage rolls.
+
+---
+
+### **Level 7: The Unyielding Loaf (*Töretlen Kenyér*)**
+You have mastered the art of petrifying your flesh into an unbroken, sacred crust when struck down.
+*   When you are reduced to 0 Hit Points, you can use your **Reaction** to drop to **1 Hit Point instead**.
+*   When you trigger this feature, your skin solidifies into an incandescent golden crust, granting you **Temporary Hit Points equal to 3 × your Bread Mage level**.
+*   Simultaneously, a 20-foot-radius burst of blinding flour and scalding steam erupts from your space. Every hostile creature in the area must make a Constitution saving throw against your Spell Save DC or gain the **Blinded condition** until the end of its next turn.
+*   Once you use this reaction, you cannot do so again until you finish a **Long Rest**, unless you expend **3 Kovász Points** to regain its use.
+
+---
+
+### **Level 9: Hearth-Cured Purity (*Kemence Tisztaság*)**
+The intense heat and pure grain of your magic have purged all toxins from your vessel:
+*   You gain permanent **Immunity to Poison damage** and the **Poisoned condition**.
+*   You are immune to all non-magical diseases and magical curses of rot.
+*   You no longer require mundane rations to survive; a single pinch of flour or bite of crust satisfies your nutritional needs for a full week.
+
+---
+
+### **Level 11: Miracle of the Loaves (*Ezerszeres Szaporítás*)**
+You embody the ancient miracle of inexhaustible harvest and sustenance:
+*   **Multiplication of Provisions:** As an Action, you can touch a single piece of food, a Sacred Hearth Loaf, a healing potion, or a container of non-magical water, wine, or stew. You duplicate it up to **100 times**, creating enough fresh, perfect food and drink to nourish an entire village or army division for a month. Potions multiplied in this manner retain their magical potency for 24 hours.
+*   **Communal Dough Ward:** When you cast a Bread Mage spell that targets only one willing creature, you can expend **2 Kovász Points** to target up to **three additional willing creatures within 30 feet** of you with the same spell.
+
+---
+
+### **Level 13: Doughform Metamorphosis (*Tészta-Test*)**
+Your physical body achieves complete structural elasticity:
+*   You can move through a space as narrow as **1 inch wide** without squeezing or expending extra movement.
+*   You gain permanent **Resistance to Bludgeoning, Piercing, and Slashing damage** from non-magical attacks.
+*   You cannot be subjected to Critical Hits; any Critical Hit against you becomes a normal hit as your elastic dough flesh simply yields and snaps back.
+
+---
+
+### **Level 15: The Great Hearth Siphon (*Kemence Nyelő*)**
+You absorb kinetic and thermal violence directly into your internal sourdough ferment:
+*   Whenever you take **Fire, Radiant, or Bludgeoning damage**, you can use your **Reaction** to absorb the impact. You reduce the damage taken by half, and you immediately regain **Kovász Points equal to half your Proficiency Bonus** (rounded up).
+*   Additionally, the next Bread Mage spell or weapon attack you make before the end of your next turn deals extra **Fire damage equal to the damage absorbed** (up to a maximum of 30 damage).
+
+---
+
+### **Level 17: Transubstantiation of the Bread (*Kenyérré Lényegülés*)**
+You transcend mortal biology, becoming an avatar of living, consecrated bread:
+*   Your creature type becomes **Elemental (Primal)** in addition to Humanoid.
+*   You no longer require air to breathe, and you do not age or suffer the frailty of old age.
+*   You do not need to sleep. Instead, you enter a meditative baking state for 4 hours during a Long Rest, during which your living dough quietly rises and regenerates.
+*   You gain a permanent **Climbing speed equal to your walking speed** and can climb across ceilings and vertical walls without making an ability check due to the adhesive micro-structure of your dough.
+
+---
+
+### **Level 18: Sovereign of the Primordial Bakery (*Az Őskemence Ura*)**
+As an **Action**, you manifest the ethereal heat and celestial aroma of the legendary **Primordial Hungarian Bakery** in a **30-foot aura** centered on yourself for 1 minute (once per Long Rest, or by spending 5 Kovász Points):
+*   **Aura of Golden Nourishment:** At the start of each of their turns, you and all allies inside the aura gain **Temporary Hit Points equal to your Bread Mage level** and have **Advantage on all saving throws**.
+*   **Roaring Kiln Heat:** The ground inside the aura bubbles with molten sourdough. Enemies treat the area as Difficult Terrain and take **4d8 Fire and Radiant damage** when they enter the aura for the first time on a turn or start their turn there.
+*   **Effortless Baking:** The Kovász Point cost of all your Ordeal Arts and subclass features is reduced by **1 point** (to a minimum of 0 points) for the duration.
+
+---
+
+### **Level 19: Epic Boon Feat**
+You gain an **Epic Boon Feat** from the D&D 2024 Player's Handbook (such as *Boon of Spell Recall*, *Boon of Fortitude*, or *Boon of Truesight*) or an Ability Score Improvement.
+
+---
+
+### **Level 20: The Eternal Harvest (*Az Örök Aratás — Hat Próba Halhatatlanság*)**
+You have completed the sacred cycle. You have been buried, cut down, threshed, milled, kneaded, and baked. Death has no claim over that which has already died six deaths:
+*   **Immortality of the Grain:** If you die by any means, your physical body dissolves into a cloud of glowing golden wheat seeds that scatter into the winds and subterranean currents. At the next sunrise, you sprout and rise fully restored to life (with all your Hit Points, spell slots, and Kovász points) at any location on that plane of existence where wheat, rye, or grain grows.
+*   **Endless Ferment:** Whenever you roll Initiative and have fewer than **4 Kovász Points**, your pool immediately resets to **4 Kovász Points**.
+
+---
+
+# **Bread Mage Subclasses (Orders of the Hearth)**
+
+---
+
+## **1. Order of the Black Rye (*Fekete Rozs Rendje*)**
+
+*While wheat represents life and golden joy, the hardy winter rye thrives in frozen muck, rocky frost, and desolate highlands. The Bread Mages of the Black Rye brew dark, sour, heavily fermented dough and harvest the feared ergot fungus (Anyarozs)—a purple blight that induces terrifying hallucinations, burning tremors, and necrotic frenzy in their enemies.*
+
+```
+      [ORDER OF THE BLACK RYE]
+      - Role: Martial Frontline Bruiser / Ergot Venom Specialist
+      - Weaponry: Martial Scythes, Sickles, Heavy Black Crust
+      - Key Mechanics: Hallucinogenic Blight, Extra Attack, Sanguine Sourdough
+```
+
+### **Level 3: Black Crust Armor & Sickle Discipline**
+*   You gain proficiency with **Heavy Armor** and all **Martial Weapons**.
+*   When you wield a **Sickle**, its damage die increases to **1d8 Slashing damage**, and it gains the **Vex** and **Nick** weapon mastery properties for you.
+*   **Ergot Infusion (*Anyarozs Méreg*):** When you hit a creature with a weapon attack or Bread Mage spell, you can expend **1 Kovász Point** to inject dark rye blight. The target takes an additional **1d8 Poison or Psychic damage** (your choice) and must succeed on a Constitution saving throw against your Spell Save DC or gain the **Poisoned condition** until the end of its next turn. While poisoned in this way, the creature experiences vivid auditory hallucinations, giving it **Disadvantage on all attack rolls**.
+
+### **Level 6: Extra Attack & Scythe of the Reaping Sun**
+*   **Extra Attack:** You can attack twice, instead of once, whenever you take the Attack action on your turn. Moreover, you can cast one of your Bread Mage cantrips in place of one of those attacks.
+*   **Cleaving Stalk:** When you hit a creature with a two-handed weapon (such as a Glaive, Halberd, or Warhammer), you can sweep through adjacent foes. A second creature within 5 feet of the primary target takes Slashing or Bludgeoning damage equal to your **Wisdom modifier + your Proficiency Bonus**.
+
+### **Level 10: Hallucinogenic Ferment Aura**
+*   You emit a subtle, sweet-sour scent of dark fermented rye in a **15-foot aura**.
+*   Hostile creatures inside the aura suffer **Disadvantage on Wisdom saving throws** and concentration checks.
+*   **Black Crust Retaliation:** When an enemy hits you with a melee attack, black rye spores explode in its face. The attacker must make a Wisdom saving throw against your Spell Save DC or take **3d8 Psychic damage** and spend its next turn fleeing from you in terror. You can use this retaliation a number of times equal to your **Proficiency Bonus**, regaining all uses on a Long Rest.
+
+### **Level 14: Avatar of the Rye Reaper (*A Rozskirály Alakja*)**
+As a **Bonus Action**, you transform into the terrifying **Rye Reaper** for 1 minute (once per Long Rest, or by spending 4 Kovász Points):
+*   Your skin turns to pitch-black, petrified sourdough, granting you **Resistance to all damage except Radiant damage**.
+*   You sprout spectral, razor-sharp scythe blades from your elbows and hands. Your melee weapon attacks score a **Critical Hit on a roll of 19–20**.
+*   Whenever you reduce a creature to 0 Hit Points while in this form, its corpse dissolves into a cloud of black rye spores, healing you for **4d8 Hit Points** and forcing all enemies within 20 feet to make a Wisdom saving throw or gain the **Frightened condition** for 1 minute.
+
+---
+
+## **2. Order of the Golden Kalács (*Arany Kalács Rendje*)**
+
+*In Hungarian tradition, the braided Kalács is the queen of festival breads—woven with egg, sweet butter, golden honey, and braided like the hair of ancestral maidens. The Bread Mages of the Golden Kalács are radiant healers, protectors of community, and weavers of joyous hearth-magic who banish despair and knit broken bones with sweet brioche light.*
+
+```
+      [ORDER OF THE GOLDEN KALÁCS]
+      - Role: Premier Healer / Buffer / Radiant Hearth Protector
+      - Key Mechanics: Braided Brioche Shields, Festival Feasts, Revivifying Loaves
+```
+
+### **Level 3: Braided Brioche Wards & Festival Blessing**
+*   **Braided Wards:** Whenever you cast a Bread Mage spell of 1st level or higher that restores Hit Points to an ally, that ally also gains a woven brioche shield: their **Armor Class increases by +2** and they gain **Temporary Hit Points equal to 1d8 + your Wisdom modifier** for 10 minutes.
+*   **Sweet Leaven Cantrip:** You learn the *Spare the Dying* and *Guidance* cantrips. They count as Bread Mage cantrips for you and have a range of **30 feet**.
+
+### **Level 6: Aura of the Festive Hearth (*Ünnepi Kalács Aura*)**
+*   You radiate a 30-foot aura of joyous hearth-warmth and honeyed brioche aroma.
+*   You and allies inside the aura are **immune to the Frightened condition** and have **Advantage on saving throws against the Charmed condition and exhaustion**.
+*   Whenever an ally inside your aura makes a Death Saving Throw, they add your **Wisdom modifier** to the roll. If the result is 20 or higher, they regain 1 Hit Point and can immediately stand up.
+
+### **Level 10: The Miraculous Hungarian Banquet (*Királyi Lakoma*)**
+*   During a Short Rest, you can expend **3 Kovász Points** to manifest a lavish, magical banquet of hot braided Kalács, honey, roasted tubers, and golden wine.
+*   Up to **10 creatures** who partake in the banquet gain the following benefits:
+    *   They regain the maximum possible Hit Points from any Hit Dice they spend during the rest.
+    *   Their maximum Hit Points increase by **20** for 8 hours.
+    *   They are cured of all poisons, diseases, blindness, and deafness.
+    *   They gain **Advantage on Constitution saving throws** for the next 8 hours.
+
+### **Level 14: Radiant Transubstantiation of the Heart**
+*   As an **Action**, you release an explosion of blinding, honey-golden hearth light in a **60-foot radius** (once per Long Rest):
+    *   All dead allies within range who died within the last hour are immediately returned to life with **half their maximum Hit Points** (functioning as *Raise Dead* without penalties or material components).
+    *   All living allies in the area regain **8d8 + your Wisdom modifier Hit Points** and are cleansed of all curses.
+    *   Hostile creatures in the area must succeed on a Constitution saving throw against your Spell Save DC or take **8d8 Radiant damage** and gain the **Blinded condition** for 1 minute.
+
+---
+
+## **3. Order of the Clay Kemence (*A Kemence Mesterei*)**
+
+*The traditional Hungarian outdoor clay oven—the Kemence—is a massive domed fortress of brick, clay, and trapped volcanic fire. The Bread Mages of this order do not merely bake bread; they command the searing pyromantic fury of the kiln. They lob exploding molten dough, blast scalding steam, and turn battlefields into boiling baking troughs.*
+
+```
+      [ORDER OF THE CLAY KEMENCE]
+      - Role: Heavy Blaster / Pyromancer / Area Denial
+      - Key Mechanics: Molten Crust Bombs, Scalding Steam Cones, Living Clay Oven
+```
+
+### **Level 3: Living Hearthfire & Molten Crust Bombs**
+*   **Hearth Pyromancy:** You learn the *Hearth Ember* cantrip. When you cast a Bread Mage spell that deals damage, you can convert the damage type to **Fire or Radiant damage**. Spells you cast ignore **Fire Resistance**.
+*   **Molten Crust Bomb (*Lángoló Cipó*):** As a **Bonus Action**, you can expend **1 Kovász Point** to bake and fling a palm-sized sphere of boiling, molten dough at a point within **60 feet**. It detonates in a 10-foot radius. Every creature in the area must make a Dexterity saving throw against your Spell Save DC, taking **2d6 Fire damage** on a failed save, or half as much on a successful one. This damage increases to **4d6** at Level 6, **6d6** at Level 10, and **8d6** at Level 14.
+
+### **Level 6: Scalding Steam Release (*Kemence Gőzkitörés*)**
+*   Whenever you cast a Bread Mage spell of 1st level or higher that deals Fire damage, you can unleash a **20-foot cone of scalding, superheated steam** as a Reaction.
+*   Creatures in the cone must make a Constitution saving throw. On a failure, they take **3d6 Fire damage**, are pushed **10 feet away**, and gain the **Blinded condition** until the start of your next turn from the searing vapor. On a success, they take half damage and are not pushed or blinded.
+*   The area of the cone becomes heavily obscured by dense white steam for 1 minute or until a strong wind disperses it.
+
+### **Level 10: Molten Kiln Fortress (*Élő Kemence Vért*)**
+*   You gain permanent **Resistance to Fire and Cold damage**.
+*   Whenever a creature within 10 feet of you hits you with a melee attack, searing embers and molten glaze erupt from your armor, dealing **3d8 Fire damage** to the attacker.
+
+### **Level 14: Cataclysmic Kemence Conflagration (*Az Ősi Kemence Ítélete*)**
+*   As an **Action**, you summon a colossal, spectral Hungarian clay oven around an area within **90 feet** (once per Long Rest, or by spending 5 Kovász Points):
+*   A 30-foot-radius, 40-foot-tall dome of searing clay and roaring flame locks into place for 1 minute.
+*   Creatures inside when it appears must make a Dexterity saving throw, taking **10d10 Fire and Bludgeoning damage** on a failed save, or half as much on a success.
+*   Hostile creatures trapped inside the dome cannot leave by mundane means (the walls have 150 HP and Immunity to Fire/Poison) and take **4d10 Fire damage** at the start of each of their turns as they are literally baked alive in superheated kiln fire.
+
+---
+
+## **4. Order of the Millstone Golem (*Malomkő Építők*)**
+
+*Where other mages shape metal or stone, the Millstone Golemificers weave living, expanding sourdough with colossal granite grinding stones. They sculpt animated dough guardians (*Kovász-Gólem*) that expand, absorb blows, grapple monsters, and crush armies beneath rolling stone wheels.*
+
+```
+      [ORDER OF THE MILLSTONE GOLEM]
+      - Role: Master Summoner / Battlefield Controller / Heavy Tank
+      - Key Mechanics: Living Sourdough Golem Companion, Flour Quicksand, Millstone Slam
+```
+
+### **Level 3: Living Sourdough Golem (*Kovász-Gólem*)**
+You sculpt a living companion out of enchanted, constantly rising sourdough and millstone fragments:
+*   **Summoning:** As an Action, you can summon your Sourdough Golem into an unoccupied space within **30 feet**. It uses the **Sourdough Golem Companion Stat Block** below, which scales directly with your Bread Mage level and Wisdom modifier.
+*   **Combat Command:** In combat, the Golem acts on your initiative count immediately after you. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action unless you take a **Bonus Action** on your turn to command it to take an action in its stat block (or the Attack, Dash, Disengage, Help, Hide, or Search action).
+*   **Restoration:** If the Golem is destroyed, you can sculpt a new one during a Short or Long Rest using your Cook's Utensils and 1 Kovász Point.
+
+```
+╔════════════════════════════════════════════════════════════════════════════╗
+║ LIVING SOURDOUGH GOLEM (KOVÁSZ-GÓLEM)                                      ║
+║ Medium or Large Construct / Ooze (Your Choice), Neutral                     ║
+╠════════════════════════════════════════════════════════════════════════════╣
+║ Armor Class: 14 + PB (Natural Crust Armor)                                 ║
+║ Hit Points: 10 + 6 × your Bread Mage level                                 ║
+║ Speed: 30 ft., Climb 30 ft.                                                ║
+╠════════════════════════════════════════════════════════════════════════════╣
+║ STR: 16 (+3) | DEX: 10 (+0) | CON: 16 (+3) | INT: 6 (-2) | WIS: 10 (+0) | CHA: 6 (-2) ║
+╠════════════════════════════════════════════════════════════════════════════╣
+║ Damage Immunities: Poison, Psychic                                         ║
+║ Condition Immunities: Charmed, Exhaustion, Frightened, Poisoned, Prone     ║
+║ Senses: Darkvision 60 ft., Tremorsense 30 ft., Passive Perception 10       ║
+║ Languages: Understands the languages you speak                             ║
+╠════════════════════════════════════════════════════════════════════════════╣
+║ TRAITS:                                                                    ║
+║ • Adhesive Dough Body: A creature that touches the Golem or hits it with a ║
+║   melee attack while within 5 ft must succeed on a Strength saving throw   ║
+║   against your Spell Save DC or be Grappled (escape DC = your Spell Save DC)║
+║ • Elastic Absorption: The Golem has Resistance to Bludgeoning and Slashing.║
+║ • Expanding Yeast: When the Golem drops below half its max HP, it swells to║
+║   Large size (if Medium), gaining +2 to damage rolls and +10 ft reach.     ║
+╠════════════════════════════════════════════════════════════════════════════╣
+║ ACTIONS:                                                                   ║
+║ • Millstone Slam: Melee Weapon Attack: your Spell Attack Modifier to hit,  ║
+║   reach 5 ft., one target. Hit: 1d10 + 3 + PB Bludgeoning damage. If the   ║
+║   target is a Medium or smaller creature, it is knocked Prone.             ║
+║ • Dough Envelop (Recharge 5–6): The Golem attempts to swallow one Grappled ║
+║   creature. The target must succeed on a Dex save vs your Spell Save DC or  ║
+║   be pulled inside the dough body. While enveloped, the creature is Blinded║
+║   and Restrained, has total cover, and takes 2d8 Bludgeoning + 2d8 Acid    ║
+║   (Ferment) damage at the start of each of the Golem's turns.              ║
+╚════════════════════════════════════════════════════════════════════════════╝
+```
+
+### **Level 6: Flour Terraforming & Adhesive Trap**
+*   As an **Action** (1 Kovász Point), you turn a 30-foot square of ground within **60 feet** into boiling, sticky sourdough or fine blinding flour dust:
+    *   **Sticky Dough:** The area becomes Difficult Terrain. Any creature entering the area or starting its turn there must succeed on a Strength saving throw or be **Restrained** by the thick dough.
+    *   **Flour Dust Cloud:** The area becomes Heavily Obscured for 1 minute. Any creature entering the area must make a Constitution saving throw or spend its turn coughing (Incapacitated) until it leaves the cloud.
+
+### **Level 10: Dual Orbiting Millstones**
+*   Two massive, spectral granite millstones orbit you or your Golem (your choice):
+    *   The protected creature gains a **+2 bonus to Armor Class**.
+    *   When an enemy moves within 5 feet of the protected creature, you can use your **Reaction** to smash the millstones together. The enemy must make a Dexterity saving throw, taking **4d8 Bludgeoning damage** and being knocked **Prone and Pushed 15 feet** on a failed save, or half as much on a success.
+
+### **Level 14: Colossal Grain Juggernaut**
+*   As an **Action**, you infuse your Sourdough Golem with primordial sourdough energy for 1 minute (once per Long Rest, or by spending 4 Kovász Points):
+    *   The Golem grows to **Huge size**.
+    *   It gains **100 Temporary Hit Points**.
+    *   Its *Millstone Slam* deals **3d10 + 3 + PB Bludgeoning damage**, and its attacks deal double damage to objects and structures.
+    *   It can envelop up to **two Large or four Medium creatures** at the same time.
+
+---
+
+# **The Hungarian Bread Magic Spell Compendium (*Kenyérmágia Grimoire*)**
+
+---
+
+### **Cantrips (0-Level Spells)**
+
+#### **Flour Burst (*Lisztrobbanás*)**
+*Transmutation Cantrip*  
+* **Casting Time:** 1 Action  
+* **Range:** 60 feet  
+* **Components:** V, S, M (a pinch of wheat flour)  
+* **Duration:** Instantaneous  
+You throw or manifest a dense pocket of pressurized grain flour at a target within range. The target must make a Constitution saving throw. On a failed save, the creature takes **1d8 Bludgeoning damage** and has Disadvantage on the next attack roll it makes before the end of its next turn due to flour in its eyes.  
+* **Level Scaling:** The damage increases by 1d8 at Level 5 (2d8), Level 11 (3d8), and Level 17 (4d8).
+
+#### **Knead Flesh (*Húsgyúrás*)**
+*Transmutation Cantrip*  
+* **Casting Time:** 1 Action  
+* **Range:** Touch (or 5-foot reach)  
+* **Components:** V, S  
+* **Duration:** Instantaneous  
+You strike a creature with fists enchanted with the force of a master baker kneading stubborn dough. Make a melee spell attack against the target. On a hit, the target takes **1d10 Bludgeoning damage**, and you can pull or push the target **5 feet** in any horizontal direction.  
+* **Level Scaling:** The damage increases by 1d10 at Level 5 (2d10), Level 11 (3d10), and Level 17 (4d10).
+
+#### **Hearth Ember (*Parázsszem*)**
+*Evocation Cantrip*  
+* **Casting Time:** 1 Action  
+* **Range:** 60 feet  
+* **Components:** V, S, M (a piece of wood ash from a clay oven)  
+* **Duration:** Instantaneous  
+You flick a glowing, superheated ember from the sacred oven at a creature or flammable object. Make a ranged spell attack. On a hit, the target takes **1d10 Fire damage**. If the target is an unattended flammable object, it ignites into flames.  
+* **Level Scaling:** The damage increases by 1d10 at Level 5 (2d10), Level 11 (3d10), and Level 17 (4d10).
+
+#### **Fresh Golden Crust (*Friss Ropogós Héj*)**
+*Abjuration Cantrip*  
+* **Casting Time:** 1 Action  
+* **Range:** Touch  
+* **Components:** V, S, M (a crust of baked bread)  
+* **Duration:** 1 round  
+You touch a willing creature, encasing its armor or skin in a thin, shimmering golden bread crust. The creature gains **1d4 + your Spellcasting Ability Modifier Temporary Hit Points** until the start of your next turn. While these Temporary Hit Points last, the target gains a **+1 bonus to AC**.
+
+---
+
+### **1st-Level Spells**
+
+#### **Sticky Sourdough (*Ragadós Kovász*)**
+*1st-Level Conjuration*  
+* **Casting Time:** 1 Action  
+* **Range:** 60 feet (15-foot square)  
+* **Components:** V, S, M (a dollop of wet sourdough starter)  
+* **Duration:** Concentration, up to 1 minute  
+You spray bubbling, adhesive sourdough across a 15-foot square on the ground within range. For the duration, the area becomes Difficult Terrain. When a creature enters the area for the first time on a turn or starts its turn there, it must succeed on a Strength saving throw against your Spell Save DC or gain the **Restrained condition** as the thick dough adheres to its legs. A restrained creature can use an Action to make a Strength check against your Spell Save DC, freeing itself on a success.  
+* **Using a Higher-Level Slot:** When cast using a 2nd-level slot or higher, the radius of the square increases by 5 feet for each slot level above 1st.
+
+#### **Hardtack Shield (*Kétszersült Pajzs*)**
+*1st-Level Abjuration*  
+* **Casting Time:** 1 Reaction (which you take when hit by an attack or targeted by the *Magic Missile* spell)  
+* **Range:** Self  
+* **Components:** V, S, M (a piece of rock-hard military hardtack)  
+* **Duration:** 1 round  
+An impenetrable barrier of rock-hard, ancient hardtack bread manifests before you. Until the start of your next turn, you gain a **+5 bonus to AC**, including against the triggering attack, and you take no damage from *Magic Missile*. In addition, if a melee attack hits the shield and fails to penetrate your AC, the attacker's weapon rebounds, dealing **1d8 Bludgeoning damage** to the attacker.
+
+#### **Blessing of the Harvest Loaf (*Aratási Kenyéráldás*)**
+*1st-Level Transmutation (Ritual)*  
+* **Casting Time:** 1 Action  
+* **Range:** Touch  
+* **Components:** V, S, M (up to three pieces of bread)  
+* **Duration:** 24 hours  
+You infuse up to three pieces of bread with sacred hearth magic. A creature can use a Bonus Action to eat one piece of infused bread. Eating a piece restores **2d6 + your Spellcasting Ability Modifier Hit Points** and grants the creature **Advantage on the next saving throw it makes within 1 hour**.
+
+---
+
+### **2nd-Level Spells**
+
+#### **Rolling Millstone (*Gördülő Malomkő*)**
+*2nd-Level Evocation / Transmutation*  
+* **Casting Time:** 1 Action  
+* **Range:** 60 feet (5-foot-wide, 30-foot-long line)  
+* **Components:** V, S, M (a round granite pebble)  
+* **Duration:** Instantaneous  
+You conjure a massive, 6-foot-tall spectral granite millstone that rolls violently in a 30-foot line in a direction you choose. Each creature in the line must make a Dexterity saving throw. A creature takes **3d8 Bludgeoning damage** and is knocked **Prone** on a failed save, or half as much damage and is not knocked prone on a successful one. The millstone crushes all non-magical objects and structures in its path.  
+* **Using a Higher-Level Slot:** The damage increases by 1d8 for each slot level above 2nd.
+
+#### **Rising Dough Swell (*Kelesztett Tészta Duzzadás*)**
+*2nd-Level Transmutation*  
+* **Casting Time:** 1 Action  
+* **Range:** 30 feet  
+* **Components:** V, S, M (a pinch of dry yeast)  
+* **Duration:** Concentration, up to 1 minute  
+You inject rapid, hyperactive yeast energy into a target creature:
+*   **Willing Ally:** The target swells with powerful dough-muscle. It gains the benefits of the *Enlarge* spell (gaining Advantage on Strength checks/saves and +1d4 weapon damage), and it gains **2d8 Temporary Hit Points** at the start of each of its turns for the duration.
+*   **Hostile Enemy:** The target must make a Constitution saving throw. On a failed save, the creature's belly and limbs painfully bloat with rising dough. Its speed is halved, it has Disadvantage on Dexterity saving throws, and it takes **2d8 Bludgeoning/Acid damage** at the start of each of its turns as yeast expands inside it. The creature can repeat the Con save at the end of each of its turns, ending the effect on a success.
+
+#### **Steam of the Clay Oven (*Kemence Gőzfelhő*)**
+*2nd-Level Evocation*  
+* **Casting Time:** 1 Action  
+* **Range:** Self (20-foot cone)  
+* **Components:** V, S, M (a cup of boiling water thrown onto hot coals)  
+* **Duration:** Instantaneous (cloud lingers 1 minute)  
+You exhale or release a blast of scalding, superheated white steam from your inner kiln in a 20-foot cone. Each creature in the area must make a Constitution saving throw, taking **3d6 Fire damage** on a failed save, or half as much on a successful one. The area of the cone becomes heavily obscured by dense, hot steam for 1 minute.  
+* **Using a Higher-Level Slot:** The damage increases by 1d6 for each slot level above 2nd.
+
+---
+
+### **3rd-Level Spells**
+
+#### **Flail of the Threshers (*Cséplők Viharos Csapása*)**
+*3rd-Level Evocation*  
+* **Casting Time:** 1 Action  
+* **Range:** Self (20-foot radius)  
+* **Components:** V, S, M (a miniature wooden grain flail)  
+* **Duration:** Instantaneous  
+Dozens of spectral, heavy iron flails sweep downward in a 20-foot radius centered on you, hammering the ground with the brutal rhythm of the autumn harvest. Each hostile creature in the area must make a Strength saving throw. On a failed save, a creature takes **5d6 Bludgeoning damage**, is pushed **10 feet away**, and is knocked **Prone**. On a successful save, a creature takes half damage and is not pushed or knocked prone.  
+* **Using a Higher-Level Slot:** The damage increases by 1d6 for each slot level above 3rd.
+
+#### **Ergot Blight (*Anyarozs Elmezavar*)**
+*3rd-Level Necromancy / Enchantment*  
+* **Casting Time:** 1 Action  
+* **Range:** 90 feet (20-foot-radius sphere)  
+* **Components:** V, S, M (a stalk of blackened, moldy rye)  
+* **Duration:** Concentration, up to 1 minute  
+You unleash a cloud of purple, hallucinogenic black rye spores at a point within range. Each creature in the 20-foot sphere must make a Wisdom saving throw. On a failed save, a creature takes **4d8 Psychic and Poison damage** and becomes afflicted with St. Anthony’s Fire (the ergot madness) for the duration. An afflicted creature is confused (as per the *Confusion* spell) and takes **2d8 Psychic damage** at the start of each of its turns. An afflicted target repeats the saving throw at the end of each of its turns, ending the effect on a success.  
+* **Using a Higher-Level Slot:** The initial damage increases by 1d8 for each slot level above 3rd.
+
+#### **Braided Kalács Rampart (*Fonott Kalács Sánc*)**
+*3rd-Level Conjuration*  
+* **Casting Time:** 1 Action  
+* **Range:** 60 feet  
+* **Components:** V, S, M (three strands of dough braided together)  
+* **Duration:** Concentration, up to 10 minutes  
+You cause a massive, 20-foot-long, 10-foot-high, 3-foot-thick wall of solid, oven-baked braided brioche to rise from the ground within range. The wall provides **Total Cover** and has **AC 15, 60 Hit Points**, and Resistance to Bludgeoning, Piercing, and Fire damage. When a creature makes a melee attack against the wall, it must succeed on a Strength saving throw or have its weapon stuck in the dense dough until it uses an Action to pull it free. A 5-foot section of the wall can be eaten by up to 10 creatures, restoring 20 HP to each.
+
+---
+
+### **4th-Level Spells**
+
+#### **Gilded Crust Cocoon (*Aranyhéj Gubó*)**
+*4th-Level Abjuration*  
+* **Casting Time:** 1 Action  
+* **Range:** 30 feet  
+* **Components:** V, S, M (a golden egg yolk and melted butter)  
+* **Duration:** Concentration, up to 1 minute  
+You encase a Large or smaller creature in an impenetrable, oven-baked golden bread crust:
+*   **Willing Ally:** The target is encased in a protective loaf. While encased, the ally is immune to all damage, hazards, and conditions from the outside world, and it regains **3d8 Hit Points** at the start of each of its turns. The ally can burst out of the cocoon at any time on its turn as a Free Action.
+*   **Hostile Creature:** The target must succeed on a Dexterity saving throw or be sealed inside the crust. While trapped, the creature is **Incapacitated and Restrained**, has total cover from outside attacks, and suffocates unless it breaks free. The cocoon has **AC 15, 50 Hit Points**, and Resistance to all damage except Slashing.
+
+#### **Scythe of the Great Harvest (*Aratók Ezüst Kaszája*)**
+*4th-Level Evocation*  
+* **Casting Time:** 1 Action  
+* **Range:** Self (60-foot line, 10 feet wide)  
+* **Components:** V, S, M (a miniature silver sickle)  
+* **Duration:** Instantaneous  
+You sweep your hand forward, unleashing a hurricane of razor-sharp silver sickle blades that reap everything in a 60-foot line. Each creature in the line must make a Dexterity saving throw. On a failed save, a creature takes **6d8 Slashing damage** and is severed from its magical tethers (ending one spell of 3rd level or lower affecting the creature, as per *Dispel Magic*). On a successful save, a creature takes half damage and its spells are not dispelled.  
+* **Using a Higher-Level Slot:** The damage increases by 1d8 for each slot level above 4th.
+
+---
+
+### **5th-Level Spells**
+
+#### **The Great Hungarian Feast (*Fejedelmi Lakoma*)**
+*5th-Level Conjuration (Ritual)*  
+* **Casting Time:** 10 Minutes  
+* **Range:** 30 feet  
+* **Components:** V, S, M (a pinch of paprika, a loaf of white bread, and pure lard worth 250 gp, which the spell consumes)  
+* **Duration:** 24 hours  
+You conjure a grand wooden banquet table laden with steaming loaves of crusty sourdough, roasted meats, braided kalács, smoked bacon, and jugs of restorative Tokaji wine. Up to **12 creatures** can partake in the 1-hour feast, gaining the following legendary benefits for the next 24 hours:
+*   Maximum Hit Points increase by **2d10 + 10**.
+*   Gain **Advantage on all Constitution and Wisdom saving throws**.
+*   Immunity to Poison, Disease, and the Frightened condition.
+*   Whenever a participant regains Hit Points from a spell, it regains an additional **1d8 Hit Points**.
+
+#### **Awaken Living Sourdough Titan (*Élő Kovászkolosszus*)**
+*5th-Level Conjuration*  
+* **Casting Time:** 1 Action  
+* **Range:** 60 feet  
+* **Components:** V, S, M (a 1-pound ball of fermented sourdough)  
+* **Duration:** Concentration, up to 1 hour  
+You toss a ball of sourdough onto the ground, which instantly erupts into a **Huge Sourdough Titan** under your absolute command. It uses the statistics of an **Earth Elemental** with the following modifications:
+*   Its creature type is **Construct / Ooze**.
+*   It has **Resistance to Bludgeoning, Piercing, Slashing, and Fire damage**.
+*   Its *Slam* attacks deal an additional **1d8 Fire (Oven Heat) damage**.
+*   **Adhesive Mass:** Any creature that hits the Titan with a melee weapon must succeed on a DC 16 Strength save or its weapon becomes stuck in the dough.
+
+---
+
+### **6th-Level Spells**
+
+#### **Judgement of the Clay Kiln (*A Kemence Végső Ítélete*)**
+*6th-Level Evocation*  
+* **Casting Time:** 1 Action  
+* **Range:** 120 feet (30-foot-radius, 40-foot-high cylinder)  
+* **Components:** V, S, M (a brick from a 100-year-old village bakery)  
+* **Duration:** Instantaneous (ground remains baked for 1 hour)  
+You call down the apocalyptic heat of the Primordial Bakery upon a 30-foot-radius cylinder. The air becomes an inferno of glowing baking heat. Each creature in the area must make a Constitution saving throw. On a failed save, a creature takes **8d10 Fire and Radiant damage** and has its non-magical armor or clothing baked into brittle ash (reducing AC by 2). On a successful save, a creature takes half damage and its armor is unharmed. The ground in the area is baked into vitrified ceramic crust, turning into Difficult Terrain that deals **2d8 Fire damage** to any creature that moves across it.
+
+---
+
+### **7th-Level Spells**
+
+#### **Transmute Flesh to Sourdough (*Húsból Tészta Változtatás*)**
+*7th-Level Transmutation*  
+* **Casting Time:** 1 Action  
+* **Range:** 60 feet  
+* **Components:** V, S, M (a pinch of leaven and water)  
+* **Duration:** Concentration, up to 1 minute  
+You attempt to transmute the flesh of a creature you can see into raw, pliable bread dough. The target must make a Constitution saving throw. On a failed save, the creature takes **8d8 Transmutation damage**, its speed is reduced to **0**, and it gains the **Restrained and Incapacitated conditions** as its bones and muscles soften into rising dough.  
+At the end of each of its turns, the creature makes another Constitution save. If it fails three saves before succeeding on three, it is permanently turned into a statue of pure unbaked sourdough (petrified as dough) until cured by *Greater Restoration* or *Wish*.
+
+---
+
+### **8th-Level Spells**
+
+#### **Tomb of the Primordial Grain (*A Búzaszem Sírja*)**
+*8th-Level Transmutation*  
+* **Casting Time:** 1 Action  
+* **Range:** 120 feet  
+* **Components:** V, S, M (a fossilized grain of wheat)  
+* **Duration:** Concentration, up to 1 minute  
+You invoke the **First Ordeal (The Burial)** upon a single creature you can see. The earth beneath the target violently opens into a bottomless chasm and swallows the creature whole before slamming shut with the crushing weight of tectonic strata. The target must make a Strength saving throw.
+*   **On a Failed Save:** The target is buried **60 feet underground**, takes **10d10 Earth and Bludgeoning damage**, is **Blinded, Restrained, and Suffocating**, and takes **4d10 Bludgeoning damage** at the start of each of its turns. The target can use an Action to make a DC 20 Strength (Athletics) check to dig 10 feet upward.
+*   **On a Successful Save:** The target takes half damage and is pushed into an adjacent unoccupied space without being buried.
+
+---
+
+### **9th-Level Spells**
+
+#### **The Sixfold Crucible of Creation (*A Teremtés Hat Próbatétele*)**
+*9th-Level Transmutation / Evocation (Epic Hearth Arcana)*  
+* **Casting Time:** 1 Action  
+* **Range:** Self (60-foot radius)  
+* **Components:** V, S, M (a consecrated golden loaf baked from celestial wheat, which you consume)  
+* **Duration:** Instantaneous  
+You unleash the complete sixfold trial of the grain in an overwhelming, cosmic sequence across all creatures within a 60-foot radius:
+1.  **The Burial:** The ground liquefies into black loam; all hostile creatures must make a Strength save or be knocked Prone and pulled 10 feet into the earth.
+2.  **The Sickle:** A vortex of silver reaper scythes slices through the area, dealing **4d10 Slashing damage** to all enemies.
+3.  **The Threshing:** Massive celestial flails slam down from the sky, dealing **4d10 Bludgeoning damage** and stunning all enemies until the end of their next turn on a failed Constitution save.
+4.  **The Milling:** A colossal pair of grinding millstones crushes the area, dealing **4d10 Force damage**.
+5.  **The Kneading:** Waves of pressurized, elastic dough squeeze all enemies, imposing the **Restrained condition**.
+6.  **The Searing Oven:** An apocalyptic pillar of golden, celestial kiln fire engulfs the area, dealing **6d10 Fire and Radiant damage** (ignoring Resistance and Immunity).
+
+Simultaneously, all allies in the 60-foot area are restored to **maximum Hit Points**, cleansed of all conditions and curses, and imbued with an indestructible golden crust that grants **50 Temporary Hit Points** for 24 hours.
+
+---
