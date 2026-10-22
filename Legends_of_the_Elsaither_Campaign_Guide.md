@@ -518,7 +518,7 @@ As a Bonus Action, you can spend 1 PE to channel an animal trait into your own b
 * **Primal Senses (1 PE):** You gain Advantage on Wisdom (Perception) checks that rely on smell or hearing, and you gain Darkvision out to a range of 60 feet. *Duration: 1 hour.*
 * **Beast Hide (1 PE):** If you are not wearing armor, your AC equals 13 + your Dexterity modifier. *Duration: 10 minutes.*
 
-At 3rd level, when you choose your Mark of the Wild, you unlock your Mark's 4 specific Aspect Mutations (1 PE) as well as your Mark's powerful **Apex Aspect Mutation** (2 PE).
+At 3rd level, when you choose your Mark of the Wild, you unlock your Mark's 6 specific Aspect Mutations (1 PE) as well as your Mark's powerful **Apex Aspect Mutation** (2 PE).
 
 ### **Mark of the Wild**
 *3rd-Level Beast Master Feature*
@@ -563,16 +563,16 @@ Your bond with your companion allows it to shield your allies from harm. While y
 *19th-Level Beast Master Feature*
 
 You achieve an epic milestone in your primal connection:
-* **Arcanum Ascendant.** You gain one Epic Boon feat of your choice from the Player's Handbook (2024) for which you meet the prerequisites.
-* **Primal Mastery:** Your PE pool maximum increases by 6. Additionally, when you activate your Avatar of the Mark feature, its duration is 2 minutes instead of 1.
+* **Epic Boon Feat.** You gain one Epic Boon feat of your choice from the Player's Handbook (2024) for which you meet the prerequisites.
+* **Primal Mastery:** Your Primal Essence pool maximum increases by 4, and you can recover expended PE via a Short Rest twice per Long Rest instead of once.
 
 ### **Avatar of the Mark**
 *20th-Level Beast Master Feature*
 
-As a Bonus Action, you can embody the absolute pinnacle of your Mark for 2 minutes (duration enhanced by Epic Boon of the Wild). You can use this feature once per Long Rest. While active, you gain the following benefits:
+As a Bonus Action, you can embody the absolute pinnacle of your Mark for 1 minute. You can use this feature once per Long Rest. While active, you gain the following benefits:
 * **Primal Surge:** At the start of each of your turns, you regain 3 Primal Essence points.
 * **Transcendent Companion:** Your Spirit Companion's Hit Point maximum is doubled, its AC increases by 2, and it acts on your initiative each round without requiring commands.
-* **Aspect Apotheosis:** You gain 50 Temporary Hit Points upon activation and gain the benefits of all 4 of your Mark's Aspect Mutations simultaneously without expending PE.
+* **Aspect Apotheosis:** You gain 50 Temporary Hit Points upon activation and gain the benefits of all 6 of your Mark's Aspect Mutations simultaneously without expending PE.
 * **Primal Emanation:** When you activate this form, manifest an Aspect Mutation, or trigger an Enhanced Strike, all enemies within 15 feet of you must succeed on a Wisdom saving throw against your Spell Save DC or be Frightened until the end of their next turn.
 * **Elemental Apotheosis:** Your attacks and spells that deal your primary elemental damage ignore Resistance, and treat Immunity as Resistance.
 
@@ -591,8 +591,8 @@ Each Mark provides at Level 3:
 * **Mark Spells:** Bonus spells always prepared, 1 per spell level as you unlock them (1st at level 3, 2nd at level 5, 3rd at level 9, 4th at level 13, 5th at level 17). These do not count against your Prepared Spells total.
 * **Companion Form:** Defines the visual form, passive traits, and movement of your Spirit Companion.
 * **Enhanced Strike:** The 1 PE effect applied when your companion hits.
-* **Apex Aspect Mutation (2 PE):** A powerful 1-minute elemental animal transformation applied to your own body.
-* **Aspect Mutations (1 PE):** The 4 specific 1-PE utility and combat mutations available to you.
+* **Apex Aspect Mutation (2 PE):** A powerful 1-minute elemental animal transformation applied to your own body that embodies your primary Mark beast.
+* **Aspect Mutations (1 PE):** The 6 specific 1-PE utility and combat mutations available to you, channeling your Mark's allied animal spirits.
 
 ---
 
@@ -626,19 +626,22 @@ On a hit, the target must make a Strength saving throw against your Spell Save D
 As a Bonus Action, you can spend 2 PE to channel the supreme hunting spirit of the wolf for 1 minute:
 * **Temp HP:** You gain Temporary Hit Points equal to 3 × your Beast Master level.
 * **Speed:** Your walking speed increases to 50 feet.
-* **Pack Leader's Instinct:** You gain Pack Tactics, granting Advantage on your attack rolls against a creature if at least one of your allies is within 5 feet of the creature and isn't incapacitated.
-* **Ferocious Charge:** Once per transformation, if you move at least 20 feet straight toward a target before hitting it with a melee attack, the target must make a Strength saving throw against your Spell Save DC or be knocked Prone.
+* **Relentless Pursuit:** Opportunity attacks against you have Disadvantage, and you can take the Dash or Disengage action as a Bonus Action on each of your turns.
+* **Predatory Jaws:** Your melee weapon attacks and unarmed strikes deal an extra 1d8 damage of your primary elemental type. In addition, when you hit a creature with a melee attack on your turn, you can force the target to make a Strength saving throw against your Spell Save DC or be knocked Prone.
 
 #### Aspect Mutations
-These mutations cost 1 PE and last for 1 minute unless otherwise noted:
-1. **Predator's Nose:** You gain Advantage on Wisdom (Perception) checks using smell, and you detect the location of any creature within 30 feet that is hidden or invisible (you know the space, not the creature's exact details). *Duration: 1 hour.*
-2. **Hunter's Howl:** All allies within 30 feet gain Advantage on their next attack roll before the end of your next turn. *Instant effect.*
-3. **Fleet Paws:** Your Speed increases by 15 feet and you ignore difficult terrain. *Duration: 1 minute.*
-4. **Shadow Runner:** You become Invisible while in dim light or darkness. The invisibility ends if you attack or cast a spell. *Duration: 1 minute.*
+*Level 3 Mark of the Wolf Feature*
+As a Bonus Action, you can expend 1 Primal Essence to manifest one of these mutations, channeling your Mark's allied hunting spirits. These mutations last for 1 minute unless otherwise noted:
+1. **Hawk's Vigil (Hawk):** You channel the razor aerial surveillance of the hawk. You gain Advantage on Wisdom (Perception) checks, can see clearly up to 1 mile, and your ranged weapon and spell attacks ignore Half Cover and Three-Quarters Cover. *Duration: 10 minutes.*
+2. **Falcon's Stoop (Falcon):** You channel the diving momentum of the falcon. Once during the duration, when you drop or leap at least 10 feet toward a creature before hitting it with a weapon attack, the attack deals an extra 2d6 Piercing damage and you take no falling damage from the leap. *Duration: 1 minute (ends when triggered).*
+3. **Tiger's Pounce (Tiger):** You channel the explosive stealth of the tiger. You gain a climbing speed equal to your walking speed. Additionally, when you hit a creature with a melee attack while having Advantage or while hidden, you can shove the target up to 10 feet away or knock it Prone (no saving throw). *Duration: 1 minute.*
+4. **Hound's Scent (Dog / Hound):** You channel the tracking tenacity of the loyal hound. You gain Advantage on Wisdom (Survival) checks made to track creatures, and you sense the exact direction and approximate distance of any creature you have damaged within the past 24 hours while it is within 1,000 feet of you. *Duration: 1 hour.*
+5. **Meite's Plated Carapace & Claws (Meite):** You channel the 14-foot, elementally-charged armored meite. Your skin hardens into thick, overlapping pangolin plates and your hands form massive razor claws. You gain a +2 bonus to your Armor Class, and your unarmed strikes deal 1d8 + your Wisdom modifier Slashing damage plus 1d6 damage of your primary elemental type (you can use your Wisdom modifier instead of Strength for attack and damage rolls with these unarmed strikes). *Duration: 10 minutes.*
+6. **Vortzhe's 90-MPH Sprint (Vortzhe):** You channel the 8-foot-tall, hollow-boned mega-wolf whose muscular and skeletal structure achieves explosive 90-mph speeds. Your walking speed increases by 30 feet, and you can take the Dash action as a Bonus Action. When you Dash, you whip up an elemental gale wake: your movement does not provoke Opportunity Attacks, and ranged attack rolls against you have Disadvantage until the start of your next turn. *Duration: 1 minute.*
 
 #### Pack Leader
 *6th-Level Mark of the Wolf Feature*
-You and your Spirit Companion both have the Pack Tactics trait. Additionally, when you or your companion damages a creature, allies within 10 feet of that creature can use their Reaction to move up to 10 feet toward it without provoking opportunity attacks.
+You and your Spirit Companion coordinate with lethal discipline. You gain the Pack Tactics trait (Advantage on an attack roll against a creature if at least one of your allies is within 5 feet of the creature and the ally isn't Incapacitated). Your Spirit Companion, who already possesses this trait, now extends it to your hunting pack: when you or your companion damages a creature, allies within 10 feet of that creature can use their Reaction to move up to 10 feet toward it without provoking opportunity attacks.
 
 #### Cull the Weak & Vengeful Retaliation
 *7th-Level Mark of the Wolf Feature*
@@ -687,31 +690,34 @@ On a hit, the target must succeed on a Wisdom saving throw against your Spell Sa
 *Level 3 Mark of the Dragon Feature*
 As a Bonus Action, you can spend 2 PE to channel the terrifying draconic essence for 1 minute:
 * **Temp HP:** You gain Temporary Hit Points equal to 4 × your Beast Master level.
-* **Draconic Vanguard & Armor:** Your walking speed increases by 15 feet, your jump distance is tripled (assisted by spectral draconic wings that buffet the air), and your AC cannot be lower than 15 while maintaining this mutation. When falling, you can use your Reaction to glide downward up to 60 feet horizontally without taking fall damage.
+* **Draconic Vanguard & Gliding:** Your walking speed increases by 15 feet, and your jump distance is tripled (assisted by spectral draconic wings that buffet the air). When falling, you can use your Reaction to glide downward up to 60 feet horizontally without taking fall damage.
 * **Tenacious Resilience:** You have Advantage on Constitution saving throws. Additionally, when you are subjected to an effect that would reduce you below 1 hit point, you can use your Reaction to instead drop to 1 hit point. Once you use this Reaction, you cannot use it again until you finish a Short or Long Rest.
 * **Elemental Aura:** Creatures that start their turn within 5 feet of you take 1d6 damage of your primary elemental type.
 * **Reckless Rebellion:** Once per turn when you make a weapon attack or spell attack roll while maintaining this mutation, you can fight with violent, reckless passion—gaining Advantage on the attack roll, but attack rolls against you have Advantage until the start of your next turn.
 
 #### Aspect Mutations
-These mutations cost 1 PE and last for 1 minute unless otherwise noted:
-1. **Draconic Scales:** If you are not wearing armor, your AC equals 13 + your Wisdom modifier. If you are already wearing armor, you add a +2 bonus to your AC. *Duration: 10 minutes.*
-2. **Dragon's Breath:** You exhale a 15-foot cone of your primary element. Each creature in the cone must make a Dexterity saving throw against your Spell Save DC, taking 3d6 damage of your primary elemental type on a failure or half as much on a success. *Instant effect.*
-3. **Dragon Sight:** You gain Truesight out to a range of 30 feet and Advantage on Charisma (Intimidation) checks. *Duration: 1 minute.*
-4. **Wyrm's Wings:** You gain a Fly speed of 30 feet. *Duration: 1 minute.*
+*Level 3 Mark of the Dragon Feature*
+As a Bonus Action, you can expend 1 Primal Essence to manifest one of these mutations, channeling your Mark's allied reptilian and predatory spirits. These mutations last for 1 minute unless otherwise noted:
+1. **Serpent's Hypnotic Sway (Snake):** You channel the sinuous gaze of the serpent. As an Action, choose one creature you can see within 30 feet. It must succeed on a Wisdom saving throw against your Spell Save DC or be Charmed by you until the end of its next turn or until it takes damage. While Charmed, its Speed is 0. *Instant effect.*
+2. **Lizard's Clinging Scale (Lizard):** You channel the wall-crawling agility of the gecko and monitor lizard. You gain a climbing speed equal to your walking speed, and you can move across vertical surfaces and ceilings without needing your hands free. *Duration: 10 minutes.*
+3. **Xelis's Hybrid Claws & Breath (Xelis):** You channel the 25-foot, eagle-dragon apex predator. Your limbs sprout razor raptor-draconic claws, causing your melee attacks to deal an extra 1d6 Slashing damage infused with your primary elemental energy. In addition, once during this mutation, you can exhale the xelis's elemental breath as an Action (or in place of one attack when you take the Attack action): you unleash a 15-foot cone of your primary element, forcing each creature in the area to make a Dexterity saving throw against your Spell Save DC, taking 3d6 damage of your primary elemental type on a failed save, or half as much on a successful one. *Duration: 1 minute.*
+4. **Chameleon's Shifting Hue (Chameleon):** You channel the color-matching deception of the chameleon. You have Advantage on Dexterity (Stealth) checks, and when you take the Hide action, you can attempt to hide even if you are only lightly obscured. *Duration: 10 minutes.*
+5. **Salamander's Thermal Surge (Salamander):** You channel the heat of the magma-dwelling salamander. Your weapon attacks deal an extra 1d4 damage of your primary elemental type. In addition, you have Advantage on saving throws against being Grappled or Restrained. *Duration: 1 minute.*
+6. **Basilisk's Heavy Gaze (Basilisk):** You channel the petrifying weight of the basilisk. Once per turn when you hit a creature with a weapon attack or spell attack, you can force it to make a Constitution saving throw against your Spell Save DC. On a failed save, the target is Slowed: its Speed is halved and it cannot take Reactions until the start of your next turn. *Duration: 1 minute.*
 
 #### Draconic Presence
 *6th-Level Mark of the Dragon Feature*
 When you manifest your Dragonkin Aspect mutation or when you use Dragonfear Strike, each creature of your choice within 15 feet of you must succeed on a Wisdom saving throw against your Spell Save DC or be Frightened of you until the end of its next turn.
 
-#### Elemental Scales
+#### Elemental Scales & Draconic Ward
 *7th-Level Mark of the Dragon Feature*
-Your draconic spirit permanently hardens your elemental defenses. While you are not maintaining your Dragonkin Aspect mutation, you gain **Immunity** to your primary elemental damage type (upgrading any Resistance you already have). While maintaining your Dragonkin Aspect mutation, your hardened scales deflect blows — you gain a **+2 bonus to your AC**.
+Your draconic spirit permanently hardens your scales and elemental defenses. You gain a **+1 bonus to your Armor Class**. In addition, when you or your Spirit Companion takes damage of your primary elemental type (which is halved by your Primal Bond resistance), you can use your Reaction to absorb the residual blast: you gain Temporary Hit Points equal to your Beast Master level, and the next weapon attack or spell attack you or your companion makes before the end of your next turn deals an additional 1d8 damage of that elemental type.
 
 #### Elder's Breath & Group Cataclysm
 *10th-Level Mark of the Dragon Feature*
-Your Dragon's Breath Aspect Mutation and your companion's Elemental Breath both increase to a 30-foot cone, and their damage increases to 5d6. Additionally, creatures that fail the saving throw against your companion's Elemental Breath are also Frightened until the end of their next turn.
+Your Spirit Companion's Elemental Breath increases to a 30-foot cone, and its damage increases to 5d6. Additionally, you can expend 2 Primal Essence to allow your companion to use its Elemental Breath again without waiting to finish a Short or Long Rest. Creatures that fail the saving throw against your companion's Elemental Breath are also Frightened until the end of their next turn.
 
-Furthermore, reflecting how dragons brought together under discipline form a terrifying force of mass destruction, whenever you or your companion use a breath weapon, up to two willing allies within 15 feet of you can add 1d6 elemental damage of your primary element to their next weapon attack roll before the end of their next turn.
+Furthermore, reflecting how dragons brought together under discipline form a terrifying force of mass destruction, whenever your companion exhales its breath weapon, up to two willing allies within 15 feet of you can add 1d6 elemental damage of your primary element to their next weapon attack roll before the end of their next turn.
 
 #### Ancient's Dominance
 *14th-Level Mark of the Dragon Feature*
@@ -754,11 +760,14 @@ As a Bonus Action, you can spend 2 PE to channel the immovable strength and resi
 * **Thick Fur Deflection:** When you take Bludgeoning, Piercing, or Slashing damage while maintaining this mutation, you can use your Reaction to reduce that damage by your Proficiency Bonus. You can use this Reaction a number of times equal to your Proficiency Bonus per Long Rest.
 
 #### Aspect Mutations
-These mutations cost 1 PE and last for 1 minute unless otherwise noted:
-1. **Bear Hide:** You gain Resistance to Bludgeoning damage. *Duration: 1 minute.*
-2. **Iron Stomach:** You gain Immunity to the Poisoned condition and Resistance to Poison damage. *Duration: 1 hour.*
-3. **Mighty Roar:** Each creature of your choice within 30 feet must succeed on a Wisdom saving throw against your Spell Save DC or be Frightened until they are more than 30 feet away from you. Creatures that succeed on the save are immune to this mutation for 24 hours. *Instant effect.*
-4. **Hibernation Surge:** You immediately regain Hit Points equal to 2d10 + your Wisdom modifier. Alternatively, expressing the bear's inner softness and protective care, you can choose to grant all or part of this healing to an allied creature within 10 feet of you. You can use this mutation a number of times equal to your Wisdom modifier per Long Rest (this mutation tracks specific uses, not PE). This mutation still costs 1 Primal Essence to activate, in addition to expending one of its uses.
+*Level 3 Mark of the Bear Feature*
+As a Bonus Action, you can expend 1 Primal Essence to manifest one of these mutations, channeling your Mark's allied colossi and guardian spirits. These mutations last for 1 minute unless otherwise noted:
+1. **Elephant's Trunk Grasp (Elephant):** You channel the crushing grip of the elephant. You gain Advantage on Athletics checks made to Grapple or Shove. You can grapple creatures up to two sizes larger than you, and when you succeed on a grapple, you can immediately deal Bludgeoning damage equal to 1d8 + your Wisdom modifier. *Duration: 1 minute.*
+2. **Whale's Deep Respiration (Whale):** You channel the oceanic endurance of the great whale. You can breathe underwater, gain a swimming speed equal to your walking speed, and can hold your breath for up to 1 hour. You also gain Blindsight out to 30 feet while submerged or in heavy fog. *Duration: 1 hour.*
+3. **Badger's Trench Burrow (Badger):** You channel the earth-carving claws of the badger. You gain a burrowing speed of 15 feet through nonmagical earth and sand (leaving a usable 5-foot tunnel behind you), and you have Advantage on saving throws against being knocked Prone. *Duration: 10 minutes.*
+4. **Rhino's Iron Horn (Rhinoceros):** You channel the bone-shattering momentum of the rhino. If you move at least 20 feet straight toward a creature before hitting it with a melee weapon attack, you deal an extra 1d10 Bludgeoning damage and can push the target up to 10 feet away. *Duration: 1 minute.*
+5. **Bison's Herd Defense (Bison / Ox):** You channel the protective wall of the bison herd. While this mutation is active, whenever an ally within 5 feet of you is targeted by an attack, you can use your Reaction to impose Disadvantage on the attack roll. *Duration: 1 minute.*
+6. **Boar's Tusk Retaliation (Boar):** You channel the violent protective ferocity of the wild boar. Your melee attacks deal an extra 1d4 Slashing damage. Additionally, when a hostile creature within 5 feet hits you with a melee attack, you can use your Reaction to make one melee weapon attack against that creature. *Duration: 1 minute.*
 
 #### Ursine Endurance
 *6th-Level Mark of the Bear Feature*
@@ -821,11 +830,13 @@ As a Bonus Action, you can spend 2 PE to channel the enigmatic silent spirit of 
 
 #### Aspect Mutations
 *Level 3 Mark of the Owl Feature*
-As a Bonus Action, you can expend 1 Primal Essence to manifest one of these mutations:
-* **Owl Eyes:** You gain Darkvision with a range of 120 feet. You can see through magical darkness within 30 feet of you. *Duration: 1 hour.*
-* **Silent Wings:** Your movement makes no sound, and you have Advantage on Dexterity (Stealth) checks. *Duration: 1 minute.*
-* **Night Shroud:** You cast *Darkness* centered on yourself without expending a spell slot or requiring components. You can see normally through this darkness. *Duration: Concentration, up to 1 minute.*
-* **Witchlight:** You can sense the surface emotions (such as fear, aggression, grief, or joy) of all creatures within 30 feet of you. You also know whether each creature in range is Charmed, Frightened, or Hexed. *Duration: 10 minutes.*
+As a Bonus Action, you can expend 1 Primal Essence to manifest one of these mutations, channeling your Mark's allied nocturnal and elusive spirits. These mutations last for 1 minute unless otherwise noted:
+1. **Raven's Mimicry & Guile (Raven):** You channel the deceptive mimicry and omen of the raven. You can perfectly mimic voices and sounds you have heard, gain Advantage on Charisma (Deception) checks, and can cast *Vicious Mockery* as a Bonus Action using Wisdom. *Duration: 10 minutes.*
+2. **Lynx's Snowfoot Step (Lynx):** You channel the padded ambush tread of the lynx. You ignore nonmagical difficult terrain, leave no tracks or scent behind you, and your jump distance is doubled. *Duration: 10 minutes.*
+3. **Vulture's Carrion Sense (Vulture):** You channel the scavenging foresight of the vulture. You immediately sense the location and status (full, half, or near death) of any creature with half Hit Points or fewer within 60 feet. In addition, when an enemy dies within 30 feet of you, you gain Temporary Hit Points equal to your Wisdom modifier. *Duration: 10 minutes.*
+4. **Fox's Cunning Trick (Fox):** You channel the elusive misdirection of the fox. As a Bonus Action, you can take the Disengage or Dash action. When you do so, you leave behind a brief spirit afterimage that imposes Disadvantage on the next attack roll made against you before the start of your next turn. *Duration: 1 minute.*
+5. **Bat's Echolocation (Bat):** You channel the sonic pulses of the cavern bat. You emit inaudible high-frequency pulses, gaining Blindsight out to a range of 30 feet, provided you are not Deafened. *Duration: 10 minutes.*
+6. **Moth's Spore Cloud (Moth):** You channel the powdery obscurity of the lunar moth. When a creature attacks you, you can use your Reaction to release a puff of iridescent spores: the attacker must make a Constitution saving throw against your Spell Save DC or have Disadvantage on all attack rolls until the end of its turn. *Duration: 1 minute.*
 
 #### Wisdom's Eye
 *Level 6 Mark of the Owl Feature*
@@ -885,11 +896,13 @@ As a Bonus Action, you can spend 2 PE to channel the soaring precision and domin
 
 #### Aspect Mutations
 *Level 3 Mark of the Eagle Feature*
-As a Bonus Action, you can expend 1 Primal Essence to manifest one of these mutations:
-* **Eagle Eyes (Target Lock):** You gain high-detail eagle vision. You have Advantage on Wisdom (Perception) checks, can see fine details up to 1 mile away, and ignore penalties from weather or dim light. Additionally, as a Bonus Action, you can lock onto a creature within 120 feet; your next attack roll against that target before the end of your turn deals an extra 1d6 damage. *Duration: 1 hour.*
-* **Wind Rider (Air Displacement):** You eliminate air resistance around your body. Your walking speed increases by 20 feet, you ignore difficult terrain, and you can leap up to your full movement through mid-air without falling until the end of your turn. *Duration: 1 minute.*
-* **Subsonic Roar (Lion's Tone):** Channelling the allied Lion spirit, you emit a subsonic vibration beneath your voice. Each hostile creature within 20 feet of you must succeed on a Constitution saving throw against your Spell Save DC or be Intimidated until the end of its next turn (having Disadvantage on attack rolls and ability checks), and any active spell concentration of 1st level or lower on the target is broken. *Instant effect.*
-* **Precision Dive:** Until the start of your next turn, if you move at least 20 feet before making a weapon attack or ranged spell attack, that attack is made with Advantage and deals an extra 2d6 damage on a hit. *Duration: Until triggered or the start of your next turn.*
+As a Bonus Action, you can expend 1 Primal Essence to manifest one of these mutations, channeling your Mark's allied honorable and majestic spirits. These mutations last for 1 minute unless otherwise noted:
+1. **Lion's Subsonic Roar (Lion):** You channel the deep, power-suppressing tone of the apex lion. As an Action, you emit a reverberating subsonic frequency. Each hostile creature within 20 feet of you must succeed on a Constitution saving throw against your Spell Save DC or be Frightened of you until the end of its next turn and lose Concentration on any active spell of 1st level or lower. *Instant effect.*
+2. **Courser's Gallop (Horse / Stallion):** You channel the tireless endurance and stride of the warhorse. Your walking speed increases by 15 feet, and when you take the Dash action, you can carry one willing Medium or smaller creature with you on your turn without reducing your speed. *Duration: 10 minutes.*
+3. **Peacock's Dazzling Plumage (Peacock):** You channel the mesmerizing, honorable display of the peacock. As a Bonus Action, you flare iridescent astral plumage. Each creature within 15 feet that can see you must succeed on a Wisdom saving throw against your Spell Save DC or be Charmed and Incapacitated until the start of your next turn (this effect ends early if the creature takes damage). *Duration: 1 minute (ends when triggered).*
+4. **Griffin's Pouncing Talon (Griffin):** You channel the hybrid ferocity of the noble griffin. When you hit a creature with a melee attack, you can make an immediate grapple check as part of that attack. While grappling a target, your attacks against it deal an extra 1d6 Slashing damage. *Duration: 1 minute.*
+5. **Pegasus's Pure Heart (Pegasus):** You channel the divine, inspiring aura of the pegasus. You and friendly creatures within 10 feet of you have Advantage on saving throws against poison, disease, and the Charmed condition. *Duration: 10 minutes.*
+6. **Osprey's Waterlock Strike (Osprey):** You channel the water-piercing precision of the osprey. You gain a swimming speed equal to your walking speed, your attacks do not suffer Disadvantage from being submerged, and you can see through murky water or heavy rainfall without penalty out to 60 feet. *Duration: 10 minutes.*
 
 #### Slipstream Mastery & Banner of Freedom
 *Level 6 Mark of the Eagle Feature*
@@ -954,11 +967,13 @@ As a Bonus Action, you can spend 2 PE to channel the protective, unshakeable gua
 
 #### Aspect Mutations
 *Level 3 Mark of the Sheep Feature*
-As a Bonus Action, you can spend 1 Primal Essence to manifest one of these mutations:
-* **Shepherd's Call:** You cast *Healing Word* without expending a spell slot, using your Wisdom modifier as the spellcasting ability. The spell heals an amount equal to 1d4 + your Wisdom modifier. You can use this mutation once per Short Rest. Activating this mutation still costs 1 Primal Essence.
-* **Wool of the Wild:** You gain Resistance to Cold and Fire damage, and you are immune to the effects of extreme cold or extreme heat environments. *Duration: 1 hour.*
-* **Curling Horns:** You manifest a pair of massive horns. Your unarmed strikes deal 1d8 Bludgeoning damage. On a hit, you push the target 5 feet away from you, unless they succeed on a Strength saving throw against your Spell Save DC. *Duration: 1 minute.*
-* **Verdant Field:** You create a 20-foot-radius sphere of primal energy centered on you that moves with you. Difficult terrain within the sphere does not affect you or allied creatures. Allied creatures within the sphere have Advantage on saving throws against the Frightened condition. *Duration: 1 minute.*
+As a Bonus Action, you can expend 1 Primal Essence to manifest one of these mutations, channeling your Mark's allied gentle and cooperative spirits. These mutations last for 1 minute unless otherwise noted:
+1. **Mountain Goat's Sure Footing (Goat):** You channel the precipitous balance of the alpine goat. You gain a climbing speed equal to your walking speed, and you cannot be knocked Prone or moved against your will by nonmagical forces while touching solid ground. *Duration: 10 minutes.*
+2. **Alpaca's Calming Presence (Alpaca):** You channel the soothing, tension-defusing aura of the herd alpaca. As an Action, you can touch a creature to end one effect causing it to be Charmed, Frightened, or Stunned. *Instant effect.*
+3. **Koi's Stream Flow (Koi):** You channel the serene, flowing luck of the sacred koi. You gain a swimming speed equal to your walking speed. Additionally, once during the duration when you or an ally within 15 feet fails an ability check or saving throw, you can roll a d4 and add it to the result. *Duration: 10 minutes.*
+4. **Floop's Whirling Burrow (Floop):** You channel the friendly, spherical floop, hardening your coat with rapid spinning and elemental energy. You gain a burrowing speed of 20 feet through nonmagical earth, sand, or loose gravel. Additionally, as a Bonus Action on your turn, you can spin rapidly in place or as you move: the first time you enter within 5 feet of a hostile creature on your turn while spinning, that creature must make a Dexterity saving throw against your Spell Save DC, taking 2d6 damage of your primary elemental type from your hardened, whirling fleece on a failed save, or half as much on a successful one. *Duration: 10 minutes.*
+5. **Krenishee's Elemental Plumage & Alarm (Krenishee):** You channel the domestic, short-necked elemental bird prized for its protective down. You sprout a thick mantle of elemental feathers, immediately gaining Temporary Hit Points equal to 1d8 + your Wisdom modifier. While these Temporary Hit Points persist, whenever a creature within 5 feet hits you with a melee attack, elemental energy discharges from your plumage, dealing 1d6 damage of your primary elemental type to the attacker. In addition, when you or an ally within 30 feet of you is attacked, you can use your Reaction to let loose an ear-splitting alarm cry, granting the target a +2 bonus to AC against that attack. *Duration: 10 minutes.*
+6. **Dove's Sanctuary (Dove):** You channel the inviolate peace of the white dove. Hostile creatures that target you with an attack or harmful spell must make a Wisdom saving throw against your Spell Save DC. On a failed save, the creature must choose a new target or lose the attack or spell. This effect ends early if you make an attack or cast a harmful spell. *Duration: 1 minute.*
 
 #### Shepherding Aura
 *Level 6 Mark of the Sheep Feature*
