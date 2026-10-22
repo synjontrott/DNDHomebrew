@@ -76,6 +76,14 @@ You spent your young years playing with technology, taking things apart, putting
 *   **Tool Proficiency:** Tinker’s Tools
 *   **Equipment:** Dagger, Duchina Restraints, Tinker’s Tools, Standard Underclothes, 18cc.
 
+**Elemental Arcanologist**
+Long before you ever raised a blade or channeled a spell in anger, you filled journals with observations. You catalogued the way Crystalarium radiation bends light differently near each elemental type, recorded how a Krenpowen child’s aura shifts color when startled, and argued with yourself in the margins about whether the Dakvura state is a biological function or a spiritual one. No master taught you — you taught yourself, cross-referencing the *Hokosha* with your own field notes and demanding answers from a world that rarely gives them freely. Where others fought to survive the Elsaither, you studied it.
+*   **Ability Scores:** Intelligence, Wisdom, Charisma
+*   **Feat:** *Arcane Field Notes*
+*   **Skill Proficiencies:** Arcana, History
+*   **Tool Proficiency:** Calligrapher’s Tools
+*   **Equipment:** Quarterstaff, Calligrapher’s Tools, Magnifying Glass, Research Journal (filled with personal elemental observations), Standard Underclothes, 20cc.
+
 ## **Origin Feats**
 
 **Violent Soldier**
@@ -105,6 +113,12 @@ You gain the following benefits.
 You gain the following benefits.
 *   **Elemental Medic:** You can use a Healer's Kit to tend to a creature. That creature can expend one Hit Die, rolling it and regaining hit points equal to the roll + your Proficiency Bonus.
 *   **Healing Rerolls:** Whenever you roll a 1 on a die to determine the number of hit points you restore with a spell or ability, you can reroll the die and must use the new roll.
+
+**Arcane Field Notes**
+*Origin Feat*
+A lifetime of independent research has sharpened your mind into a precision instrument for identifying the patterns underlying all elemental phenomena.
+*   **Esoteric Recall:** You can add your Proficiency Bonus to any Intelligence (Arcana) or Intelligence (History) check you make that relates to elemental magic, species traits, or the Crystalarium. If you are already proficient in the relevant skill, you add double your Proficiency Bonus (Expertise) instead.
+*   **Rapid Notation:** When you witness a creature use a spell, class feature, or elemental ability for the first time in an encounter, you can use your Reaction to jot a quick observation in your Research Journal. Until the end of your next turn, you have Advantage on the first saving throw you make against that creature’s spells or elemental abilities. You can use this Reaction a number of times equal to your Intelligence modifier (minimum 1), and you regain all expended uses when you finish a Long Rest.
 
 ## **General Feats**
 
