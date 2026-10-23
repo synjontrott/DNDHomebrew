@@ -2125,7 +2125,7 @@ The symbiote acts as a perfect failsafe, ripping you away from death's door.
 ### **Warrion Cluster (Garanko)**
 *   **Warrion Heavy Cleaver:** *Martial Melee.* **Damage:** 2d6 Slashing. **Properties:** Heavy, Two-Handed. **Mastery:** Cleave. Cost: 20cc.
 *   **Warrion Great-Axe:** *Martial Melee.* **Damage:** 1d12 Slashing. **Properties:** Heavy, Two-Handed. **Mastery:** Cleave. Cost: 20cc.
-*   **Warrion War-Hammer:** *Martial Melee.* **Damage:** 1d8 Bludgeoning. **Properties:** Versatile (1d10). **Mastery:** Topple. Cost: 15cc.
+*   **Warrion War-Hammer:** *Martial Melee.* **Damage:** 1d8 Bludgeoning. **Properties:** Versatile (1d10). **Mastery:** Push. Cost: 15cc.
 
 ### **Nidosis Cluster (Plunesako)**
 *   **Nidosis Spear-Staff:** *Simple Melee.* **Damage:** 1d6 Piercing or Bludgeoning. **Properties:** Versatile (1d8), Thrown (20/60). **Mastery:** Push. Cost: 5cc.
