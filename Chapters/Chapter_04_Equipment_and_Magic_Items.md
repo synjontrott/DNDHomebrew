@@ -14,7 +14,7 @@
 
 ### **Techno Cluster (Genempriea)**
 *   **Techno Pulse Blaster:** *Simple Ranged.* Range 60/180 ft. **Damage:** 1d6 Force or Elemental. **Properties:** Ammunition, Range, Reload (10 shots), Light. **Mastery:** Vex. Cost: 30cc.
-*   **Techno Arc Blade:** *Martial Melee.* **Damage:** 1d8 Lightning or Force. **Properties:** Versatile (1d10). **Mastery:** Topple. Cost: 20cc.
+*   **Techno Arc Blade:** *Martial Melee.* **Damage:** 1d8 Lightning or Force. **Properties:** Versatile (1d10). **Mastery:** Sap. Cost: 20cc.
 *   **Techno Railgun:** *Martial Ranged.* Range 200/400 ft. **Damage:** 1d12 Elemental. **Properties:** Ammunition, Range, Reload (1 shot), Loading, Heavy, Two-Handed. **Mastery:** Slow. Cost: 150cc.
 
 ### **Warrion Cluster (Garanko)**
