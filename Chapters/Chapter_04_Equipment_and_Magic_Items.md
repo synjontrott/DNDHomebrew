@@ -8,24 +8,24 @@
 ## **Standardized Regional Weapons**
 
 ### **Ninjonian Cluster (Krenpowen/Tenebrie)**
-*   **Ninjonian Pistol:** *Simple Ranged.* Range 40/120 ft. **Damage:** 1d6 Elemental. **Properties:** Ammunition, Range, Reload (15 shots), Light. Cost: 25cc.
-*   **Ninjonian Rifle:** *Martial Ranged.* Range 100/500 ft. **Damage:** 1d8 Elemental. **Properties:** Ammunition, Range, Reload (10 shots), Two-Handed. Cost: 50cc.
-*   **Ninjonian Saber:** *Martial Melee.* **Damage:** 1d8 Slashing. **Properties:** Finesse. Cost: 15cc.
+*   **Ninjonian Pistol:** *Simple Ranged.* Range 40/120 ft. **Damage:** 1d6 Elemental. **Properties:** Ammunition, Range, Reload (15 shots), Light. **Mastery:** Vex. Cost: 25cc.
+*   **Ninjonian Rifle:** *Martial Ranged.* Range 100/500 ft. **Damage:** 1d8 Elemental. **Properties:** Ammunition, Range, Reload (10 shots), Two-Handed. **Mastery:** Slow. Cost: 50cc.
+*   **Ninjonian Saber:** *Martial Melee.* **Damage:** 1d8 Slashing. **Properties:** Finesse. **Mastery:** Sap. Cost: 15cc.
 
 ### **Techno Cluster (Genempriea)**
-*   **Techno Pulse Blaster:** *Simple Ranged.* Range 60/180 ft. **Damage:** 1d6 Force or Elemental. **Properties:** Ammunition, Range, Reload (10 shots), Light. Cost: 30cc.
-*   **Techno Arc Blade:** *Martial Melee.* **Damage:** 1d8 Lightning or Force. **Properties:** Versatile (1d10). Cost: 20cc.
-*   **Techno Railgun:** *Martial Ranged.* Range 200/400 ft. **Damage:** 1d12 Elemental. **Properties:** Ammunition, Range, Reload (1 shot), Loading, Heavy, Two-Handed. Cost: 150cc.
+*   **Techno Pulse Blaster:** *Simple Ranged.* Range 60/180 ft. **Damage:** 1d6 Force or Elemental. **Properties:** Ammunition, Range, Reload (10 shots), Light. **Mastery:** Vex. Cost: 30cc.
+*   **Techno Arc Blade:** *Martial Melee.* **Damage:** 1d8 Lightning or Force. **Properties:** Versatile (1d10). **Mastery:** Topple. Cost: 20cc.
+*   **Techno Railgun:** *Martial Ranged.* Range 200/400 ft. **Damage:** 1d12 Elemental. **Properties:** Ammunition, Range, Reload (1 shot), Loading, Heavy, Two-Handed. **Mastery:** Slow. Cost: 150cc.
 
 ### **Warrion Cluster (Garanko)**
-*   **Warrion Heavy Cleaver:** *Martial Melee.* **Damage:** 2d6 Slashing. **Properties:** Heavy, Two-Handed. Cost: 20cc.
-*   **Warrion Great-Axe:** *Martial Melee.* **Damage:** 1d12 Slashing. **Properties:** Heavy, Two-Handed. Cost: 20cc.
-*   **Warrion War-Hammer:** *Martial Melee.* **Damage:** 1d8 Bludgeoning. **Properties:** Versatile (1d10). Cost: 15cc.
+*   **Warrion Heavy Cleaver:** *Martial Melee.* **Damage:** 2d6 Slashing. **Properties:** Heavy, Two-Handed. **Mastery:** Cleave. Cost: 20cc.
+*   **Warrion Great-Axe:** *Martial Melee.* **Damage:** 1d12 Slashing. **Properties:** Heavy, Two-Handed. **Mastery:** Cleave. Cost: 20cc.
+*   **Warrion War-Hammer:** *Martial Melee.* **Damage:** 1d8 Bludgeoning. **Properties:** Versatile (1d10). **Mastery:** Topple. Cost: 15cc.
 
 ### **Nidosis Cluster (Plunesako)**
-*   **Nidosis Spear-Staff:** *Simple Melee.* **Damage:** 1d6 Piercing or Bludgeoning. **Properties:** Versatile (1d8), Thrown (20/60). Cost: 5cc.
-*   **Nidosis Curved Dagger:** *Simple Melee.* **Damage:** 1d4 Piercing or Slashing. **Properties:** Finesse, Light, Thrown (20/60). Cost: 2cc.
-*   **Nidosis Composite Bow:** *Martial Ranged.* Range 150/600 ft. **Damage:** 1d8 Piercing. **Properties:** Ammunition, Range, Two-Handed. Cost: 30cc.
+*   **Nidosis Spear-Staff:** *Simple Melee.* **Damage:** 1d6 Piercing or Bludgeoning. **Properties:** Versatile (1d8), Thrown (20/60). **Mastery:** Push. Cost: 5cc.
+*   **Nidosis Curved Dagger:** *Simple Melee.* **Damage:** 1d4 Piercing or Slashing. **Properties:** Finesse, Light, Thrown (20/60). **Mastery:** Nick. Cost: 2cc.
+*   **Nidosis Composite Bow:** *Martial Ranged.* Range 150/600 ft. **Damage:** 1d8 Piercing. **Properties:** Ammunition, Range, Two-Handed. **Mastery:** Vex. Cost: 30cc.
 
 ## **Regional Armor Suites**
 
