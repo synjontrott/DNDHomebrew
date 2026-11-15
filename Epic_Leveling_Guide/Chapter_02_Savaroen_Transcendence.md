@@ -1,6 +1,6 @@
 # **Chapter 2: The Savaroen — Part 2: Legendary/Godlike Transcendence (Levels 31–40)**
 
-*Beyond the thirtieth circle of awakening lies a threshold that mortal minds were never engineered to touch. At Level 31, the Savaroen steps into the domain of living godhood. No matter which Paragon Path was chosen in Tier 5, any Savaroen can now choose one of two modular Godlike Transcendence Paths: the martial **Avatar of the Martial Godhead (Raeko’s Mantle)** or the arcane **Avatar of the Primordial Sovereign (Pireous’s Mantle)**. At Level 40, these paths culminate in true deification, granting the character an eternal seat in the pantheon of Silveronia alongside ancient legends such as Pireous, Zarta, and Raeko.*
+*Beyond the thirtieth circle of awakening lies a threshold that mortal minds were never engineered to touch. At Level 31, the Savaroen steps into the domain of living godhood. No matter which Paragon Path was chosen in Tier 5, any Savaroen can now choose one of two modular Godlike Transcendence Paths: the martial **Avatar of the Martial Godhead (Mantle of Cultro & Pireous)** or the arcane **Avatar of the Primordial Sovereign (Mantle of Pireous & Zarta)**. At Level 40, these paths culminate in true deification, granting the character an eternal seat in the pantheon of Silveronia alongside ancient legends such as Pireous, Zarta, and Cultro.*
 
 ---
 
@@ -14,7 +14,7 @@ At Tier 6 (Levels 31–40), characters reach divine transcendence:
 *   **Hit Dice:** You continue gaining 1d8 (or 5) + your Constitution modifier in Hit Points per Savaroen level beyond 30th.
 *   **Universal Ability Cap:** At 31st level, the maximum score for **all ability scores** increases to **30**.
 *   **Modular Godlike Transcendence Selection:** At 31st level, choose one of two Godlike Paths:
-    *   **Path 1: The Martial Godhead (Raeko’s Mantle)** — The divine perfection of physical destruction, world-severing swordplay, and unyielding celestial armor.
+    *   **Path 1: The Martial Godhead (Mantle of Cultro & Pireous)** — The divine perfection of physical destruction, world-severing swordplay, and unyielding celestial armor.
     *   **Path 2: The Primordial Sovereign (Pireous/Zarta’s Mantle)** — The divine dominion over the cosmos, boundless spellcasting, and planetary terraforming.
 *   **11th-Level Primordial Arcanum:** At 39th level, all Savaroen unlock an **11th-level cosmic rite** capable of rewriting the reality of Silveronia.
 
@@ -117,14 +117,14 @@ Regardless of which subclass or Paragon Path you chose earlier, select one of th
 
 ```
 SAVAROEN GODLIKE TRANSCENDENCE PATHS (LEVELS 31–40)
- ├── PATH 1: THE MARTIAL GODHEAD (Avatar of Raeko / Kren-Pireous)
- └── PATH 2: THE PRIMORDIAL SOVEREIGN (Avatar of Pireous / Zarta)
+ ├── PATH 1: THE MARTIAL GODHEAD (Mantle of Cultro & Pireous)
+ └── PATH 2: THE PRIMORDIAL SOVEREIGN (Mantle of Pireous & Zarta)
 ```
 
 ---
 
-### **Path 1: The Martial Godhead (Raeko’s Mantle)**
-*The Martial Godhead ascends as an unstoppable deity of warfare and blade-craft. Channeling the mantle of Raeko, the legendary warrior god of the Elsaither, this path transforms the Savaroen into a living divine weapon.*
+### **Path 1: The Martial Godhead (Mantle of Cultro & Pireous)**
+*The Martial Godhead ascends as an unstoppable deity of warfare and blade-craft. Channeling the mantle of Cultro (Spirit of Knife and Martial Precision) and Pireous (Spirit of Fire and War), this path transforms the Savaroen into a living divine weapon.*
 
 #### **Level 31: God-King’s Armament**
 *   **Fourfold Strike:** When you take the Attack Action on your turn, you can make **four melee weapon attacks** instead of three.
@@ -140,9 +140,9 @@ SAVAROEN GODLIKE TRANSCENDENCE PATHS (LEVELS 31–40)
 *   **World-Cleaving Whirlwind:** (Once per Short or Long Rest) You make a melee weapon attack against **every hostile creature within 30 feet** of you. Each creature hit takes your weapon's full damage plus **15d10 Force damage**, is knocked Prone, and must succeed on a Constitution save against your Spell Save DC or be **Stunned** for 1 minute.
 *   **Armor-Shatter:** Non-magical weapons that hit you are instantly destroyed upon contact, and magical weapons deal half damage.
 
-#### **Level 40: Divine Ascendance — Living God of the Sacred Blade (Ascendant Raeko)**
+#### **Level 40: Divine Ascendance — Living God of the Sacred Blade (Ascendant Cultro-Pireous)**
 At 40th level, you achieve ultimate deification:
-*   **Pantheon Seat:** You ascend to the divine pantheon of Elsaither as a **Supreme Deity of War and the Blade**.
+*   **Pantheon Seat:** You ascend to the divine pantheon of Elsaither as a **Supreme Deity of War, Blades, and Elemental Destruction** alongside Cultro, Aes, and Pireous.
 *   **Permanent Divine Weapon:** Your *Divine Elemental Weapon* is permanently active. It deals **4d10 + your Charisma modifier** elemental damage, cannot be disarmed, and ignores all magical shields or force effects.
 *   **Aura of Absolute Command:** You emanate a 60-foot aura of divine supremacy. Enemies within the aura have Disadvantage on all attack rolls and saving throws. Friendly creatures have Advantage on all rolls and add your Charisma modifier to their weapon damage.
 *   **Divine Immortality:** If you are destroyed, your spirit reconstitutes a new body at the sacred shrine of your chosen element within 1d10 days, accompanied by a cosmic planetary storm.

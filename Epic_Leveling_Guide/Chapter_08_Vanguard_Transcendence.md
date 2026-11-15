@@ -94,14 +94,14 @@ Regardless of which of the 16 Elemental Disciplines or Paragon Paths you chose e
 
 ```
 VANGUARD GODLIKE TRANSCENDENCE PATHS (LEVELS 31–40)
- ├── PATH 1: THE IMMORTAL WORLD-ANCHOR (Deity of Bedrock & Iron / Tank God)
- └── PATH 2: THE CALAMITY SOVEREIGN (Deity of Total War / Ruin God)
+ ├── PATH 1: THE IMMORTAL WORLD-ANCHOR (Mantle of Aes & Terra / Titan God)
+ └── PATH 2: THE CALAMITY SOVEREIGN (Mantle of Nex & Zarta / War God of Raiben Vangar)
 ```
 
 ---
 
-### **Path 1: The Immortal World-Anchor (Deity of Bedrock & Iron)**
-*The Immortal World-Anchor turns the Vanguard into an unkillable primordial colossus. Imbued with the density of planetary cores, this god of iron and stone cannot be moved, harmed by mortal strikes, or slain by ancient wyrms.*
+### **Path 1: The Immortal World-Anchor (Mantle of Aes & Terra)**
+*The Immortal World-Anchor turns the Vanguard into an unkillable primordial colossus. Imbued with the mantle of Aes (Spirit of Metal and Defense) and Terra (Spiritess of Earth and Living Protection), this titan of iron and stone cannot be moved, harmed by mortal strikes, or slain by ancient wyrms.*
 
 #### **Level 31: Adamantine God-Flesh**
 *   **Divine Damage Reduction:** You gain permanent **Damage Reduction equal to 15** against all physical damage (applied before resistance).
@@ -116,17 +116,17 @@ VANGUARD GODLIKE TRANSCENDENCE PATHS (LEVELS 31–40)
 #### **Level 38: Continental Fortress Shift**
 *   **Planar Kinetic Freeze:** As an Action (once per Long Rest), you lock the physical fabric of reality within 60 feet of you for 1 round. All friendly creatures in that area are completely **Immune to all damage and negative conditions** until the start of your next turn, and you instantly regain **half of your maximum Hit Points**.
 
-#### **Level 40: Divine Ascendance — Primordial Titan of Elsaither**
+#### **Level 40: Divine Ascendance — Primordial Titan of Elsaither (Ascendant Aes-Terra)**
 At 40th level, you achieve ultimate deification:
-*   **Pantheon Seat:** You ascend to the divine council of Elsaither as the **Supreme Deity of Earth, Iron, and Immovable Will**.
+*   **Pantheon Seat:** You ascend to the divine council of Elsaither as the **Supreme Deity of Earth, Metal, and Immovable Will** alongside Aes and Terra.
 *   **Permanent Dakvura State:** Your *Dakvura* is **permanently active**. You never need to enter it as an action; you constantly embody the living Titan.
 *   **Titan's Resurrection:** If you are reduced to 0 Hit Points, you do not fall unconscious. Your core detonates in a **60-foot shockwave dealing 10d10 elemental damage** to all enemies, and you immediately regain **half of your maximum Hit Points** (once per Long Rest).
 *   **Divine Immortality:** If destroyed, you reconstitute your body from the bedrock of Silveronia within 1d10 days.
 
 ---
 
-### **Path 2: The Calamity Sovereign (Deity of Total War)**
-*The Calamity Sovereign represents the cosmic embodiment of destruction and warfare. Wielding weapons capable of cleaving continents and executing divine avatars, this god of war brings absolute ruin to any who stand against them.*
+### **Path 2: The Calamity Sovereign (Mantle of Nex & Zarta)**
+*The Calamity Sovereign represents the cosmic embodiment of destruction and warfare born from Raiben Vangar. Channeling the lethal legacy of Nex (Spirit of Carnage and Weapons) and Zarta (Spiritess of Darkness and Raiben Vangar), this god of war brings absolute ruin to any who stand against them.*
 
 #### **Level 31: God-Shattering Impact**
 *   **Maximized Criticals:** Whenever you score a Critical Hit with a weapon attack, **all damage dice for the attack (weapon, Dakvura bonus, and elemental damage) are automatically maximized**.
@@ -141,9 +141,9 @@ At 40th level, you achieve ultimate deification:
 #### **Level 38: Planetary Extinction Wave**
 *   **Extinction Strike:** (Costs 3 Arts, once per Long Rest) As an Action, you slam your weapon down, releasing an extinction wave in a **150-foot cone**. All hostile creatures in the area must make a Dexterity save against your Art Save DC, taking **30d10 elemental damage plus 20d10 Force damage** on a failed save (half on success). Non-boss creatures with 100 HP or less that fail this save are instantly disintegrated.
 
-#### **Level 40: Divine Ascendance — Living God of War and Calamity**
+#### **Level 40: Divine Ascendance — Living God of War and Calamity (Ascendant Nex-Zarta)**
 At 40th level, you achieve ultimate deification:
-*   **Pantheon Seat:** You ascend to the divine pantheon of Elsaither as the **Supreme Deity of War, Destruction, and Elemental Calamity**.
+*   **Pantheon Seat:** You ascend to the divine pantheon of Elsaither as the **Supreme Deity of War, Carnage, and Elemental Calamity** alongside Nex and Zarta, fulfilling the warrior prophecy of Raiben Vangar.
 *   **Calamity Critical Threshold:** Your melee weapon attacks score a Critical Hit on a roll of **17–20**.
 *   **Divine Executioner:** Whenever you hit a creature with a melee weapon attack, if the creature has **150 Hit Points or fewer**, you can choose to execute it instantly, severing its soul from existence.
-*   **Divine Immortality:** You do not age and cannot die of natural causes. If slain, you reform on the eternal battlefield of the warrior gods at the next dawn.
+*   **Divine Immortality:** You do not age and cannot die of natural causes. If slain, you reform on the eternal battlefield of Raiben Vangar at the next dawn.

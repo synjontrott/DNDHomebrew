@@ -90,14 +90,14 @@ Regardless of which Mark or Paragon Path you chose earlier, select one of the fo
 
 ```
 BEAST MASTER GODLIKE TRANSCENDENCE PATHS (LEVELS 31–40)
- ├── PATH 1: THE WORLD-BEAST SOVEREIGN (Lord of the Kaiju / Companion Focus)
- └── PATH 2: THE PRIMAL DEITY (Avatar of Nature Incarnate / Mutation Focus)
+ ├── PATH 1: THE WORLD-BEAST SOVEREIGN (Mantle of Terra & Mundus / Lord of Titans)
+ └── PATH 2: THE PRIMAL DEITY (Mantle of Anastasia / Avatar of Nature Incarnate)
 ```
 
 ---
 
-### **Path 1: The World-Beast Sovereign (Lord of the Kaiju)**
-*The World-Beast Sovereign elevates the Spirit Companion to the status of a cosmic earth-titan. The companion grows to gargantuan size, commands three legendary actions per round, and battles divine avatars on equal footing.*
+### **Path 1: The World-Beast Sovereign (Mantle of Terra & Mundus)**
+*The World-Beast Sovereign elevates the Spirit Companion to the status of a cosmic earth-titan, channeling the mantle of Terra (Spiritess of Earth and Living Crust) and Mundus (Spirit of Geological Harmony). The companion grows to gargantuan size, commands three legendary actions per round, and battles divine avatars on equal footing.*
 
 #### **Level 31: Gargantuan Kaiju Evolution**
 *   **Kaiju Size:** Your companion can manifest as **Gargantuan** (occupying a 20-by-20-foot space or larger) with a melee reach of **15 feet**.
@@ -115,17 +115,17 @@ BEAST MASTER GODLIKE TRANSCENDENCE PATHS (LEVELS 31–40)
 #### **Level 38: Continental Fracture Slam**
 *   **World-Quake:** As an Action (once per Long Rest), your companion slams the ground, causing a tectonic rupture in a **120-foot radius**. The ground shatters into abyssal chasms. Hostile creatures must make a Dexterity save against your Spell Save DC, taking **25d10 Bludgeoning plus 10d10 elemental damage**, falling Prone, and being trapped under collapsing stone (Restrained and Incapacitated).
 
-#### **Level 40: Divine Ascendance — Living God of the World-Beasts**
+#### **Level 40: Divine Ascendance — Living God of the World-Beasts (Ascendant Terra-Mundus)**
 At 40th level, you and your companion achieve ultimate deification:
-*   **Pantheon Seat:** You and your companion ascend to the divine pantheon of Elsaither as the **Supreme Dual Deities of Beasts, Titans, and Monsters**.
+*   **Pantheon Seat:** You and your companion ascend to the divine pantheon of Elsaither as the **Supreme Dual Deities of Beasts, Titans, and Monsters** alongside Terra and Mundus.
 *   **Triple Legendary Resistance:** You and your companion each gain **3 uses of Legendary Resistance** per Long Rest.
 *   **Immortal World-Spirit:** If your companion is slain, its physical form dissolves into pure elemental earth, reforming at full Hit Points at the next sunrise.
 *   **Aura of the Apex Titan:** You emanate a 60-foot aura of primal majesty. All allies within the aura gain **30 Temporary Hit Points** each turn and add your Wisdom modifier to their attack and damage rolls.
 
 ---
 
-### **Path 2: The Primal Deity (Avatar of Nature Incarnate)**
-*The Primal Deity fuses the Beast Master's mortal essence directly into the living biosphere of Silveronia. With total mastery over shapeshifting, climate, and primal rejuvenation, this path becomes an undying god of the wilderness.*
+### **Path 2: The Primal Deity (Mantle of Anastasia)**
+*The Primal Deity fuses the Beast Master's mortal essence directly into the living biosphere of Silveronia, channeling the sacred vitality of Anastasia (Spiritess of Life and Wild Resurrection). With total mastery over shapeshifting, climate, and primal rejuvenation, this path becomes an undying god of the wilderness.*
 
 #### **Level 31: Divine Primal Physiology**
 *   **Permanent Apex Divinity:** Your *Apex Aspect Transformation* is **permanently active** at 0 PE cost. You never need to activate it; you constantly embody the supreme archetype of your Mark.

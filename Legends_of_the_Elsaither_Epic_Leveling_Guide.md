@@ -15,7 +15,7 @@ This guidebook establishes the complete **Epic Leveling System (Levels 21–40)*
 
 The progression is divided into two balanced epic tiers structured under the mathematical architecture of D&D 5.5e:
 *   **Tier 5: Mythic / Paragon Ascendance (Levels 21–30):** The mortal soul and physical vessel fuse with elemental, symbiotic, or primal archetypes.
-*   **Tier 6: Legendary / Godlike Transcendence (Levels 31–40):** The champion transcends mortality completely, culminating at **Level 40 in true Divine Ascendance** to take an eternal throne in the divine pantheon of Elsaither alongside ancient primordial deities like **Nex**, **Zarta**, **Pireous**, and **Raeko**.
+*   **Tier 6: Legendary / Godlike Transcendence (Levels 31–40):** The champion transcends mortality completely, culminating at **Level 40 in true Divine Ascendance** to take an eternal throne in the divine pantheon of Elsaither alongside ancient primordial deities like **Nex**, **Zarta**, **Pireous**, and **Cultro**.
 
 ---
 
@@ -88,26 +88,26 @@ Each level gained beyond 20th awards additional Hit Dice and Hit Points accordin
     *   *Path 1: The Spirit Blade Sovereign (Hokosha Sword-Saint)*
     *   *Path 2: The Elemental Archon (Font of the Primordial Weave)*
 *   **Chapter 2:** The Savaroen — Part 2: Legendary/Godlike Transcendence (Levels 31–40)
-    *   *Path 1: The Martial Godhead (Raeko’s Mantle)*
-    *   *Path 2: The Primordial Sovereign (Pireous/Zarta’s Mantle)*
+    *   *Path 1: The Martial Godhead (Mantle of Cultro & Pireous)*
+    *   *Path 2: The Primordial Sovereign (Mantle of Pireous & Zarta)*
 *   **Chapter 3:** The Shadow Warrior — Part 1: Mythic/Paragon Ascendance (Levels 21–30)
     *   *Path 1: The Abyssal Devourer (Apex Carnivore)*
     *   *Path 2: The Nether Conduit (Umbral Void-Weaver)*
 *   **Chapter 4:** The Shadow Warrior — Part 2: Legendary/Godlike Transcendence (Levels 31–40)
-    *   *Path 1: The Cosmic World-Devourer (Avatar of Nex)*
-    *   *Path 2: The Nether Architect (Sovereign of the Cosmic Web)*
+    *   *Path 1: The Cosmic World-Devourer (Mantle of Nex)*
+    *   *Path 2: The Nether Architect (Mantle of Umbra & Zarta)*
 *   **Chapter 5:** The Beast Master — Part 1: Mythic/Paragon Ascendance (Levels 21–30)
     *   *Path 1: The Behemoth Master (Pack Sovereign / Companion Focus)*
     *   *Path 2: The Primordial Chimera (Aspect Sovereign / Mutation Focus)*
 *   **Chapter 6:** The Beast Master — Part 2: Legendary/Godlike Transcendence (Levels 31–40)
-    *   *Path 1: The World-Beast Sovereign (Lord of the Kaiju / Companion Focus)*
-    *   *Path 2: The Primal Deity (Avatar of Nature Incarnate / Mutation Focus)*
+    *   *Path 1: The World-Beast Sovereign (Mantle of Terra & Mundus / Lord of Titans)*
+    *   *Path 2: The Primal Deity (Mantle of Anastasia / Avatar of Nature Incarnate)*
 *   **Chapter 7:** The Vanguard — Part 1: Mythic/Paragon Ascendance (Levels 21–30)
     *   *Path 1: The Unstoppable Juggernaut (Living Bastion / Defensive Intercept)*
     *   *Path 2: The Cataclysmic Ravager (Primordial Breaker / Offensive Slaughter)*
 *   **Chapter 8:** The Vanguard — Part 2: Legendary/Godlike Transcendence (Levels 31–40)
-    *   *Path 1: The Immortal World-Anchor (Deity of Bedrock & Iron / Tank God)*
-    *   *Path 2: The Calamity Sovereign (Deity of Total War / Ruin God)*
+    *   *Path 1: The Immortal World-Anchor (Mantle of Aes & Terra / Titan God)*
+    *   *Path 2: The Calamity Sovereign (Mantle of Nex & Zarta / War God of Raiben Vangar)*
 
 ---
 
@@ -286,7 +286,7 @@ At 30th level, you become the living avatar of Elsaither's magical weave:
 
 # **Chapter 2: The Savaroen — Part 2: Legendary/Godlike Transcendence (Levels 31–40)**
 
-*Beyond the thirtieth circle of awakening lies a threshold that mortal minds were never engineered to touch. At Level 31, the Savaroen steps into the domain of living godhood. No matter which Paragon Path was chosen in Tier 5, any Savaroen can now choose one of two modular Godlike Transcendence Paths: the martial **Avatar of the Martial Godhead (Raeko’s Mantle)** or the arcane **Avatar of the Primordial Sovereign (Pireous’s Mantle)**. At Level 40, these paths culminate in true deification, granting the character an eternal seat in the pantheon of Silveronia alongside ancient legends such as Pireous, Zarta, and Raeko.*
+*Beyond the thirtieth circle of awakening lies a threshold that mortal minds were never engineered to touch. At Level 31, the Savaroen steps into the domain of living godhood. No matter which Paragon Path was chosen in Tier 5, any Savaroen can now choose one of two modular Godlike Transcendence Paths: the martial **Avatar of the Martial Godhead (Mantle of Cultro & Pireous)** or the arcane **Avatar of the Primordial Sovereign (Mantle of Pireous & Zarta)**. At Level 40, these paths culminate in true deification, granting the character an eternal seat in the pantheon of Silveronia alongside ancient legends such as Pireous, Zarta, and Cultro.*
 
 ---
 
@@ -300,7 +300,7 @@ At Tier 6 (Levels 31–40), characters reach divine transcendence:
 *   **Hit Dice:** You continue gaining 1d8 (or 5) + your Constitution modifier in Hit Points per Savaroen level beyond 30th.
 *   **Universal Ability Cap:** At 31st level, the maximum score for **all ability scores** increases to **30**.
 *   **Modular Godlike Transcendence Selection:** At 31st level, choose one of two Godlike Paths:
-    *   **Path 1: The Martial Godhead (Raeko’s Mantle)** — The divine perfection of physical destruction, world-severing swordplay, and unyielding celestial armor.
+    *   **Path 1: The Martial Godhead (Mantle of Cultro & Pireous)** — The divine perfection of physical destruction, world-severing swordplay, and unyielding celestial armor.
     *   **Path 2: The Primordial Sovereign (Pireous/Zarta’s Mantle)** — The divine dominion over the cosmos, boundless spellcasting, and planetary terraforming.
 *   **11th-Level Primordial Arcanum:** At 39th level, all Savaroen unlock an **11th-level cosmic rite** capable of rewriting the reality of Silveronia.
 
@@ -403,14 +403,14 @@ Regardless of which subclass or Paragon Path you chose earlier, select one of th
 
 ```
 SAVAROEN GODLIKE TRANSCENDENCE PATHS (LEVELS 31–40)
- ├── PATH 1: THE MARTIAL GODHEAD (Avatar of Raeko / Kren-Pireous)
- └── PATH 2: THE PRIMORDIAL SOVEREIGN (Avatar of Pireous / Zarta)
+ ├── PATH 1: THE MARTIAL GODHEAD (Mantle of Cultro & Pireous)
+ └── PATH 2: THE PRIMORDIAL SOVEREIGN (Mantle of Pireous & Zarta)
 ```
 
 ---
 
-### **Path 1: The Martial Godhead (Raeko’s Mantle)**
-*The Martial Godhead ascends as an unstoppable deity of warfare and blade-craft. Channeling the mantle of Raeko, the legendary warrior god of the Elsaither, this path transforms the Savaroen into a living divine weapon.*
+### **Path 1: The Martial Godhead (Mantle of Cultro & Pireous)**
+*The Martial Godhead ascends as an unstoppable deity of warfare and blade-craft. Channeling the mantle of Cultro (Spirit of Knife and Martial Precision) and Pireous (Spirit of Fire and War), this path transforms the Savaroen into a living divine weapon.*
 
 #### **Level 31: God-King’s Armament**
 *   **Fourfold Strike:** When you take the Attack Action on your turn, you can make **four melee weapon attacks** instead of three.
@@ -426,9 +426,9 @@ SAVAROEN GODLIKE TRANSCENDENCE PATHS (LEVELS 31–40)
 *   **World-Cleaving Whirlwind:** (Once per Short or Long Rest) You make a melee weapon attack against **every hostile creature within 30 feet** of you. Each creature hit takes your weapon's full damage plus **15d10 Force damage**, is knocked Prone, and must succeed on a Constitution save against your Spell Save DC or be **Stunned** for 1 minute.
 *   **Armor-Shatter:** Non-magical weapons that hit you are instantly destroyed upon contact, and magical weapons deal half damage.
 
-#### **Level 40: Divine Ascendance — Living God of the Sacred Blade (Ascendant Raeko)**
+#### **Level 40: Divine Ascendance — Living God of the Sacred Blade (Ascendant Cultro-Pireous)**
 At 40th level, you achieve ultimate deification:
-*   **Pantheon Seat:** You ascend to the divine pantheon of Elsaither as a **Supreme Deity of War and the Blade**.
+*   **Pantheon Seat:** You ascend to the divine pantheon of Elsaither as a **Supreme Deity of War, Blades, and Elemental Destruction** alongside Cultro, Aes, and Pireous.
 *   **Permanent Divine Weapon:** Your *Divine Elemental Weapon* is permanently active. It deals **4d10 + your Charisma modifier** elemental damage, cannot be disarmed, and ignores all magical shields or force effects.
 *   **Aura of Absolute Command:** You emanate a 60-foot aura of divine supremacy. Enemies within the aura have Disadvantage on all attack rolls and saving throws. Friendly creatures have Advantage on all rolls and add your Charisma modifier to their weapon damage.
 *   **Divine Immortality:** If you are destroyed, your spirit reconstitutes a new body at the sacred shrine of your chosen element within 1d10 days, accompanied by a cosmic planetary storm.
@@ -764,14 +764,14 @@ Regardless of which subclass or Paragon Path you chose earlier, select one of th
 
 ```
 SHADOW WARRIOR GODLIKE TRANSCENDENCE PATHS (LEVELS 31–40)
- ├── PATH 1: THE COSMIC WORLD-DEVOURER (Avatar of Nex / Nyxid God)
- └── PATH 2: THE NETHER ARCHITECT (Sovereign of the Cosmic Web)
+ ├── PATH 1: THE COSMIC WORLD-DEVOURER (Mantle of Nex / Elder Nyxid God)
+ └── PATH 2: THE NETHER ARCHITECT (Mantle of Umbra & Zarta / Sovereign of the Cosmic Web)
 ```
 
 ---
 
-### **Path 1: The Cosmic World-Devourer (Avatar of Nex)**
-*The Cosmic World-Devourer embodies the elder hunger of Nex, the supreme deity of the Nyxid and Shadow Realm. This path turns the warrior into an immortal cosmic predator capable of consuming stars, tearing down planar titans, and drinking the life force of armies.*
+### **Path 1: The Cosmic World-Devourer (Mantle of Nex)**
+*The Cosmic World-Devourer embodies the elder hunger of Nex, the supreme spirit of carnage and death in the Elsaither. Famous for his red death energy and devastating weapon empowerment during the wars of Ninjonia and Raiben Vangar, Nex channels his fury through this path, turning the warrior into an immortal cosmic predator capable of consuming stars, tearing down planar titans, and drinking the life force of armies.*
 
 #### **Level 31: Titan of the Abyss**
 *   **World-Eater Weapons:** Your Shadow Claws deal **2d12 slashing damage**, and your Tendril Whip deals **2d10 piercing damage** with a reach of **25 feet**.
@@ -788,7 +788,7 @@ SHADOW WARRIOR GODLIKE TRANSCENDENCE PATHS (LEVELS 31–40)
 
 #### **Level 40: Divine Ascendance — Living God of the Void (Ascendant Nex)**
 At 40th level, you achieve ultimate deification:
-*   **Pantheon Seat:** You ascend to the divine council of Elsaither as the **Supreme God of the Nyxid, Predation, and the Void (The Living Nex)**.
+*   **Pantheon Seat:** You ascend to the divine council of Elsaither as the **Supreme God of Carnage, Predation, and the Red Death (The Living Nex)**.
 *   **Permanent Apex Divinity:** Your *Apex Predator* features are **permanently active**. You constantly possess all of its benefits without needing activation.
 *   **Immortal Shroud:** You are permanently Immune to Radiant, Necrotic, and Psychic damage, and immune to all conditions.
 *   **Swallow the Cosmos:** Once per turn when you hit a creature with your Natural Weapons, you can force it to make a Charisma saving throw. On a failure, it is dragged into an extraplanar singularity in the Shadow Realm, remaining trapped there until you choose to release it.
@@ -796,8 +796,8 @@ At 40th level, you achieve ultimate deification:
 
 ---
 
-### **Path 2: The Nether Architect (Sovereign of the Cosmic Web)**
-*The Nether Architect weaves the quantum threads of the Elsaither Void into reality. By manipulating shadow tethers across galactic distances, dominating the psyches of gods, and collapsing spacetime into black holes, this path commands reality itself.*
+### **Path 2: The Nether Architect (Mantle of Umbra & Zarta)**
+*The Nether Architect weaves the quantum threads of the Elsaither Void into reality, channeling the dual authority of Umbra (Spiritess of Shadow and Darki) and Zarta (Spiritess of the Void and Raiben Vangar). By manipulating shadow tethers across galactic distances, dominating the psyches of gods, and collapsing spacetime into black holes, this path commands reality itself.*
 
 #### **Level 31: Supermassive Void Artillery**
 *   **Six-Beam Eldritch Blast:** Your *Eldritch Blast* now fires **six beams**, each dealing **1d10 + your Charisma modifier + your Proficiency Bonus** Force damage.
@@ -813,9 +813,9 @@ At 40th level, you achieve ultimate deification:
 *   **Ego Erasure:** As an Action (once per Long Rest), you touch the psyche of one creature within 60 feet. The target must make an Intelligence saving throw against your Spell Save DC. On a failed save, it takes **25d10 psychic damage**, falls permanently Unconscious, and its mind becomes your thrall (as if under permanent *Dominate Monster*).
 *   **Rift to Oblivion:** (Once per Long Rest) You rip open a 100-foot cube into the outer dark. Creatures inside take **30d10 necrotic damage** and are permanently banished on a failed Constitution save (half damage on success).
 
-#### **Level 40: Divine Ascendance — Primordial God of the Shadow Realm**
+#### **Level 40: Divine Ascendance — Primordial God of the Shadow Realm (Ascendant Umbra-Zarta)**
 At 40th level, you achieve ultimate deification:
-*   **Pantheon Seat:** You ascend to the divine pantheon of Elsaither as the **Supreme Deity of the Umbral Weave and Spacetime Shadows**.
+*   **Pantheon Seat:** You ascend to the divine pantheon of Elsaither as the **Supreme Deity of the Umbral Weave, Darki, and the Shadow Realm** alongside Umbra and Zarta.
 *   **Omnipresent Shadow:** You can teleport anywhere on the Material Plane or Shadow Realm as a Bonus Action.
 *   **Untouchable Entity:** You are permanently Incorporeal. All attacks against you have Disadvantage, and you take half damage from all spells.
 *   **Divine Immortality:** If destroyed, you dissolve into the Shadow Weave, reforming with full Hit Points at the next eclipse or nightfall.
@@ -1084,14 +1084,14 @@ Regardless of which Mark or Paragon Path you chose earlier, select one of the fo
 
 ```
 BEAST MASTER GODLIKE TRANSCENDENCE PATHS (LEVELS 31–40)
- ├── PATH 1: THE WORLD-BEAST SOVEREIGN (Lord of the Kaiju / Companion Focus)
- └── PATH 2: THE PRIMAL DEITY (Avatar of Nature Incarnate / Mutation Focus)
+ ├── PATH 1: THE WORLD-BEAST SOVEREIGN (Mantle of Terra & Mundus / Lord of Titans)
+ └── PATH 2: THE PRIMAL DEITY (Mantle of Anastasia / Avatar of Nature Incarnate)
 ```
 
 ---
 
-### **Path 1: The World-Beast Sovereign (Lord of the Kaiju)**
-*The World-Beast Sovereign elevates the Spirit Companion to the status of a cosmic earth-titan. The companion grows to gargantuan size, commands three legendary actions per round, and battles divine avatars on equal footing.*
+### **Path 1: The World-Beast Sovereign (Mantle of Terra & Mundus)**
+*The World-Beast Sovereign elevates the Spirit Companion to the status of a cosmic earth-titan, channeling the mantle of Terra (Spiritess of Earth and Living Crust) and Mundus (Spirit of Geological Harmony). The companion grows to gargantuan size, commands three legendary actions per round, and battles divine avatars on equal footing.*
 
 #### **Level 31: Gargantuan Kaiju Evolution**
 *   **Kaiju Size:** Your companion can manifest as **Gargantuan** (occupying a 20-by-20-foot space or larger) with a melee reach of **15 feet**.
@@ -1109,17 +1109,17 @@ BEAST MASTER GODLIKE TRANSCENDENCE PATHS (LEVELS 31–40)
 #### **Level 38: Continental Fracture Slam**
 *   **World-Quake:** As an Action (once per Long Rest), your companion slams the ground, causing a tectonic rupture in a **120-foot radius**. The ground shatters into abyssal chasms. Hostile creatures must make a Dexterity save against your Spell Save DC, taking **25d10 Bludgeoning plus 10d10 elemental damage**, falling Prone, and being trapped under collapsing stone (Restrained and Incapacitated).
 
-#### **Level 40: Divine Ascendance — Living God of the World-Beasts**
+#### **Level 40: Divine Ascendance — Living God of the World-Beasts (Ascendant Terra-Mundus)**
 At 40th level, you and your companion achieve ultimate deification:
-*   **Pantheon Seat:** You and your companion ascend to the divine pantheon of Elsaither as the **Supreme Dual Deities of Beasts, Titans, and Monsters**.
+*   **Pantheon Seat:** You and your companion ascend to the divine pantheon of Elsaither as the **Supreme Dual Deities of Beasts, Titans, and Monsters** alongside Terra and Mundus.
 *   **Triple Legendary Resistance:** You and your companion each gain **3 uses of Legendary Resistance** per Long Rest.
 *   **Immortal World-Spirit:** If your companion is slain, its physical form dissolves into pure elemental earth, reforming at full Hit Points at the next sunrise.
 *   **Aura of the Apex Titan:** You emanate a 60-foot aura of primal majesty. All allies within the aura gain **30 Temporary Hit Points** each turn and add your Wisdom modifier to their attack and damage rolls.
 
 ---
 
-### **Path 2: The Primal Deity (Avatar of Nature Incarnate)**
-*The Primal Deity fuses the Beast Master's mortal essence directly into the living biosphere of Silveronia. With total mastery over shapeshifting, climate, and primal rejuvenation, this path becomes an undying god of the wilderness.*
+### **Path 2: The Primal Deity (Mantle of Anastasia)**
+*The Primal Deity fuses the Beast Master's mortal essence directly into the living biosphere of Silveronia, channeling the sacred vitality of Anastasia (Spiritess of Life and Wild Resurrection). With total mastery over shapeshifting, climate, and primal rejuvenation, this path becomes an undying god of the wilderness.*
 
 #### **Level 31: Divine Primal Physiology**
 *   **Permanent Apex Divinity:** Your *Apex Aspect Transformation* is **permanently active** at 0 PE cost. You never need to activate it; you constantly embody the supreme archetype of your Mark.
@@ -1408,14 +1408,14 @@ Regardless of which of the 16 Elemental Disciplines or Paragon Paths you chose e
 
 ```
 VANGUARD GODLIKE TRANSCENDENCE PATHS (LEVELS 31–40)
- ├── PATH 1: THE IMMORTAL WORLD-ANCHOR (Deity of Bedrock & Iron / Tank God)
- └── PATH 2: THE CALAMITY SOVEREIGN (Deity of Total War / Ruin God)
+ ├── PATH 1: THE IMMORTAL WORLD-ANCHOR (Mantle of Aes & Terra / Titan God)
+ └── PATH 2: THE CALAMITY SOVEREIGN (Mantle of Nex & Zarta / War God of Raiben Vangar)
 ```
 
 ---
 
-### **Path 1: The Immortal World-Anchor (Deity of Bedrock & Iron)**
-*The Immortal World-Anchor turns the Vanguard into an unkillable primordial colossus. Imbued with the density of planetary cores, this god of iron and stone cannot be moved, harmed by mortal strikes, or slain by ancient wyrms.*
+### **Path 1: The Immortal World-Anchor (Mantle of Aes & Terra)**
+*The Immortal World-Anchor turns the Vanguard into an unkillable primordial colossus. Imbued with the mantle of Aes (Spirit of Metal and Defense) and Terra (Spiritess of Earth and Living Protection), this titan of iron and stone cannot be moved, harmed by mortal strikes, or slain by ancient wyrms.*
 
 #### **Level 31: Adamantine God-Flesh**
 *   **Divine Damage Reduction:** You gain permanent **Damage Reduction equal to 15** against all physical damage (applied before resistance).
@@ -1430,17 +1430,17 @@ VANGUARD GODLIKE TRANSCENDENCE PATHS (LEVELS 31–40)
 #### **Level 38: Continental Fortress Shift**
 *   **Planar Kinetic Freeze:** As an Action (once per Long Rest), you lock the physical fabric of reality within 60 feet of you for 1 round. All friendly creatures in that area are completely **Immune to all damage and negative conditions** until the start of your next turn, and you instantly regain **half of your maximum Hit Points**.
 
-#### **Level 40: Divine Ascendance — Primordial Titan of Elsaither**
+#### **Level 40: Divine Ascendance — Primordial Titan of Elsaither (Ascendant Aes-Terra)**
 At 40th level, you achieve ultimate deification:
-*   **Pantheon Seat:** You ascend to the divine council of Elsaither as the **Supreme Deity of Earth, Iron, and Immovable Will**.
+*   **Pantheon Seat:** You ascend to the divine council of Elsaither as the **Supreme Deity of Earth, Metal, and Immovable Will** alongside Aes and Terra.
 *   **Permanent Dakvura State:** Your *Dakvura* is **permanently active**. You never need to enter it as an action; you constantly embody the living Titan.
 *   **Titan's Resurrection:** If you are reduced to 0 Hit Points, you do not fall unconscious. Your core detonates in a **60-foot shockwave dealing 10d10 elemental damage** to all enemies, and you immediately regain **half of your maximum Hit Points** (once per Long Rest).
 *   **Divine Immortality:** If destroyed, you reconstitute your body from the bedrock of Silveronia within 1d10 days.
 
 ---
 
-### **Path 2: The Calamity Sovereign (Deity of Total War)**
-*The Calamity Sovereign represents the cosmic embodiment of destruction and warfare. Wielding weapons capable of cleaving continents and executing divine avatars, this god of war brings absolute ruin to any who stand against them.*
+### **Path 2: The Calamity Sovereign (Mantle of Nex & Zarta)**
+*The Calamity Sovereign represents the cosmic embodiment of destruction and warfare born from Raiben Vangar. Channeling the lethal legacy of Nex (Spirit of Carnage and Weapons) and Zarta (Spiritess of Darkness and Raiben Vangar), this god of war brings absolute ruin to any who stand against them.*
 
 #### **Level 31: God-Shattering Impact**
 *   **Maximized Criticals:** Whenever you score a Critical Hit with a weapon attack, **all damage dice for the attack (weapon, Dakvura bonus, and elemental damage) are automatically maximized**.
@@ -1455,11 +1455,11 @@ At 40th level, you achieve ultimate deification:
 #### **Level 38: Planetary Extinction Wave**
 *   **Extinction Strike:** (Costs 3 Arts, once per Long Rest) As an Action, you slam your weapon down, releasing an extinction wave in a **150-foot cone**. All hostile creatures in the area must make a Dexterity save against your Art Save DC, taking **30d10 elemental damage plus 20d10 Force damage** on a failed save (half on success). Non-boss creatures with 100 HP or less that fail this save are instantly disintegrated.
 
-#### **Level 40: Divine Ascendance — Living God of War and Calamity**
+#### **Level 40: Divine Ascendance — Living God of War and Calamity (Ascendant Nex-Zarta)**
 At 40th level, you achieve ultimate deification:
-*   **Pantheon Seat:** You ascend to the divine pantheon of Elsaither as the **Supreme Deity of War, Destruction, and Elemental Calamity**.
+*   **Pantheon Seat:** You ascend to the divine pantheon of Elsaither as the **Supreme Deity of War, Carnage, and Elemental Calamity** alongside Nex and Zarta, fulfilling the warrior prophecy of Raiben Vangar.
 *   **Calamity Critical Threshold:** Your melee weapon attacks score a Critical Hit on a roll of **17–20**.
 *   **Divine Executioner:** Whenever you hit a creature with a melee weapon attack, if the creature has **150 Hit Points or fewer**, you can choose to execute it instantly, severing its soul from existence.
-*   **Divine Immortality:** You do not age and cannot die of natural causes. If slain, you reform on the eternal battlefield of the warrior gods at the next dawn.
+*   **Divine Immortality:** You do not age and cannot die of natural causes. If slain, you reform on the eternal battlefield of Raiben Vangar at the next dawn.
 
 ---

@@ -123,14 +123,14 @@ Regardless of which subclass or Paragon Path you chose earlier, select one of th
 
 ```
 SHADOW WARRIOR GODLIKE TRANSCENDENCE PATHS (LEVELS 31–40)
- ├── PATH 1: THE COSMIC WORLD-DEVOURER (Avatar of Nex / Nyxid God)
- └── PATH 2: THE NETHER ARCHITECT (Sovereign of the Cosmic Web)
+ ├── PATH 1: THE COSMIC WORLD-DEVOURER (Mantle of Nex / Elder Nyxid God)
+ └── PATH 2: THE NETHER ARCHITECT (Mantle of Umbra & Zarta / Sovereign of the Cosmic Web)
 ```
 
 ---
 
-### **Path 1: The Cosmic World-Devourer (Avatar of Nex)**
-*The Cosmic World-Devourer embodies the elder hunger of Nex, the supreme deity of the Nyxid and Shadow Realm. This path turns the warrior into an immortal cosmic predator capable of consuming stars, tearing down planar titans, and drinking the life force of armies.*
+### **Path 1: The Cosmic World-Devourer (Mantle of Nex)**
+*The Cosmic World-Devourer embodies the elder hunger of Nex, the supreme spirit of carnage and death in the Elsaither. Famous for his red death energy and devastating weapon empowerment during the wars of Ninjonia and Raiben Vangar, Nex channels his fury through this path, turning the warrior into an immortal cosmic predator capable of consuming stars, tearing down planar titans, and drinking the life force of armies.*
 
 #### **Level 31: Titan of the Abyss**
 *   **World-Eater Weapons:** Your Shadow Claws deal **2d12 slashing damage**, and your Tendril Whip deals **2d10 piercing damage** with a reach of **25 feet**.
@@ -147,7 +147,7 @@ SHADOW WARRIOR GODLIKE TRANSCENDENCE PATHS (LEVELS 31–40)
 
 #### **Level 40: Divine Ascendance — Living God of the Void (Ascendant Nex)**
 At 40th level, you achieve ultimate deification:
-*   **Pantheon Seat:** You ascend to the divine council of Elsaither as the **Supreme God of the Nyxid, Predation, and the Void (The Living Nex)**.
+*   **Pantheon Seat:** You ascend to the divine council of Elsaither as the **Supreme God of Carnage, Predation, and the Red Death (The Living Nex)**.
 *   **Permanent Apex Divinity:** Your *Apex Predator* features are **permanently active**. You constantly possess all of its benefits without needing activation.
 *   **Immortal Shroud:** You are permanently Immune to Radiant, Necrotic, and Psychic damage, and immune to all conditions.
 *   **Swallow the Cosmos:** Once per turn when you hit a creature with your Natural Weapons, you can force it to make a Charisma saving throw. On a failure, it is dragged into an extraplanar singularity in the Shadow Realm, remaining trapped there until you choose to release it.
@@ -155,8 +155,8 @@ At 40th level, you achieve ultimate deification:
 
 ---
 
-### **Path 2: The Nether Architect (Sovereign of the Cosmic Web)**
-*The Nether Architect weaves the quantum threads of the Elsaither Void into reality. By manipulating shadow tethers across galactic distances, dominating the psyches of gods, and collapsing spacetime into black holes, this path commands reality itself.*
+### **Path 2: The Nether Architect (Mantle of Umbra & Zarta)**
+*The Nether Architect weaves the quantum threads of the Elsaither Void into reality, channeling the dual authority of Umbra (Spiritess of Shadow and Darki) and Zarta (Spiritess of the Void and Raiben Vangar). By manipulating shadow tethers across galactic distances, dominating the psyches of gods, and collapsing spacetime into black holes, this path commands reality itself.*
 
 #### **Level 31: Supermassive Void Artillery**
 *   **Six-Beam Eldritch Blast:** Your *Eldritch Blast* now fires **six beams**, each dealing **1d10 + your Charisma modifier + your Proficiency Bonus** Force damage.
@@ -172,9 +172,9 @@ At 40th level, you achieve ultimate deification:
 *   **Ego Erasure:** As an Action (once per Long Rest), you touch the psyche of one creature within 60 feet. The target must make an Intelligence saving throw against your Spell Save DC. On a failed save, it takes **25d10 psychic damage**, falls permanently Unconscious, and its mind becomes your thrall (as if under permanent *Dominate Monster*).
 *   **Rift to Oblivion:** (Once per Long Rest) You rip open a 100-foot cube into the outer dark. Creatures inside take **30d10 necrotic damage** and are permanently banished on a failed Constitution save (half damage on success).
 
-#### **Level 40: Divine Ascendance — Primordial God of the Shadow Realm**
+#### **Level 40: Divine Ascendance — Primordial God of the Shadow Realm (Ascendant Umbra-Zarta)**
 At 40th level, you achieve ultimate deification:
-*   **Pantheon Seat:** You ascend to the divine pantheon of Elsaither as the **Supreme Deity of the Umbral Weave and Spacetime Shadows**.
+*   **Pantheon Seat:** You ascend to the divine pantheon of Elsaither as the **Supreme Deity of the Umbral Weave, Darki, and the Shadow Realm** alongside Umbra and Zarta.
 *   **Omnipresent Shadow:** You can teleport anywhere on the Material Plane or Shadow Realm as a Bonus Action.
 *   **Untouchable Entity:** You are permanently Incorporeal. All attacks against you have Disadvantage, and you take half damage from all spells.
 *   **Divine Immortality:** If destroyed, you dissolve into the Shadow Weave, reforming with full Hit Points at the next eclipse or nightfall.
