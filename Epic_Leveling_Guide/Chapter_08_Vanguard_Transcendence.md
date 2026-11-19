@@ -145,5 +145,5 @@ At 40th level, you achieve ultimate deification:
 At 40th level, you achieve ultimate deification:
 *   **Pantheon Seat:** You ascend to the divine pantheon of Elsaither as the **Supreme Deity of War, Carnage, and Elemental Calamity** alongside Nex and Zarta, fulfilling the warrior prophecy of Raiben Vangar.
 *   **Calamity Critical Threshold:** Your melee weapon attacks score a Critical Hit on a roll of **17–20**.
-*   **Divine Executioner:** Whenever you hit a creature with a melee weapon attack, if the creature has **150 Hit Points or fewer**, you can choose to execute it instantly, severing its soul from existence.
+*   **Divine Executioner:** Once per turn, whenever you hit a creature with a melee weapon attack, if the creature has **150 Hit Points or fewer**, you can choose to execute it instantly, severing its soul from existence.
 *   **Divine Immortality:** You do not age and cannot die of natural causes. If slain, you reform on the eternal battlefield of Raiben Vangar at the next dawn.

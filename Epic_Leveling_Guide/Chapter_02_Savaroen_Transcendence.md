@@ -160,7 +160,7 @@ At 40th level, you achieve ultimate deification:
 
 #### **Level 34: Chrono-Weave Mastery**
 *   **Dual Concentration:** You can maintain **Concentration on two Savaroen spells simultaneously**. When you take damage, you make a single Constitution saving throw to maintain both.
-*   **Planar Counterspell:** You can cast *Counterspell* (at 6th level) at will without expending a spell slot.
+*   **Planar Counterspell:** You can cast *Counterspell* (at 6th level) without expending a spell slot a number of times equal to your Proficiency Bonus per Long Rest.
 *   **Weave Teleport:** You can teleport up to 60 feet as a Bonus Action on every turn.
 
 #### **Level 38: Supernova Creation Cataclysm**

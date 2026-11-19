@@ -97,7 +97,7 @@ You gain a **9th-level spell slot**, unlocking the most terrifying shadow magics
 
 #### **Black Hole Horizon**
 *9th-Level Evocation / Transmutation | Casting Time: 1 Action | Range: 150 ft | Duration: Concentration, up to 1 minute*  
-You tear a microscopic black hole into existence. Creatures within 60 feet are pulled 30 feet toward the center. When created and at the start of each of your turns, creatures in the area must make a Strength save against your Spell Save DC, taking **15d10 Force damage plus 15d10 necrotic damage**, being pulled to the center, and **Restrained** on a failed save (half damage on success).
+You tear a microscopic black hole into existence at a point within range. All creatures within 60 feet of that point are pulled 30 feet toward the center. When created, each creature in the 60-foot radius must make a Strength saving throw against your Spell Save DC, taking **15d10 Force damage plus 15d10 necrotic damage**, being pulled directly to the center, and **Restrained** on a failed save (half damage and no pull or restrain on success). For the duration, any creature that starts its turn in the area or enters it for the first time on a turn must succeed on a Strength saving throw or take **5d10 Force damage plus 5d10 necrotic damage** and be pulled 20 feet toward the center.
 
 #### **Void Apotheosis**
 *9th-Level Transmutation | Casting Time: 1 Action | Range: Self | Duration: 1 hour*  
@@ -150,7 +150,7 @@ At 40th level, you achieve ultimate deification:
 *   **Pantheon Seat:** You ascend to the divine council of Elsaither as the **Supreme God of Carnage, Predation, and the Red Death (The Living Nex)**.
 *   **Permanent Apex Divinity:** Your *Apex Predator* features are **permanently active**. You constantly possess all of its benefits without needing activation.
 *   **Immortal Shroud:** You are permanently Immune to Radiant, Necrotic, and Psychic damage, and immune to all conditions.
-*   **Swallow the Cosmos:** Once per turn when you hit a creature with your Natural Weapons, you can force it to make a Charisma saving throw. On a failure, it is dragged into an extraplanar singularity in the Shadow Realm, remaining trapped there until you choose to release it.
+*   **Swallow the Cosmos:** Once per turn when you hit a creature with your Natural Weapons, you can force it to make a Charisma saving throw. On a failure, it is dragged into an extraplanar singularity in the Shadow Realm, remaining trapped there until you choose to release it. A trapped creature can repeat the saving throw at the end of each of its turns, escaping the singularity and reappearing in an unoccupied space within 5 feet of you on a success.
 *   **Divine Immortality:** If slain, your symbiote reconstitutes your body in the heart of the Shadow Realm within 1d10 days.
 
 ---
@@ -161,7 +161,7 @@ At 40th level, you achieve ultimate deification:
 #### **Level 31: Supermassive Void Artillery**
 *   **Six-Beam Eldritch Blast:** Your *Eldritch Blast* now fires **six beams**, each dealing **1d10 + your Charisma modifier + your Proficiency Bonus** Force damage.
 *   **Gravity Implosion:** Critical hits with Eldritch Blast trigger an implosion dealing an extra **4d10 Force damage** to all creatures within 10 feet.
-*   **At-Will Banishment:** You can cast *Banishment* (at 5th level) at will without expending spell slots.
+*   **At-Will Banishment:** You can cast *Banishment* (at 5th level) without expending a spell slot a number of times equal to your Proficiency Bonus per Long Rest.
 
 #### **Level 34: Infinite Umbral Mesh & Psionic Subjugation**
 *   **Universal Tether:** You can tether up to **five creatures** simultaneously across any distance. Tethered allies gain your AC, and you can redirect any attack targeting a tethered ally to hit a tethered enemy instead.

@@ -281,7 +281,6 @@ At 30th level, you become the living avatar of Elsaither's magical weave:
 *   **Uncounterable Magic:** Your spells cannot be interrupted by *Counterspell*, dispelled, or suppressed by an *Antimagic Field*.
 *   **Elemental Omnipotence:** You gain **Immunity** to your primary and secondary elemental damage types. Whenever you cast an evocation spell of 5th level or higher, you gain Temporary Hit Points equal to **four times the spell's level**.
 
-
 # **Chapter 2: The Savaroen — Part 2: Legendary/Godlike Transcendence (Levels 31–40)**
 
 *Beyond the thirtieth circle of awakening lies a threshold that mortal minds were never engineered to touch. At Level 31, the Savaroen steps into the domain of living godhood. No matter which Paragon Path was chosen in Tier 5, any Savaroen can now choose one of two modular Godlike Transcendence Paths: the martial **Avatar of the Martial Godhead (Mantle of Cultro & Pireous)** or the arcane **Avatar of the Primordial Sovereign (Mantle of Pireous & Zarta)**. At Level 40, these paths culminate in true deification, granting the character an eternal seat in the pantheon of Silveronia alongside ancient legends such as Pireous, Zarta, and Cultro.*
@@ -444,7 +443,7 @@ At 40th level, you achieve ultimate deification:
 
 #### **Level 34: Chrono-Weave Mastery**
 *   **Dual Concentration:** You can maintain **Concentration on two Savaroen spells simultaneously**. When you take damage, you make a single Constitution saving throw to maintain both.
-*   **Planar Counterspell:** You can cast *Counterspell* (at 6th level) at will without expending a spell slot.
+*   **Planar Counterspell:** You can cast *Counterspell* (at 6th level) without expending a spell slot a number of times equal to your Proficiency Bonus per Long Rest.
 *   **Weave Teleport:** You can teleport up to 60 feet as a Bonus Action on every turn.
 
 #### **Level 38: Supernova Creation Cataclysm**
@@ -458,7 +457,6 @@ At 40th level, you achieve supreme deification:
 *   **Divine Biosphere Dominion:** You can alter the weather, climate, and geography of an entire planet over 24 hours of meditation.
 *   **Divine Immortality:** You do not age and cannot die of natural causes. If slain, you reform at the core of the planet’s Crystalarium with full Hit Points at the next sunrise.
 *   **Third 10th-Level Slot:** You gain a third 10th-level spell slot.
-
 
 # **Chapter 3: The Shadow Warrior — Part 1: Mythic/Paragon Ascendance (Levels 21–30)**
 
@@ -632,7 +630,6 @@ At 30th level, you become a living gate to the outer dark:
 *   **Singularity Step:** You can teleport up to 60 feet as a Bonus Action on every turn.
 *   **Void Banishment:** Once per turn when you hit a creature with an Eldritch Blast beam or Tendril Whip, you can force it to make a Charisma saving throw against your Spell Save DC. On a failed save, it is **Banished to the Shadow Realm** until the end of your next turn.
 
-
 # **Chapter 4: The Shadow Warrior — Part 2: Legendary/Godlike Transcendence (Levels 31–40)**
 
 *At the absolute summit of symbiotic ascension, host and shadow cease to be two entities sharing a shell. They become the Void Itself—an ancient, primordial intelligence older than the stars of Silveronia. At Level 31, every Shadow Warrior—regardless of which Paragon Path they walked in Tier 5—chooses one of two modular Godlike Transcendence Paths: the biological terror of the **Cosmic World-Devourer (Avatar of Nex)** or the reality-warping **Nether Architect (Sovereign of the Cosmic Web)**. At Level 40, these paths culminate in divine deification, granting the character an eternal throne in the pantheon of Silveronia alongside primordial deities like Nex.*
@@ -732,7 +729,7 @@ You gain a **9th-level spell slot**, unlocking the most terrifying shadow magics
 
 #### **Black Hole Horizon**
 *9th-Level Evocation / Transmutation | Casting Time: 1 Action | Range: 150 ft | Duration: Concentration, up to 1 minute*  
-You tear a microscopic black hole into existence. Creatures within 60 feet are pulled 30 feet toward the center. When created and at the start of each of your turns, creatures in the area must make a Strength save against your Spell Save DC, taking **15d10 Force damage plus 15d10 necrotic damage**, being pulled to the center, and **Restrained** on a failed save (half damage on success).
+You tear a microscopic black hole into existence at a point within range. All creatures within 60 feet of that point are pulled 30 feet toward the center. When created, each creature in the 60-foot radius must make a Strength saving throw against your Spell Save DC, taking **15d10 Force damage plus 15d10 necrotic damage**, being pulled directly to the center, and **Restrained** on a failed save (half damage and no pull or restrain on success). For the duration, any creature that starts its turn in the area or enters it for the first time on a turn must succeed on a Strength saving throw or take **5d10 Force damage plus 5d10 necrotic damage** and be pulled 20 feet toward the center.
 
 #### **Void Apotheosis**
 *9th-Level Transmutation | Casting Time: 1 Action | Range: Self | Duration: 1 hour*  
@@ -785,7 +782,7 @@ At 40th level, you achieve ultimate deification:
 *   **Pantheon Seat:** You ascend to the divine council of Elsaither as the **Supreme God of Carnage, Predation, and the Red Death (The Living Nex)**.
 *   **Permanent Apex Divinity:** Your *Apex Predator* features are **permanently active**. You constantly possess all of its benefits without needing activation.
 *   **Immortal Shroud:** You are permanently Immune to Radiant, Necrotic, and Psychic damage, and immune to all conditions.
-*   **Swallow the Cosmos:** Once per turn when you hit a creature with your Natural Weapons, you can force it to make a Charisma saving throw. On a failure, it is dragged into an extraplanar singularity in the Shadow Realm, remaining trapped there until you choose to release it.
+*   **Swallow the Cosmos:** Once per turn when you hit a creature with your Natural Weapons, you can force it to make a Charisma saving throw. On a failure, it is dragged into an extraplanar singularity in the Shadow Realm, remaining trapped there until you choose to release it. A trapped creature can repeat the saving throw at the end of each of its turns, escaping the singularity and reappearing in an unoccupied space within 5 feet of you on a success.
 *   **Divine Immortality:** If slain, your symbiote reconstitutes your body in the heart of the Shadow Realm within 1d10 days.
 
 ---
@@ -796,7 +793,7 @@ At 40th level, you achieve ultimate deification:
 #### **Level 31: Supermassive Void Artillery**
 *   **Six-Beam Eldritch Blast:** Your *Eldritch Blast* now fires **six beams**, each dealing **1d10 + your Charisma modifier + your Proficiency Bonus** Force damage.
 *   **Gravity Implosion:** Critical hits with Eldritch Blast trigger an implosion dealing an extra **4d10 Force damage** to all creatures within 10 feet.
-*   **At-Will Banishment:** You can cast *Banishment* (at 5th level) at will without expending spell slots.
+*   **At-Will Banishment:** You can cast *Banishment* (at 5th level) without expending a spell slot a number of times equal to your Proficiency Bonus per Long Rest.
 
 #### **Level 34: Infinite Umbral Mesh & Psionic Subjugation**
 *   **Universal Tether:** You can tether up to **five creatures** simultaneously across any distance. Tethered allies gain your AC, and you can redirect any attack targeting a tethered ally to hit a tethered enemy instead.
@@ -814,7 +811,6 @@ At 40th level, you achieve ultimate deification:
 *   **Untouchable Entity:** You are permanently Incorporeal. All attacks against you have Disadvantage, and you take half damage from all spells.
 *   **Divine Immortality:** If destroyed, you dissolve into the Shadow Weave, reforming with full Hit Points at the next eclipse or nightfall.
 *   **Cosmic Spell Reservoir:** You gain a second 9th-level spell slot.
-
 
 # **Chapter 5: The Beast Master — Part 1: Mythic/Paragon Ascendance (Levels 21–30)**
 
@@ -981,7 +977,6 @@ At 30th level, you become the living avatar of Elsaither's primal beasts:
 *   **Apex God-Form:** While in Apex Transformation, your strikes critically hit on a roll of **18–20**, and you gain **Immunity** to your Primal Bond damage type.
 *   **Primal Regeneration:** You regain Hit Points equal to **10 + your Wisdom modifier** at the start of each of your turns as long as you have at least 1 Hit Point.
 
-
 # **Chapter 6: The Beast Master — Part 2: Legendary/Godlike Transcendence (Levels 31–40)**
 
 *At the final zenith of primal power, the Beast Master is no longer a warden of nature—they are Nature Incarnate. The ancient forests, continental fault lines, sky streams, and volcanic rifts of Silveronia answer their call. At Level 31, every Beast Master—regardless of which Mark or Paragon Path they walked in Tier 5—chooses one of two modular Godlike Transcendence Paths: the titanic **World-Beast Sovereign (Lord of the Kaiju)** or the omnipresent **Primal Deity (Avatar of Nature Incarnate)**. At Level 40, these paths culminate in true deification, granting the character an eternal seat in the pantheon of Silveronia alongside ancient nature gods.*
@@ -1130,7 +1125,6 @@ At 40th level, you achieve ultimate deification:
 *   **Divine Immortality:** You do not age and cannot die of natural causes. If slain, your spirit returns to the heart of Elsaither’s primal wild, reforming completely at the dawn of the next day with full Hit Points at any natural spring or sacred grove.
 *   **Master of Life:** You can cast *True Resurrection* and *Power Word Heal* each once per Long Rest without expending spell slots or requiring material components.
 *   **Triple Legendary Resistance:** You gain **3 uses of Legendary Resistance** per Long Rest.
-
 
 # **Chapter 7: The Vanguard — Part 1: Mythic/Paragon Ascendance (Levels 21–30)**
 
@@ -1297,7 +1291,6 @@ At 30th level, your strikes register on seismic scales across Silveronia:
 *   **Armor-Sundering Cleave:** Your weapon attacks completely ignore all armor, shields, and damage resistances.
 *   **Maximized Criticals:** Whenever you score a critical hit, **all damage dice for the strike are automatically maximized**.
 
-
 # **Chapter 8: The Vanguard — Part 2: Legendary/Godlike Transcendence (Levels 31–40)**
 
 *At the absolute precipice of mortal endurance, the Vanguard ceases to be a warrior who shifts into an element. They become the Primordial Titan—a walking tectonic disaster, living solar flare, or cosmic void-engine whose presence alters gravitational constants and shatters local reality. At Level 31, every Vanguard—regardless of which of the 16 Elemental Disciplines or Paragon Paths they walked in Tier 5—chooses one of two modular Godlike Transcendence Paths: the impenetrable **Immortal World-Anchor (Deity of Bedrock & Iron)** or the cataclysmic **Calamity Sovereign (Deity of Total War)**. At Level 40, these paths culminate in true deification, granting the character an eternal seat in the pantheon of Silveronia alongside ancient war gods.*
@@ -1445,5 +1438,5 @@ At 40th level, you achieve ultimate deification:
 At 40th level, you achieve ultimate deification:
 *   **Pantheon Seat:** You ascend to the divine pantheon of Elsaither as the **Supreme Deity of War, Carnage, and Elemental Calamity** alongside Nex and Zarta, fulfilling the warrior prophecy of Raiben Vangar.
 *   **Calamity Critical Threshold:** Your melee weapon attacks score a Critical Hit on a roll of **17–20**.
-*   **Divine Executioner:** Whenever you hit a creature with a melee weapon attack, if the creature has **150 Hit Points or fewer**, you can choose to execute it instantly, severing its soul from existence.
+*   **Divine Executioner:** Once per turn, whenever you hit a creature with a melee weapon attack, if the creature has **150 Hit Points or fewer**, you can choose to execute it instantly, severing its soul from existence.
 *   **Divine Immortality:** You do not age and cannot die of natural causes. If slain, you reform on the eternal battlefield of Raiben Vangar at the next dawn.
