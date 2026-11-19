@@ -139,7 +139,7 @@ At 40th level, you achieve ultimate deification:
 *   **Armor-Sundering:** When you hit a creature with an attack, its Armor Class is reduced by 1 for 1 minute (stacking up to -5).
 
 #### **Level 38: Planetary Extinction Wave**
-*   **Extinction Strike:** (Costs 3 Arts, once per Long Rest) As an Action, you slam your weapon down, releasing an extinction wave in a **150-foot cone**. All hostile creatures in the area must make a Dexterity save against your Art Save DC, taking **30d10 elemental damage plus 20d10 Force damage** on a failed save (half on success). Non-boss creatures with 100 HP or less that fail this save are instantly disintegrated.
+*   **Extinction Strike:** (Costs 3 Arts, once per Long Rest) As an Action, you slam your weapon down, releasing an extinction wave in a **150-foot cone**. All hostile creatures in the area must make a Dexterity save against your Art Save DC, taking **20d10 elemental damage plus 10d10 Force damage** on a failed save (half on success). Non-boss creatures with 100 HP or less that fail this save are instantly disintegrated.
 
 #### **Level 40: Divine Ascendance — Living God of War and Calamity (Ascendant Nex-Zarta)**
 At 40th level, you achieve ultimate deification:

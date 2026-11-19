@@ -113,7 +113,7 @@ BEAST MASTER GODLIKE TRANSCENDENCE PATHS (LEVELS 31–40)
 *   **Titan HP Pool:** Your companion's maximum Hit Points increase by **100**.
 
 #### **Level 38: Continental Fracture Slam**
-*   **World-Quake:** As an Action (once per Long Rest), your companion slams the ground, causing a tectonic rupture in a **120-foot radius**. The ground shatters into abyssal chasms. Hostile creatures must make a Dexterity save against your Spell Save DC, taking **25d10 Bludgeoning plus 10d10 elemental damage**, falling Prone, and being trapped under collapsing stone (Restrained and Incapacitated).
+*   **World-Quake:** As an Action (once per Long Rest), your companion slams the ground, causing a tectonic rupture in a **120-foot radius**. The ground shatters into abyssal chasms. Hostile creatures must make a Dexterity save against your Spell Save DC, taking **15d10 Bludgeoning plus 5d10 elemental damage** on a failed save (half on success), falling Prone, and being Restrained by collapsing stone until the end of their next turn.
 
 #### **Level 40: Divine Ascendance — Living God of the World-Beasts (Ascendant Terra-Mundus)**
 At 40th level, you and your companion achieve ultimate deification:
@@ -138,7 +138,7 @@ At 40th level, you and your companion achieve ultimate deification:
 *   **Climate Authority:** You can alter the weather and climate within a 10-mile radius at will.
 
 #### **Level 38: Supernova Primal Cataclysm**
-*   **Flock of the First Dawn:** As an Action (once per Long Rest), you summon a celestial wave of primal spirits across a 150-foot radius. Hostile creatures must make a Charisma save against your Spell Save DC, taking **30d10 radiant or elemental damage** and being rendered docile (unable to attack for 1 minute). Simultaneously, all allies in the area regain **100 Hit Points**, are cured of all conditions, and gain **50 Temporary Hit Points**.
+*   **Flock of the First Dawn:** As an Action (once per Long Rest), you summon a celestial wave of primal spirits across a 150-foot radius. Hostile creatures must make a Charisma save against your Spell Save DC, taking **20d10 radiant or elemental damage** and being rendered docile (unable to attack for 1 minute) on a failed save (half damage and no condition on success). Simultaneously, all allies in the area regain **60 Hit Points**, are cured of all conditions, and gain **30 Temporary Hit Points**.
 
 #### **Level 40: Divine Ascendance — Primordial God of the Great Wilds**
 At 40th level, you achieve ultimate deification:

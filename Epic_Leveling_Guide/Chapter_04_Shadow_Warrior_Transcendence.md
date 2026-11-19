@@ -169,8 +169,8 @@ At 40th level, you achieve ultimate deification:
 *   **Cosmic Befuddle:** You can cast *Befuddle* (*Feeblemind*) once per Short or Long Rest without expending a spell slot.
 
 #### **Level 38: Complete Ego Death & Singularity Tear**
-*   **Ego Erasure:** As an Action (once per Long Rest), you touch the psyche of one creature within 60 feet. The target must make an Intelligence saving throw against your Spell Save DC. On a failed save, it takes **25d10 psychic damage**, falls permanently Unconscious, and its mind becomes your thrall (as if under permanent *Dominate Monster*).
-*   **Rift to Oblivion:** (Once per Long Rest) You rip open a 100-foot cube into the outer dark. Creatures inside take **30d10 necrotic damage** and are permanently banished on a failed Constitution save (half damage on success).
+*   **Ego Erasure:** As an Action (once per Long Rest), you touch the psyche of one creature within 60 feet. The target must make an Intelligence saving throw against your Spell Save DC. On a failed save, it takes **25d10 psychic damage**, falls Unconscious, and its mind becomes your thrall (as if under *Dominate Monster*) for as long as it remains Unconscious and for up to 1 year thereafter. Once per 24 hours, the thralled creature may repeat the saving throw (DC 8 + your Proficiency Bonus + your Charisma modifier), ending the effect on a success.
+*   **Rift to Oblivion:** (Once per Long Rest) You rip open a 100-foot cube into the outer dark. Creatures inside take **30d10 necrotic damage** and are banished to Elsaither's outer dark for **1 year** on a failed Constitution save (half damage and no banishment on success). A creature banished this way can be retrieved only by a *Wish* spell or divine intervention.
 
 #### **Level 40: Divine Ascendance — Primordial God of the Shadow Realm (Ascendant Umbra-Zarta)**
 At 40th level, you achieve ultimate deification:

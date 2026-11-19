@@ -103,7 +103,7 @@ You merge your body with your inner power spirit. Your walking speed increases b
 Your 7th-level *Elemental Specialty* ascends into legendary potency:
 *   **Hiarelobi (Tri-Elemental Convergence):** Choose a third elemental affinity. You gain Resistance to its damage type. In addition, you can use *Fusion Blast* twice per Long Rest, combining two elemental types into a single blast dealing maximum damage that ignores resistance.
 *   **Venokibara (Fang Annihilation):** The bonus weapon damage from Fang Resonance increases to **2d10** of your elemental type. When either die rolls maximum, the detonation expands to a **15-foot radius**, dealing elemental damage equal to your **Charisma score** (minimum 24) to all hostile creatures.
-*   **Haranoma (Absolving Bulwark):** Once per round when you take damage from an attack or spell, you can use your Reaction to reduce that damage by **5d10 + your Charisma modifier + your Savaroen level**. The attacker takes the prevented damage as your elemental damage type.
+*   **Haranoma (Absolving Bulwark):** Once per round when you take damage from an attack or spell, you can use your Reaction to reduce that damage by **5d10 + your Charisma modifier**. The attacker takes the prevented damage as your elemental damage type.
 
 ---
 

@@ -217,7 +217,7 @@ You merge your body with your inner power spirit. Your walking speed increases b
 Your 7th-level *Elemental Specialty* ascends into legendary potency:
 *   **Hiarelobi (Tri-Elemental Convergence):** Choose a third elemental affinity. You gain Resistance to its damage type. In addition, you can use *Fusion Blast* twice per Long Rest, combining two elemental types into a single blast dealing maximum damage that ignores resistance.
 *   **Venokibara (Fang Annihilation):** The bonus weapon damage from Fang Resonance increases to **2d10** of your elemental type. When either die rolls maximum, the detonation expands to a **15-foot radius**, dealing elemental damage equal to your **Charisma score** (minimum 24) to all hostile creatures.
-*   **Haranoma (Absolving Bulwark):** Once per round when you take damage from an attack or spell, you can use your Reaction to reduce that damage by **5d10 + your Charisma modifier + your Savaroen level**. The attacker takes the prevented damage as your elemental damage type.
+*   **Haranoma (Absolving Bulwark):** Once per round when you take damage from an attack or spell, you can use your Reaction to reduce that damage by **5d10 + your Charisma modifier**. The attacker takes the prevented damage as your elemental damage type.
 
 ---
 
@@ -280,8 +280,6 @@ At 30th level, you become the living avatar of Elsaither's magical weave:
 *   **Infinite Reservoir:** You can cast Savaroen spells of **1st through 3rd level at will** without expending spell slots.
 *   **Uncounterable Magic:** Your spells cannot be interrupted by *Counterspell*, dispelled, or suppressed by an *Antimagic Field*.
 *   **Elemental Omnipotence:** You gain **Immunity** to your primary and secondary elemental damage types. Whenever you cast an evocation spell of 5th level or higher, you gain Temporary Hit Points equal to **four times the spell's level**.
-
----
 
 
 # **Chapter 2: The Savaroen — Part 2: Legendary/Godlike Transcendence (Levels 31–40)**
@@ -461,8 +459,6 @@ At 40th level, you achieve supreme deification:
 *   **Divine Immortality:** You do not age and cannot die of natural causes. If slain, you reform at the core of the planet’s Crystalarium with full Hit Points at the next sunrise.
 *   **Third 10th-Level Slot:** You gain a third 10th-level spell slot.
 
----
-
 
 # **Chapter 3: The Shadow Warrior — Part 1: Mythic/Paragon Ascendance (Levels 21–30)**
 
@@ -636,8 +632,6 @@ At 30th level, you become a living gate to the outer dark:
 *   **Singularity Step:** You can teleport up to 60 feet as a Bonus Action on every turn.
 *   **Void Banishment:** Once per turn when you hit a creature with an Eldritch Blast beam or Tendril Whip, you can force it to make a Charisma saving throw against your Spell Save DC. On a failed save, it is **Banished to the Shadow Realm** until the end of your next turn.
 
----
-
 
 # **Chapter 4: The Shadow Warrior — Part 2: Legendary/Godlike Transcendence (Levels 31–40)**
 
@@ -810,8 +804,8 @@ At 40th level, you achieve ultimate deification:
 *   **Cosmic Befuddle:** You can cast *Befuddle* (*Feeblemind*) once per Short or Long Rest without expending a spell slot.
 
 #### **Level 38: Complete Ego Death & Singularity Tear**
-*   **Ego Erasure:** As an Action (once per Long Rest), you touch the psyche of one creature within 60 feet. The target must make an Intelligence saving throw against your Spell Save DC. On a failed save, it takes **25d10 psychic damage**, falls permanently Unconscious, and its mind becomes your thrall (as if under permanent *Dominate Monster*).
-*   **Rift to Oblivion:** (Once per Long Rest) You rip open a 100-foot cube into the outer dark. Creatures inside take **30d10 necrotic damage** and are permanently banished on a failed Constitution save (half damage on success).
+*   **Ego Erasure:** As an Action (once per Long Rest), you touch the psyche of one creature within 60 feet. The target must make an Intelligence saving throw against your Spell Save DC. On a failed save, it takes **25d10 psychic damage**, falls Unconscious, and its mind becomes your thrall (as if under *Dominate Monster*) for as long as it remains Unconscious and for up to 1 year thereafter. Once per 24 hours, the thralled creature may repeat the saving throw (DC 8 + your Proficiency Bonus + your Charisma modifier), ending the effect on a success.
+*   **Rift to Oblivion:** (Once per Long Rest) You rip open a 100-foot cube into the outer dark. Creatures inside take **30d10 necrotic damage** and are banished to Elsaither's outer dark for **1 year** on a failed Constitution save (half damage and no banishment on success). A creature banished this way can be retrieved only by a *Wish* spell or divine intervention.
 
 #### **Level 40: Divine Ascendance — Primordial God of the Shadow Realm (Ascendant Umbra-Zarta)**
 At 40th level, you achieve ultimate deification:
@@ -820,8 +814,6 @@ At 40th level, you achieve ultimate deification:
 *   **Untouchable Entity:** You are permanently Incorporeal. All attacks against you have Disadvantage, and you take half damage from all spells.
 *   **Divine Immortality:** If destroyed, you dissolve into the Shadow Weave, reforming with full Hit Points at the next eclipse or nightfall.
 *   **Cosmic Spell Reservoir:** You gain a second 9th-level spell slot.
-
----
 
 
 # **Chapter 5: The Beast Master — Part 1: Mythic/Paragon Ascendance (Levels 21–30)**
@@ -989,8 +981,6 @@ At 30th level, you become the living avatar of Elsaither's primal beasts:
 *   **Apex God-Form:** While in Apex Transformation, your strikes critically hit on a roll of **18–20**, and you gain **Immunity** to your Primal Bond damage type.
 *   **Primal Regeneration:** You regain Hit Points equal to **10 + your Wisdom modifier** at the start of each of your turns as long as you have at least 1 Hit Point.
 
----
-
 
 # **Chapter 6: The Beast Master — Part 2: Legendary/Godlike Transcendence (Levels 31–40)**
 
@@ -1107,7 +1097,7 @@ BEAST MASTER GODLIKE TRANSCENDENCE PATHS (LEVELS 31–40)
 *   **Titan HP Pool:** Your companion's maximum Hit Points increase by **100**.
 
 #### **Level 38: Continental Fracture Slam**
-*   **World-Quake:** As an Action (once per Long Rest), your companion slams the ground, causing a tectonic rupture in a **120-foot radius**. The ground shatters into abyssal chasms. Hostile creatures must make a Dexterity save against your Spell Save DC, taking **25d10 Bludgeoning plus 10d10 elemental damage**, falling Prone, and being trapped under collapsing stone (Restrained and Incapacitated).
+*   **World-Quake:** As an Action (once per Long Rest), your companion slams the ground, causing a tectonic rupture in a **120-foot radius**. The ground shatters into abyssal chasms. Hostile creatures must make a Dexterity save against your Spell Save DC, taking **15d10 Bludgeoning plus 5d10 elemental damage** on a failed save (half on success), falling Prone, and being Restrained by collapsing stone until the end of their next turn.
 
 #### **Level 40: Divine Ascendance — Living God of the World-Beasts (Ascendant Terra-Mundus)**
 At 40th level, you and your companion achieve ultimate deification:
@@ -1132,7 +1122,7 @@ At 40th level, you and your companion achieve ultimate deification:
 *   **Climate Authority:** You can alter the weather and climate within a 10-mile radius at will.
 
 #### **Level 38: Supernova Primal Cataclysm**
-*   **Flock of the First Dawn:** As an Action (once per Long Rest), you summon a celestial wave of primal spirits across a 150-foot radius. Hostile creatures must make a Charisma save against your Spell Save DC, taking **30d10 radiant or elemental damage** and being rendered docile (unable to attack for 1 minute). Simultaneously, all allies in the area regain **100 Hit Points**, are cured of all conditions, and gain **50 Temporary Hit Points**.
+*   **Flock of the First Dawn:** As an Action (once per Long Rest), you summon a celestial wave of primal spirits across a 150-foot radius. Hostile creatures must make a Charisma save against your Spell Save DC, taking **20d10 radiant or elemental damage** and being rendered docile (unable to attack for 1 minute) on a failed save (half damage and no condition on success). Simultaneously, all allies in the area regain **60 Hit Points**, are cured of all conditions, and gain **30 Temporary Hit Points**.
 
 #### **Level 40: Divine Ascendance — Primordial God of the Great Wilds**
 At 40th level, you achieve ultimate deification:
@@ -1140,8 +1130,6 @@ At 40th level, you achieve ultimate deification:
 *   **Divine Immortality:** You do not age and cannot die of natural causes. If slain, your spirit returns to the heart of Elsaither’s primal wild, reforming completely at the dawn of the next day with full Hit Points at any natural spring or sacred grove.
 *   **Master of Life:** You can cast *True Resurrection* and *Power Word Heal* each once per Long Rest without expending spell slots or requiring material components.
 *   **Triple Legendary Resistance:** You gain **3 uses of Legendary Resistance** per Long Rest.
-
----
 
 
 # **Chapter 7: The Vanguard — Part 1: Mythic/Paragon Ascendance (Levels 21–30)**
@@ -1309,8 +1297,6 @@ At 30th level, your strikes register on seismic scales across Silveronia:
 *   **Armor-Sundering Cleave:** Your weapon attacks completely ignore all armor, shields, and damage resistances.
 *   **Maximized Criticals:** Whenever you score a critical hit, **all damage dice for the strike are automatically maximized**.
 
----
-
 
 # **Chapter 8: The Vanguard — Part 2: Legendary/Godlike Transcendence (Levels 31–40)**
 
@@ -1453,7 +1439,7 @@ At 40th level, you achieve ultimate deification:
 *   **Armor-Sundering:** When you hit a creature with an attack, its Armor Class is reduced by 1 for 1 minute (stacking up to -5).
 
 #### **Level 38: Planetary Extinction Wave**
-*   **Extinction Strike:** (Costs 3 Arts, once per Long Rest) As an Action, you slam your weapon down, releasing an extinction wave in a **150-foot cone**. All hostile creatures in the area must make a Dexterity save against your Art Save DC, taking **30d10 elemental damage plus 20d10 Force damage** on a failed save (half on success). Non-boss creatures with 100 HP or less that fail this save are instantly disintegrated.
+*   **Extinction Strike:** (Costs 3 Arts, once per Long Rest) As an Action, you slam your weapon down, releasing an extinction wave in a **150-foot cone**. All hostile creatures in the area must make a Dexterity save against your Art Save DC, taking **20d10 elemental damage plus 10d10 Force damage** on a failed save (half on success). Non-boss creatures with 100 HP or less that fail this save are instantly disintegrated.
 
 #### **Level 40: Divine Ascendance — Living God of War and Calamity (Ascendant Nex-Zarta)**
 At 40th level, you achieve ultimate deification:
@@ -1461,5 +1447,3 @@ At 40th level, you achieve ultimate deification:
 *   **Calamity Critical Threshold:** Your melee weapon attacks score a Critical Hit on a roll of **17–20**.
 *   **Divine Executioner:** Whenever you hit a creature with a melee weapon attack, if the creature has **150 Hit Points or fewer**, you can choose to execute it instantly, severing its soul from existence.
 *   **Divine Immortality:** You do not age and cannot die of natural causes. If slain, you reform on the eternal battlefield of Raiben Vangar at the next dawn.
-
----
